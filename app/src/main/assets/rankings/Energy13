@@ -1,0 +1,209 @@
+#ranking=Energy/Electricity/installed generating capacity
+#unit=kW (2020 est.)
+aq	Antarctica	0
+nu	Niue	3000
+ms	Montserrat	5000
+fk	Falkland Islands (Islas Malvinas)	11000
+ki	Kiribati	11000
+nr	Nauru	15000
+ck	Cook Islands	18000
+pm	Saint Pierre and Miquelon	26000
+to	Tonga	26000
+gw	Guinea-Bissau	28000
+st	Sao Tome and Principe	28000
+vg	British Virgin Islands	33000
+km	Comoros	35000
+vu	Vanuatu	35000
+sb	Solomon Islands	40000
+dm	Dominica	42000
+gi	Gibraltar	43000
+as	American Samoa	47000
+vc	Saint Vincent and the Grenadines	49000
+ws	Samoa	50000
+gd	Grenada	55000
+kn	Saint Kitts and Nevis	71000
+ls	Lesotho	74000
+tc	Turks and Caicos Islands	85000
+td	Chad	87000
+so	Somalia	91000
+lc	Saint Lucia	92000
+bi	Burundi	100000
+ag	Antigua and Barbuda	117000
+ss	South Sudan	121000
+fo	Faroe Islands	128000
+dj	Djibouti	130000
+gm	The Gambia	137000
+sc	Seychelles	157000
+bm	Bermuda	172000
+ky	Cayman Islands	174000
+sl	Sierra Leone	180000
+gl	Greenland	187000
+lr	Liberia	196000
+bz	Belize	204000
+cv	Cabo Verde	205000
+tg	Togo	210000
+ps	Gaza Strip	215000
+er	Eritrea	228000
+rw	Rwanda	265000
+pf	French Polynesia	272000
+tl	Timor-Leste	284000
+sz	Eswatini	286000
+aw	Aruba	296000
+bb	Barbados	311000
+vi	Virgin Islands	321000
+ne	Niger	324000
+gq	Equatorial Guinea	349000
+gy	Guyana	380000
+bf	Burkina Faso	392000
+fj	Fiji	393000
+gu	Guam	455000
+bj	Benin	475000
+mo	Macau	478000
+sr	Suriname	542000
+mv	Maldives	545000
+bs	The Bahamas	578000
+mg	Madagascar	587000
+md	Moldova	594000
+mw	Malawi	618000
+cg	Congo (Brazzaville)	629000
+na	Namibia	640000
+mr	Mauritania	656000
+bw	Botswana	766000
+af	Afghanistan	776000
+ga	Gabon	784000
+mt	Malta	784000
+ml	Mali	890000
+mu	Mauritius	936000
+gn	Guinea	992000
+me	Montenegro	1006999.9999999999
+nc	New Caledonia	1071000.0
+pg	Papua New Guinea	1139000.0
+jm	Jamaica	1216000.0
+bn	Brunei	1261000.0
+sn	Senegal	1312000.0
+np	Nepal	1392000.0
+xk	Kosovo	1424000.0
+mn	Mongolia	1479000.0
+tz	Tanzania	1623000.0
+cm	Cameroon	1754000.0
+ye	Yemen	1772000.0
+ni	Nicaragua	1837000.0
+cy	Cyprus	1881000.0
+lu	Luxembourg	1899000.0
+mk	North Macedonia	1928000.0
+tt	Trinidad and Tobago	2123000.0
+ci	Cote d'Ivoire	2197000.0
+bt	Bhutan	2334000.0
+ug	Uganda	2397000.0
+zw	Zimbabwe	2473000.0
+al	Albania	2531000.0
+sv	El Salvador	2586000.0
+mz	Mozambique	2765000.0
+cd	DRC	2919000.0
+kh	Cambodia	2954000.0
+is	Iceland	2967000.0
+ee	Estonia	3030000.0
+zm	Zambia	3065000.0
+lv	Latvia	3089000.0
+ke	Kenya	3304000.0
+ht	Haiti	3453000.0
+lt	Lithuania	3512000.0
+am	Armenia	3633000.0
+cr	Costa Rica	3674000.0
+lb	Lebanon	3768000.0
+bo	Bolivia	3834000.0
+hn	Honduras	3991000.0
+si	Slovenia	4062000.0000000005
+pa	Panama	4106000.0
+sd	Sudan	4354000.0
+lk	Sri Lanka	4527000.0
+ge	Georgia	4579000.0
+kg	Kyrgyzstan	4626000.0
+ba	Bosnia and Herzegovina	4775000.0
+et	Ethiopia	4856000.0
+hr	Croatia	4940000.0
+gt	Guatemala	5185000.0
+tm	Turkmenistan	5205000.0
+gh	Ghana	5312000.0
+uy	Uruguay	5348000.0
+jo	Jordan	5644000.0
+do	The Dominican	5674000.0
+tn	Tunisia	5777000.0
+pr	Puerto Rico	6180000.0
+bh	Bahrain	6982000.0
+tj	Tajikistan	7114000.0
+mm	Burma	7247000.0
+ao	Angola	7344000.0
+cu	Cuba	7479000.0
+az	Azerbaijan	7677000.0
+sk	Slovakia	7868000.0
+kp	North Korea	8413000.0
+om	Oman	8601000.0
+py	Paraguay	8831000.0
+rs	Serbia	8986000.0
+la	Laos	9346000.0
+ec	Ecuador	9354000.0
+nz	New Zealand	9615000.0
+sy	Syria	10082000.0
+ly	Libya	10516000.0
+qa	Qatar	10633000.0
+hu	Hungary	10873000.0
+bg	Bulgaria	11097000.0
+by	Belarus	11360000.0
+ie	Ireland	11430000.0
+ng	Nigeria	11691000.0
+sg	Singapore	12240000.0
+hk	Hong Kong	14168000.0
+ma	Morocco	14187000.0
+pe	Peru	15340000.0
+uz	Uzbekistan	16042000.000000002
+dk	Denmark	17655000.0
+bd	Bangladesh	18461000.0
+il	Israel	18993000.0
+kw	Kuwait	19371000.0
+co	Colombia	19769000.0
+fi	Finland	20418000.0
+ro	Romania	20528000.0
+gr	Greece	21545000.0
+dz	Algeria	21694000.0
+pt	Portugal	22364000.0
+cz	Czechia	22485000.0
+ch	Switzerland	22921000.0
+kz	Kazakhstan	25022000.0
+be	Belgium	26929000.0
+ph	Philippines	27885000.0
+iq	Iraq	28369000.0
+at	Austria	28376000.0
+cl	Chile	29808000.0
+ve	Venezuela	32956000.000000004
+my	Malaysia	34959000.0
+no	Norway	38360000.0
+pk	Pakistan	39925000.0
+nl	Netherlands	43409000.0
+se	Sweden	43499000.0
+ar	Argentina	44731000.0
+pl	Poland	47269000.0
+th	Thailand	53130000.0
+ua	Ukraine	56816000.0
+tw	Taiwan	57738000.0
+eg	Egypt	59826000.0
+za	South Africa	62728000.0
+vn	Vietnam	65283000.0
+id	Indonesia	69065000.0
+sa	Saudi Arabia	76785000.0
+ir	Iran	80553000.0
+au	Australia	82517000.0
+mx	Mexico	93430000.0
+tr	Turkey	96846000.0
+es	Spain	115837000.0
+it	Italy	121442000.0
+kr	South Korea	135789000.0
+fr	France	138611000.0
+ca	Canada	153251000.0
+br	Brazil	195037000.0
+de	Germany	248265000.0
+ru	Russia	276463000.0
+jp	Japan	348666000.0
+in	India	432768000.0
+us	United States	1143266000
+cn	China	2217925000

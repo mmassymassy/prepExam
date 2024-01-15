@@ -1,0 +1,222 @@
+#ranking=Economy/GDP - composition, by sector of origin/services
+#unit=% (
+ao	Angola	28.4
+kp	North Korea	29.9
+so	Somalia	32.5
+sl	Sierra Leone	32.9
+td	Chad	33.1
+tl	Timor-Leste	34.4
+pg	Papua New Guinea	35
+cd	DRC	36.7
+gw	Guinea-Bissau	36.9
+fk	Falkland Islands (Islas Malvinas)	38.4
+ne	Niger	38.7
+cg	Congo (Brazzaville)	39.7
+eh	Western Sahara	40
+mp	Northern Mariana Islands	40.2
+mm	Burma	40.3
+az	Azerbaijan	40.4
+km	Comoros	40.5
+ml	Mali	40.5
+kw	Kuwait	40.9
+kh	Cambodia	41.9
+bt	Bhutan	42
+bn	Brunei	42.3
+gq	Equatorial Guinea	42.9
+mr	Mauritania	42.9
+fo	Faroe Islands	43
+et	Ethiopia	43.6
+bi	Burundi	44.2
+bf	Burkina Faso	44.9
+id	Indonesia	45.4
+iq	Iraq	45.8
+la	Laos	45.9
+tj	Tajikistan	45.9
+ly	Libya	46.4
+dz	Algeria	47.4
+ke	Kenya	47.5
+tz	Tanzania	47.6
+tm	Turkmenistan	47.7
+gn	Guinea	48.1
+bo	Bolivia	48.2
+uz	Uzbekistan	48.5
+sz	Eswatini	48.6
+pr	Puerto Rico	49.1
+rs	Serbia	49.1
+nu	Niue	49.5
+qa	Qatar	49.5
+mn	Mongolia	49.7
+tg	Togo	49.8
+ga	Gabon	50.4
+ug	Uganda	50.7
+bj	Benin	51.1
+by	Belarus	51.1
+vn	Vietnam	51.3
+rw	Rwanda	51.5
+cn	China	51.6
+tt	Trinidad and Tobago	51.7
+om	Oman	51.8
+li	Liechtenstein	52
+lr	Liberia	52.2
+sa	Saudi Arabia	53.2
+ci	Cote d'Ivoire	53.3
+my	Malaysia	53.6
+eg	Egypt	54
+al	Albania	54.1
+kg	Kyrgyzstan	54.2
+ad	Andorra	54.5
+py	Paraguay	54.5
+am	Armenia	54.8
+ls	Lesotho	54.9
+ve	Venezuela	54.9
+ir	Iran	55
+th	Thailand	55.6
+af	Afghanistan	55.9
+mw	Malawi	56
+mg	Madagascar	56.4
+ng	Nigeria	56.4
+bd	Bangladesh	56.5
+ma	Morocco	56.5
+pk	Pakistan	56.5
+cm	Cameroon	56.8
+mz	Mozambique	56.8
+hn	Honduras	57
+zm	Zambia	57
+gh	Ghana	57.2
+pl	Poland	57.4
+sr	Suriname	57.4
+ht	Haiti	57.6
+sd	Sudan	57.8
+sb	Solomon Islands	58.1
+kr	South Korea	58.3
+gu	Guam	58.4
+er	Eritrea	58.7
+sn	Senegal	58.8
+np	Nepal	59.5
+ph	Philippines	59.8
+to	Tonga	59.8
+pe	Peru	59.9
+ni	Nicaragua	60
+ua	Ukraine	60
+as	American Samoa	60.2
+ie	Ireland	60.2
+sv	El Salvador	60.3
+bh	Bahrain	60.4
+ec	Ecuador	60.4
+sm	San Marino	60.7
+tr	Turkey	60.7
+nr	Nauru	60.8
+cz	Czechia	60.8
+sy	Syria	60.8
+vu	Vanuatu	60.8
+ar	Argentina	61.1
+kz	Kazakhstan	61.2
+sk	Slovakia	61.2
+do	The Dominican	61.4
+in	India	61.5
+lk	Sri Lanka	61.7
+md	Moldova	62
+co	Colombia	62.1
+tw	Taiwan	62.1
+ru	Russia	62.3
+mk	North Macedonia	62.5
+ro	Romania	62.6
+cl	Chile	63
+gt	Guatemala	63.2
+tn	Tunisia	63.8
+no	Norway	64
+ba	Bosnia and Herzegovina	64.3
+mx	Mexico	64.5
+hu	Hungary	64.8
+dm	Dominica	65.1
+gm	The Gambia	65.4
+se	Sweden	65.4
+zw	Zimbabwe	65.8
+si	Slovenia	65.9
+ws	Samoa	66
+aw	Aruba	66.3
+jo	Jordan	66.6
+na	Namibia	67
+lt	Lithuania	67.2
+bg	Bulgaria	67.4
+za	South Africa	67.5
+ge	Georgia	67.9
+ye	Yemen	67.9
+bz	Belize	68
+ee	Estonia	68.1
+de	Germany	68.6
+jp	Japan	68.7
+kn	Saint Kitts and Nevis	68.9
+fi	Finland	69.1
+fj	Fiji	69.1
+gy	Guyana	69.3
+il	Israel	69.5
+uy	Uruguay	69.7
+tv	Tuvalu	70
+ki	Kiribati	70
+hr	Croatia	70.1
+ca	Canada	70.2
+nl	Netherlands	70.2
+at	Austria	70.3
+xk	Kosovo	70.4
+bw	Botswana	70.6
+au	Australia	71.2
+jm	Jamaica	71.9
+nc	New Caledonia	72.1
+br	Brazil	72.7
+nz	New Zealand	72.8
+cu	Cuba	73.4
+st	Sao Tome and Principe	73.4
+ch	Switzerland	73.7
+cv	Cabo Verde	73.7
+lv	Latvia	73.7
+gl	Greenland	73.9
+cr	Costa Rica	73.9
+it	Italy	73.9
+mu	Mauritius	74.1
+es	Spain	74.2
+is	Iceland	74.6
+ps	Gaza Strip	75
+sg	Singapore	75.2
+vc	Saint Vincent and the Grenadines	75.5
+pt	Portugal	75.7
+dk	Denmark	75.8
+me	Montenegro	76.6
+be	Belgium	77.2
+ag	Antigua and Barbuda	77.3
+gd	Grenada	77.7
+vi	Virgin Islands	78
+pw	Palau	78
+fr	France	78.8
+gr	Greece	79.1
+us	United States	80
+dj	Djibouti	80.2
+mv	Maldives	81
+sx	Sint Maarten	81.3
+pa	Panama	82
+ck	Cook Islands	82.1
+lc	Saint Lucia	82.8
+pm	Saint Pierre and Miquelon	83
+lb	Lebanon	83
+sc	Seychelles	83.7
+cw	Curacao	83.8
+pf	French Polynesia	84.5
+cy	Cyprus	85.5
+mh	Marshall Islands	85.7
+mc	Monaco	86
+im	Isle of Man	86
+ai	Anguilla	86.4
+lu	Luxembourg	86.9
+gg	Guernsey	87
+bb	Barbados	88.7
+mt	Malta	88.7
+bs	The Bahamas	90
+ms	Montserrat	90.3
+tc	Turks and Caicos Islands	90.6
+hk	Hong Kong	92.3
+ky	Cayman Islands	92.3
+vg	British Virgin Islands	93.1
+mo	Macau	93.7
+bm	Bermuda	93.8
+je	Jersey	96
+gi	Gibraltar	100

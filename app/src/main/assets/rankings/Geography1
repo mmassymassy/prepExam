@@ -1,0 +1,232 @@
+#ranking=Geography/Area/land
+#unit=sq km
+va	Holy See (Vatican City)	0.44
+mc	Monaco	2
+gi	Gibraltar	6.5
+tk	Tokelau	12
+cc	Cocos (Keeling) Islands	14
+nr	Nauru	21
+bl	Saint Barthelemy	25
+tv	Tuvalu	26
+mo	Macau	28.2
+sx	Sint Maarten	34
+nf	Norfolk Island	36
+pn	Pitcairn Islands	47
+bm	Bermuda	54
+sm	San Marino	61
+gg	Guernsey	78
+ai	Anguilla	91
+ms	Montserrat	102
+je	Jersey	116
+cx	Christmas Island	135
+wf	Wallis and Futuna	142
+vg	British Virgin Islands	151
+li	Liechtenstein	160
+aw	Aruba	180
+mh	Marshall Islands	181
+as	American Samoa	224
+ck	Cook Islands	236
+pm	Saint Pierre and Miquelon	242
+nu	Niue	260
+kn	Saint Kitts and Nevis	261
+ky	Cayman Islands	264
+mv	Maldives	298
+mt	Malta	316
+gd	Grenada	344
+vi	Virgin Islands	346
+ps	Gaza Strip	360
+vc	Saint Vincent and the Grenadines	389
+hm	Heard Island and McDonald Islands	412
+bb	Barbados	430
+ag	Antigua and Barbuda	443
+cw	Curacao	444
+sc	Seychelles	455
+pw	Palau	459
+mp	Northern Mariana Islands	464
+ad	Andorra	468
+gu	Guam	544
+im	Isle of Man	572
+lc	Saint Lucia	606
+sg	Singapore	709.2
+to	Tonga	717
+dm	Dominica	751
+bh	Bahrain	760
+ki	Kiribati	811
+tc	Turks and Caicos Islands	948
+st	Sao Tome and Principe	964
+hk	Hong Kong	1073
+fo	Faroe Islands	1393
+mu	Mauritius	2030
+km	Comoros	2235
+lu	Luxembourg	2586
+ws	Samoa	2821
+pf	French Polynesia	3827
+cv	Cabo Verde	4033
+tt	Trinidad and Tobago	5128
+bn	Brunei	5265
+pr	Puerto Rico	8959
+cy	Cyprus	9241
+bs	The Bahamas	10010
+gm	The Gambia	10120
+lb	Lebanon	10230
+jm	Jamaica	10831
+xk	Kosovo	10887
+qa	Qatar	11586
+fk	Falkland Islands (Islas Malvinas)	12173
+vu	Vanuatu	12189
+me	Montenegro	13452
+tl	Timor-Leste	14874
+sz	Eswatini	17204
+kw	Kuwait	17818
+fj	Fiji	18274
+nc	New Caledonia	18275
+si	Slovenia	20151
+sv	El Salvador	20721
+il	Israel	21497
+bz	Belize	22806
+dj	Djibouti	23180
+rw	Rwanda	24668
+mk	North Macedonia	25433
+bi	Burundi	25680
+al	Albania	27398
+ht	Haiti	27560
+sb	Solomon Islands	27986
+gq	Equatorial Guinea	28051
+gw	Guinea-Bissau	28120
+am	Armenia	28203
+be	Belgium	30278
+ls	Lesotho	30355
+tw	Taiwan	32260
+md	Moldova	32891
+nl	Netherlands	33893
+bt	Bhutan	38394
+ch	Switzerland	39997
+ee	Estonia	42388
+dk	Denmark	42434
+sk	Slovakia	48105
+do	The Dominican	48320
+cr	Costa Rica	51060
+ba	Bosnia and Herzegovina	51187
+tg	Togo	54385
+hr	Croatia	55974
+lv	Latvia	62249
+lt	Lithuania	62680
+lk	Sri Lanka	64630
+ie	Ireland	68883
+ge	Georgia	69700
+sl	Sierra Leone	71620
+pa	Panama	74340
+cz	Czechia	77247
+rs	Serbia	77474
+at	Austria	82445
+az	Azerbaijan	82629
+jo	Jordan	88802
+hu	Hungary	89608
+pt	Portugal	91470
+mw	Malawi	94080
+lr	Liberia	96320
+kr	South Korea	96920
+is	Iceland	100250
+er	Eritrea	101000
+gt	Guatemala	107159
+bg	Bulgaria	108489
+cu	Cuba	109820
+bj	Benin	110622
+hn	Honduras	111890
+ni	Nicaragua	119990
+kp	North Korea	120408
+bd	Bangladesh	130170
+gr	Greece	130647
+tj	Tajikistan	141510
+np	Nepal	143351
+tn	Tunisia	155360
+sr	Suriname	156000
+uy	Uruguay	175015
+kh	Cambodia	176515
+sy	Syria	185887
+kg	Kyrgyzstan	191801
+sn	Senegal	192530
+gy	Guyana	196849
+ug	Uganda	197100
+by	Belarus	202900
+gh	Ghana	227533
+ro	Romania	229891
+la	Laos	230800
+gn	Guinea	245717
+ga	Gabon	257667
+nz	New Zealand	264537
+eh	Western Sahara	266000
+bf	Burkina Faso	273800
+ec	Ecuador	276841
+it	Italy	294140
+ph	Philippines	298170
+fi	Finland	303815
+pl	Poland	304255
+no	Norway	304282
+om	Oman	309500
+vn	Vietnam	310070
+ci	Cote d'Ivoire	318003
+my	Malaysia	328657
+cg	Congo (Brazzaville)	341500
+de	Germany	348672
+jp	Japan	364485
+zw	Zimbabwe	386847
+py	Paraguay	397302
+se	Sweden	410335
+uz	Uzbekistan	425400
+iq	Iraq	437367
+pg	Papua New Guinea	452860
+tm	Turkmenistan	469930
+cm	Cameroon	472710
+es	Spain	498980
+th	Thailand	510890
+ye	Yemen	527968
+bw	Botswana	566730
+ke	Kenya	569140
+ua	Ukraine	579330
+mg	Madagascar	581540
+so	Somalia	627337
+fr	France	640427
+af	Afghanistan	652230
+mm	Burma	653508
+ma	Morocco	716300
+zm	Zambia	743398
+cl	Chile	743812
+tr	Turkey	769632
+pk	Pakistan	770875
+mz	Mozambique	786380
+na	Namibia	823290
+ve	Venezuela	882050
+tz	Tanzania	885800
+ng	Nigeria	910768
+eg	Egypt	995450
+mr	Mauritania	1030700
+co	Colombia	1038700
+bo	Bolivia	1083301
+et	Ethiopia	1096570
+za	South Africa	1214470
+ml	Mali	1220190
+ao	Angola	1246700
+td	Chad	1259200
+ne	Niger	1266700
+pe	Peru	1279996
+ir	Iran	1531595
+mn	Mongolia	1553556
+sd	Sudan	1731671
+ly	Libya	1759540
+id	Indonesia	1811569
+mx	Mexico	1943945
+sa	Saudi Arabia	2149690
+gl	Greenland	2166086
+cd	DRC	2267048
+dz	Algeria	2381740
+kz	Kazakhstan	2699700
+ar	Argentina	2736690
+in	India	2973193
+au	Australia	7682300
+br	Brazil	8358140
+ca	Canada	9093507
+us	United States	9147593
+cn	China	9326410
+aq	Antarctica	14200000.0
+ru	Russia	16377742

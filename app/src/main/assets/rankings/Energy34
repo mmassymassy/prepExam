@@ -1,0 +1,210 @@
+#ranking=Energy/Petroleum/refined petroleum consumption
+#unit=bbl/day (2019 est.)
+aq	Antarctica	100
+nu	Niue	100
+ms	Montserrat	200
+fk	Falkland Islands (Islas Malvinas)	300
+nr	Nauru	400
+ki	Kiribati	500
+pm	Saint Pierre and Miquelon	600
+ck	Cook Islands	800
+dm	Dominica	1200
+st	Sao Tome and Principe	1200
+to	Tonga	1200
+vg	British Virgin Islands	1200
+vc	Saint Vincent and the Grenadines	1500
+vu	Vanuatu	1500
+tc	Turks and Caicos Islands	1600
+kn	Saint Kitts and Nevis	1800
+gu	Guam	2100
+mp	Northern Mariana Islands	2100
+gd	Grenada	2200
+gw	Guinea-Bissau	2200
+km	Comoros	2200
+sb	Solomon Islands	2200
+as	American Samoa	2300
+ws	Samoa	2500
+tl	Timor-Leste	3500
+bz	Belize	3900
+gm	The Gambia	3900
+gl	Greenland	4000
+dj	Djibouti	4300
+bt	Bhutan	4400
+lc	Saint Lucia	4500
+ag	Antigua and Barbuda	5000
+bi	Burundi	5000
+ls	Lesotho	5100
+bm	Bermuda	5200
+er	Eritrea	5200
+fo	Faroe Islands	5500
+ky	Cayman Islands	5500
+sl	Sierra Leone	5900
+so	Somalia	5900
+sz	Eswatini	6000
+cv	Cabo Verde	6500
+pf	French Polynesia	6700
+sc	Seychelles	7500
+me	Montenegro	7600
+aw	Aruba	8100
+rw	Rwanda	8300
+lr	Liberia	9200
+mw	Malawi	9400
+tg	Togo	10000
+bb	Barbados	10800
+am	Armenia	10900
+fj	Fiji	11500
+cg	Congo (Brazzaville)	12600
+td	Chad	12600
+xk	Kosovo	12800
+ss	South Sudan	12900
+ne	Niger	13800
+mo	Macau	14300
+ga	Gabon	14400
+mv	Maldives	15300
+sr	Suriname	15800
+vi	Virgin Islands	16400
+cd	DRC	17900
+gy	Guyana	18100
+bn	Brunei	18800
+la	Laos	19300
+nc	New Caledonia	19300
+is	Iceland	19700
+gn	Guinea	19800
+kp	North Korea	20300
+ht	Haiti	21100
+mg	Madagascar	21100
+bw	Botswana	21700
+md	Moldova	22000
+gq	Equatorial Guinea	22300
+mk	North Macedonia	22700
+af	Afghanistan	24300
+ps	Gaza Strip	24600
+zm	Zambia	25300
+bs	The Bahamas	25800
+tj	Tajikistan	26200
+al	Albania	26400
+na	Namibia	26500
+zw	Zimbabwe	27300
+ee	Estonia	27500
+mr	Mauritania	27500
+bf	Burkina Faso	30800
+kg	Kyrgyzstan	32100
+ge	Georgia	32400
+ba	Bosnia and Herzegovina	34700
+ni	Nicaragua	35100
+mz	Mozambique	35400
+tt	Trinidad and Tobago	35500
+mn	Mongolia	35800
+mu	Mauritius	36700
+ml	Mali	37600
+cm	Cameroon	37900
+pg	Papua New Guinea	38200
+lv	Latvia	39900
+ug	Uganda	40900
+bj	Benin	46300
+np	Nepal	49400
+uy	Uruguay	50200
+tz	Tanzania	52800
+mt	Malta	54000
+cy	Cyprus	54400
+si	Slovenia	54900
+ci	Cote d'Ivoire	56500
+py	Paraguay	56900
+sn	Senegal	57500
+sv	El Salvador	59100
+jm	Jamaica	61100
+cr	Costa Rica	63300
+lu	Luxembourg	63900
+kh	Cambodia	64100
+hn	Honduras	66800
+lt	Lithuania	68000
+hr	Croatia	71500
+bh	Bahrain	73200
+ye	Yemen	75700
+pr	Puerto Rico	79000
+rs	Serbia	79200
+gi	Gibraltar	83700
+sk	Slovakia	85200
+bo	Bolivia	87800
+bg	Bulgaria	97800
+gh	Ghana	98000
+uz	Uzbekistan	98200
+az	Azerbaijan	107500
+tn	Tunisia	107700
+et	Ethiopia	107900
+gt	Guatemala	112600
+jo	Jordan	114800
+ke	Kenya	116400
+bd	Bangladesh	122500
+lk	Sri Lanka	131100
+ao	Angola	133400
+by	Belarus	134600
+sd	Sudan	137700
+sy	Syria	137900
+pa	Panama	143700
+mm	Burma	146200
+do	The Dominican	148200
+tm	Turkmenistan	153400
+ie	Ireland	159100
+cu	Cuba	164100
+dk	Denmark	165400
+lb	Lebanon	168500
+hu	Hungary	180600
+nz	New Zealand	184600
+fi	Finland	207400
+no	Norway	215900
+cz	Czechia	219500
+ly	Libya	219700
+ch	Switzerland	220000
+ro	Romania	222200
+il	Israel	232400
+om	Oman	234200
+ua	Ukraine	248100
+pt	Portugal	249100
+ec	Ecuador	259000
+pe	Peru	265500
+at	Austria	278700
+qa	Qatar	293800
+se	Sweden	295800
+ma	Morocco	307500
+gr	Greece	309600
+kz	Kazakhstan	320600
+kw	Kuwait	342000
+co	Colombia	352400
+cl	Chile	361700
+hk	Hong Kong	404600
+dz	Algeria	450500
+ve	Venezuela	470600
+ng	Nigeria	483100
+pk	Pakistan	493400
+vn	Vietnam	495500
+ph	Philippines	527400
+za	South Africa	622500
+be	Belgium	642300
+ar	Argentina	680000
+pl	Poland	697700
+my	Malaysia	718600
+eg	Egypt	810200
+iq	Iraq	863300
+nl	Netherlands	915200
+tr	Turkey	987300
+tw	Taiwan	998100
+au	Australia	1174100
+it	Italy	1255100
+th	Thailand	1284800
+es	Spain	1328000.0
+sg	Singapore	1448000.0
+id	Indonesia	1649000.0
+fr	France	1688500
+mx	Mexico	1928800
+ir	Iran	1934000.0
+de	Germany	2346500
+kr	South Korea	2598700
+ca	Canada	2629300
+br	Brazil	3142300
+sa	Saudi Arabia	3182300
+ru	Russia	3699000.0
+jp	Japan	3739300
+in	India	4920100
+cn	China	14007500
+us	United States	20542900

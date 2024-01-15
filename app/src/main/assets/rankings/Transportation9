@@ -1,0 +1,190 @@
+#ranking=Transportation/National air transport system/number of registered air carriers
+#unit=
+jm	Jamaica	0
+ml	Mali	0
+xk	Kosovo	0
+bj	Benin	1
+mo	Macau	1
+fo	Faroe Islands	1
+gl	Greenland	1
+gg	Guernsey	1
+je	Jersey	1
+ag	Antigua and Barbuda	1
+ba	Bosnia and Herzegovina	1
+bf	Burkina Faso	1
+bn	Brunei	1
+bw	Botswana	1
+ci	Cote d'Ivoire	1
+ck	Cook Islands	1
+cm	Cameroon	1
+cr	Costa Rica	1
+do	The Dominican	1
+er	Eritrea	1
+et	Ethiopia	1
+fk	Falkland Islands (Islas Malvinas)	1
+ht	Haiti	1
+kp	North Korea	1
+ky	Cayman Islands	1
+la	Laos	1
+lb	Lebanon	1
+me	Montenegro	1
+mh	Marshall Islands	1
+mr	Mauritania	1
+ms	Montserrat	1
+mu	Mauritius	1
+ni	Nicaragua	1
+nr	Nauru	1
+pw	Palau	1
+rw	Rwanda	1
+sb	Solomon Islands	1
+sc	Seychelles	1
+st	Sao Tome and Principe	1
+sv	El Salvador	1
+tg	Togo	1
+tm	Turkmenistan	1
+to	Tonga	1
+tt	Trinidad and Tobago	1
+vu	Vanuatu	1
+ws	Samoa	1
+pf	French Polynesia	2
+ai	Anguilla	2
+al	Albania	2
+bt	Bhutan	2
+by	Belarus	2
+bz	Belize	2
+cv	Cabo Verde	2
+cw	Curacao	2
+cy	Cyprus	2
+dj	Djibouti	2
+fj	Fiji	2
+gm	The Gambia	2
+hr	Croatia	2
+ki	Kiribati	2
+km	Comoros	2
+kw	Kuwait	2
+mw	Malawi	2
+mz	Mozambique	2
+na	Namibia	2
+ne	Niger	2
+om	Oman	2
+py	Paraguay	2
+si	Slovenia	2
+sn	Senegal	2
+ss	South Sudan	2
+td	Chad	2
+tj	Tajikistan	2
+tl	Timor-Leste	2
+uy	Uruguay	2
+uz	Uzbekistan	2
+vc	Saint Vincent and the Grenadines	2
+ye	Yemen	2
+zw	Zimbabwe	2
+nc	New Caledonia	3
+af	Afghanistan	3
+am	Armenia	3
+aw	Aruba	3
+cg	Congo (Brazzaville)	3
+dz	Algeria	3
+ee	Estonia	3
+fi	Finland	3
+ga	Gabon	3
+gh	Ghana	3
+gt	Guatemala	3
+lk	Sri Lanka	3
+lt	Lithuania	3
+lv	Latvia	3
+ma	Morocco	3
+mv	Maldives	3
+qa	Qatar	3
+sy	Syria	3
+tc	Turks and Caicos Islands	3
+zm	Zambia	3
+cu	Cuba	4
+cz	Czechia	4
+ge	Georgia	4
+hn	Honduras	4
+iq	Iraq	4
+jo	Jordan	4
+lu	Luxembourg	4
+mg	Madagascar	4
+mn	Mongolia	4
+pa	Panama	4
+rs	Serbia	4
+sg	Singapore	4
+sk	Slovakia	4
+sr	Suriname	4
+bs	The Bahamas	5
+hu	Hungary	5
+kg	Kyrgyzstan	5
+pk	Pakistan	5
+vn	Vietnam	5
+ar	Argentina	6
+bd	Bangladesh	6
+bh	Bahrain	6
+ch	Switzerland	6
+gq	Equatorial Guinea	6
+il	Israel	6
+is	Iceland	6
+kh	Cambodia	6
+md	Moldova	6
+np	Nepal	6
+pe	Peru	6
+pg	Papua New Guinea	6
+pl	Poland	6
+so	Somalia	6
+ug	Uganda	6
+be	Belgium	7
+bo	Bolivia	7
+ec	Ecuador	7
+tn	Tunisia	7
+tw	Taiwan	7
+bg	Bulgaria	8
+cd	DRC	8
+mm	Burma	8
+nl	Netherlands	8
+no	Norway	8
+ro	Romania	8
+br	Brazil	9
+cl	Chile	9
+ie	Ireland	9
+it	Italy	9
+ly	Libya	9
+sd	Sudan	9
+ao	Angola	10
+dk	Denmark	10
+pt	Portugal	10
+at	Austria	11
+gr	Greece	11
+se	Sweden	11
+tr	Turkey	11
+tz	Tanzania	11
+hk	Hong Kong	12
+co	Colombia	12
+kz	Kazakhstan	12
+sa	Saudi Arabia	12
+ve	Venezuela	12
+mt	Malta	13
+my	Malaysia	13
+ng	Nigeria	13
+ph	Philippines	13
+eg	Egypt	14
+in	India	14
+kr	South Korea	14
+ua	Ukraine	14
+nz	New Zealand	15
+th	Thailand	15
+mx	Mexico	16
+za	South Africa	17
+fr	France	19
+de	Germany	20
+es	Spain	21
+ir	Iran	22
+jp	Japan	22
+au	Australia	25
+id	Indonesia	25
+ke	Kenya	25
+ru	Russia	32
+az	Azerbaijan	42
+ca	Canada	51
+cn	China	56
+us	United States	99

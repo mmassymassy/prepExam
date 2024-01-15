@@ -1,0 +1,229 @@
+#ranking=Communications/Internet users/percent of population
+#unit=% 
+bi	Burundi	5.8
+ss	South Sudan	7.9
+ug	Uganda	10
+sl	Sierra Leone	12.7
+cc	Cocos (Keeling) Islands	13.4
+so	Somalia	14.5
+et	Ethiopia	17
+mz	Mozambique	17
+af	Afghanistan	18
+td	Chad	18
+mg	Madagascar	20
+pk	Pakistan	21
+zm	Zambia	21
+bf	Burkina Faso	22
+er	Eritrea	22
+ne	Niger	22
+cd	DRC	23.2
+mw	Malawi	24
+mp	Northern Mariana Islands	25.1
+tm	Turkmenistan	25.3
+ye	Yemen	26.6
+km	Comoros	27
+sd	Sudan	28.8
+ke	Kenya	29
+rw	Rwanda	30
+tj	Tajikistan	30.4
+pg	Papua New Guinea	32
+tz	Tanzania	32
+cg	Congo (Brazzaville)	32.1
+ao	Angola	33
+gm	The Gambia	33
+bj	Benin	34
+lr	Liberia	34
+ml	Mali	34
+gn	Guinea	35
+gw	Guinea-Bissau	35
+tg	Togo	35
+zw	Zimbabwe	35
+sb	Solomon Islands	36
+pw	Palau	37.2
+mh	Marshall Islands	38.7
+bd	Bangladesh	39
+ht	Haiti	39
+tl	Timor-Leste	39
+as	American Samoa	40.3
+mm	Burma	44
+ci	Cote d'Ivoire	45
+wf	Wallis and Futuna	45.8
+cm	Cameroon	46
+in	India	46
+nf	Norfolk Island	46.1
+ly	Libya	46.2
+sy	Syria	46.6
+hn	Honduras	48
+ls	Lesotho	48
+iq	Iraq	49
+tv	Tuvalu	49
+gt	Guatemala	51
+st	Sao Tome and Principe	51
+np	Nepal	52
+na	Namibia	53
+ph	Philippines	53
+gq	Equatorial Guinea	54
+ki	Kiribati	54
+ng	Nigeria	55
+ms	Montserrat	56.2
+ni	Nicaragua	57
+sn	Senegal	58
+tk	Tokelau	58.3
+mr	Mauritania	59
+sz	Eswatini	59
+kh	Cambodia	60
+md	Moldova	61
+bz	Belize	62
+id	Indonesia	62
+la	Laos	62
+sv	El Salvador	63
+ck	Cook Islands	64.8
+vi	Virgin Islands	64.8
+bo	Bolivia	66
+sr	Suriname	66
+vu	Vanuatu	66
+lk	Sri Lanka	67
+to	Tonga	67
+gh	Ghana	68
+mu	Mauritius	68
+pa	Panama	68
+cw	Curacao	68.1
+dj	Djibouti	69
+gl	Greenland	69.5
+cv	Cabo Verde	70
+cu	Cuba	71
+dz	Algeria	71
+pe	Peru	71
+bl	Saint Barthelemy	71.3
+eg	Egypt	72
+ga	Gabon	72
+za	South Africa	72
+pf	French Polynesia	72.7
+cn	China	73
+co	Colombia	73
+bw	Botswana	74
+vn	Vietnam	74
+ps	Gaza Strip	75
+bg	Bulgaria	75
+it	Italy	75
+sm	San Marino	75
+va	Holy See (Vatican City)	75
+ba	Bosnia and Herzegovina	76
+ec	Ecuador	76
+ge	Georgia	76
+mx	Mexico	76
+py	Paraguay	77
+uz	Uzbekistan	77
+pr	Puerto Rico	77.7
+vg	British Virgin Islands	77.7
+gd	Grenada	78
+gr	Greece	78
+kg	Kyrgyzstan	78
+lc	Saint Lucia	78
+ws	Samoa	78
+cx	Christmas Island	78.6
+ve	Venezuela	78.7
+al	Albania	79
+am	Armenia	79
+ir	Iran	79
+kn	Saint Kitts and Nevis	79
+tn	Tunisia	79
+tt	Trinidad and Tobago	79
+ua	Ukraine	79
+nu	Niue	79.6
+gu	Guam	80.5
+br	Brazil	81
+dm	Dominica	81
+hr	Croatia	81
+rs	Serbia	81
+tr	Turkey	81
+ky	Cayman Islands	81.1
+ai	Anguilla	81.6
+jm	Jamaica	82
+me	Montenegro	82
+nc	New Caledonia	82
+pt	Portugal	82
+sc	Seychelles	82
+cz	Czechia	83
+cr	Costa Rica	83
+jo	Jordan	83
+jp	Japan	83
+mk	North Macedonia	83
+mn	Mongolia	84
+nr	Nauru	84
+ro	Romania	84
+do	The Dominican	85
+gy	Guyana	85
+pl	Poland	85
+th	Thailand	85
+vc	Saint Vincent and the Grenadines	85
+az	Azerbaijan	86
+bb	Barbados	86
+bt	Bhutan	86
+fr	France	86
+mc	Monaco	86
+mv	Maldives	86
+gg	Guernsey	86.6
+ar	Argentina	87
+by	Belarus	87
+lb	Lebanon	87
+lt	Lithuania	87
+mt	Malta	87
+fj	Fiji	88
+ma	Morocco	88
+mo	Macau	88
+ru	Russia	88
+se	Sweden	88
+pm	Saint Pierre and Miquelon	88.7
+hu	Hungary	89
+si	Slovenia	89
+sk	Slovakia	89
+sx	Sint Maarten	89.5
+cl	Chile	90
+il	Israel	90
+tw	Taiwan	90
+uy	Uruguay	90
+be	Belgium	91
+cy	Cyprus	91
+de	Germany	91
+ee	Estonia	91
+kz	Kazakhstan	91
+lv	Latvia	91
+sg	Singapore	91
+xk	Kosovo	91
+nl	Netherlands	92
+us	United States	92
+at	Austria	93
+ca	Canada	93
+fi	Finland	93
+hk	Hong Kong	93
+je	Jersey	93
+tc	Turks and Caicos Islands	93.5
+ad	Andorra	94
+bs	The Bahamas	94
+es	Spain	94
+gi	Gibraltar	94.4
+ie	Ireland	95
+ag	Antigua and Barbuda	96
+au	Australia	96
+ch	Switzerland	96
+li	Liechtenstein	96
+nz	New Zealand	96
+om	Oman	96
+pn	Pitcairn Islands	96.2
+aw	Aruba	97
+my	Malaysia	97
+fo	Faroe Islands	97.6
+bn	Brunei	98
+kr	South Korea	98
+dk	Denmark	99
+fk	Falkland Islands (Islas Malvinas)	99
+lu	Luxembourg	99
+no	Norway	99
+aq	Antarctica	100
+bh	Bahrain	100
+bm	Bermuda	100
+is	Iceland	100
+kw	Kuwait	100
+qa	Qatar	100
+sa	Saudi Arabia	100

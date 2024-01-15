@@ -1,0 +1,188 @@
+#ranking=Economy/Unemployment rate/Unemployment rate 2019
+#unit=% (2019 est.)
+qa	Qatar	0.1
+kh	Cambodia	0.15
+mm	Burma	0.5
+ne	Niger	0.55
+th	Thailand	0.72
+sb	Solomon Islands	0.75
+la	Laos	0.85
+rw	Rwanda	1.1
+td	Chad	1.12
+bh	Bahrain	1.2
+bj	Benin	1.47
+bi	Burundi	1.59
+cu	Cuba	1.74
+mo	Macau	1.75
+vu	Vanuatu	1.8
+om	Oman	1.85
+mg	Madagascar	1.86
+ug	Uganda	1.92
+cz	Czechia	2.01
+vn	Vietnam	2.04
+kw	Kuwait	2.17
+gt	Guatemala	2.19
+tz	Tanzania	2.22
+ph	Philippines	2.24
+et	Ethiopia	2.33
+jp	Japan	2.4
+pg	Papua New Guinea	2.45
+bt	Bhutan	2.5
+kp	North Korea	2.59
+sn	Senegal	2.86
+hk	Hong Kong	2.93
+lr	Liberia	3.02
+to	Tonga	3.06
+np	Nepal	3.1
+sg	Singapore	3.1
+de	Germany	3.14
+my	Malaysia	3.26
+pl	Poland	3.28
+ci	Cote d'Ivoire	3.32
+nl	Netherlands	3.38
+pe	Peru	3.38
+hu	Hungary	3.42
+tt	Trinidad and Tobago	3.42
+mz	Mozambique	3.47
+mx	Mexico	3.48
+is	Iceland	3.51
+pk	Pakistan	3.54
+id	Indonesia	3.62
+mt	Malta	3.62
+cm	Cameroon	3.64
+us	United States	3.67
+no	Norway	3.69
+tg	Togo	3.72
+tw	Taiwan	3.73
+kr	South Korea	3.75
+il	Israel	3.8
+ec	Ecuador	3.81
+bo	Bolivia	3.82
+ro	Romania	3.91
+nz	New Zealand	4.11
+by	Belarus	4.16
+sv	El Salvador	4.17
+bg	Bulgaria	4.23
+tm	Turkmenistan	4.27
+gh	Ghana	4.32
+lk	Sri Lanka	4.35
+ch	Switzerland	4.39
+bd	Bangladesh	4.44
+cd	DRC	4.45
+ee	Estonia	4.45
+fj	Fiji	4.45
+si	Slovenia	4.45
+at	Austria	4.49
+ru	Russia	4.5
+tl	Timor-Leste	4.51
+cn	China	4.52
+sl	Sierra Leone	4.65
+bf	Burkina Faso	4.69
+pa	Panama	4.73
+kz	Kazakhstan	4.8
+zw	Zimbabwe	4.83
+az	Azerbaijan	4.85
+ie	Ireland	4.95
+ke	Kenya	5.01
+dk	Denmark	5.02
+gn	Guinea	5.02
+md	Moldova	5.1
+ve	Venezuela	5.1
+au	Australia	5.16
+ni	Nicaragua	5.21
+in	India	5.27
+mv	Maldives	5.34
+be	Belgium	5.36
+mn	Mongolia	5.44
+gu	Guam	5.51
+lu	Luxembourg	5.59
+ca	Canada	5.66
+sa	Saudi Arabia	5.67
+hn	Honduras	5.7
+mw	Malawi	5.75
+sk	Slovakia	5.75
+uz	Uzbekistan	5.85
+er	Eritrea	5.99
+gw	Guinea-Bissau	6.04
+lt	Lithuania	6.26
+lv	Latvia	6.31
+mu	Mauritius	6.33
+do	The Dominican	6.36
+gg	Guernsey	6.41
+je	Jersey	6.41
+pt	Portugal	6.46
+py	Paraguay	6.59
+hr	Croatia	6.62
+fi	Finland	6.69
+bz	Belize	6.71
+se	Sweden	6.83
+bn	Brunei	6.92
+kg	Kyrgyzstan	6.92
+tj	Tajikistan	7.06
+cy	Cyprus	7.07
+cl	Chile	7.29
+ao	Angola	7.42
+ml	Mali	7.44
+jm	Jamaica	7.69
+eg	Egypt	7.84
+sr	Suriname	8.04
+km	Comoros	8.08
+ua	Ukraine	8.19
+pr	Puerto Rico	8.3
+bb	Barbados	8.41
+fr	France	8.41
+ws	Samoa	8.41
+ng	Nigeria	8.53
+gq	Equatorial Guinea	8.68
+sy	Syria	8.77
+uy	Uruguay	8.88
+ma	Morocco	9.28
+gm	The Gambia	9.5
+ar	Argentina	9.84
+it	Italy	9.95
+co	Colombia	9.96
+bs	The Bahamas	10.06
+mr	Mauritania	10.39
+rs	Serbia	10.39
+dz	Algeria	10.51
+ir	Iran	10.74
+af	Afghanistan	11.22
+lb	Lebanon	11.35
+al	Albania	11.47
+cr	Costa Rica	11.49
+ge	Georgia	11.57
+br	Brazil	11.93
+cv	Cabo Verde	12.22
+ss	South Sudan	12.23
+pf	French Polynesia	12.3
+vi	Virgin Islands	12.47
+zm	Zambia	12.52
+iq	Iraq	12.86
+ye	Yemen	13.06
+tr	Turkey	13.67
+ht	Haiti	13.91
+gy	Guyana	13.99
+es	Spain	14.1
+st	Sao Tome and Principe	14.14
+nc	New Caledonia	14.91
+me	Montenegro	15.12
+tn	Tunisia	15.13
+lc	Saint Lucia	15.32
+ba	Bosnia and Herzegovina	15.69
+jo	Jordan	16.81
+mk	North Macedonia	17.26
+gr	Greece	17.31
+sd	Sudan	17.65
+am	Armenia	18.3
+so	Somalia	18.83
+vc	Saint Vincent and the Grenadines	19.28
+ly	Libya	19.66
+na	Namibia	19.99
+cg	Congo (Brazzaville)	20.62
+ga	Gabon	20.74
+ls	Lesotho	22.44
+bw	Botswana	22.61
+sz	Eswatini	22.84
+ps	Gaza Strip	25.34
+dj	Djibouti	26.36
+za	South Africa	28.47

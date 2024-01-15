@@ -1,0 +1,138 @@
+#ranking=Transportation/Railways/total
+#unit=km 
+li	Liechtenstein	9
+sv	El Salvador	12.5
+cx	Christmas Island	18
+py	Paraguay	30
+kn	Saint Kitts and Nevis	50
+np	Nepal	59
+im	Isle of Man	63
+pa	Panama	77
+ph	Philippines	77
+dj	Djibouti	97
+ss	South Sudan	248
+me	Montenegro	250
+lu	Luxembourg	271
+cr	Costa Rica	278
+sz	Eswatini	301
+er	Eritrea	306
+lb	Lebanon	401
+la	Laos	422
+al	Albania	424
+kg	Kyrgyzstan	424
+lr	Liberia	429
+xk	Kosovo	437
+bj	Benin	438
+ve	Venezuela	447
+do	The Dominican	496
+jo	Jordan	509
+cg	Congo (Brazzaville)	510
+tg	Togo	568
+ml	Mali	593
+fj	Fiji	597
+bf	Burkina Faso	622
+kh	Cambodia	642
+ga	Gabon	649
+et	Ethiopia	659
+ci	Cote d'Ivoire	660
+tj	Tajikistan	680
+am	Armenia	686
+hn	Honduras	699
+mk	North Macedonia	699
+mr	Mauritania	728
+mw	Malawi	767
+gt	Guatemala	800
+mg	Madagascar	836
+bw	Botswana	888
+sn	Senegal	906
+gh	Ghana	947
+ba	Bosnia and Herzegovina	965
+ec	Ecuador	965
+cm	Cameroon	987
+gn	Guinea	1086
+md	Moldova	1171
+si	Slovenia	1207
+ug	Uganda	1244
+ge	Georgia	1363
+il	Israel	1384
+ee	Estonia	1441
+lk	Sri Lanka	1562
+tw	Taiwan	1613.1
+uy	Uruguay	1673
+ie	Ireland	1688
+mn	Mongolia	1815
+my	Malaysia	1851
+pe	Peru	1854.4
+lt	Lithuania	1911
+sy	Syria	2052
+ma	Morocco	2067
+co	Colombia	2141
+tn	Tunisia	2173
+lv	Latvia	2216
+iq	Iraq	2272
+gr	Greece	2345
+bd	Bangladesh	2460
+pt	Portugal	2526
+vn	Vietnam	2600
+hr	Croatia	2617
+na	Namibia	2628
+dk	Denmark	2682
+ao	Angola	2761
+az	Azerbaijan	2944.3
+nl	Netherlands	3055
+zm	Zambia	3126
+rs	Serbia	3333
+zw	Zimbabwe	3427
+be	Belgium	3602
+sk	Slovakia	3627
+ng	Nigeria	3798
+ke	Kenya	3819
+no	Norway	3848
+bo	Bolivia	3960
+kr	South Korea	3979
+cd	DRC	4007
+dz	Algeria	4020
+bg	Bulgaria	4029
+tz	Tanzania	4097
+th	Thailand	4127
+nz	New Zealand	4128
+uz	Uzbekistan	4642
+mz	Mozambique	4787
+mm	Burma	5031
+eg	Egypt	5085
+tm	Turkmenistan	5113
+ch	Switzerland	5296
+sa	Saudi Arabia	5410
+by	Belarus	5528
+fi	Finland	5918
+at	Austria	6123
+sd	Sudan	7251
+cl	Chile	7281.5
+kp	North Korea	7435
+hu	Hungary	7687
+id	Indonesia	8159
+cu	Cuba	8367
+ir	Iran	8483.5
+cz	Czechia	9548
+ro	Romania	10628
+se	Sweden	10910
+tr	Turkey	11497
+pk	Pakistan	11881
+es	Spain	15489
+kz	Kazakhstan	16636
+ar	Argentina	17866
+it	Italy	18475
+pl	Poland	19461
+za	South Africa	20986
+ua	Ukraine	21733
+mx	Mexico	23389
+jp	Japan	27311
+fr	France	27860
+br	Brazil	29849.9
+au	Australia	36064
+de	Germany	39379
+ca	Canada	49422
+in	India	65554
+ru	Russia	85494
+cn	China	150000
+us	United States	293564.2

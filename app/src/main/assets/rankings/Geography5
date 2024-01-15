@@ -1,0 +1,167 @@
+#ranking=Geography/Elevation/mean elevation
+#unit=m
+ki	Kiribati	2
+mh	Marshall Islands	2
+mv	Maldives	2
+tv	Tuvalu	2
+jm	Jamaica	18
+qa	Qatar	28
+nl	Netherlands	30
+dk	Denmark	34
+gm	The Gambia	34
+ee	Estonia	61
+sn	Senegal	69
+gw	Guinea-Bissau	70
+tt	Trinidad and Tobago	83
+bd	Bangladesh	85
+lv	Latvia	87
+cy	Cyprus	91
+cu	Cuba	108
+kw	Kuwait	108
+uy	Uruguay	109
+lt	Lithuania	110
+ie	Ireland	118
+kh	Cambodia	126
+md	Moldova	139
+hu	Hungary	143
+by	Belarus	160
+in	India	160
+fi	Finland	164
+bz	Belize	173
+pl	Poland	173
+ua	Ukraine	175
+py	Paraguay	178
+be	Belgium	181
+gh	Ghana	190
+gy	Guyana	207
+lk	Sri Lanka	228
+tm	Turkmenistan	230
+tg	Togo	236
+lr	Liberia	243
+sr	Suriname	246
+tn	Tunisia	246
+ci	Cote d'Ivoire	250
+eh	Western Sahara	256
+pr	Puerto Rico	261
+de	Germany	263
+bj	Benin	273
+mr	Mauritania	276
+sl	Sierra Leone	279
+kr	South Korea	282
+th	Thailand	287
+bf	Burkina Faso	297
+ni	Nicaragua	298
+sz	Eswatini	305
+om	Oman	310
+iq	Iraq	312
+br	Brazil	320
+se	Sweden	320
+eg	Egypt	321
+lu	Luxembourg	325
+au	Australia	330
+hr	Croatia	331
+ml	Mali	343
+mz	Mozambique	345
+pa	Panama	360
+id	Indonesia	367
+pt	Portugal	372
+fr	France	375
+ga	Gabon	377
+ng	Nigeria	380
+az	Azerbaijan	384
+kz	Kazakhstan	387
+nz	New Zealand	388
+vn	Vietnam	398
+so	Somalia	410
+ro	Romania	414
+my	Malaysia	419
+ly	Libya	423
+do	The Dominican	424
+cg	Congo (Brazzaville)	430
+dj	Djibouti	430
+cz	Czechia	433
+jp	Japan	438
+ph	Philippines	442
+rs	Serbia	442
+sv	El Salvador	442
+ve	Venezuela	450
+xk	Kosovo	450
+sk	Slovakia	458
+no	Norway	460
+ht	Haiti	470
+bg	Bulgaria	472
+gn	Guinea	472
+ne	Niger	474
+bn	Brunei	478
+ca	Canada	487
+si	Slovenia	492
+gr	Greece	498
+ba	Bosnia and Herzegovina	500
+il	Israel	508
+sy	Syria	514
+it	Italy	538
+td	Chad	543
+is	Iceland	557
+sd	Sudan	568
+gq	Equatorial Guinea	577
+co	Colombia	593
+ar	Argentina	595
+kp	North Korea	600
+ru	Russia	600
+mg	Madagascar	615
+es	Spain	660
+sa	Saudi Arabia	665
+cm	Cameroon	667
+pg	Papua New Guinea	667
+hn	Honduras	684
+mm	Burma	702
+al	Albania	708
+la	Laos	710
+cd	DRC	726
+mk	North Macedonia	741
+cr	Costa Rica	746
+gt	Guatemala	759
+us	United States	760
+ke	Kenya	762
+mw	Malawi	779
+dz	Algeria	800
+jo	Jordan	812
+er	Eritrea	853
+pk	Pakistan	900
+ma	Morocco	909
+at	Austria	910
+zw	Zimbabwe	961
+ye	Yemen	999
+bw	Botswana	1013
+tz	Tanzania	1018
+za	South Africa	1034
+me	Montenegro	1086
+mx	Mexico	1111
+ao	Angola	1112
+ec	Ecuador	1117
+tr	Turkey	1132
+zm	Zambia	1138
+na	Namibia	1141
+tw	Taiwan	1150
+bo	Bolivia	1192
+lb	Lebanon	1250
+ir	Iran	1305
+et	Ethiopia	1330
+ch	Switzerland	1350
+ge	Georgia	1432
+bi	Burundi	1504
+mn	Mongolia	1528
+pe	Peru	1555
+rw	Rwanda	1598
+am	Armenia	1792
+gl	Greenland	1792
+cn	China	1840
+cl	Chile	1871
+af	Afghanistan	1884
+ad	Andorra	1996
+ls	Lesotho	2161
+bt	Bhutan	2220
+aq	Antarctica	2300
+np	Nepal	2565
+kg	Kyrgyzstan	2988
+tj	Tajikistan	3186

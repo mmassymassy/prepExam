@@ -1,0 +1,232 @@
+#ranking=Geography/Land boundaries/total
+#unit=km
+ag	Antigua and Barbuda	0
+ai	Anguilla	0
+as	American Samoa	0
+au	Australia	0
+aw	Aruba	0
+bb	Barbados	0
+bh	Bahrain	0
+bl	Saint Barthelemy	0
+bm	Bermuda	0
+bs	The Bahamas	0
+cc	Cocos (Keeling) Islands	0
+ck	Cook Islands	0
+cv	Cabo Verde	0
+cx	Christmas Island	0
+dm	Dominica	0
+fj	Fiji	0
+fk	Falkland Islands (Islas Malvinas)	0
+fo	Faroe Islands	0
+gd	Grenada	0
+gg	Guernsey	0
+gl	Greenland	0
+gu	Guam	0
+hm	Heard Island and McDonald Islands	0
+im	Isle of Man	0
+is	Iceland	0
+je	Jersey	0
+jm	Jamaica	0
+jp	Japan	0
+ki	Kiribati	0
+km	Comoros	0
+kn	Saint Kitts and Nevis	0
+ky	Cayman Islands	0
+lc	Saint Lucia	0
+lk	Sri Lanka	0
+mg	Madagascar	0
+mh	Marshall Islands	0
+mp	Northern Mariana Islands	0
+ms	Montserrat	0
+mt	Malta	0
+mu	Mauritius	0
+mv	Maldives	0
+nc	New Caledonia	0
+nf	Norfolk Island	0
+nr	Nauru	0
+nu	Niue	0
+nz	New Zealand	0
+pf	French Polynesia	0
+ph	Philippines	0
+pm	Saint Pierre and Miquelon	0
+pn	Pitcairn Islands	0
+pr	Puerto Rico	0
+pw	Palau	0
+sb	Solomon Islands	0
+sc	Seychelles	0
+sg	Singapore	0
+st	Sao Tome and Principe	0
+tc	Turks and Caicos Islands	0
+tf	French Southern and Antarctic Lands	0
+tk	Tokelau	0
+to	Tonga	0
+tt	Trinidad and Tobago	0
+tv	Tuvalu	0
+tw	Taiwan	0
+vc	Saint Vincent and the Grenadines	0
+vg	British Virgin Islands	0
+vi	Virgin Islands	0
+vu	Vanuatu	0
+wf	Wallis and Futuna	0
+ws	Samoa	0
+gi	Gibraltar	1.2
+mo	Macau	3
+va	Holy See (Vatican City)	3.4
+mc	Monaco	6
+sx	Sint Maarten	16
+cu	Cuba	28.5
+hk	Hong Kong	33
+sm	San Marino	37
+ps	Gaza Strip	72
+li	Liechtenstein	75
+qa	Qatar	87
+ad	Andorra	118
+dk	Denmark	140
+cy	Cyprus	156
+kr	South Korea	237
+tl	Timor-Leste	253
+bn	Brunei	266
+lu	Luxembourg	327
+do	The Dominican	376
+ht	Haiti	376
+kw	Kuwait	475
+lb	Lebanon	484
+ie	Ireland	490
+dj	Djibouti	528
+gq	Equatorial Guinea	528
+bz	Belize	542
+sz	Eswatini	546
+sv	El Salvador	590
+ee	Estonia	657
+cr	Costa Rica	661
+me	Montenegro	680
+pa	Panama	687
+al	Albania	691
+xk	Kosovo	714
+gm	The Gambia	749
+gw	Guinea-Bissau	762
+pg	Papua New Guinea	824
+mk	North Macedonia	838
+rw	Rwanda	930
+nl	Netherlands	1053
+il	Israel	1068
+sl	Sierra Leone	1093
+ls	Lesotho	1106
+gr	Greece	1110
+bt	Bhutan	1136
+bi	Burundi	1140
+si	Slovenia	1211
+pt	Portugal	1224
+ni	Nicaragua	1253
+be	Belgium	1297
+lv	Latvia	1370
+tn	Tunisia	1495
+ba	Bosnia and Herzegovina	1543
+lt	Lithuania	1545
+om	Oman	1561
+am	Armenia	1570
+hn	Honduras	1575
+sk	Slovakia	1587
+uy	Uruguay	1591
+ye	Yemen	1601
+kp	North Korea	1607
+gt	Guatemala	1667
+lr	Liberia	1667
+jo	Jordan	1744
+ch	Switzerland	1770
+bg	Bulgaria	1806
+ge	Georgia	1814
+it	Italy	1836.4
+er	Eritrea	1840
+tg	Togo	1880
+md	Moldova	1885
+sr	Suriname	1907
+es	Spain	1952.7
+cz	Czechia	2046
+eh	Western Sahara	2049
+hu	Hungary	2106
+bj	Benin	2123
+se	Sweden	2211
+ec	Ecuador	2237
+hr	Croatia	2237
+rs	Serbia	2322
+sy	Syria	2363
+so	Somalia	2385
+gh	Ghana	2420
+az	Azerbaijan	2468
+at	Austria	2524
+kh	Cambodia	2530
+fi	Finland	2563
+no	Norway	2566
+eg	Egypt	2612
+sn	Senegal	2684
+ug	Uganda	2729
+my	Malaysia	2742
+tr	Turkey	2816
+ro	Romania	2844
+mw	Malawi	2857
+pl	Poland	2865
+gy	Guyana	2933
+id	Indonesia	2958
+np	Nepal	3159
+zw	Zimbabwe	3229
+ga	Gabon	3261
+ke	Kenya	3457
+ci	Cote d'Ivoire	3458
+ma	Morocco	3523.5
+by	Belarus	3599
+bf	Burkina Faso	3611
+de	Germany	3694
+iq	Iraq	3809
+fr	France	3956
+gn	Guinea	4046
+tj	Tajikistan	4130
+tm	Turkmenistan	4158
+tz	Tanzania	4161
+na	Namibia	4220
+sa	Saudi Arabia	4272
+ly	Libya	4339
+bw	Botswana	4347.15
+mx	Mexico	4389
+bd	Bangladesh	4413
+ng	Nigeria	4477
+kg	Kyrgyzstan	4573
+vn	Vietnam	4616
+py	Paraguay	4655
+mz	Mozambique	4783
+mr	Mauritania	5002
+cm	Cameroon	5018
+za	South Africa	5244
+ve	Venezuela	5267
+la	Laos	5274
+ao	Angola	5369
+cg	Congo (Brazzaville)	5554
+ua	Ukraine	5581
+th	Thailand	5673
+ne	Niger	5834
+ir	Iran	5894
+et	Ethiopia	5925
+af	Afghanistan	5987
+ss	South Sudan	6018
+zm	Zambia	6043.15
+td	Chad	6406
+mm	Burma	6522
+co	Colombia	6672
+dz	Algeria	6734
+sd	Sudan	6819
+uz	Uzbekistan	6893
+pe	Peru	7062
+bo	Bolivia	7252
+pk	Pakistan	7257
+cl	Chile	7801
+ml	Mali	7908
+mn	Mongolia	8082
+ca	Canada	8891
+cd	DRC	11027
+ar	Argentina	11968
+us	United States	12002
+kz	Kazakhstan	13364
+in	India	13888
+br	Brazil	16145
+ru	Russia	22407
+cn	China	22457

@@ -1,0 +1,212 @@
+#ranking=Energy/Refined petroleum products - exports
+#unit=bbl/day
+af	Afghanistan	0
+am	Armenia	0
+as	American Samoa	0
+aw	Aruba	0
+bb	Barbados	0
+bf	Burkina Faso	0
+bi	Burundi	0
+bm	Bermuda	0
+bn	Brunei	0
+bs	The Bahamas	0
+bt	Bhutan	0
+bw	Botswana	0
+bz	Belize	0
+cd	DRC	0
+ck	Cook Islands	0
+cr	Costa Rica	0
+cv	Cabo Verde	0
+dm	Dominica	0
+do	The Dominican	0
+eh	Western Sahara	0
+er	Eritrea	0
+et	Ethiopia	0
+fj	Fiji	0
+fk	Falkland Islands (Islas Malvinas)	0
+fo	Faroe Islands	0
+gd	Grenada	0
+gi	Gibraltar	0
+gl	Greenland	0
+gn	Guinea	0
+gq	Equatorial Guinea	0
+gu	Guam	0
+gw	Guinea-Bissau	0
+gy	Guyana	0
+ht	Haiti	0
+jo	Jordan	0
+kh	Cambodia	0
+ki	Kiribati	0
+km	Comoros	0
+kn	Saint Kitts and Nevis	0
+kp	North Korea	0
+ky	Cayman Islands	0
+la	Laos	0
+lb	Lebanon	0
+lc	Saint Lucia	0
+lr	Liberia	0
+ls	Lesotho	0
+mg	Madagascar	0
+mh	Marshall Islands	0
+ml	Mali	0
+mm	Burma	0
+mn	Mongolia	0
+mo	Macau	0
+mr	Mauritania	0
+ms	Montserrat	0
+mu	Mauritius	0
+mv	Maldives	0
+mw	Malawi	0
+mz	Mozambique	0
+nc	New Caledonia	0
+np	Nepal	0
+nr	Nauru	0
+nu	Niue	0
+pf	French Polynesia	0
+pg	Papua New Guinea	0
+pm	Saint Pierre and Miquelon	0
+py	Paraguay	0
+rw	Rwanda	0
+sb	Solomon Islands	0
+sc	Seychelles	0
+sl	Sierra Leone	0
+so	Somalia	0
+ss	South Sudan	0
+st	Sao Tome and Principe	0
+sx	Sint Maarten	0
+sz	Eswatini	0
+tc	Turks and Caicos Islands	0
+td	Chad	0
+tg	Togo	0
+tj	Tajikistan	0
+tl	Timor-Leste	0
+to	Tonga	0
+tz	Tanzania	0
+ug	Uganda	0
+uy	Uruguay	0
+vc	Saint Vincent and the Grenadines	0
+vg	British Virgin Islands	0
+vu	Vanuatu	0
+ws	Samoa	0
+zw	Zimbabwe	0
+lu	Luxembourg	0
+tv	Tuvalu	0
+gm	The Gambia	42
+pa	Panama	66
+na	Namibia	80
+ag	Antigua and Barbuda	91
+ke	Kenya	173
+xk	Kosovo	192
+md	Moldova	275
+sv	El Salvador	347
+me	Montenegro	357
+zm	Zambia	371
+dj	Djibouti	403
+ni	Nicaragua	460
+cy	Cyprus	500
+jm	Jamaica	823
+bd	Bangladesh	901
+bj	Benin	1514
+nz	New Zealand	1782
+ua	Ukraine	1828
+ge	Georgia	2052
+kg	Kyrgyzstan	2290
+ng	Nigeria	2332
+is	Iceland	2530
+gh	Ghana	2654
+mk	North Macedonia	3065
+al	Albania	3250
+vi	Virgin Islands	3285
+lk	Sri Lanka	3871
+uz	Uzbekistan	3977
+sn	Senegal	4063
+ba	Bosnia and Herzegovina	4603
+ga	Gabon	4662
+ne	Niger	5422
+cg	Congo (Brazzaville)	5766
+ch	Switzerland	7345
+cl	Chile	7359
+iq	Iraq	8284
+sd	Sudan	8541
+cm	Cameroon	8545
+ma	Morocco	9504
+bo	Bolivia	9686
+mt	Malta	10400
+gt	Guatemala	10810
+sy	Syria	12520
+ye	Yemen	12670
+hn	Honduras	12870
+hk	Hong Kong	13570
+tn	Tunisia	13660
+sr	Suriname	14000
+rs	Serbia	15750
+lv	Latvia	16180
+ly	Libya	16880
+pr	Puerto Rico	18420
+cu	Cuba	24190
+pk	Pakistan	25510
+vn	Vietnam	25620
+ec	Ecuador	25870
+ph	Philippines	26710
+ee	Estonia	27150
+si	Slovenia	29350
+ao	Angola	30340
+ci	Cote d'Ivoire	31450
+om	Oman	33700
+ie	Ireland	37040
+hr	Croatia	40530
+az	Azerbaijan	46480
+eg	Egypt	47360
+at	Austria	49960
+cz	Czechia	52200
+tm	Turkmenistan	53780
+co	Colombia	56900
+ar	Argentina	58360
+hu	Hungary	58720
+pe	Peru	62640
+au	Australia	64120
+id	Indonesia	79930
+sk	Slovakia	81100
+bg	Bulgaria	92720
+ro	Romania	103000
+pl	Poland	104800
+za	South Africa	105600
+kz	Kazakhstan	105900
+tt	Trinidad and Tobago	106100
+il	Israel	111700
+dk	Denmark	133700
+tr	Turkey	141600
+pt	Portugal	143500
+mx	Mexico	155800
+fi	Finland	166200
+cw	Curacao	167500
+lt	Lithuania	174800
+my	Malaysia	208400
+bh	Bahrain	245300
+th	Thailand	278300
+br	Brazil	279000
+ve	Venezuela	325800
+tw	Taiwan	349600
+by	Belarus	351200
+jp	Japan	370900
+se	Sweden	371100
+gr	Greece	371900
+ir	Iran	397200
+no	Norway	432800
+fr	France	440600
+qa	Qatar	485000
+de	Germany	494000
+es	Spain	562400
+dz	Algeria	578800
+it	Italy	615900
+be	Belgium	680800
+kw	Kuwait	705500
+cn	China	848400
+ca	Canada	1115000.0
+in	India	1305000.0
+kr	South Korea	1396000.0
+sa	Saudi Arabia	1784000.0
+sg	Singapore	1820000.0
+nl	Netherlands	2406000.0
+ru	Russia	2671000.0
+us	United States	5218000.0

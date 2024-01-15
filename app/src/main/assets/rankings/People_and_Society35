@@ -1,0 +1,183 @@
+#ranking=People and Society/Maternal mortality ratio
+#unit=deaths/100,000 live births 
+by	Belarus	1
+no	Norway	2
+pl	Poland	2
+au	Australia	3
+cz	Czechia	3
+es	Spain	3
+il	Israel	3
+is	Iceland	3
+mk	North Macedonia	3
+mt	Malta	3
+sc	Seychelles	3
+de	Germany	4
+jp	Japan	4
+nl	Netherlands	4
+at	Austria	5
+be	Belgium	5
+dk	Denmark	5
+ee	Estonia	5
+hr	Croatia	5
+ie	Ireland	5
+it	Italy	5
+se	Sweden	5
+si	Slovenia	5
+sk	Slovakia	5
+tm	Turkmenistan	5
+ba	Bosnia and Herzegovina	6
+lu	Luxembourg	6
+me	Montenegro	6
+bg	Bulgaria	7
+ch	Switzerland	7
+kw	Kuwait	7
+nz	New Zealand	7
+sg	Singapore	7
+al	Albania	8
+fi	Finland	8
+fr	France	8
+gr	Greece	8
+kr	South Korea	8
+qa	Qatar	8
+lt	Lithuania	9
+ro	Romania	10
+rs	Serbia	10
+ca	Canada	11
+md	Moldova	12
+pt	Portugal	12
+kz	Kazakhstan	13
+ru	Russia	14
+cl	Chile	15
+hu	Hungary	15
+bh	Bahrain	16
+sa	Saudi Arabia	16
+eg	Egypt	17
+om	Oman	17
+tj	Tajikistan	17
+tr	Turkey	17
+ua	Ukraine	17
+lv	Latvia	18
+uy	Uruguay	19
+ps	Gaza Strip	20
+gd	Grenada	21
+lb	Lebanon	21
+my	Malaysia	21
+us	United States	21
+ag	Antigua and Barbuda	21
+cr	Costa Rica	22
+ir	Iran	22
+cn	China	23
+am	Armenia	27
+tt	Trinidad and Tobago	27
+ge	Georgia	28
+lk	Sri Lanka	29
+th	Thailand	29
+sy	Syria	30
+uz	Uzbekistan	30
+pr	Puerto Rico	34
+tn	Tunisia	37
+fj	Fiji	38
+bb	Barbados	39
+cu	Cuba	39
+mn	Mongolia	39
+az	Azerbaijan	41
+jo	Jordan	41
+cv	Cabo Verde	42
+sv	El Salvador	43
+bn	Brunei	44
+ar	Argentina	45
+kg	Kyrgyzstan	50
+pa	Panama	50
+mv	Maldives	57
+mx	Mexico	59
+ws	Samoa	59
+bt	Bhutan	60
+vc	Saint Vincent and the Grenadines	62
+ec	Ecuador	66
+cy	Cyprus	68
+pe	Peru	69
+py	Paraguay	71
+br	Brazil	72
+hn	Honduras	72
+ly	Libya	72
+ma	Morocco	72
+lc	Saint Lucia	73
+co	Colombia	75
+iq	Iraq	76
+ki	Kiribati	76
+bs	The Bahamas	77
+dz	Algeria	78
+ni	Nicaragua	78
+ph	Philippines	78
+mu	Mauritius	84
+vu	Vanuatu	94
+gt	Guatemala	96
+sr	Suriname	96
+jm	Jamaica	99
+in	India	103
+do	The Dominican	107
+kp	North Korea	107
+gy	Guyana	112
+sb	Solomon Islands	122
+bd	Bangladesh	123
+vn	Vietnam	124
+la	Laos	126
+to	Tonga	126
+mz	Mozambique	127
+za	South Africa	127
+bz	Belize	130
+zm	Zambia	135
+st	Sao Tome and Principe	146
+pk	Pakistan	154
+bo	Bolivia	161
+id	Indonesia	173
+np	Nepal	174
+mm	Burma	179
+ye	Yemen	183
+bw	Botswana	186
+pg	Papua New Guinea	192
+tl	Timor-Leste	204
+gq	Equatorial Guinea	212
+na	Namibia	215
+km	Comoros	217
+kh	Cambodia	218
+ao	Angola	222
+ga	Gabon	227
+dj	Djibouti	234
+tz	Tanzania	238
+rw	Rwanda	259
+ve	Venezuela	259
+sn	Senegal	261
+gh	Ghana	263
+bf	Burkina Faso	264
+et	Ethiopia	267
+sd	Sudan	270
+cg	Congo (Brazzaville)	282
+ug	Uganda	284
+er	Eritrea	322
+ht	Haiti	350
+zw	Zimbabwe	357
+mw	Malawi	381
+mg	Madagascar	392
+tg	Togo	399
+sz	Eswatini	437
+cm	Cameroon	438
+ml	Mali	440
+ne	Niger	441
+sl	Sierra Leone	443
+gm	The Gambia	458
+mr	Mauritania	465
+ci	Cote d'Ivoire	480
+bi	Burundi	494
+bj	Benin	523
+ke	Kenya	530
+cd	DRC	547
+gn	Guinea	553
+ls	Lesotho	566
+af	Afghanistan	620
+so	Somalia	621
+lr	Liberia	652
+gw	Guinea-Bissau	725
+ng	Nigeria	1047
+td	Chad	1063
+ss	South Sudan	1223

@@ -1,0 +1,118 @@
+#ranking=Transportation/Waterways
+#unit=km 
+ki	Kiribati	5
+gr	Greece	6
+li	Liechtenstein	28
+lu	Luxembourg	37
+al	Albania	41
+tg	Togo	50
+rw	Rwanda	90
+bj	Benin	150
+lk	Sri Lanka	160
+sk	Slovakia	172
+tj	Tajikistan	200
+fj	Fiji	203
+bn	Brunei	209
+pt	Portugal	210
+zw	Zimbabwe	223
+cu	Cuba	240
+lv	Latvia	300
+ne	Niger	300
+gy	Guyana	330
+ee	Estonia	335
+at	Austria	358
+gm	The Gambia	390
+dk	Denmark	400
+sv	El Salvador	422
+lt	Lithuania	441
+mz	Mozambique	460
+hn	Honduras	465
+bg	Bulgaria	470
+md	Moldova	558
+kg	Kyrgyzstan	576
+mn	Mongolia	580
+rs	Serbia	587
+mg	Madagascar	600
+ca	Canada	636
+cz	Czechia	664
+bi	Burundi	673
+mw	Malawi	700
+si	Slovenia	710
+cr	Costa Rica	730
+sl	Sierra Leone	800
+pa	Panama	800
+bz	Belize	825
+ir	Iran	850
+sy	Syria	900
+ug	Uganda	907
+ie	Ireland	956
+ci	Cote d'Ivoire	980
+gt	Guatemala	990
+ba	Bosnia and Herzegovina	990
+sn	Senegal	1000
+es	Spain	1000
+mr	Mauritania	1086
+uz	Uzbekistan	1100
+cg	Congo (Brazzaville)	1120
+tr	Turkey	1200
+af	Afghanistan	1200
+sr	Suriname	1200
+ch	Switzerland	1292
+gh	Ghana	1293
+tm	Turkmenistan	1300
+gn	Guinea	1300
+ao	Angola	1300
+gw	Guinea-Bissau	1367
+ec	Ecuador	1500
+no	Norway	1577
+tz	Tanzania	1594
+ga	Gabon	1600
+kr	South Korea	1600
+uy	Uruguay	1600
+hu	Hungary	1622
+ua	Ukraine	1672
+ro	Romania	1731
+jp	Japan	1770
+ml	Mali	1800
+au	Australia	2000
+be	Belgium	2043
+se	Sweden	2052
+ni	Nicaragua	2220
+zm	Zambia	2250
+kp	North Korea	2250
+it	Italy	2400
+by	Belarus	2500
+mx	Mexico	2900
+py	Paraguay	3100
+ph	Philippines	3219
+eg	Egypt	3500
+kh	Cambodia	3700
+pl	Poland	3997
+th	Thailand	4000
+sd	Sudan	4068
+la	Laos	4600
+hr	Croatia	4714
+iq	Iraq	5279
+nl	Netherlands	6237
+ve	Venezuela	7100
+my	Malaysia	7200
+de	Germany	7467
+fi	Finland	8000
+bd	Bangladesh	8370
+ng	Nigeria	8600
+pe	Peru	8808
+bo	Bolivia	10000
+pg	Papua New Guinea	11000
+ar	Argentina	11000
+td	Chad	12400
+mm	Burma	12800
+in	India	14500
+cd	DRC	15000
+id	Indonesia	21579
+co	Colombia	24725
+cn	China	27700
+us	United States	41009
+kz	Kazakhstan	43983
+vn	Vietnam	47130
+br	Brazil	50000
+ru	Russia	102000

@@ -1,0 +1,199 @@
+#ranking=People and Society/Youth unemployment rate (ages 15-24)/male
+#unit=%
+qa	Qatar	0.9
+ne	Niger	1.2
+kh	Cambodia	1.6
+sb	Solomon Islands	1.6
+rw	Rwanda	2.2
+bj	Benin	3.1
+lr	Liberia	3.2
+kz	Kazakhstan	3.3
+td	Chad	3.3
+la	Laos	3.4
+ug	Uganda	3.4
+sn	Senegal	3.5
+tz	Tanzania	3.7
+et	Ethiopia	4.4
+bi	Burundi	4.6
+jp	Japan	4.6
+ci	Cote d'Ivoire	4.8
+mg	Madagascar	5.2
+vu	Vanuatu	5.2
+md	Moldova	5.3
+kp	North Korea	5.4
+cm	Cameroon	6
+bh	Bahrain	6.1
+th	Thailand	6.2
+zw	Zimbabwe	6.2
+gt	Guatemala	6.3
+pg	Papua New Guinea	6.3
+ph	Philippines	6.3
+mm	Burma	6.5
+cz	Czechia	6.9
+gn	Guinea	7
+sg	Singapore	7
+vn	Vietnam	7.1
+de	Germany	7.2
+bf	Burkina Faso	7.5
+to	Tonga	7.5
+cu	Cuba	7.6
+mw	Malawi	7.6
+mx	Mexico	7.9
+mz	Mozambique	8.1
+il	Israel	8.4
+kr	South Korea	8.8
+cy	Cyprus	9.2
+pe	Peru	9.2
+ch	Switzerland	9.4
+dk	Denmark	9.7
+gh	Ghana	9.7
+pk	Pakistan	9.7
+tv	Tuvalu	9.8
+nl	Netherlands	10
+ni	Nicaragua	10.2
+us	United States	10.5
+np	Nepal	10.6
+sv	El Salvador	11.3
+ec	Ecuador	11.4
+gm	The Gambia	11.4
+hn	Honduras	11.4
+tl	Timor-Leste	11.4
+at	Austria	11.5
+hu	Hungary	11.5
+gw	Guinea-Bissau	11.6
+om	Oman	11.6
+mo	Macau	11.7
+im	Isle of Man	11.8
+cd	DRC	12
+lv	Latvia	12
+cn	China	12.1
+bz	Belize	12.2
+nz	New Zealand	12.2
+pl	Poland	12.3
+tg	Togo	12.3
+bd	Bangladesh	12.5
+au	Australia	12.7
+py	Paraguay	12.7
+si	Slovenia	12.7
+ke	Kenya	12.8
+tt	Trinidad and Tobago	12.8
+is	Iceland	13
+er	Eritrea	13.1
+ve	Venezuela	13.4
+tm	Turkmenistan	13.4
+no	Norway	13.5
+mt	Malta	13.6
+by	Belarus	14
+fj	Fiji	14.1
+my	Malaysia	14.2
+bg	Bulgaria	14.3
+az	Azerbaijan	14.4
+gu	Guam	14.7
+ca	Canada	15
+ml	Mali	15.4
+bt	Bhutan	15.6
+eg	Egypt	15.6
+kg	Kyrgyzstan	15.6
+ru	Russia	15.7
+sl	Sierra Leone	15.8
+uz	Uzbekistan	15.8
+gg	Guernsey	15.9
+je	Jersey	15.9
+ie	Ireland	16.1
+hk	Hong Kong	16.3
+id	Indonesia	16.3
+lu	Luxembourg	16.3
+ua	Ukraine	16.3
+ky	Cayman Islands	16.4
+ee	Estonia	16.5
+do	The Dominican	16.6
+ws	Samoa	16.7
+bo	Bolivia	16.8
+gq	Equatorial Guinea	17.1
+kw	Kuwait	17.1
+sc	Seychelles	17.5
+st	Sao Tome and Principe	18
+ao	Angola	18.2
+lt	Lithuania	18.5
+af	Afghanistan	18.6
+be	Belgium	18.9
+fi	Finland	19
+pr	Puerto Rico	19.4
+tj	Tajikistan	19.4
+sk	Slovakia	19.6
+mu	Mauritius	19.7
+ng	Nigeria	19.8
+fr	France	19.9
+mv	Maldives	19.9
+mn	Mongolia	20.1
+cl	Chile	20.4
+pt	Portugal	20.6
+bn	Brunei	20.7
+mr	Mauritania	20.8
+nr	Nauru	20.9
+ro	Romania	20.9
+lk	Sri Lanka	21.1
+ki	Kiribati	21.2
+sm	San Marino	21.4
+tr	Turkey	21.4
+sy	Syria	21.6
+hr	Croatia	21.8
+km	Comoros	21.8
+pa	Panama	21.8
+ss	South Sudan	21.8
+co	Colombia	21.9
+jm	Jamaica	22.1
+sr	Suriname	22.1
+sa	Saudi Arabia	22.4
+gy	Guyana	23.5
+iq	Iraq	23.5
+ir	Iran	24
+vi	Virgin Islands	24.1
+ye	Yemen	24.3
+ar	Argentina	25
+mc	Monaco	25.7
+se	Sweden	26.1
+ma	Morocco	26.7
+zm	Zambia	26.7
+br	Brazil	27
+ge	Georgia	27.4
+bs	The Bahamas	27.5
+dz	Algeria	27.8
+al	Albania	28
+ht	Haiti	28.1
+ba	Bosnia and Herzegovina	28.2
+me	Montenegro	28.3
+uy	Uruguay	28.3
+rs	Serbia	28.5
+in	India	28.6
+it	Italy	29.1
+bm	Bermuda	29.7
+cv	Cabo Verde	29.9
+sd	Sudan	30.5
+lb	Lebanon	30.8
+mh	Marshall Islands	31
+mk	North Macedonia	31.6
+so	Somalia	32.5
+ls	Lesotho	32.8
+gr	Greece	33.5
+ga	Gabon	33.7
+ps	Gaza Strip	33.7
+am	Armenia	34
+bb	Barbados	34.8
+pf	French Polynesia	35.4
+es	Spain	35.9
+cr	Costa Rica	37
+tn	Tunisia	37.1
+jo	Jordan	37.4
+cw	Curacao	38.1
+nc	New Caledonia	39.2
+na	Namibia	39.4
+bw	Botswana	39.5
+vc	Saint Vincent and the Grenadines	39.7
+lc	Saint Lucia	41
+ly	Libya	41.4
+cg	Congo (Brazzaville)	42.2
+xk	Kosovo	44.9
+sz	Eswatini	47.7
+za	South Africa	59.8
+dj	Djibouti	78.6

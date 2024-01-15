@@ -1,0 +1,222 @@
+#ranking=People and Society/Major urban areas - population
+#unit=
+pw	Palau	277
+nu	Niue	1000
+wf	Wallis and Futuna	1000
+ai	Anguilla	1000
+va	Holy See (Vatican City)	1000
+sx	Sint Maarten	1327
+fk	Falkland Islands (Islas Malvinas)	2000
+sm	San Marino	4000
+tc	Turks and Caicos Islands	5000
+li	Liechtenstein	5000
+pm	Saint Pierre and Miquelon	6000
+tv	Tuvalu	7000
+bm	Bermuda	10000
+kn	Saint Kitts and Nevis	14000
+vg	British Virgin Islands	15000
+dm	Dominica	15000
+gg	Guernsey	16000
+gl	Greenland	18000
+ag	Antigua and Barbuda	21000
+fo	Faroe Islands	21000
+lc	Saint Lucia	22000
+ad	Andorra	23000
+bz	Belize	23000
+to	Tonga	23000
+im	Isle of Man	27000
+vc	Saint Vincent and the Grenadines	27000
+sc	Seychelles	28000
+aw	Aruba	30000
+mh	Marshall Islands	31000
+je	Jersey	34000
+ky	Cayman Islands	35000
+gi	Gibraltar	35000
+ws	Samoa	36000
+mc	Monaco	39000
+gd	Grenada	39000
+as	American Samoa	49000
+mp	Northern Mariana Islands	51000
+vi	Virgin Islands	52000
+vu	Vanuatu	53000
+km	Comoros	62000
+ki	Kiribati	64000
+sz	Eswatini	68000
+st	Sao Tome and Principe	80000
+sb	Solomon Islands	82000
+bb	Barbados	89000
+lk	Sri Lanka	103000
+gy	Guyana	110000
+lu	Luxembourg	120000
+pf	French Polynesia	136000
+cw	Curacao	144000
+gu	Guam	147000
+mu	Mauritius	149000
+cv	Cabo Verde	168000
+mv	Maldives	177000
+me	Montenegro	177000
+fj	Fiji	178000
+nc	New Caledonia	198000
+ls	Lesotho	202000
+bt	Bhutan	203000
+mt	Malta	213000
+is	Iceland	216000
+xk	Kosovo	218782
+ci	Cote d'Ivoire	231000
+eh	Western Sahara	232000
+sr	Suriname	239000
+tz	Tanzania	262000
+bn	Brunei	266682
+bw	Botswana	269000
+cy	Cyprus	269000
+bs	The Bahamas	280000
+tl	Timor-Leste	281000
+bj	Benin	285000
+si	Slovenia	286000
+gq	Equatorial Guinea	297000
+ba	Bosnia and Herzegovina	346000
+pg	Papua New Guinea	410000
+sk	Slovakia	441000
+ee	Estonia	454000
+ss	South Sudan	459000
+na	Namibia	477000
+gm	The Gambia	481000
+md	Moldova	488000
+al	Albania	520000
+lt	Lithuania	541000
+tt	Trinidad and Tobago	545000
+jm	Jamaica	597000
+dj	Djibouti	600000
+mk	North Macedonia	611000
+lv	Latvia	621000
+gw	Guinea-Bissau	664000
+mo	Macau	682000
+hr	Croatia	684000
+bh	Bahrain	709000
+la	Laos	721000
+ps	Gaza Strip	778000
+qa	Qatar	798000
+ga	Gabon	870000
+tm	Turkmenistan	902000
+tj	Tajikistan	987000
+er	Eritrea	1073000.0
+ge	Georgia	1082000.0
+no	Norway	1086000.0
+ni	Nicaragua	1095000.0
+am	Armenia	1095000.0
+kg	Kyrgyzstan	1105000.0
+sv	El Salvador	1116000.0
+nl	Netherlands	1174000.0
+ly	Libya	1183000.0
+bi	Burundi	1207000.0
+rw	Rwanda	1248000.0
+ie	Ireland	1270000.0
+mw	Malawi	1276000.0
+bg	Bulgaria	1288000.0
+sl	Sierra Leone	1309000.0
+cz	Czechia	1323000.0
+fi	Finland	1338000.0
+dk	Denmark	1381000.0
+rs	Serbia	1408000.0
+ch	Switzerland	1432000.0
+ne	Niger	1437000.0
+cr	Costa Rica	1462000.0
+mr	Mauritania	1492000.0
+hn	Honduras	1568000.0
+np	Nepal	1571000.0
+zw	Zimbabwe	1578000.0
+td	Chad	1592000.0
+om	Oman	1650000.0
+nz	New Zealand	1673000.0
+mn	Mongolia	1673000.0
+lr	Liberia	1678000.0
+se	Sweden	1700000.0
+uy	Uruguay	1774000.0
+ro	Romania	1776000.0
+hu	Hungary	1778000.0
+pl	Poland	1798000.0
+mz	Mozambique	1852000.0
+bo	Bolivia	1936000.0
+at	Austria	1975000.0
+pa	Panama	1977000.0
+tg	Togo	1982000.0
+kz	Kazakhstan	1987000.0
+by	Belarus	2057000.0
+gn	Guinea	2111000.0
+be	Belgium	2122000.0
+cu	Cuba	2149000.0
+jo	Jordan	2232000.0
+kh	Cambodia	2281000.0
+lb	Lebanon	2421000.0
+az	Azerbaijan	2432000.0
+pr	Puerto Rico	2440000.0
+tn	Tunisia	2475000.0
+sy	Syria	2585000.0
+uz	Uzbekistan	2603000.0
+so	Somalia	2610000.0
+cg	Congo (Brazzaville)	2638000.0
+dz	Algeria	2902000.0
+ml	Mali	2929000.0
+ve	Venezuela	2972000.0
+ht	Haiti	2987000.0
+pt	Portugal	3001000.0
+ua	Ukraine	3017000.0
+gt	Guatemala	3095000.0
+ec	Ecuador	3142000.0
+gr	Greece	3154000.0
+kp	North Korea	3158000.0
+zm	Zambia	3181000.0
+bf	Burkina Faso	3204000.0
+ye	Yemen	3292000.0
+kw	Kuwait	3298000.0
+sn	Senegal	3340000.0
+py	Paraguay	3511000.0
+do	The Dominican	3524000.0
+de	Germany	3574000.0
+gh	Ghana	3768000.0
+ug	Uganda	3846000.0
+mg	Madagascar	3872000.0
+ma	Morocco	3893000.0
+it	Italy	4316000.0
+il	Israel	4421000.0
+tw	Taiwan	4504000.0
+cm	Cameroon	4509000.0
+af	Afghanistan	4589000.0
+au	Australia	5235000.0
+ke	Kenya	5325000.0
+et	Ethiopia	5461000.0
+mm	Burma	5610000.0
+sg	Singapore	6081000.0
+sd	Sudan	6344000.0
+ca	Canada	6372000.0
+es	Spain	6751000.0
+cl	Chile	6903000.0
+sa	Saudi Arabia	7682000.0
+hk	Hong Kong	7685000.0
+iq	Iraq	7711000.0
+my	Malaysia	8622000.0
+ao	Angola	9292000.0
+vn	Vietnam	9321000.0
+ir	Iran	9500000.0
+kr	South Korea	9988000.0
+za	South Africa	10316000.0
+th	Thailand	11070000.0
+pe	Peru	11204000.0
+fr	France	11208000.0
+id	Indonesia	11249000.0
+co	Colombia	11508000.0
+ru	Russia	12680000.0
+ph	Philippines	14667000.0
+ar	Argentina	15490000.0
+tr	Turkey	15848000.0
+ng	Nigeria	15946000.0
+cd	DRC	16315999.999999998
+pk	Pakistan	17236000.0
+us	United States	18937000.0
+eg	Egypt	22183000.0
+mx	Mexico	22281000.0
+br	Brazil	22620000.0
+bd	Bangladesh	23210000.0
+cn	China	29211000.0
+in	India	32941000.000000004
+jp	Japan	37194000.0

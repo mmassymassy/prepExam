@@ -1,0 +1,178 @@
+#ranking=Economy/Population below poverty line
+#unit=% 
+tm	Turkmenistan	0.2
+cn	China	0.6
+ua	Ukraine	1.1
+tw	Taiwan	1.5
+lk	Sri Lanka	4.1
+br	Brazil	4.2
+kz	Kazakhstan	4.3
+ma	Morocco	4.8
+az	Azerbaijan	4.9
+by	Belarus	5
+dz	Algeria	5.5
+my	Malaysia	5.6
+vn	Vietnam	6.7
+md	Moldova	7.3
+mv	Maldives	8.2
+bt	Bhutan	8.2
+cl	Chile	8.6
+is	Iceland	8.8
+uy	Uruguay	8.8
+bs	The Bahamas	9.3
+ca	Canada	9.4
+id	Indonesia	9.4
+th	Thailand	9.9
+fo	Faroe Islands	10
+cz	Czechia	10.1
+mu	Mauritius	10.3
+bm	Bermuda	11
+sk	Slovakia	11.9
+si	Slovenia	12
+fi	Finland	12.2
+hu	Hungary	12.3
+dk	Denmark	12.5
+ru	Russia	12.6
+sb	Solomon Islands	12.7
+no	Norway	12.7
+ie	Ireland	13.1
+at	Austria	13.3
+fr	France	13.6
+nl	Netherlands	13.6
+uz	Uzbekistan	14.1
+al	Albania	14.3
+kr	South Korea	14.4
+tr	Turkey	14.4
+cy	Cyprus	14.7
+be	Belgium	14.8
+de	Germany	14.8
+us	United States	15.1
+tn	Tunisia	15.2
+pl	Poland	15.4
+jo	Jordan	15.7
+ch	Switzerland	16
+jp	Japan	16.1
+gl	Greenland	16.2
+kh	Cambodia	16.5
+ph	Philippines	16.7
+ba	Bosnia and Herzegovina	16.9
+nc	New Caledonia	17
+jm	Jamaica	17.1
+mt	Malta	17.1
+se	Sweden	17.1
+pt	Portugal	17.2
+na	Namibia	17.4
+lu	Luxembourg	17.5
+xk	Kosovo	17.6
+gr	Greece	17.9
+hr	Croatia	18.3
+la	Laos	18.3
+ir	Iran	18.7
+bw	Botswana	19.3
+ge	Georgia	19.5
+pf	French Polynesia	19.7
+hk	Hong Kong	19.9
+tt	Trinidad and Tobago	20
+it	Italy	20.1
+kg	Kyrgyzstan	20.1
+pe	Peru	20.2
+ws	Samoa	20.3
+lt	Lithuania	20.6
+es	Spain	20.7
+cr	Costa Rica	21
+do	The Dominican	21
+dj	Djibouti	21.1
+ug	Uganda	21.4
+mk	North Macedonia	21.6
+ee	Estonia	21.7
+in	India	21.9
+il	Israel	22
+pa	Panama	22.1
+to	Tonga	22.5
+sv	El Salvador	22.8
+lv	Latvia	22.9
+gu	Guam	23
+ai	Anguilla	23
+iq	Iraq	23
+rs	Serbia	23.2
+gh	Ghana	23.4
+et	Ethiopia	23.5
+py	Paraguay	23.5
+ro	Romania	23.8
+bg	Bulgaria	23.8
+pk	Pakistan	24.3
+bd	Bangladesh	24.3
+me	Montenegro	24.5
+mm	Burma	24.8
+pw	Palau	24.9
+ni	Nicaragua	24.9
+lc	Saint Lucia	25
+ec	Ecuador	25
+np	Nepal	25.2
+sc	Seychelles	25.3
+tv	Tuvalu	26.3
+tj	Tajikistan	26.3
+tz	Tanzania	26.4
+am	Armenia	26.4
+lb	Lebanon	27.4
+mn	Mongolia	28.4
+vi	Virgin Islands	28.9
+dm	Dominica	29
+fj	Fiji	29.9
+ps	Gaza Strip	30
+mr	Mauritania	31
+ao	Angola	32.3
+eg	Egypt	32.5
+ve	Venezuela	33.1
+ga	Gabon	33.4
+gy	Guyana	35
+cv	Cabo Verde	35
+ar	Argentina	35.5
+co	Colombia	35.7
+ke	Kenya	36.1
+pg	Papua New Guinea	37
+bo	Bolivia	37.2
+cm	Cameroon	37.5
+gd	Grenada	38
+rw	Rwanda	38.2
+zw	Zimbabwe	38.3
+bj	Benin	38.5
+ci	Cote d'Ivoire	39.5
+ng	Nigeria	40.1
+ne	Niger	40.8
+cg	Congo (Brazzaville)	40.9
+bz	Belize	41
+bf	Burkina Faso	41.4
+tl	Timor-Leste	41.8
+mx	Mexico	41.9
+ml	Mali	42.1
+td	Chad	42.3
+km	Comoros	42.4
+gn	Guinea	43.7
+gq	Equatorial Guinea	44
+mz	Mozambique	46.1
+sd	Sudan	46.5
+sn	Senegal	46.7
+hn	Honduras	48.3
+ye	Yemen	48.6
+gm	The Gambia	48.6
+ls	Lesotho	49.7
+er	Eritrea	50
+lr	Liberia	50.9
+mw	Malawi	51.5
+zm	Zambia	54.4
+af	Afghanistan	54.5
+tg	Togo	55.1
+za	South Africa	55.5
+sl	Sierra Leone	56.8
+ht	Haiti	58.5
+sz	Eswatini	58.9
+gt	Guatemala	59.3
+cd	DRC	63
+bi	Burundi	64.6
+st	Sao Tome and Principe	66.7
+gw	Guinea-Bissau	67
+sr	Suriname	70
+mg	Madagascar	70.7
+ss	South Sudan	76.4
+sy	Syria	82.5

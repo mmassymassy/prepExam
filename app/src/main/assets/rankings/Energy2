@@ -1,0 +1,211 @@
+#ranking=Energy/Carbon dioxide emissions/from consumed natural gas
+#unit=metric tonnes of CO2 (2019 est.)
+ps	Gaza Strip	0
+ag	Antigua and Barbuda	0
+aq	Antarctica	0
+as	American Samoa	0
+aw	Aruba	0
+bf	Burkina Faso	0
+bi	Burundi	0
+bm	Bermuda	0
+bt	Bhutan	0
+bw	Botswana	0
+bz	Belize	0
+ck	Cook Islands	0
+cr	Costa Rica	0
+cv	Cabo Verde	0
+cy	Cyprus	0
+dj	Djibouti	0
+dm	Dominica	0
+er	Eritrea	0
+et	Ethiopia	0
+fj	Fiji	0
+fk	Falkland Islands (Islas Malvinas)	0
+fo	Faroe Islands	0
+gd	Grenada	0
+gl	Greenland	0
+gm	The Gambia	0
+gn	Guinea	0
+gt	Guatemala	0
+gu	Guam	0
+gw	Guinea-Bissau	0
+gy	Guyana	0
+hn	Honduras	0
+is	Iceland	0
+ke	Kenya	0
+kh	Cambodia	0
+ki	Kiribati	0
+km	Comoros	0
+kn	Saint Kitts and Nevis	0
+kp	North Korea	0
+ky	Cayman Islands	0
+la	Laos	0
+lb	Lebanon	0
+lc	Saint Lucia	0
+lk	Sri Lanka	0
+lr	Liberia	0
+ls	Lesotho	0
+me	Montenegro	0
+mg	Madagascar	0
+ml	Mali	0
+mn	Mongolia	0
+mp	Northern Mariana Islands	0
+mr	Mauritania	0
+ms	Montserrat	0
+mu	Mauritius	0
+mv	Maldives	0
+mw	Malawi	0
+na	Namibia	0
+nc	New Caledonia	0
+ne	Niger	0
+ni	Nicaragua	0
+np	Nepal	0
+nr	Nauru	0
+nu	Niue	0
+pf	French Polynesia	0
+pm	Saint Pierre and Miquelon	0
+py	Paraguay	0
+rw	Rwanda	0
+sb	Solomon Islands	0
+sc	Seychelles	0
+sd	Sudan	0
+sl	Sierra Leone	0
+so	Somalia	0
+ss	South Sudan	0
+st	Sao Tome and Principe	0
+sv	El Salvador	0
+sz	Eswatini	0
+tc	Turks and Caicos Islands	0
+td	Chad	0
+tl	Timor-Leste	0
+to	Tonga	0
+tv	Tuvalu	0
+ug	Uganda	0
+vc	Saint Vincent and the Grenadines	0
+vg	British Virgin Islands	0
+vi	Virgin Islands	0
+vu	Vanuatu	0
+ws	Samoa	0
+xk	Kosovo	0
+zm	Zambia	0
+zw	Zimbabwe	0
+cd	DRC	1000
+ht	Haiti	2000
+bs	The Bahamas	7000
+sr	Suriname	11000
+bj	Benin	37000
+bb	Barbados	41000
+al	Albania	78000
+tg	Togo	87000
+sn	Senegal	101000
+gi	Gibraltar	111000
+ye	Yemen	183000
+uy	Uruguay	190000
+af	Afghanistan	267000
+mo	Macau	268000
+tj	Tajikistan	309000
+kg	Kyrgyzstan	408000
+ba	Bosnia and Herzegovina	415000
+mk	North Macedonia	423000
+pg	Papua New Guinea	526000
+jm	Jamaica	549000
+ga	Gabon	626000
+ec	Ecuador	677000
+mt	Malta	745000
+ee	Estonia	901000
+pa	Panama	1077000.0
+si	Slovenia	1506000.0
+lu	Luxembourg	1594000.0
+ao	Angola	1689000.0
+cu	Cuba	1814000.0
+cm	Cameroon	1935000.0
+ma	Morocco	2099000.0
+gq	Equatorial Guinea	2119000.0
+se	Sweden	2359000.0
+lv	Latvia	2608000.0
+tz	Tanzania	2705000.0
+cg	Congo (Brazzaville)	2747000.0
+mz	Mozambique	2901000.0
+do	The Dominican	3144000.0
+pr	Puerto Rico	3818000.0
+lt	Lithuania	4322000.0
+gh	Ghana	4364000.0
+ci	Cote d'Ivoire	4548000.0
+md	Moldova	4773000.0
+rs	Serbia	4878000.0
+fi	Finland	4882000.0
+am	Armenia	4978000.0
+ge	Georgia	4992000.0
+bg	Bulgaria	5642000.0
+hr	Croatia	5678000.0
+bo	Bolivia	5715000.0
+dk	Denmark	5775000.0
+hk	Hong Kong	6484000.0
+ch	Switzerland	6926000.0
+sy	Syria	6927000.0
+ph	Philippines	7044000.0
+mm	Burma	7134000.0
+jo	Jordan	7303000.0
+bn	Brunei	7569000.0
+ly	Libya	8279000.0
+no	Norway	8294000.000000001
+sk	Slovakia	9238000.0
+za	South Africa	9361000.0
+nz	New Zealand	9445000.0
+gr	Greece	10358000.0
+tn	Tunisia	10694000.0
+ie	Ireland	10965000.0
+pt	Portugal	12059000.0
+cl	Chile	12888000.0
+vn	Vietnam	16379000.000000002
+cz	Czechia	16739000.0
+at	Austria	17695000.0
+il	Israel	18023000.0
+pe	Peru	18706000.0
+hu	Hungary	19520000.0
+ro	Romania	20588000.0
+co	Colombia	20662000.0
+az	Azerbaijan	22497000.0
+sg	Singapore	26280000.0
+kz	Kazakhstan	28557000.0
+be	Belgium	34472000.0
+tt	Trinidad and Tobago	35011000.0
+iq	Iraq	35339000.0
+bh	Bahrain	35804000.0
+by	Belarus	36217000.0
+ng	Nigeria	36856000.0
+pl	Poland	37158000.0
+tw	Taiwan	45554000.0
+ve	Venezuela	46222000.0
+om	Oman	46447000.0
+kw	Kuwait	47715000.0
+ua	Ukraine	49392000.0
+bd	Bangladesh	61107000.0
+br	Brazil	64316000.0
+es	Spain	72582000.0
+nl	Netherlands	75027000.0
+my	Malaysia	78104000.0
+qa	Qatar	78482000.0
+pk	Pakistan	78611000.0
+uz	Uzbekistan	83619000.0
+fr	France	85589000.0
+tr	Turkey	85907000.0
+id	Indonesia	86938000.0
+tm	Turkmenistan	89060000.0
+dz	Algeria	93414000.0
+ar	Argentina	96875000.0
+au	Australia	96942000.0
+th	Thailand	100321000.0
+kr	South Korea	112052000.0
+eg	Egypt	114128000.0
+in	India	124505000.0
+it	Italy	142375000.0
+mx	Mexico	160188000.0
+de	Germany	192181000.0
+jp	Japan	219720000.0
+sa	Saudi Arabia	221211000.0
+ca	Canada	244660000.0
+ir	Iran	436687000.0
+cn	China	600276000.0
+ru	Russia	921748000.0
+us	United States	1684008000

@@ -1,0 +1,179 @@
+#ranking=Environment/Total water withdrawal/industrial
+#unit=cubic meters 
+dj	Djibouti	0
+dm	Dominica	0
+gd	Grenada	0
+kn	Saint Kitts and Nevis	0
+lc	Saint Lucia	0
+mc	Monaco	0
+vc	Saint Vincent and the Grenadines	2000
+mv	Maldives	300000
+cv	Cabo Verde	400000
+km	Comoros	500000
+st	Sao Tome and Principe	600000
+er	Eritrea	1000000
+mt	Malta	1000000
+lu	Luxembourg	1600000.0
+so	Somalia	2000000
+tl	Timor-Leste	2000000
+ag	Antigua and Barbuda	2500000.0
+gq	Equatorial Guinea	3000000
+bt	Bhutan	3000000
+sc	Seychelles	3800000.0
+ml	Mali	4000000
+bb	Barbados	10000000
+bh	Bahrain	10000000
+fj	Fiji	10000000
+ga	Gabon	10000000
+gw	Guinea-Bissau	10000000
+mu	Mauritius	10000000
+na	Namibia	10000000
+pa	Panama	10000000
+rw	Rwanda	10000000
+tg	Togo	10000000
+al	Albania	20000000
+bf	Burkina Faso	20000000
+bi	Burundi	20000000
+bz	Belize	20000000
+cg	Congo (Brazzaville)	20000000
+cy	Cyprus	20000000
+gm	The Gambia	20000000
+gy	Guyana	20000000
+kw	Kuwait	20000000
+ls	Lesotho	20000000
+mk	North Macedonia	20000000
+sz	Eswatini	20000000
+bj	Benin	30000000
+bo	Bolivia	30000000
+bw	Botswana	30000000
+kh	Cambodia	30000000
+mr	Mauritania	30000000
+mz	Mozambique	30000000
+np	Nepal	30000000
+tz	Tanzania	30000000
+ps	Gaza Strip	32000000
+jo	Jordan	40000000
+lv	Latvia	40000000
+ne	Niger	40000000
+dk	Denmark	50000000
+et	Ethiopia	50000000
+ht	Haiti	50000000
+lr	Liberia	50000000
+mw	Malawi	50000000
+ni	Nicaragua	50000000
+ug	Uganda	50000000
+sn	Senegal	58000000
+ba	Bosnia and Herzegovina	60000000
+gn	Guinea	60000000
+lt	Lithuania	60000000
+me	Montenegro	60000000
+sl	Sierra Leone	60000000
+tn	Tunisia	60000000
+ye	Yemen	70000000
+sd	Sudan	80000000
+uy	Uruguay	80000000
+zw	Zimbabwe	80000000
+cm	Cameroon	100000000
+gh	Ghana	100000000
+il	Israel	100000000
+td	Chad	100000000
+hn	Honduras	111000000
+tt	Trinidad and Tobago	130000000
+zm	Zambia	130000000
+sr	Suriname	140000000
+cd	DRC	150000000
+py	Paraguay	150000000
+mg	Madagascar	160000000
+af	Afghanistan	170000000
+la	Laos	170000000
+mn	Mongolia	170000000
+pg	Papua New Guinea	170000000
+am	Armenia	190000000
+dz	Algeria	190000000
+is	Iceland	200000000
+ma	Morocco	210000000
+sv	El Salvador	210000000
+cr	Costa Rica	230000000
+sk	Slovakia	230000000
+ss	South Sudan	230000000
+ao	Angola	240000000
+ci	Cote d'Ivoire	240000000
+om	Oman	240000000
+ly	Libya	280000000
+ke	Kenya	300000000
+gr	Greece	330000000
+ge	Georgia	340000000
+kg	Kyrgyzstan	340000000
+sg	Singapore	340000000
+co	Colombia	360000000
+qa	Qatar	400000000
+by	Belarus	410000000
+mm	Burma	500000000
+ie	Ireland	520000000
+ec	Ecuador	550000000
+az	Azerbaijan	570000000
+md	Moldova	580000000
+gt	Guatemala	600000000
+sy	Syria	620000000
+ch	Switzerland	640000000
+do	The Dominican	660000000
+cz	Czechia	700000000
+hr	Croatia	700000000
+cu	Cuba	740000000
+bd	Bangladesh	770000000
+ee	Estonia	790000000
+ve	Venezuela	790000000
+tm	Turkmenistan	810000000
+lk	Sri Lanka	830000000
+si	Slovenia	830000000
+lb	Lebanon	900000000
+tr	Turkey	1030000000.0
+no	Norway	1070000000.0000001
+ir	Iran	1100000000.0
+jm	Jamaica	1100000000.0
+kp	North Korea	1150000000.0
+nz	New Zealand	1180000000.0
+se	Sweden	1270000000.0
+pk	Pakistan	1400000000.0
+sa	Saudi Arabia	1400000000.0
+tj	Tajikistan	1610000000.0
+my	Malaysia	1640000000.0
+cl	Chile	1660000000.0
+pt	Portugal	1830000000.0
+ng	Nigeria	1970000000.0
+fi	Finland	2000000000
+uz	Uzbekistan	2130000000.0
+pr	Puerto Rico	2370000000.0
+at	Austria	2700000000.0
+th	Thailand	2780000000.0
+au	Australia	2890000000.0
+vn	Vietnam	3070000000.0
+hu	Hungary	3450000000.0
+be	Belgium	3470000000.0
+bg	Bulgaria	3480000000.0
+pe	Peru	3510000000.0
+ro	Romania	3900000000.0
+rs	Serbia	3990000000.0
+ar	Argentina	4000000000
+ua	Ukraine	4040000000.0
+za	South Africa	4090000000.0
+kr	South Korea	4450000000.0
+kz	Kazakhstan	4540000000.0
+eg	Egypt	5400000000.0
+iq	Iraq	5490000000.0
+es	Spain	5500000000.0
+pl	Poland	5870000000.0
+nl	Netherlands	5940000000.0
+it	Italy	7700000000.0
+mx	Mexico	8560000000.000001
+id	Indonesia	9140000000.0
+br	Brazil	9510000000.0
+ph	Philippines	9880000000.0
+jp	Japan	10300000000.0
+in	India	17000000000
+de	Germany	17680000000.0
+fr	France	17780000000.0
+ca	Canada	27510000000.0
+ru	Russia	29030000000.0
+cn	China	103040000000.0
+us	United States	209700000000.0

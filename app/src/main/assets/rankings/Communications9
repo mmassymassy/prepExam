@@ -1,0 +1,220 @@
+#ranking=Communications/Telephones - mobile cellular/total subscriptions
+#unit=
+wf	Wallis and Futuna	0
+as	American Samoa	2250
+ms	Montserrat	5000
+fk	Falkland Islands (Islas Malvinas)	6000
+tv	Tuvalu	9000
+nr	Nauru	10000
+mh	Marshall Islands	16000
+ck	Cook Islands	17000
+mp	Northern Mariana Islands	20474
+pw	Palau	24000
+tc	Turks and Caicos Islands	25085
+ai	Anguilla	26000
+gi	Gibraltar	34000
+vg	British Virgin Islands	35000
+mc	Monaco	36255
+sm	San Marino	40000
+li	Liechtenstein	49264
+ki	Kiribati	54527
+kn	Saint Kitts and Nevis	57000
+fo	Faroe Islands	59000
+dm	Dominica	62000
+to	Tonga	64000
+gl	Greenland	66605
+bm	Bermuda	68000
+sx	Sint Maarten	68840
+ws	Samoa	69000
+gg	Guernsey	71485
+vi	Virgin Islands	80000
+ad	Andorra	89000
+gu	Guam	98000
+gd	Grenada	100000
+ky	Cayman Islands	100000
+vc	Saint Vincent and the Grenadines	114892
+je	Jersey	124083
+aw	Aruba	140000
+cw	Curacao	170000
+lc	Saint Lucia	170000
+ag	Antigua and Barbuda	180000
+sc	Seychelles	184161
+st	Sao Tome and Principe	189239
+vu	Vanuatu	250000
+bz	Belize	260000
+nc	New Caledonia	260000
+bb	Barbados	316633
+pf	French Polynesia	322918
+is	Iceland	437270
+bs	The Bahamas	466000
+sb	Solomon Islands	470000
+dj	Djibouti	489339
+cv	Cabo Verde	590171
+bn	Brunei	603486
+mt	Malta	644955
+gq	Equatorial Guinea	650000
+mv	Maldives	706043
+bt	Bhutan	778008
+km	Comoros	853449
+gy	Guyana	860000
+lu	Luxembourg	880000
+sr	Suriname	906170
+fj	Fiji	990000
+me	Montenegro	1120074
+cy	Cyprus	1320794
+sz	Eswatini	1400000.0
+tl	Timor-Leste	1400000.0
+lr	Liberia	1700000.0
+xk	Kosovo	1777859
+er	Eritrea	1800000.0
+ls	Lesotho	1821374
+bh	Bahrain	1923443
+mk	North Macedonia	1941352
+mu	Mauritius	1971300
+ee	Estonia	1980838
+tt	Trinidad and Tobago	2000000
+lv	Latvia	2161725
+gw	Guinea-Bissau	2236511
+si	Slovenia	2607268
+al	Albania	2635466
+mo	Macau	2800000.0
+ly	Libya	2900000.0
+jm	Jamaica	2905408
+na	Namibia	2915307
+ga	Gabon	3144609
+ss	South Sudan	3300000.0
+am	Armenia	3599278
+pr	Puerto Rico	3661176
+lt	Lithuania	3726653
+ba	Bosnia and Herzegovina	3728775
+qa	Qatar	3876499
+md	Moldova	3900179
+ps	Gaza Strip	4052966
+bw	Botswana	4160553
+lb	Lebanon	4300000.0
+hr	Croatia	4402213
+mn	Mongolia	4687304
+uy	Uruguay	4700000.0
+pg	Papua New Guinea	4800000.0
+la	Laos	4822973
+ge	Georgia	5163558
+ie	Ireland	5373865
+cg	Congo (Brazzaville)	5558658
+no	Norway	5800000.0
+nz	New Zealand	5846000.0
+kp	North Korea	6000000
+pa	Panama	6003255
+om	Oman	6115537
+ni	Nicaragua	6233864
+tg	Togo	6300000.0
+tm	Turkmenistan	6300000.0
+mr	Mauritania	6512361
+kw	Kuwait	6918180
+cu	Cuba	7103296
+fi	Finland	7150000.0
+jo	Jordan	7275563
+dk	Denmark	7287875
+ht	Haiti	7300000.0
+sk	Slovakia	7362325
+hn	Honduras	7560710
+bi	Burundi	7740494
+cr	Costa Rica	7834435
+bg	Bulgaria	7902756
+py	Paraguay	7975074
+sl	Sierra Leone	8227093
+kg	Kyrgyzstan	8500000.0
+rs	Serbia	8501519
+sg	Singapore	8660700
+so	Somalia	8844000.0
+do	The Dominican	9735351
+td	Chad	10000000
+hu	Hungary	10248653
+az	Azerbaijan	10817071
+at	Austria	10882217
+rw	Rwanda	10902989
+ch	Switzerland	11060700
+sv	El Salvador	11071073
+gr	Greece	11494008
+be	Belgium	11740118
+by	Belarus	11760087
+mw	Malawi	11940135
+tj	Tajikistan	12000000
+bo	Bolivia	12033941
+pt	Portugal	12476165
+il	Israel	12500000.0
+bj	Benin	12731782
+se	Sweden	12843683
+cz	Czechia	13129905
+mz	Mozambique	13686234
+gn	Guinea	13795000.0
+ne	Niger	14000000
+zw	Zimbabwe	14257590
+ye	Yemen	15000000
+ao	Angola	15327864
+tn	Tunisia	16000000
+mg	Madagascar	16279633
+sd	Sudan	16688773
+ec	Ecuador	16789600
+sy	Syria	16990714
+ve	Venezuela	17000000
+sn	Senegal	19859981
+kh	Cambodia	19899790
+zm	Zambia	20000000
+ml	Mali	21882251
+nl	Netherlands	21888000.0
+gt	Guatemala	22124839
+cm	Cameroon	22442414
+ro	Romania	22929000.0
+af	Afghanistan	23000000
+hk	Hong Kong	23939650
+kz	Kazakhstan	24323000.0
+bf	Burkina Faso	24678315
+cl	Chile	26571823
+gm	The Gambia	27000000
+au	Australia	27090000.0
+tw	Taiwan	30000000
+ug	Uganda	30000000
+lk	Sri Lanka	30764134
+ca	Canada	32723000.0
+uz	Uzbekistan	35000000
+iq	Iraq	37649112
+np	Nepal	38000000
+gh	Ghana	40454073
+pe	Peru	43129394
+ci	Cote d'Ivoire	44561505
+sa	Saudi Arabia	45427321
+cd	DRC	47000000
+dz	Algeria	47028685
+my	Malaysia	47201700
+pl	Poland	50588785
+ma	Morocco	52012000.0
+tz	Tanzania	54000000
+ua	Ukraine	56000000
+es	Spain	56805348
+ar	Argentina	59065827
+et	Ethiopia	65000000
+ke	Kenya	65085720
+mm	Burma	67930093
+kr	South Korea	72855492
+fr	France	73000000
+co	Colombia	75000000
+it	Italy	78114933
+tr	Turkey	86000000
+za	South Africa	100328005
+eg	Egypt	103449427
+de	Germany	106400000.0
+th	Thailand	120000000
+mx	Mexico	123920752
+ir	Iran	135899424
+vn	Vietnam	140000000
+ph	Philippines	163345244
+bd	Bangladesh	181021227
+pk	Pakistan	188711452
+ng	Nigeria	195128265
+jp	Japan	200478808
+br	Brazil	219660524
+ru	Russia	250000000
+us	United States	360000000
+id	Indonesia	365872608
+in	India	1150000000.0
+cn	China	1730000000.0

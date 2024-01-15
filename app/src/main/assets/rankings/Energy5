@@ -1,0 +1,209 @@
+#ranking=Energy/Coal/consumption
+#unit=metric tons (2020 est.)
+ag	Antigua and Barbuda	0
+ao	Angola	0
+aq	Antarctica	0
+as	American Samoa	0
+aw	Aruba	0
+bb	Barbados	0
+bf	Burkina Faso	0
+bh	Bahrain	0
+bi	Burundi	0
+bm	Bermuda	0
+bn	Brunei	0
+bo	Bolivia	0
+bs	The Bahamas	0
+bz	Belize	0
+cg	Congo (Brazzaville)	0
+ci	Cote d'Ivoire	0
+ck	Cook Islands	0
+cm	Cameroon	0
+cr	Costa Rica	0
+cv	Cabo Verde	0
+cy	Cyprus	0
+dj	Djibouti	0
+dm	Dominica	0
+er	Eritrea	0
+fj	Fiji	0
+fk	Falkland Islands (Islas Malvinas)	0
+fo	Faroe Islands	0
+ga	Gabon	0
+gd	Grenada	0
+gi	Gibraltar	0
+gl	Greenland	0
+gm	The Gambia	0
+gn	Guinea	0
+gq	Equatorial Guinea	0
+gu	Guam	0
+gw	Guinea-Bissau	0
+gy	Guyana	0
+ht	Haiti	0
+iq	Iraq	0
+ki	Kiribati	0
+km	Comoros	0
+kn	Saint Kitts and Nevis	0
+ky	Cayman Islands	0
+lc	Saint Lucia	0
+lr	Liberia	0
+ls	Lesotho	0
+ly	Libya	0
+ml	Mali	0
+mo	Macau	0
+mp	Northern Mariana Islands	0
+mr	Mauritania	0
+ms	Montserrat	0
+mt	Malta	0
+mv	Maldives	0
+ni	Nicaragua	0
+nr	Nauru	0
+nu	Niue	0
+pf	French Polynesia	0
+pg	Papua New Guinea	0
+pm	Saint Pierre and Miquelon	0
+py	Paraguay	0
+qa	Qatar	0
+rw	Rwanda	0
+sb	Solomon Islands	0
+sc	Seychelles	0
+sd	Sudan	0
+sl	Sierra Leone	0
+so	Somalia	0
+sr	Suriname	0
+ss	South Sudan	0
+st	Sao Tome and Principe	0
+tc	Turks and Caicos Islands	0
+td	Chad	0
+tl	Timor-Leste	0
+tm	Turkmenistan	0
+to	Tonga	0
+tv	Tuvalu	0
+ug	Uganda	0
+uy	Uruguay	0
+vc	Saint Vincent and the Grenadines	0
+vg	British Virgin Islands	0
+vu	Vanuatu	0
+ws	Samoa	0
+sv	El Salvador	1000
+tt	Trinidad and Tobago	1000
+ee	Estonia	3000
+cu	Cuba	4000
+tn	Tunisia	5000
+cd	DRC	10000
+ec	Ecuador	10000
+am	Armenia	12000
+az	Azerbaijan	19000
+ye	Yemen	22000
+hn	Honduras	25000
+ve	Venezuela	33000
+na	Namibia	38000
+sy	Syria	38000
+lv	Latvia	39000
+mz	Mozambique	46000
+tg	Togo	46000
+mw	Malawi	47000
+gh	Ghana	48000
+jm	Jamaica	61000
+lu	Luxembourg	65000
+kw	Kuwait	68000
+sa	Saudi Arabia	73000
+bj	Benin	78000
+dz	Algeria	85000
+ng	Nigeria	85000
+mg	Madagascar	107000
+om	Oman	115000
+al	Albania	119000
+md	Moldova	133000
+is	Iceland	142000
+ch	Switzerland	150000
+sz	Eswatini	169000
+bt	Bhutan	211000
+jo	Jordan	219000
+lt	Lithuania	221000
+ne	Niger	224000
+lb	Lebanon	268000
+ie	Ireland	351000
+ge	Georgia	362000
+pe	Peru	396000
+sg	Singapore	423000
+tz	Tanzania	577000
+by	Belarus	621000
+hr	Croatia	643000
+mu	Mauritius	661000
+et	Ethiopia	689000
+ke	Kenya	821000
+np	Nepal	839000
+sn	Senegal	894000
+pt	Portugal	957000
+pa	Panama	1118000.0
+no	Norway	1130000.0
+nc	New Caledonia	1151000.0
+zm	Zambia	1176000.0
+dk	Denmark	1249000.0
+me	Montenegro	1351000.0
+pr	Puerto Rico	1361000.0
+bw	Botswana	1416000.0
+ar	Argentina	1550000.0
+kg	Kyrgyzstan	1717000.0
+do	The Dominican	1791000.0
+mm	Burma	1981000.0
+af	Afghanistan	2096000.0
+tj	Tajikistan	2160000.0
+lk	Sri Lanka	2237000.0
+gt	Guatemala	2280000.0
+eg	Egypt	2310000.0
+ir	Iran	2794000.0
+kh	Cambodia	2974000.0
+nz	New Zealand	3001000.0
+se	Sweden	3328000.0
+si	Slovenia	3502000.0
+fi	Finland	3552000.0
+zw	Zimbabwe	3579000.0
+be	Belgium	4167000.0
+at	Austria	4899000.0
+es	Spain	4918000.0
+il	Israel	5089000.0
+mk	North Macedonia	5211000.0
+sk	Slovakia	5371000.0
+hk	Hong Kong	5485000.0
+uz	Uzbekistan	5668000.0
+kp	North Korea	6698000.0
+ba	Bosnia and Herzegovina	7752000.0
+hu	Hungary	8079000.000000001
+nl	Netherlands	8241000.0
+co	Colombia	8547000.0
+xk	Kosovo	8549000.0
+mn	Mongolia	8818000.0
+ma	Morocco	9321000.0
+it	Italy	9335000.0
+bd	Bangladesh	9345000.0
+mx	Mexico	10241000.0
+cl	Chile	10573000.0
+fr	France	10712000.0
+gr	Greece	13828000.0
+la	Laos	15823000.0
+ro	Romania	16411999.999999998
+pk	Pakistan	21012000.0
+bg	Bulgaria	23213000.0
+ca	Canada	25642000.0
+br	Brazil	31841000.0
+ph	Philippines	32854999.999999996
+my	Malaysia	35268000.0
+th	Thailand	35761000.0
+cz	Czechia	37212000.0
+rs	Serbia	40830000.0
+ua	Ukraine	41181000.0
+tw	Taiwan	67985000.0
+kz	Kazakhstan	74819000.0
+vn	Vietnam	80568000.0
+au	Australia	99048000.0
+tr	Turkey	108271000.0
+pl	Poland	110674000.0
+id	Indonesia	132548000.0
+kr	South Korea	140579000.0
+de	Germany	145379000.0
+za	South Africa	170308000.0
+jp	Japan	210882000.0
+ru	Russia	266038000.0
+us	United States	441968000.0
+in	India	883979000.0
+cn	China	4506387000

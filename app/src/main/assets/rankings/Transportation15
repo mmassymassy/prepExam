@@ -1,0 +1,142 @@
+#ranking=Transportation/Roadways/unpaved
+#unit=km
+nr	Nauru	6
+cc	Cocos (Keeling) Islands	12
+sc	Seychelles	12
+nu	Niue	24
+nf	Norfolk Island	27
+pw	Palau	36
+pm	Saint Pierre and Miquelon	37
+mu	Mauritius	49
+ck	Cook Islands	88
+xk	Kosovo	91
+ai	Anguilla	93
+tc	Turks and Caicos Islands	97
+cx	Christmas Island	110
+km	Comoros	207
+kn	Saint Kitts and Nevis	220
+gd	Grenada	225
+bg	Bulgaria	277
+lc	Saint Lucia	363
+fk	Falkland Islands (Islas Malvinas)	390
+mt	Malta	392
+tw	Taiwan	413
+bn	Brunei	417
+cv	Cabo Verde	418
+fo	Faroe Islands	460
+to	Tonga	496
+md	Moldova	517
+me	Montenegro	621
+bh	Bahrain	730
+dm	Dominica	750
+ag	Antigua and Barbuda	784
+vu	Vanuatu	814
+pf	French Polynesia	855
+kw	Kuwait	862
+st	Sao Tome and Principe	1070
+bs	The Bahamas	1080
+sb	Solomon Islands	1356
+fj	Fiji	1754
+mh	Marshall Islands	1953
+gm	The Gambia	2459
+bz	Belize	2680
+ly	Libya	3000
+sr	Suriname	3185
+gy	Guyana	3196
+tl	Timor-Leste	3440
+rw	Rwanda	3493
+ba	Bosnia and Herzegovina	3500
+ht	Haiti	3502
+ua	Ukraine	3599
+sv	El Salvador	3671
+gw	Guinea-Bissau	3947
+cy	Cyprus	4270
+mk	North Macedonia	4549
+ls	Lesotho	4871
+jm	Jamaica	5973
+pg	Papua New Guinea	6349
+sy	Syria	6813
+is	Iceland	7251
+kr	South Korea	7633
+tg	Togo	8157
+mr	Mauritania	8265
+do	The Dominican	9833
+lr	Liberia	9943
+gt	Guatemala	9982
+sn	Senegal	10539
+sl	Sierra Leone	10650
+bi	Burundi	10822
+uz	Uzbekistan	10985
+tm	Turkmenistan	11015
+hn	Honduras	11375
+mw	Malawi	11378
+pt	Portugal	11606
+bf	Burkina Faso	11662
+lt	Lithuania	11869
+kz	Kazakhstan	12354
+ao	Angola	12400
+ga	Gabon	13400
+er	Eritrea	14400
+bj	Benin	14600
+ne	Niger	15037
+np	Nepal	16100
+rs	Serbia	16248
+ug	Uganda	16287
+af	Afghanistan	17000
+eg	Egypt	17050
+cg	Congo (Brazzaville)	20213
+ni	Nicaragua	20551
+bw	Botswana	21937
+sd	Sudan	23000
+mz	Mozambique	23718
+kp	North Korea	24830
+ir	Iran	28000
+my	Malaysia	28234
+om	Oman	30545
+dz	Algeria	32344
+nz	New Zealand	32400
+la	Laos	34171
+ro	Romania	34312
+kh	Cambodia	35024
+ec	Ecuador	35055
+cu	Cuba	40000
+gn	Guinea	40955
+na	Namibia	40982
+tr	Turkey	43251
+vn	Vietnam	47130
+ee	Estonia	47985
+gh	Ghana	50777
+zm	Zambia	52783
+lv	Latvia	55086
+ye	Yemen	65100
+uy	Uruguay	69989
+py	Paraguay	70238
+cm	Cameroon	72456
+ci	Cote d'Ivoire	75494
+pk	Pakistan	78712
+zw	Zimbabwe	78786
+bo	Bolivia	80776
+ss	South Sudan	89900
+lk	Sri Lanka	97116
+mn	Mongolia	102600
+mm	Burma	122300
+hu	Hungary	126514
+pl	Poland	129000
+tz	Tanzania	134002
+ng	Nigeria	135000
+ke	Kenya	147032
+cd	DRC	149326
+ph	Philippines	155294
+ar	Argentina	163674
+sa	Saudi Arabia	173843
+id	Indonesia	213505
+jp	Japan	225937
+bd	Bangladesh	258794
+ru	Russia	355666
+se	Sweden	433034
+mx	Mexico	529358
+za	South Africa	591876
+cn	China	622000
+ca	Canada	626700
+br	Brazil	1754000.0
+us	United States	2281895

@@ -1,0 +1,211 @@
+#ranking=Energy/Natural gas/production
+#unit=cubic meters 
+sr	Suriname	0
+ag	Antigua and Barbuda	0
+am	Armenia	0
+aq	Antarctica	0
+as	American Samoa	0
+aw	Aruba	0
+ba	Bosnia and Herzegovina	0
+be	Belgium	0
+bf	Burkina Faso	0
+bi	Burundi	0
+bj	Benin	0
+bm	Bermuda	0
+bs	The Bahamas	0
+bt	Bhutan	0
+bw	Botswana	0
+bz	Belize	0
+ch	Switzerland	0
+ck	Cook Islands	0
+cr	Costa Rica	0
+cv	Cabo Verde	0
+cy	Cyprus	0
+dj	Djibouti	0
+dm	Dominica	0
+do	The Dominican	0
+ee	Estonia	0
+er	Eritrea	0
+et	Ethiopia	0
+fi	Finland	0
+fj	Fiji	0
+fk	Falkland Islands (Islas Malvinas)	0
+fo	Faroe Islands	0
+gd	Grenada	0
+gi	Gibraltar	0
+gl	Greenland	0
+gm	The Gambia	0
+gn	Guinea	0
+gt	Guatemala	0
+gu	Guam	0
+gw	Guinea-Bissau	0
+gy	Guyana	0
+hk	Hong Kong	0
+hn	Honduras	0
+ht	Haiti	0
+is	Iceland	0
+jm	Jamaica	0
+ke	Kenya	0
+kh	Cambodia	0
+ki	Kiribati	0
+km	Comoros	0
+kn	Saint Kitts and Nevis	0
+kp	North Korea	0
+ky	Cayman Islands	0
+la	Laos	0
+lb	Lebanon	0
+lc	Saint Lucia	0
+lk	Sri Lanka	0
+lr	Liberia	0
+ls	Lesotho	0
+lt	Lithuania	0
+lu	Luxembourg	0
+lv	Latvia	0
+me	Montenegro	0
+mg	Madagascar	0
+mk	North Macedonia	0
+ml	Mali	0
+mn	Mongolia	0
+mo	Macau	0
+mp	Northern Mariana Islands	0
+mr	Mauritania	0
+ms	Montserrat	0
+mt	Malta	0
+mu	Mauritius	0
+mv	Maldives	0
+mw	Malawi	0
+na	Namibia	0
+nc	New Caledonia	0
+ne	Niger	0
+ni	Nicaragua	0
+np	Nepal	0
+nr	Nauru	0
+nu	Niue	0
+pa	Panama	0
+pf	French Polynesia	0
+pm	Saint Pierre and Miquelon	0
+pr	Puerto Rico	0
+ps	Gaza Strip	0
+pt	Portugal	0
+py	Paraguay	0
+rw	Rwanda	0
+sb	Solomon Islands	0
+sc	Seychelles	0
+sd	Sudan	0
+se	Sweden	0
+sg	Singapore	0
+sl	Sierra Leone	0
+so	Somalia	0
+ss	South Sudan	0
+st	Sao Tome and Principe	0
+sv	El Salvador	0
+sz	Eswatini	0
+tc	Turks and Caicos Islands	0
+td	Chad	0
+tg	Togo	0
+to	Tonga	0
+tv	Tuvalu	0
+ug	Uganda	0
+uy	Uruguay	0
+vc	Saint Vincent and the Grenadines	0
+vg	British Virgin Islands	0
+vi	Virgin Islands	0
+vu	Vanuatu	0
+ws	Samoa	0
+xk	Kosovo	0
+zm	Zambia	0
+zw	Zimbabwe	0
+md	Moldova	57000
+cd	DRC	368000
+si	Slovenia	4899000.0
+gr	Greece	5748000.0
+ge	Georgia	6088000.0
+bb	Barbados	14923000.0
+fr	France	16226000.0
+tj	Tajikistan	18208000.0
+kg	Kyrgyzstan	25542000.0
+al	Albania	42050000.0
+es	Spain	57990000.0
+sn	Senegal	60003000.0
+bg	Bulgaria	62439000.0
+sk	Slovakia	62495000.0
+by	Belarus	68951000.0
+af	Afghanistan	80193000.0
+ye	Yemen	89906000.0
+ma	Morocco	105678000.0
+jo	Jordan	115872000.0
+tw	Taiwan	150589000.0
+cz	Czechia	189185000.0
+kr	South Korea	240042000.0
+ga	Gabon	319102000.0
+ec	Ecuador	342407000.0
+rs	Serbia	455787000.0
+tr	Turkey	469464000.0
+hr	Croatia	851005000.0
+at	Austria	924500000.0
+cu	Cuba	976023000.0
+tn	Tunisia	1025974000
+cl	Chile	1109962000
+za	South Africa	1229544000
+dk	Denmark	1315000000.0
+tz	Tanzania	1378773000
+cg	Congo (Brazzaville)	1400000000.0
+gh	Ghana	1598653000
+hu	Hungary	1685000000.0
+jp	Japan	1928431000
+ci	Cote d'Ivoire	2425000000.0
+ie	Ireland	2652000000.0
+cm	Cameroon	2678486000
+sy	Syria	3531077000
+ph	Philippines	3632507000
+it	Italy	3888491000
+gq	Equatorial Guinea	4569369000
+nz	New Zealand	4771126000
+tl	Timor-Leste	5104670000
+de	Germany	5129000000.0
+mz	Mozambique	5423828000
+pl	Poland	5667000000.0
+ao	Angola	6767715000
+vn	Vietnam	8438095000
+ro	Romania	10367941000
+il	Israel	10474000000.0
+iq	Iraq	10711000000.0
+co	Colombia	11305086000
+pg	Papua New Guinea	11784065000
+pe	Peru	12079211000
+ly	Libya	12414736000
+bn	Brunei	12498299000
+bo	Bolivia	15328422000
+mm	Burma	17710912000
+bh	Bahrain	18271840000
+kw	Kuwait	19509907000
+ua	Ukraine	19511040000
+ve	Venezuela	22694584000
+az	Azerbaijan	23075000000.0
+br	Brazil	25395979000
+kz	Kazakhstan	25786000000.0
+mx	Mexico	27037730000
+in	India	27734833000
+bd	Bangladesh	28629927000
+tt	Trinidad and Tobago	30886691000
+nl	Netherlands	32857999999.999996
+om	Oman	36596746000
+pk	Pakistan	38056250000
+th	Thailand	38420517000
+ar	Argentina	41194148000
+ng	Nigeria	46296835000
+uz	Uzbekistan	46968227000
+id	Indonesia	62612013000
+eg	Egypt	64292955000
+my	Malaysia	74985350000
+tm	Turkmenistan	83623000000.0
+dz	Algeria	87853976000
+no	Norway	112052523000
+sa	Saudi Arabia	113776648000
+au	Australia	142104321000
+qa	Qatar	167460996000
+ca	Canada	178723494000
+cn	China	179317495000
+ir	Iran	237561415000
+ru	Russia	701544000000.0
+us	United States	967144362000

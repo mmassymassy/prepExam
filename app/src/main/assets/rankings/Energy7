@@ -1,0 +1,209 @@
+#ranking=Energy/Coal/imports
+#unit=metric tons (2020 est.)
+af	Afghanistan	0
+ag	Antigua and Barbuda	0
+ao	Angola	0
+aq	Antarctica	0
+as	American Samoa	0
+aw	Aruba	0
+bb	Barbados	0
+bf	Burkina Faso	0
+bh	Bahrain	0
+bi	Burundi	0
+bm	Bermuda	0
+bn	Brunei	0
+bo	Bolivia	0
+bs	The Bahamas	0
+bw	Botswana	0
+bz	Belize	0
+cg	Congo (Brazzaville)	0
+ci	Cote d'Ivoire	0
+ck	Cook Islands	0
+cm	Cameroon	0
+cr	Costa Rica	0
+cv	Cabo Verde	0
+cy	Cyprus	0
+dj	Djibouti	0
+dm	Dominica	0
+er	Eritrea	0
+fj	Fiji	0
+fk	Falkland Islands (Islas Malvinas)	0
+fo	Faroe Islands	0
+ga	Gabon	0
+gd	Grenada	0
+gi	Gibraltar	0
+gl	Greenland	0
+gm	The Gambia	0
+gn	Guinea	0
+gq	Equatorial Guinea	0
+gu	Guam	0
+gw	Guinea-Bissau	0
+gy	Guyana	0
+ht	Haiti	0
+iq	Iraq	0
+ki	Kiribati	0
+km	Comoros	0
+kn	Saint Kitts and Nevis	0
+ky	Cayman Islands	0
+lc	Saint Lucia	0
+lr	Liberia	0
+ls	Lesotho	0
+ly	Libya	0
+ml	Mali	0
+mo	Macau	0
+mp	Northern Mariana Islands	0
+mr	Mauritania	0
+ms	Montserrat	0
+mt	Malta	0
+mv	Maldives	0
+mw	Malawi	0
+ne	Niger	0
+ni	Nicaragua	0
+nr	Nauru	0
+nu	Niue	0
+pf	French Polynesia	0
+pg	Papua New Guinea	0
+pm	Saint Pierre and Miquelon	0
+py	Paraguay	0
+qa	Qatar	0
+rw	Rwanda	0
+sb	Solomon Islands	0
+sc	Seychelles	0
+sd	Sudan	0
+sl	Sierra Leone	0
+so	Somalia	0
+sr	Suriname	0
+ss	South Sudan	0
+st	Sao Tome and Principe	0
+tc	Turks and Caicos Islands	0
+td	Chad	0
+tl	Timor-Leste	0
+tm	Turkmenistan	0
+to	Tonga	0
+tv	Tuvalu	0
+tz	Tanzania	0
+ug	Uganda	0
+uy	Uruguay	0
+vc	Saint Vincent and the Grenadines	0
+vg	British Virgin Islands	0
+vu	Vanuatu	0
+ws	Samoa	0
+zw	Zimbabwe	0
+me	Montenegro	1000
+mn	Mongolia	1000
+sv	El Salvador	1000
+tt	Trinidad and Tobago	1000
+ve	Venezuela	1000
+ee	Estonia	3000
+cu	Cuba	4000
+tn	Tunisia	5000
+cd	DRC	10000
+ec	Ecuador	10000
+am	Armenia	12000
+la	Laos	18000
+az	Azerbaijan	19000
+xk	Kosovo	20000
+kp	North Korea	22000
+ye	Yemen	22000
+hn	Honduras	25000
+bt	Bhutan	37000
+sy	Syria	38000
+lv	Latvia	40000
+tg	Togo	46000
+gh	Ghana	48000
+mz	Mozambique	48000
+tj	Tajikistan	57000
+na	Namibia	59000
+kw	Kuwait	68000
+sa	Saudi Arabia	73000
+lu	Luxembourg	74000
+ng	Nigeria	77000
+bj	Benin	78000
+co	Colombia	79000
+jm	Jamaica	82000
+dz	Algeria	85000
+ir	Iran	87000
+zm	Zambia	99000
+al	Albania	110000
+mg	Madagascar	115000
+om	Oman	115000
+md	Moldova	133000
+sz	Eswatini	135000
+is	Iceland	136000
+ch	Switzerland	139000
+mk	North Macedonia	174000
+jo	Jordan	219000
+pt	Portugal	238000
+pe	Peru	262000
+lb	Lebanon	268000
+lt	Lithuania	268000
+ge	Georgia	277000
+gr	Greece	305000
+si	Slovenia	335000
+ie	Ireland	408000
+sg	Singapore	424000
+kg	Kyrgyzstan	481000
+mm	Burma	514000
+et	Ethiopia	528000
+au	Australia	583000
+hr	Croatia	644000
+bg	Bulgaria	675000
+np	Nepal	811000
+ke	Kenya	822000
+sn	Senegal	894000
+rs	Serbia	987000
+ar	Argentina	990000
+kz	Kazakhstan	993000
+nz	New Zealand	1090000.0
+dk	Denmark	1122000.0
+pa	Panama	1150000.0
+nc	New Caledonia	1151000.0
+no	Norway	1172000.0
+mu	Mauritius	1189000.0
+ba	Bosnia and Herzegovina	1366000.0
+ro	Romania	1384000.0
+hu	Hungary	1395000.0
+pr	Puerto Rico	1502000.0
+za	South Africa	2053999.9999999998
+by	Belarus	2117000.0
+eg	Egypt	2134000.0
+se	Sweden	2144000.0
+do	The Dominican	2359000.0
+gt	Guatemala	2376000.0
+lk	Sri Lanka	2586000.0
+fi	Finland	2661000.0
+uz	Uzbekistan	2995000.0
+sk	Slovakia	3111000.0
+kh	Cambodia	3311000.0
+be	Belgium	3467000.0
+at	Austria	3667000.0
+cz	Czechia	3795000.0
+us	United States	4808000.0
+es	Spain	4857000.0
+mx	Mexico	5182000.0
+hk	Hong Kong	5485000.0
+il	Israel	5565000.0
+ca	Canada	7577000.0
+fr	France	7891000.0
+it	Italy	8234999.999999999
+bd	Bangladesh	8329000.000000001
+id	Indonesia	8950000.0
+ma	Morocco	9321000.0
+cl	Chile	10607000.0
+pl	Poland	13281000.0
+pk	Pakistan	17239000.0
+ua	Ukraine	17333000.0
+br	Brazil	19217000.0
+nl	Netherlands	21552000.0
+th	Thailand	23899000.0
+ru	Russia	24027000.0
+ph	Philippines	28358000.0
+de	Germany	31503000.0
+my	Malaysia	37295000.0
+tr	Turkey	40919000.0
+vn	Vietnam	55000000
+tw	Taiwan	63523000.0
+kr	South Korea	123784000.0
+jp	Japan	174486000.0
+in	India	219212000.0
+cn	China	307047000.0

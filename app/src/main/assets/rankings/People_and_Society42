@@ -1,0 +1,195 @@
+#ranking=People and Society/Physicians density
+#unit=physicians/1,000 population 
+so	Somalia	0.02
+ne	Niger	0.04
+lr	Liberia	0.05
+tz	Tanzania	0.05
+mw	Malawi	0.05
+td	Chad	0.06
+sl	Sierra Leone	0.07
+bj	Benin	0.07
+pg	Papua New Guinea	0.07
+bi	Burundi	0.07
+er	Eritrea	0.08
+gm	The Gambia	0.08
+tg	Togo	0.08
+bf	Burkina Faso	0.09
+sn	Senegal	0.09
+mz	Mozambique	0.09
+cg	Congo (Brazzaville)	0.1
+et	Ethiopia	0.11
+rw	Rwanda	0.12
+ml	Mali	0.13
+cm	Cameroon	0.13
+sz	Eswatini	0.14
+ug	Uganda	0.15
+ke	Kenya	0.16
+ci	Cote d'Ivoire	0.16
+vu	Vanuatu	0.17
+gh	Ghana	0.17
+kh	Cambodia	0.19
+sb	Solomon Islands	0.19
+mr	Mauritania	0.19
+ki	Kiribati	0.2
+mg	Madagascar	0.2
+gw	Guinea-Bissau	0.2
+zw	Zimbabwe	0.2
+ao	Angola	0.21
+dj	Djibouti	0.22
+gn	Guinea	0.23
+ht	Haiti	0.23
+af	Afghanistan	0.25
+sd	Sudan	0.26
+km	Comoros	0.26
+la	Laos	0.35
+bw	Botswana	0.38
+cd	DRC	0.38
+ng	Nigeria	0.38
+gq	Equatorial Guinea	0.4
+mh	Marshall Islands	0.42
+ls	Lesotho	0.47
+st	Sao Tome and Principe	0.49
+bt	Bhutan	0.5
+hn	Honduras	0.5
+ye	Yemen	0.53
+jm	Jamaica	0.53
+na	Namibia	0.59
+ws	Samoa	0.6
+id	Indonesia	0.62
+lc	Saint Lucia	0.64
+ga	Gabon	0.65
+vc	Saint Vincent and the Grenadines	0.66
+bd	Bangladesh	0.67
+ma	Morocco	0.73
+mm	Burma	0.74
+in	India	0.74
+eg	Egypt	0.75
+tl	Timor-Leste	0.76
+ph	Philippines	0.77
+za	South Africa	0.79
+sr	Suriname	0.82
+vn	Vietnam	0.83
+cv	Cabo Verde	0.83
+np	Nepal	0.85
+fj	Fiji	0.86
+bh	Bahrain	0.93
+th	Thailand	0.95
+to	Tonga	0.95
+iq	Iraq	0.97
+bo	Bolivia	1.03
+py	Paraguay	1.05
+bz	Belize	1.08
+dm	Dominica	1.1
+pk	Pakistan	1.12
+zm	Zambia	1.17
+tv	Tuvalu	1.19
+lk	Sri Lanka	1.23
+gt	Guatemala	1.24
+sy	Syria	1.29
+tn	Tunisia	1.3
+nr	Nauru	1.35
+pe	Peru	1.37
+ck	Cook Islands	1.41
+gy	Guyana	1.42
+gd	Grenada	1.44
+do	The Dominican	1.45
+my	Malaysia	1.54
+ir	Iran	1.58
+bn	Brunei	1.61
+pa	Panama	1.63
+ni	Nicaragua	1.67
+tj	Tajikistan	1.72
+dz	Algeria	1.72
+ve	Venezuela	1.73
+om	Oman	1.77
+pw	Palau	1.77
+gl	Greenland	1.87
+al	Albania	1.88
+tr	Turkey	1.93
+bs	The Bahamas	1.94
+hk	Hong Kong	2.04
+mv	Maldives	2.05
+ly	Libya	2.09
+ba	Bosnia and Herzegovina	2.16
+kg	Kyrgyzstan	2.21
+lb	Lebanon	2.21
+ec	Ecuador	2.22
+tm	Turkmenistan	2.23
+cn	China	2.23
+sc	Seychelles	2.25
+br	Brazil	2.31
+co	Colombia	2.33
+kw	Kuwait	2.34
+uz	Uzbekistan	2.37
+mx	Mexico	2.43
+ca	Canada	2.44
+sg	Singapore	2.46
+jp	Japan	2.48
+kr	South Korea	2.48
+bb	Barbados	2.49
+qa	Qatar	2.49
+us	United States	2.61
+fo	Faroe Islands	2.62
+jo	Jordan	2.66
+mu	Mauritius	2.71
+ps	Gaza Strip	2.71
+me	Montenegro	2.74
+sa	Saudi Arabia	2.74
+ag	Antigua and Barbuda	2.76
+kn	Saint Kitts and Nevis	2.77
+cl	Chile	2.84
+mt	Malta	2.86
+mk	North Macedonia	2.87
+sv	El Salvador	2.87
+ro	Romania	2.98
+ua	Ukraine	2.99
+lu	Luxembourg	3.01
+pr	Puerto Rico	3.06
+md	Moldova	3.1
+rs	Serbia	3.11
+cy	Cyprus	3.14
+az	Azerbaijan	3.17
+fr	France	3.27
+si	Slovenia	3.28
+cr	Costa Rica	3.3
+ad	Andorra	3.33
+lv	Latvia	3.4
+ee	Estonia	3.47
+hr	Croatia	3.47
+ie	Ireland	3.49
+sk	Slovakia	3.57
+nz	New Zealand	3.62
+il	Israel	3.63
+kp	North Korea	3.68
+pl	Poland	3.77
+ru	Russia	3.82
+mn	Mongolia	3.85
+it	Italy	3.95
+kz	Kazakhstan	3.98
+ar	Argentina	4.06
+nl	Netherlands	4.08
+au	Australia	4.13
+is	Iceland	4.14
+cz	Czechia	4.15
+bg	Bulgaria	4.2
+dk	Denmark	4.23
+ch	Switzerland	4.38
+am	Armenia	4.4
+es	Spain	4.44
+de	Germany	4.44
+tt	Trinidad and Tobago	4.48
+by	Belarus	4.54
+fi	Finland	4.64
+uy	Uruguay	4.94
+no	Norway	5.04
+lt	Lithuania	5.08
+ge	Georgia	5.11
+at	Austria	5.29
+pt	Portugal	5.48
+hu	Hungary	6.06
+be	Belgium	6.08
+sm	San Marino	6.11
+gr	Greece	6.31
+se	Sweden	7.09
+mc	Monaco	7.51
+cu	Cuba	8.42

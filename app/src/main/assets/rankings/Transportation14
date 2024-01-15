@@ -1,0 +1,219 @@
+#ranking=Transportation/Roadways/total
+#unit=km
+tv	Tuvalu	8
+tk	Tokelau	10
+cc	Cocos (Keeling) Islands	22
+gi	Gibraltar	29
+nr	Nauru	30
+bl	Saint Barthelemy	40
+sx	Sint Maarten	53
+nf	Norfolk Island	80
+mv	Maldives	93
+pm	Saint Pierre and Miquelon	117
+tc	Turks and Caicos Islands	121
+pw	Palau	125
+cx	Christmas Island	142
+ai	Anguilla	175
+vg	British Virgin Islands	200
+nu	Niue	234
+as	American Samoa	241
+gg	Guernsey	260
+sm	San Marino	292
+ck	Cook Islands	295
+ad	Andorra	320
+kn	Saint Kitts and Nevis	383
+mo	Macau	428
+fk	Falkland Islands (Islas Malvinas)	440
+bm	Bermuda	447
+sc	Seychelles	526
+mp	Northern Mariana Islands	536
+cw	Curacao	550
+je	Jersey	576
+li	Liechtenstein	630
+ki	Kiribati	670
+to	Tonga	680
+ky	Cayman Islands	785
+km	Comoros	880
+fo	Faroe Islands	960
+aw	Aruba	1000
+gu	Guam	1045
+vu	Vanuatu	1070
+im	Isle of Man	1107
+gd	Grenada	1127
+ws	Samoa	1150
+ag	Antigua and Barbuda	1170
+lc	Saint Lucia	1210
+vi	Virgin Islands	1260
+st	Sao Tome and Principe	1300
+cv	Cabo Verde	1350
+sb	Solomon Islands	1390
+dm	Dominica	1512
+bb	Barbados	1700
+xk	Kosovo	2012
+mh	Marshall Islands	2028
+hk	Hong Kong	2193
+mu	Mauritius	2428
+pf	French Polynesia	2590
+bs	The Bahamas	2700
+lu	Luxembourg	2875
+gq	Equatorial Guinea	2880
+dj	Djibouti	2893
+bn	Brunei	2976
+gm	The Gambia	2977
+mt	Malta	3096
+bz	Belize	3281
+fj	Fiji	3440
+sg	Singapore	3500
+sz	Eswatini	3769
+al	Albania	3945
+gy	Guyana	3995
+ht	Haiti	4102
+bh	Bahrain	4122
+sr	Suriname	4304
+gw	Guinea-Bissau	4400
+rw	Rwanda	4700
+cr	Costa Rica	5035
+nc	New Caledonia	5622
+kw	Kuwait	5749
+ls	Lesotho	5940
+tl	Timor-Leste	6040
+qa	Qatar	7039
+jo	Jordan	7203
+am	Armenia	7700
+me	Montenegro	7762
+sv	El Salvador	9012
+pg	Papua New Guinea	9349
+md	Moldova	9352
+tg	Togo	9951
+lr	Liberia	10600
+sl	Sierra Leone	11701
+bt	Bhutan	12205
+mr	Mauritania	12253
+bi	Burundi	12322
+is	Iceland	12898
+cy	Cyprus	12901
+mk	North Macedonia	14182
+ga	Gabon	14300
+hn	Honduras	14742
+so	Somalia	15000
+bf	Burkina Faso	15304
+mw	Malawi	15452
+bj	Benin	16000
+er	Eritrea	16000
+sn	Senegal	16665
+gt	Guatemala	17440
+pe	Peru	18699
+ne	Niger	18949
+bg	Bulgaria	19512
+il	Israel	19555
+do	The Dominican	19705
+ge	Georgia	20295
+ug	Uganda	20544
+lb	Lebanon	21705
+jm	Jamaica	22121
+ba	Bosnia and Herzegovina	22926
+cg	Congo (Brazzaville)	23324
+ni	Nicaragua	23897
+az	Azerbaijan	24981
+kp	North Korea	25554
+ao	Angola	26000
+pr	Puerto Rico	26862
+hr	Croatia	26958
+np	Nepal	27990
+tj	Tajikistan	30000
+sd	Sudan	31000
+mz	Mozambique	31083
+mg	Madagascar	31640
+bw	Botswana	31747
+kg	Kyrgyzstan	34000
+af	Afghanistan	34903
+ly	Libya	37000
+si	Slovenia	38985
+la	Laos	39586
+td	Chad	40000
+tw	Taiwan	43206
+ec	Ecuador	43950
+rs	Serbia	44248
+gn	Guinea	44301
+kh	Cambodia	47263
+na	Namibia	48875
+cz	Czechia	55744
+sk	Slovakia	56926
+ma	Morocco	57300
+ee	Estonia	58412
+tm	Turkmenistan	58592
+iq	Iraq	59623
+cu	Cuba	60000
+om	Oman	60230
+eg	Egypt	65050
+gh	Ghana	65725
+tr	Turkey	67333
+zm	Zambia	67671
+sy	Syria	69873
+lv	Latvia	70244
+ye	Yemen	71300
+ch	Switzerland	71557
+dk	Denmark	74558
+cm	Cameroon	77589
+uy	Uruguay	77732
+cl	Chile	77801
+py	Paraguay	78811
+ci	Cote d'Ivoire	81996
+pt	Portugal	82900
+lt	Lithuania	84166
+ro	Romania	84185
+uz	Uzbekistan	86496
+by	Belarus	86600
+ss	South Sudan	90200
+bo	Bolivia	90568
+nz	New Zealand	94000
+no	Norway	94902
+kz	Kazakhstan	96167
+ve	Venezuela	96189
+zw	Zimbabwe	97267
+ie	Ireland	99830
+kr	South Korea	100428
+dz	Algeria	104000
+mn	Mongolia	113200
+lk	Sri Lanka	114093
+gr	Greece	117000
+be	Belgium	118414
+et	Ethiopia	120171
+at	Austria	137039
+ml	Mali	139107
+nl	Netherlands	139124
+my	Malaysia	144403
+tz	Tanzania	145203
+cd	DRC	152373
+mm	Burma	157000
+ke	Kenya	161452
+ua	Ukraine	169694
+th	Thailand	180053
+ng	Nigeria	195000
+vn	Vietnam	195468
+hu	Hungary	203601
+co	Colombia	205379
+ph	Philippines	216387
+sa	Saudi Arabia	221372
+ir	Iran	223485
+pk	Pakistan	264175
+ar	Argentina	281290
+bd	Bangladesh	369105
+pl	Poland	420000
+fi	Finland	454000
+it	Italy	487700
+id	Indonesia	496607
+se	Sweden	573134
+es	Spain	683175
+mx	Mexico	704884
+za	South Africa	750000
+de	Germany	830000
+au	Australia	873573
+ca	Canada	1042300
+fr	France	1053215
+jp	Japan	1218772
+ru	Russia	1283387
+br	Brazil	2000000
+cn	China	5200000.0
+in	India	6371847
+us	United States	6586610

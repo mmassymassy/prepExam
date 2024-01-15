@@ -1,0 +1,223 @@
+#ranking=People and Society/Age structure/15-64 years
+#unit=% (male 
+cx	Christmas Island	12.2
+ne	Niger	47.6
+ml	Mali	49.88
+ug	Uganda	50.31
+ao	Angola	50.49
+td	Chad	51.27
+cd	DRC	51.52
+mz	Mozambique	52.1
+bj	Benin	52.18
+bi	Burundi	54.03
+gw	Guinea-Bissau	54.38
+mc	Monaco	54.42
+lr	Liberia	54.5
+bf	Burkina Faso	54.62
+zm	Zambia	54.77
+gn	Guinea	55.05
+cm	Cameroon	55.12
+tz	Tanzania	55.15
+sn	Senegal	55.46
+ss	South Sudan	55.48
+so	Somalia	55.77
+ng	Nigeria	55.95
+cg	Congo (Brazzaville)	56.15
+sd	Sudan	56.35
+tl	Timor-Leste	56.61
+tg	Togo	56.76
+sl	Sierra Leone	56.89
+zw	Zimbabwe	57.32
+ps	Gaza Strip	57.34
+af	Afghanistan	57.35
+et	Ethiopia	57.55
+gm	The Gambia	57.57
+mw	Malawi	57.64
+gh	Ghana	57.92
+jp	Japan	58.49
+mg	Madagascar	58.72
+pg	Papua New Guinea	58.75
+gq	Equatorial Guinea	59.01
+rw	Rwanda	59.1
+mr	Mauritania	59.58
+st	Sao Tome and Principe	59.64
+er	Eritrea	59.73
+vi	Virgin Islands	60.04
+ke	Kenya	60.26
+eg	Egypt	60.27
+ci	Cote d'Ivoire	60.4
+pk	Pakistan	60.41
+fi	Finland	60.5
+fr	France	60.53
+ga	Gabon	60.76
+iq	Iraq	61.17
+ye	Yemen	61.52
+il	Israel	61.66
+bm	Bermuda	61.66
+na	Namibia	61.68
+fo	Faroe Islands	61.94
+pm	Saint Pierre and Miquelon	61.98
+km	Comoros	62
+se	Sweden	62.05
+im	Isle of Man	62.09
+ro	Romania	62.13
+ls	Lesotho	62.21
+ee	Estonia	62.27
+sy	Syria	62.58
+gi	Gibraltar	62.62
+gr	Greece	62.66
+cw	Curacao	62.7
+si	Slovenia	62.73
+gt	Guatemala	62.78
+to	Tonga	62.79
+ly	Libya	62.8
+mt	Malta	62.83
+gu	Guam	62.85
+de	Germany	62.97
+pr	Puerto Rico	62.98
+be	Belgium	63.06
+nl	Netherlands	63.08
+lt	Lithuania	63.11
+dk	Denmark	63.13
+tv	Tuvalu	63.3
+lv	Latvia	63.37
+hr	Croatia	63.39
+is	Iceland	63.39
+vu	Vanuatu	63.41
+ge	Georgia	63.65
+us	United States	63.72
+bl	Saint Barthelemy	63.8
+sb	Solomon Islands	63.82
+ar	Argentina	63.83
+mh	Marshall Islands	63.83
+ca	Canada	63.85
+kg	Kyrgyzstan	63.86
+sz	Eswatini	63.88
+hu	Hungary	63.97
+no	Norway	64
+bo	Bolivia	64.03
+ph	Philippines	64.06
+bz	Belize	64.15
+cz	Czechia	64.18
+dz	Algeria	64.29
+nz	New Zealand	64.36
+li	Liechtenstein	64.38
+gg	Guernsey	64.48
+jo	Jordan	64.53
+sm	San Marino	64.58
+it	Italy	64.61
+me	Montenegro	64.65
+la	Laos	64.73
+pa	Panama	64.87
+pl	Poland	64.87
+bw	Botswana	64.88
+au	Australia	64.89
+ie	Ireland	65.04
+at	Austria	65.11
+ch	Switzerland	65.13
+bg	Bulgaria	65.17
+pt	Portugal	65.18
+je	Jersey	65.19
+tn	Tunisia	65.26
+kz	Kazakhstan	65.29
+kh	Cambodia	65.39
+gd	Grenada	65.51
+uy	Uruguay	65.55
+nr	Nauru	65.65
+ws	Samoa	65.72
+ht	Haiti	65.76
+jm	Jamaica	65.8
+rs	Serbia	65.81
+dm	Dominica	65.82
+tj	Tajikistan	65.84
+as	American Samoa	65.89
+ma	Morocco	65.92
+pe	Peru	65.94
+ua	Ukraine	65.95
+ve	Venezuela	65.98
+ru	Russia	65.99
+hk	Hong Kong	66.02
+aw	Aruba	66.11
+es	Spain	66.13
+om	Oman	66.17
+za	South Africa	66.17
+hn	Honduras	66.18
+lk	Sri Lanka	66.22
+ck	Cook Islands	66.23
+fj	Fiji	66.31
+md	Moldova	66.37
+sv	El Salvador	66.39
+ec	Ecuador	66.44
+ky	Cayman Islands	66.48
+sk	Slovakia	66.49
+co	Colombia	66.66
+by	Belarus	66.81
+cu	Cuba	66.81
+lc	Saint Lucia	66.97
+do	The Dominican	67.09
+bd	Bangladesh	67.09
+sx	Sint Maarten	67.18
+cv	Cabo Verde	67.18
+dj	Djibouti	67.21
+lu	Luxembourg	67.38
+tt	Trinidad and Tobago	67.4
+np	Nepal	67.52
+al	Albania	67.53
+am	Armenia	67.53
+bb	Barbados	67.56
+cl	Chile	67.56
+gl	Greenland	67.66
+ki	Kiribati	67.77
+wf	Wallis and Futuna	67.86
+ai	Anguilla	67.88
+ag	Antigua and Barbuda	67.94
+mp	Northern Mariana Islands	67.95
+id	Indonesia	68.1
+ad	Andorra	68.17
+mx	Mexico	68.22
+mn	Mongolia	68.24
+mm	Burma	68.3
+in	India	68.42
+nc	New Caledonia	68.45
+gy	Guyana	68.49
+kn	Saint Kitts and Nevis	68.54
+py	Paraguay	68.54
+vc	Saint Vincent and the Grenadines	68.55
+tr	Turkey	68.58
+cr	Costa Rica	68.59
+vn	Vietnam	68.69
+mk	North Macedonia	68.69
+xk	Kosovo	68.75
+pf	French Polynesia	68.79
+bs	The Bahamas	68.8
+tm	Turkmenistan	68.82
+ba	Bosnia and Herzegovina	69
+kp	North Korea	69.16
+ni	Nicaragua	69.36
+cn	China	69.4
+my	Malaysia	69.42
+th	Thailand	69.53
+az	Azerbaijan	69.64
+br	Brazil	69.72
+tw	Taiwan	69.72
+ir	Iran	69.82
+sr	Suriname	69.96
+bt	Bhutan	69.97
+kr	South Korea	70.1
+cy	Cyprus	70.36
+uz	Uzbekistan	70.64
+mo	Macau	70.73
+bn	Brunei	71.07
+mu	Mauritius	71.35
+sg	Singapore	71.49
+lb	Lebanon	71.69
+pw	Palau	71.82
+vg	British Virgin Islands	71.87
+mv	Maldives	71.97
+sa	Saudi Arabia	72.36
+sc	Seychelles	72.58
+tc	Turks and Caicos Islands	73.24
+kw	Kuwait	73.28
+ms	Montserrat	76.6
+bh	Bahrain	77.83
+qa	Qatar	85.51

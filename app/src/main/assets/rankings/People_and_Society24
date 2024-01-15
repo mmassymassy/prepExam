@@ -1,0 +1,166 @@
+#ranking=People and Society/Hospital bed density
+#unit=beds/1,000 population
+ml	Mali	0.1
+mg	Madagascar	0.2
+gn	Guinea	0.3
+np	Nepal	0.3
+et	Ethiopia	0.3
+af	Afghanistan	0.4
+gt	Guatemala	0.4
+ne	Niger	0.4
+bf	Burkina Faso	0.4
+in	India	0.5
+bj	Benin	0.5
+ug	Uganda	0.5
+hn	Honduras	0.6
+pk	Pakistan	0.6
+er	Eritrea	0.7
+mz	Mozambique	0.7
+tg	Togo	0.7
+ht	Haiti	0.7
+sd	Sudan	0.7
+ye	Yemen	0.7
+tz	Tanzania	0.7
+bi	Burundi	0.8
+bd	Bangladesh	0.8
+py	Paraguay	0.8
+gh	Ghana	0.9
+ni	Nicaragua	0.9
+so	Somalia	0.9
+ve	Venezuela	0.9
+ph	Philippines	1
+bz	Belize	1
+id	Indonesia	1
+mm	Burma	1
+ma	Morocco	1
+mx	Mexico	1
+gm	The Gambia	1.1
+cr	Costa Rica	1.1
+sv	El Salvador	1.2
+mw	Malawi	1.3
+bo	Bolivia	1.3
+iq	Iraq	1.3
+lc	Saint Lucia	1.3
+qa	Qatar	1.3
+ps	Gaza Strip	1.3
+cm	Cameroon	1.3
+sb	Solomon Islands	1.4
+ec	Ecuador	1.4
+dj	Djibouti	1.4
+eg	Egypt	1.4
+sy	Syria	1.4
+la	Laos	1.5
+jo	Jordan	1.5
+om	Oman	1.5
+do	The Dominican	1.6
+ir	Iran	1.6
+pe	Peru	1.6
+zw	Zimbabwe	1.7
+bt	Bhutan	1.7
+gy	Guyana	1.7
+bh	Bahrain	1.7
+jm	Jamaica	1.7
+co	Colombia	1.7
+bw	Botswana	1.8
+dz	Algeria	1.9
+kh	Cambodia	1.9
+ki	Kiribati	1.9
+my	Malaysia	1.9
+fj	Fiji	2
+kw	Kuwait	2
+zm	Zambia	2
+sz	Eswatini	2.1
+br	Brazil	2.1
+cl	Chile	2.1
+se	Sweden	2.1
+cv	Cabo Verde	2.1
+sa	Saudi Arabia	2.2
+tn	Tunisia	2.2
+pa	Panama	2.3
+uy	Uruguay	2.4
+sg	Singapore	2.5
+ca	Canada	2.5
+ad	Andorra	2.5
+dk	Denmark	2.6
+nz	New Zealand	2.6
+lb	Lebanon	2.7
+mh	Marshall Islands	2.7
+na	Namibia	2.7
+is	Iceland	2.8
+st	Sao Tome and Principe	2.9
+al	Albania	2.9
+ge	Georgia	2.9
+ag	Antigua and Barbuda	2.9
+bn	Brunei	2.9
+us	United States	2.9
+tr	Turkey	2.9
+bs	The Bahamas	3
+sr	Suriname	3
+tt	Trinidad and Tobago	3
+es	Spain	3
+ie	Ireland	3
+il	Israel	3
+it	Italy	3.1
+vn	Vietnam	3.2
+ly	Libya	3.2
+nl	Netherlands	3.2
+cy	Cyprus	3.4
+ba	Bosnia and Herzegovina	3.5
+no	Norway	3.5
+pt	Portugal	3.5
+sc	Seychelles	3.6
+gd	Grenada	3.6
+fi	Finland	3.6
+mu	Mauritius	3.7
+sm	San Marino	3.8
+au	Australia	3.8
+dm	Dominica	3.8
+me	Montenegro	3.9
+tm	Turkmenistan	4
+uz	Uzbekistan	4
+am	Armenia	4.2
+fo	Faroe Islands	4.2
+lk	Sri Lanka	4.2
+gr	Greece	4.2
+vc	Saint Vincent and the Grenadines	4.3
+cn	China	4.3
+mk	North Macedonia	4.3
+lu	Luxembourg	4.3
+mv	Maldives	4.3
+kg	Kyrgyzstan	4.4
+si	Slovenia	4.4
+mt	Malta	4.5
+ch	Switzerland	4.6
+ee	Estonia	4.6
+tj	Tajikistan	4.7
+kn	Saint Kitts and Nevis	4.8
+az	Azerbaijan	4.8
+hk	Hong Kong	4.9
+ar	Argentina	5
+cu	Cuba	5.3
+hr	Croatia	5.5
+lv	Latvia	5.5
+rs	Serbia	5.6
+be	Belgium	5.6
+md	Moldova	5.7
+sk	Slovakia	5.7
+fr	France	5.9
+bb	Barbados	6
+kz	Kazakhstan	6.1
+ga	Gabon	6.3
+lt	Lithuania	6.4
+pl	Poland	6.5
+cz	Czechia	6.6
+ro	Romania	6.9
+hu	Hungary	7
+ru	Russia	7.1
+at	Austria	7.3
+ua	Ukraine	7.5
+bg	Bulgaria	7.5
+de	Germany	8
+mn	Mongolia	8
+by	Belarus	10.8
+kr	South Korea	12.4
+jp	Japan	13
+mc	Monaco	13.8
+gl	Greenland	14

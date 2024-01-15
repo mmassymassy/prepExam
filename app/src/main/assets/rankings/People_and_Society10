@@ -1,0 +1,54 @@
+#ranking=People and Society/Child marriage/men married by age 18
+#unit=% 
+cd	DRC	0
+jo	Jordan	0.1
+gm	The Gambia	0.2
+am	Armenia	0.4
+ge	Georgia	0.5
+za	South Africa	0.6
+sn	Senegal	0.7
+tl	Timor-Leste	1.2
+al	Albania	1.2
+bi	Burundi	1.4
+ht	Haiti	1.6
+by	Belarus	1.6
+gn	Guinea	1.9
+ls	Lesotho	1.9
+zw	Zimbabwe	1.9
+ws	Samoa	2
+ml	Mali	2.1
+mn	Mongolia	2.1
+mv	Maldives	2.2
+gw	Guinea-Bissau	2.2
+tg	Togo	2.6
+zm	Zambia	2.8
+to	Tonga	2.8
+cm	Cameroon	2.9
+st	Sao Tome and Principe	3.1
+me	Montenegro	3.2
+ng	Nigeria	3.2
+ci	Cote d'Ivoire	3.5
+pg	Papua New Guinea	3.7
+tz	Tanzania	3.9
+gh	Ghana	3.9
+sl	Sierra Leone	4.1
+in	India	4.2
+pk	Pakistan	4.7
+bj	Benin	4.8
+et	Ethiopia	5
+mm	Burma	5
+bo	Bolivia	5.2
+ug	Uganda	5.5
+cg	Congo (Brazzaville)	5.6
+so	Somalia	5.6
+cu	Cuba	5.9
+ao	Angola	6
+td	Chad	8.1
+lr	Liberia	8.4
+ki	Kiribati	8.6
+np	Nepal	9
+th	Thailand	9.8
+la	Laos	10.8
+mg	Madagascar	11.8
+sr	Suriname	19.6
+bz	Belize	22.2

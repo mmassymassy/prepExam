@@ -1,0 +1,169 @@
+#ranking=Economy/Inflation rate (consumer prices)/Inflation rate (consumer prices) 2020
+#unit=% (2020 est.)
+fj	Fiji	-2.6
+qa	Qatar	-2.54
+bh	Bahrain	-2.32
+lc	Saint Lucia	-1.76
+ws	Samoa	-1.57
+pa	Panama	-1.55
+mv	Maldives	-1.37
+gr	Greece	-1.25
+kn	Saint Kitts and Nevis	-1.17
+my	Malaysia	-1.14
+ba	Bosnia and Herzegovina	-1.05
+om	Oman	-0.9
+th	Thailand	-0.85
+gd	Grenada	-0.74
+ps	Gaza Strip	-0.74
+ch	Switzerland	-0.73
+dm	Dominica	-0.73
+cy	Cyprus	-0.64
+vc	Saint Vincent and the Grenadines	-0.63
+il	Israel	-0.59
+ee	Estonia	-0.44
+sv	El Salvador	-0.37
+to	Tonga	-0.35
+ec	Ecuador	-0.34
+ie	Ireland	-0.33
+es	Spain	-0.32
+me	Montenegro	-0.26
+sg	Singapore	-0.18
+it	Italy	-0.14
+si	Slovenia	-0.05
+jp	Japan	-0.02
+pt	Portugal	-0.01
+bs	The Bahamas	0.04
+bz	Belize	0.12
+hr	Croatia	0.15
+xk	Kosovo	0.2
+lv	Latvia	0.22
+pw	Palau	0.22
+hk	Hong Kong	0.25
+fi	Finland	0.29
+jo	Jordan	0.33
+vg	British Virgin Islands	0.4
+dk	Denmark	0.42
+ml	Mali	0.44
+fr	France	0.48
+se	Sweden	0.5
+de	Germany	0.51
+kr	South Korea	0.54
+iq	Iraq	0.57
+tt	Trinidad and Tobago	0.6
+cv	Cabo Verde	0.61
+ag	Antigua and Barbuda	0.63
+mt	Malta	0.64
+ma	Morocco	0.71
+ca	Canada	0.72
+cr	Costa Rica	0.72
+be	Belgium	0.74
+mo	Macau	0.81
+lu	Luxembourg	0.82
+au	Australia	0.85
+bo	Bolivia	0.94
+gy	Guyana	0.99
+gw	Guinea-Bissau	1.14
+ga	Gabon	1.18
+lt	Lithuania	1.2
+mk	North Macedonia	1.2
+am	Armenia	1.21
+us	United States	1.23
+nl	Netherlands	1.27
+no	Norway	1.29
+at	Austria	1.38
+rs	Serbia	1.58
+al	Albania	1.62
+bg	Bulgaria	1.67
+nz	New Zealand	1.71
+py	Paraguay	1.77
+dj	Djibouti	1.78
+cg	Congo (Brazzaville)	1.8
+tg	Togo	1.83
+bf	Burkina Faso	1.88
+bw	Botswana	1.89
+id	Indonesia	1.92
+bn	Brunei	1.94
+sk	Slovakia	1.94
+pe	Peru	2
+kw	Kuwait	2.1
+na	Namibia	2.21
+mr	Mauritania	2.39
+ph	Philippines	2.39
+cn	China	2.42
+dz	Algeria	2.42
+ci	Cote d'Ivoire	2.43
+cm	Cameroon	2.44
+co	Colombia	2.53
+sn	Senegal	2.55
+mu	Mauritius	2.58
+ro	Romania	2.63
+ua	Ukraine	2.73
+az	Azerbaijan	2.76
+is	Iceland	2.85
+ne	Niger	2.9
+kh	Cambodia	2.94
+sb	Solomon Islands	2.96
+bj	Benin	3.02
+cl	Chile	3.05
+mz	Mozambique	3.14
+cz	Czechia	3.16
+br	Brazil	3.21
+gt	Guatemala	3.21
+za	South Africa	3.21
+vn	Vietnam	3.22
+tz	Tanzania	3.29
+ug	Uganda	3.31
+hu	Hungary	3.33
+pl	Poland	3.37
+ru	Russia	3.38
+mx	Mexico	3.4
+sa	Saudi Arabia	3.45
+hn	Honduras	3.47
+ni	Nicaragua	3.68
+md	Moldova	3.77
+do	The Dominican	3.78
+mn	Mongolia	3.8
+tk	Tokelau	4
+mg	Madagascar	4.2
+td	Chad	4.46
+gq	Equatorial Guinea	4.77
+pg	Papua New Guinea	4.87
+ls	Lesotho	4.98
+eg	Egypt	5.04
+np	Nepal	5.05
+la	Laos	5.1
+ge	Georgia	5.2
+jm	Jamaica	5.23
+vu	Vanuatu	5.33
+ke	Kenya	5.4
+by	Belarus	5.55
+bt	Bhutan	5.63
+tn	Tunisia	5.63
+bd	Bangladesh	5.69
+gm	The Gambia	5.93
+lk	Sri Lanka	6.15
+kg	Kyrgyzstan	6.33
+in	India	6.62
+kz	Kazakhstan	6.75
+bi	Burundi	7.32
+sc	Seychelles	8.28
+mw	Malawi	8.63
+pk	Pakistan	9.74
+uy	Uruguay	9.76
+rw	Rwanda	9.85
+gh	Ghana	9.89
+gn	Guinea	10.6
+tr	Turkey	12.28
+uz	Uzbekistan	12.87
+ng	Nigeria	13.25
+sl	Sierra Leone	13.45
+zm	Zambia	15.73
+et	Ethiopia	20.36
+ao	Angola	22.27
+ht	Haiti	22.8
+ss	South Sudan	29.68
+ir	Iran	30.59
+sr	Suriname	34.89
+lb	Lebanon	84.86
+sd	Sudan	150.32
+zw	Zimbabwe	557.2

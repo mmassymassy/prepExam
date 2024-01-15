@@ -1,0 +1,225 @@
+#ranking=Government/Capital/geographic coordinates
+#unit=
+ec	Ecuador	0
+ug	Uganda	0
+st	Sao Tome and Principe	0
+ga	Gabon	0
+sg	Singapore	1
+ke	Kenya	1
+ki	Kiribati	1
+rw	Rwanda	1
+so	Somalia	2
+my	Malaysia	3
+bi	Burundi	3
+gq	Equatorial Guinea	3
+cm	Cameroon	3
+ss	South Sudan	4
+mv	Maldives	4
+cg	Congo (Brazzaville)	4
+cd	DRC	4
+co	Colombia	4
+sc	Seychelles	4
+bn	Brunei	4
+gh	Ghana	5
+sr	Suriname	5
+tg	Togo	6
+id	Indonesia	6
+lr	Liberia	6
+bj	Benin	6
+gy	Guyana	6
+tz	Tanzania	6
+ci	Cote d'Ivoire	6
+lk	Sri Lanka	6
+mh	Marshall Islands	7
+pw	Palau	7
+sl	Sierra Leone	8
+tv	Tuvalu	8
+tl	Timor-Leste	8
+ao	Angola	8
+pa	Panama	8
+et	Ethiopia	9
+ng	Nigeria	9
+sb	Solomon Islands	9
+pg	Papua New Guinea	9
+gn	Guinea	9
+cr	Costa Rica	9
+cx	Christmas Island	10
+ve	Venezuela	10
+tt	Trinidad and Tobago	10
+kh	Cambodia	11
+dj	Djibouti	11
+km	Comoros	11
+gw	Guinea-Bissau	11
+gd	Grenada	12
+pe	Peru	12
+td	Chad	12
+cw	Curacao	12
+ni	Nicaragua	12
+cc	Cocos (Keeling) Islands	12
+bf	Burkina Faso	12
+aw	Aruba	12
+ml	Mali	12
+bb	Barbados	13
+vc	Saint Vincent and the Grenadines	13
+gm	The Gambia	13
+gu	Guam	13
+ne	Niger	13
+sv	El Salvador	13
+th	Thailand	13
+ws	Samoa	13
+wf	Wallis and Futuna	13
+mw	Malawi	13
+lc	Saint Lucia	14
+hn	Honduras	14
+as	American Samoa	14
+ph	Philippines	14
+gt	Guatemala	14
+sn	Senegal	14
+cv	Cabo Verde	14
+mp	Northern Mariana Islands	15
+dm	Dominica	15
+er	Eritrea	15
+ye	Yemen	15
+zm	Zambia	15
+sd	Sudan	15
+br	Brazil	15
+bo	Bolivia	16
+ms	Montserrat	16
+mm	Burma	16
+ag	Antigua and Barbuda	17
+bz	Belize	17
+kn	Saint Kitts and Nevis	17
+pf	French Polynesia	17
+vu	Vanuatu	17
+zw	Zimbabwe	17
+bl	Saint Barthelemy	17
+la	Laos	17
+jm	Jamaica	18
+mr	Mauritania	18
+fj	Fiji	18
+sx	Sint Maarten	18
+ai	Anguilla	18
+vi	Virgin Islands	18
+vg	British Virgin Islands	18
+pr	Puerto Rico	18
+do	The Dominican	18
+ht	Haiti	18
+mg	Madagascar	18
+nu	Niue	19
+ky	Cayman Islands	19
+mx	Mexico	19
+mu	Mauritius	20
+vn	Vietnam	21
+to	Tonga	21
+ck	Cook Islands	21
+tc	Turks and Caicos Islands	21
+nc	New Caledonia	22
+na	Namibia	22
+cu	Cuba	23
+om	Oman	23
+bd	Bangladesh	23
+bw	Botswana	24
+sa	Saudi Arabia	24
+tw	Taiwan	25
+pn	Pitcairn Islands	25
+bs	The Bahamas	25
+py	Paraguay	25
+qa	Qatar	25
+za	South Africa	25
+mz	Mozambique	25
+bh	Bahrain	26
+sz	Eswatini	26
+bt	Bhutan	27
+np	Nepal	27
+in	India	28
+nf	Norfolk Island	29
+ls	Lesotho	29
+kw	Kuwait	29
+eg	Egypt	30
+il	Israel	31
+jo	Jordan	31
+bm	Bermuda	32
+ly	Libya	32
+iq	Iraq	33
+cl	Chile	33
+sy	Syria	33
+pk	Pakistan	33
+lb	Lebanon	33
+ma	Morocco	34
+af	Afghanistan	34
+ar	Argentina	34
+uy	Uruguay	34
+cy	Cyprus	35
+au	Australia	35
+jp	Japan	35
+ir	Iran	35
+mt	Malta	35
+gi	Gibraltar	36
+dz	Algeria	36
+tn	Tunisia	36
+kr	South Korea	37
+tm	Turkmenistan	37
+gr	Greece	37
+tj	Tajikistan	38
+pt	Portugal	38
+us	United States	38
+kp	North Korea	39
+cn	China	39
+tr	Turkey	39
+am	Armenia	40
+az	Azerbaijan	40
+es	Spain	40
+nz	New Zealand	41
+al	Albania	41
+uz	Uzbekistan	41
+ge	Georgia	41
+va	Holy See (Vatican City)	41
+it	Italy	41
+mk	North Macedonia	42
+me	Montenegro	42
+ad	Andorra	42
+xk	Kosovo	42
+bg	Bulgaria	42
+kg	Kyrgyzstan	42
+mc	Monaco	43
+ba	Bosnia and Herzegovina	43
+sm	San Marino	43
+ro	Romania	44
+rs	Serbia	44
+ca	Canada	45
+hr	Croatia	45
+si	Slovenia	46
+pm	Saint Pierre and Miquelon	46
+ch	Switzerland	46
+md	Moldova	47
+li	Liechtenstein	47
+hu	Hungary	47
+mn	Mongolia	47
+sk	Slovakia	48
+at	Austria	48
+fr	France	48
+je	Jersey	49
+gg	Guernsey	49
+lu	Luxembourg	49
+cz	Czechia	50
+ua	Ukraine	50
+be	Belgium	50
+kz	Kazakhstan	51
+fk	Falkland Islands (Islas Malvinas)	51
+pl	Poland	52
+nl	Netherlands	52
+de	Germany	52
+ie	Ireland	53
+by	Belarus	53
+im	Isle of Man	54
+lt	Lithuania	54
+dk	Denmark	55
+ru	Russia	55
+lv	Latvia	56
+se	Sweden	59
+ee	Estonia	59
+no	Norway	59
+fi	Finland	60
+fo	Faroe Islands	62
+is	Iceland	64
+gl	Greenland	64

@@ -1,0 +1,208 @@
+#ranking=Energy/Electricity generation sources/fossil fuels
+#unit=% of total installed capacity (2020 est.)
+al	Albania	0
+bt	Bhutan	0
+et	Ethiopia	0
+is	Iceland	0
+ls	Lesotho	0
+np	Nepal	0
+py	Paraguay	0
+cd	DRC	0.1
+cr	Costa Rica	0.2
+ch	Switzerland	0.8
+se	Sweden	1
+no	Norway	1.2
+ug	Uganda	1.3
+uy	Uruguay	2
+na	Namibia	6.1
+fr	France	8
+sl	Sierra Leone	8.2
+ke	Kenya	8.3
+kg	Kyrgyzstan	8.5
+tj	Tajikistan	8.7
+br	Brazil	11.8
+mw	Malawi	11.8
+zm	Zambia	13
+fi	Finland	13.4
+lu	Luxembourg	13.8
+dk	Denmark	14.8
+gl	Greenland	15.8
+kp	North Korea	15.8
+af	Afghanistan	15.9
+ca	Canada	16.5
+at	Austria	17.4
+nz	New Zealand	19.5
+mz	Mozambique	19.6
+sk	Slovakia	19.7
+ec	Ecuador	21
+gn	Guinea	22.2
+pa	Panama	24.5
+ge	Georgia	25.3
+si	Slovenia	27.2
+sv	El Salvador	28.2
+ao	Angola	28.4
+ve	Venezuela	30.5
+ro	Romania	32.1
+es	Spain	32.4
+cm	Cameroon	32.5
+co	Colombia	32.9
+zw	Zimbabwe	32.9
+be	Belgium	33.1
+bi	Burundi	33.3
+lv	Latvia	33.4
+la	Laos	35.6
+hu	Hungary	36.1
+bg	Bulgaria	36.5
+ua	Ukraine	37.6
+ni	Nicaragua	37.8
+lt	Lithuania	38
+pe	Peru	38.5
+pt	Portugal	39
+rw	Rwanda	39
+gt	Guatemala	39.4
+de	Germany	40.5
+lr	Liberia	40.5
+sr	Suriname	40.5
+am	Armenia	40.6
+ga	Gabon	40.6
+hr	Croatia	41
+fj	Fiji	41.9
+me	Montenegro	42.3
+sd	Sudan	43.5
+sz	Eswatini	44.1
+hn	Honduras	46.7
+cz	Czechia	47
+cl	Chile	51.9
+kh	Cambodia	52
+mm	Burma	52.6
+pk	Pakistan	55.2
+ee	Estonia	55.8
+it	Italy	55.9
+tr	Turkey	56.2
+gr	Greece	56.5
+ie	Ireland	57.8
+fo	Faroe Islands	58.9
+ru	Russia	59.4
+mg	Madagascar	59.8
+us	United States	59.9
+ba	Bosnia and Herzegovina	62.8
+bz	Belize	63.6
+gh	Ghana	63.8
+lk	Sri Lanka	64
+bo	Bolivia	64.4
+kr	South Korea	64.8
+tz	Tanzania	65
+ar	Argentina	65.8
+cn	China	66
+mo	Macau	66.4
+pf	French Polynesia	66.5
+fk	Falkland Islands (Islas Malvinas)	66.7
+ml	Mali	67.4
+nl	Netherlands	68.3
+rs	Serbia	69.2
+ck	Cook Islands	70
+cg	Congo (Brazzaville)	70.1
+vn	Vietnam	70.7
+mk	North Macedonia	71.4
+ws	Samoa	72.7
+mr	Mauritania	73.2
+jp	Japan	73.5
+vc	Saint Vincent and the Grenadines	73.5
+dm	Dominica	74.8
+au	Australia	75.4
+mu	Mauritius	75.4
+in	India	75.5
+ci	Cote d'Ivoire	75.6
+mx	Mexico	75.7
+ph	Philippines	77.6
+ng	Nigeria	78.1
+pl	Poland	79.8
+cv	Cabo Verde	80.2
+pg	Papua New Guinea	80.2
+ma	Morocco	81.6
+tg	Togo	82.2
+tw	Taiwan	82.2
+id	Indonesia	82.3
+aw	Aruba	83.3
+th	Thailand	83.3
+jo	Jordan	83.5
+vu	Vanuatu	84.5
+ye	Yemen	84.6
+sn	Senegal	84.8
+ki	Kiribati	84.9
+ht	Haiti	85.8
+cy	Cyprus	86.8
+jm	Jamaica	87.5
+my	Malaysia	87.5
+za	South Africa	87.9
+uz	Uzbekistan	88.1
+kz	Kazakhstan	88.2
+mt	Malta	88.5
+eg	Egypt	88.7
+ir	Iran	88.7
+mn	Mongolia	89.2
+bf	Burkina Faso	89.4
+gq	Equatorial Guinea	89.4
+st	Sao Tome and Principe	89.5
+nc	New Caledonia	91.2
+do	The Dominican	93.4
+md	Moldova	93.6
+il	Israel	93.7
+er	Eritrea	93.8
+ne	Niger	94.1
+az	Azerbaijan	94.2
+lb	Lebanon	94.3
+pr	Puerto Rico	94.8
+sb	Solomon Islands	94.8
+sy	Syria	95.1
+so	Somalia	95.3
+ag	Antigua and Barbuda	95.4
+cu	Cuba	95.5
+xk	Kosovo	95.6
+by	Belarus	95.8
+bb	Barbados	95.9
+tn	Tunisia	95.9
+gu	Guam	96
+kn	Saint Kitts and Nevis	96.3
+sg	Singapore	96.5
+td	Chad	96.8
+bj	Benin	96.9
+gy	Guyana	97.4
+gw	Guinea-Bissau	97.6
+ky	Cayman Islands	97.6
+iq	Iraq	97.8
+dj	Djibouti	98.2
+gd	Grenada	98.3
+bd	Bangladesh	98.6
+vg	British Virgin Islands	98.8
+dz	Algeria	98.9
+gm	The Gambia	98.9
+vi	Virgin Islands	98.9
+lc	Saint Lucia	99.1
+sc	Seychelles	99.1
+ss	South Sudan	99.2
+hk	Hong Kong	99.6
+mv	Maldives	99.6
+bs	The Bahamas	99.8
+bw	Botswana	99.8
+kw	Kuwait	99.9
+sa	Saudi Arabia	99.9
+tt	Trinidad and Tobago	99.9
+ps	Gaza Strip	100
+as	American Samoa	100
+bh	Bahrain	100
+bm	Bermuda	100
+bn	Brunei	100
+gi	Gibraltar	100
+km	Comoros	100
+ly	Libya	100
+ms	Montserrat	100
+nr	Nauru	100
+nu	Niue	100
+om	Oman	100
+pm	Saint Pierre and Miquelon	100
+qa	Qatar	100
+tc	Turks and Caicos Islands	100
+tl	Timor-Leste	100
+tm	Turkmenistan	100
+to	Tonga	100

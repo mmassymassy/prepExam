@@ -1,0 +1,219 @@
+#ranking=Communications/Telephones - fixed lines/total subscriptions
+#unit=
+gn	Guinea	0
+ki	Kiribati	10
+sl	Sierra Leone	269
+tk	Tokelau	300
+nu	Niue	1000
+tl	Timor-Leste	1900
+fk	Falkland Islands (Islas Malvinas)	2000
+tv	Tuvalu	2000
+mh	Marshall Islands	2361
+st	Sao Tome and Principe	2619
+ms	Montserrat	3000
+wf	Wallis and Futuna	3000
+vu	Vanuatu	3600
+tc	Turks and Caicos Islands	4000
+gw	Guinea-Bissau	4800
+pm	Saint Pierre and Miquelon	4800
+td	Chad	5300
+ai	Anguilla	6000
+ht	Haiti	6000
+lr	Liberia	6000
+ws	Samoa	6000
+gl	Greenland	6352
+ck	Cook Islands	7000
+sb	Solomon Islands	7000
+vg	British Virgin Islands	7000
+km	Comoros	7431
+dm	Dominica	7500
+pw	Palau	8000
+ls	Lesotho	9559
+as	American Samoa	10000
+gq	Equatorial Guinea	11000
+to	Tonga	11000
+vc	Saint Vincent and the Grenadines	11385
+bj	Benin	11493
+li	Liechtenstein	11712
+rw	Rwanda	11893
+mw	Malawi	12465
+lc	Saint Lucia	14000
+mv	Maldives	14005
+fo	Faroe Islands	15000
+bi	Burundi	15976
+kn	Saint Kitts and Nevis	16000
+sm	San Marino	16000
+cg	Congo (Brazzaville)	17000
+gi	Gibraltar	17000
+sc	Seychelles	18768
+bz	Belize	19000
+bt	Bhutan	19680
+mp	Northern Mariana Islands	20000
+bm	Bermuda	25000
+gd	Grenada	26000
+mg	Madagascar	26271
+ag	Antigua and Barbuda	27000
+dj	Djibouti	27326
+ga	Gabon	31708
+gg	Guernsey	33930
+aw	Aruba	35000
+ky	Cayman Islands	36000
+kh	Cambodia	40296
+mc	Monaco	42812
+nc	New Caledonia	46000
+sz	Eswatini	46000
+je	Jersey	48122
+fj	Fiji	49000
+ad	Andorra	50000
+cw	Curacao	53000
+cv	Cabo Verde	53586
+tg	Togo	54000
+ne	Niger	58000
+mr	Mauritania	58094
+mz	Mozambique	59682
+gm	The Gambia	60000
+ke	Kenya	61096
+er	Eritrea	66000
+zm	Zambia	66000
+gu	Guam	70000
+tz	Tanzania	72000
+vi	Virgin Islands	76000
+bf	Burkina Faso	81374
+bs	The Bahamas	91000
+so	Somalia	91000
+na	Namibia	91869
+is	Iceland	100482
+ng	Nigeria	106385
+pf	French Polynesia	108051
+mo	Macau	110000
+ug	Uganda	110000
+bn	Brunei	112298
+ao	Angola	119826
+sr	Suriname	119977
+bb	Barbados	120980
+sd	Sudan	129408
+gy	Guyana	130000
+bw	Botswana	132457
+af	Afghanistan	150000
+pg	Papua New Guinea	170000
+me	Montenegro	189519
+lv	Latvia	191798
+al	Albania	197690
+py	Paraguay	203971
+fi	Finland	207000
+ni	Nicaragua	207577
+zw	Zimbabwe	243421
+mt	Malta	259439
+sn	Senegal	261440
+ci	Cote d'Ivoire	265513
+bh	Bahrain	266741
+lu	Luxembourg	270000
+lt	Lithuania	290711
+ee	Estonia	296620
+kg	Kyrgyzstan	300000
+ml	Mali	301055
+cy	Cyprus	304581
+gh	Ghana	315271
+ge	Georgia	337923
+tt	Trinidad and Tobago	340000
+no	Norway	350000
+xk	Kosovo	383763
+mn	Mongolia	399237
+am	Armenia	418122
+mk	North Macedonia	425646
+jo	Jordan	427517
+qa	Qatar	460240
+hn	Honduras	465521
+mu	Mauritius	469100
+jm	Jamaica	473617
+ps	Gaza Strip	485829
+tj	Tajikistan	500000
+mm	Burma	522141
+bo	Bolivia	539481
+cr	Costa Rica	553455
+om	Oman	572166
+sk	Slovakia	577390
+kw	Kuwait	580000
+bd	Bangladesh	587476
+nz	New Zealand	651000
+ba	Bosnia and Herzegovina	689295
+si	Slovenia	695444
+dk	Denmark	706604
+pr	Puerto Rico	726739
+np	Nepal	730000
+cm	Cameroon	739572
+bg	Bulgaria	787637
+pa	Panama	790486
+tm	Turkmenistan	800000
+sv	El Salvador	856090
+lb	Lebanon	880000
+et	Ethiopia	890000
+md	Moldova	1000228
+do	The Dominican	1154670
+kp	North Korea	1200000.0
+uy	Uruguay	1200000.0
+ye	Yemen	1200000.0
+hr	Croatia	1268941
+cz	Czechia	1294806
+la	Laos	1300195
+se	Sweden	1382146
+za	South Africa	1472191
+cu	Cuba	1539269
+ie	Ireland	1595061
+ly	Libya	1600000.0
+az	Azerbaijan	1644300
+tn	Tunisia	1700000.0
+ec	Ecuador	1846666
+sg	Singapore	1887500
+pe	Peru	2266025
+ua	Ukraine	2300000.0
+gt	Guatemala	2319643
+ma	Morocco	2460155
+cl	Chile	2510972
+rs	Serbia	2540276
+ro	Romania	2606000.0
+sy	Syria	2821171
+lk	Sri Lanka	2869186
+hu	Hungary	2955979
+ch	Switzerland	2956500
+pk	Pakistan	2989133
+kz	Kazakhstan	2997400
+iq	Iraq	3048736
+vn	Vietnam	3100000.0
+ve	Venezuela	3200000.0
+be	Belgium	3293420
+uz	Uzbekistan	3470097
+il	Israel	3500000.0
+at	Austria	3808709
+hk	Hong Kong	3856180
+by	Belarus	4332754
+au	Australia	4600000.0
+th	Thailand	4600000.0
+gr	Greece	4913036
+nl	Netherlands	5024000.0
+ph	Philippines	5028018
+dz	Algeria	5097095
+pl	Poland	5308497
+pt	Portugal	5318750
+sa	Saudi Arabia	6594631
+ar	Argentina	6903068
+co	Colombia	7600000.0
+my	Malaysia	8247100
+id	Indonesia	8998814
+eg	Egypt	11030900
+tr	Turkey	12000000
+ca	Canada	12928000.0
+tw	Taiwan	13000000
+es	Spain	19075931
+it	Italy	19994902
+kr	South Korea	23213189
+in	India	23773751
+ru	Russia	24000000
+mx	Mexico	24366595
+br	Brazil	28883475
+ir	Iran	29306782
+fr	France	38000000
+de	Germany	38600000.0
+jp	Japan	61583600
+us	United States	98000000
+cn	China	180700500

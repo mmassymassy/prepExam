@@ -1,0 +1,228 @@
+#ranking=Geography/Area/water
+#unit=sq km
+fo	Faroe Islands	0
+ad	Andorra	0
+af	Afghanistan	0
+ag	Antigua and Barbuda	0
+ai	Anguilla	0
+ao	Angola	0
+as	American Samoa	0
+aw	Aruba	0
+bb	Barbados	0
+bh	Bahrain	0
+bm	Bermuda	0
+bt	Bhutan	0
+cc	Cocos (Keeling) Islands	0
+ck	Cook Islands	0
+cv	Cabo Verde	0
+cw	Curacao	0
+cx	Christmas Island	0
+dz	Algeria	0
+eh	Western Sahara	0
+fj	Fiji	0
+fk	Falkland Islands (Islas Malvinas)	0
+gd	Grenada	0
+ge	Georgia	0
+gg	Guernsey	0
+gi	Gibraltar	0
+gq	Equatorial Guinea	0
+gu	Guam	0
+hm	Heard Island and McDonald Islands	0
+im	Isle of Man	0
+je	Jersey	0
+ki	Kiribati	0
+km	Comoros	0
+kn	Saint Kitts and Nevis	0
+kw	Kuwait	0
+ky	Cayman Islands	0
+li	Liechtenstein	0
+ls	Lesotho	0
+lu	Luxembourg	0
+ly	Libya	0
+mc	Monaco	0
+mh	Marshall Islands	0
+mo	Macau	0
+mp	Northern Mariana Islands	0
+mr	Mauritania	0
+ms	Montserrat	0
+mt	Malta	0
+mv	Maldives	0
+nf	Norfolk Island	0
+nr	Nauru	0
+nu	Niue	0
+om	Oman	0
+pm	Saint Pierre and Miquelon	0
+pn	Pitcairn Islands	0
+ps	Gaza Strip	0
+pw	Palau	0
+qa	Qatar	0
+rs	Serbia	0
+sa	Saudi Arabia	0
+sc	Seychelles	0
+sm	San Marino	0
+st	Sao Tome and Principe	0
+sx	Sint Maarten	0
+tc	Turks and Caicos Islands	0
+tk	Tokelau	0
+tl	Timor-Leste	0
+tt	Trinidad and Tobago	0
+tv	Tuvalu	0
+va	Holy See (Vatican City)	0
+vc	Saint Vincent and the Grenadines	0
+vg	British Virgin Islands	0
+vu	Vanuatu	0
+wf	Wallis and Futuna	0
+xk	Kosovo	0
+ye	Yemen	0
+ba	Bosnia and Herzegovina	10
+cy	Cyprus	10
+lc	Saint Lucia	10
+mu	Mauritius	10
+sg	Singapore	10
+ws	Samoa	10
+dj	Djibouti	20
+to	Tonga	30
+hk	Hong Kong	35
+cr	Costa Rica	40
+sl	Sierra Leone	120
+si	Slovenia	122
+kp	North Korea	130
+gn	Guinea	140
+pr	Puerto Rico	145
+bz	Belize	160
+jm	Jamaica	160
+sz	Eswatini	160
+lb	Lebanon	170
+ht	Haiti	190
+hn	Honduras	200
+be	Belgium	250
+ma	Morocco	250
+mk	North Macedonia	280
+nc	New Caledonia	300
+ne	Niger	300
+sv	El Salvador	320
+pf	French Polynesia	340
+do	The Dominican	350
+me	Montenegro	360
+bf	Burkina Faso	400
+il	Israel	440
+bn	Brunei	500
+cg	Congo (Brazzaville)	500
+jo	Jordan	540
+hr	Croatia	620
+pt	Portugal	620
+dk	Denmark	660
+sb	Solomon Islands	910
+sk	Slovakia	930
+iq	Iraq	950
+md	Moldova	960
+lk	Sri Lanka	980
+na	Namibia	1002
+cu	Cuba	1040
+pa	Panama	1080
+gm	The Gambia	1180
+my	Malaysia	1190
+uy	Uruguay	1200
+ch	Switzerland	1280
+gr	Greece	1310
+al	Albania	1350
+ie	Ireland	1390
+at	Austria	1426
+am	Armenia	1540
+sy	Syria	1550
+vi	Virgin Islands	1564
+cz	Czechia	1620
+rw	Rwanda	1670
+gt	Guatemala	1730
+ph	Philippines	1830
+bj	Benin	2000
+bi	Burundi	2150
+th	Thailand	2230
+lv	Latvia	2340
+bg	Bulgaria	2390
+tg	Togo	2400
+tj	Tajikistan	2590
+lt	Lithuania	2620
+cm	Cameroon	2730
+is	Iceland	2750
+kr	South Korea	2800
+ee	Estonia	2840
+fr	France	3374
+hu	Hungary	3420
+tw	Taiwan	3720
+np	Nepal	3830
+bs	The Bahamas	3870
+zw	Zimbabwe	3910
+az	Azerbaijan	3971
+sn	Senegal	4192
+nz	New Zealand	4301
+ci	Cote d'Ivoire	4460
+kh	Cambodia	4520
+za	South Africa	4620
+by	Belarus	4700
+pe	Peru	5220
+mg	Madagascar	5501
+eg	Egypt	6000
+la	Laos	6000
+es	Spain	6390
+ec	Ecuador	6720
+it	Italy	7200
+nl	Netherlands	7650
+et	Ethiopia	7730
+sr	Suriname	7820
+gw	Guinea-Bissau	8005
+kg	Kyrgyzstan	8150
+tn	Tunisia	8250
+de	Germany	8350
+pl	Poland	8430
+ro	Romania	8500
+zm	Zambia	9220
+py	Paraguay	9450
+pg	Papua New Guinea	9980
+ga	Gabon	10000
+so	Somalia	10320
+ni	Nicaragua	10380
+mn	Mongolia	10560
+gh	Ghana	11000
+ke	Kenya	11227
+cl	Chile	12290
+mz	Mozambique	13000
+ng	Nigeria	13000
+jp	Japan	13430
+tr	Turkey	13930
+bw	Botswana	15000
+lr	Liberia	15049
+bo	Bolivia	15280
+er	Eritrea	16600
+gy	Guyana	18120
+tm	Turkmenistan	18170
+bd	Bangladesh	18290
+no	Norway	19520
+ml	Mali	20002
+mx	Mexico	20430
+vn	Vietnam	21140
+uz	Uzbekistan	22000
+mm	Burma	23070
+ua	Ukraine	24220
+mw	Malawi	24404
+td	Chad	24800
+kz	Kazakhstan	25200
+pk	Pakistan	25220
+ve	Venezuela	30000
+fi	Finland	34330
+se	Sweden	39960
+ar	Argentina	43710
+ug	Uganda	43938
+au	Australia	58920
+tz	Tanzania	61500
+cd	DRC	77810
+id	Indonesia	93000
+co	Colombia	100210
+ir	Iran	116600
+sd	Sudan	129813
+br	Brazil	157630
+cn	China	270550
+in	India	314070
+us	United States	685924
+ru	Russia	720500
+ca	Canada	891163

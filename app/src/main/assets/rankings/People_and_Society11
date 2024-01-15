@@ -1,0 +1,74 @@
+#ranking=People and Society/Child marriage/women married by age 15
+#unit=%
+am	Armenia	0
+cd	DRC	0
+dz	Algeria	0
+mv	Maldives	0
+by	Belarus	0.1
+tj	Tajikistan	0.1
+tm	Turkmenistan	0.2
+ge	Georgia	0.3
+kg	Kyrgyzstan	0.3
+mk	North Macedonia	0.3
+to	Tonga	0.4
+ma	Morocco	0.5
+ps	Gaza Strip	0.7
+lk	Sri Lanka	0.9
+mn	Mongolia	0.9
+ws	Samoa	0.9
+za	South Africa	0.9
+ls	Lesotho	1
+rs	Serbia	1.2
+al	Albania	1.4
+lb	Lebanon	1.4
+jo	Jordan	1.5
+me	Montenegro	1.9
+mm	Burma	1.9
+cr	Costa Rica	2
+id	Indonesia	2
+tr	Turkey	2
+ht	Haiti	2.1
+ph	Philippines	2.2
+ki	Kiribati	2.4
+pe	Peru	2.5
+tl	Timor-Leste	2.6
+bi	Burundi	2.8
+th	Thailand	3
+bo	Bolivia	3.4
+mx	Mexico	3.6
+pk	Pakistan	3.6
+py	Paraguay	3.6
+ec	Ecuador	3.8
+af	Afghanistan	4.2
+cu	Cuba	4.8
+gh	Ghana	5
+tz	Tanzania	5.2
+zm	Zambia	5.2
+st	Sao Tome and Principe	5.4
+zw	Zimbabwe	5.4
+bz	Belize	6.3
+tg	Togo	6.4
+in	India	6.8
+ci	Cote d'Ivoire	7
+la	Laos	7.1
+iq	Iraq	7.2
+ug	Uganda	7.3
+gm	The Gambia	7.5
+ao	Angola	7.9
+np	Nepal	7.9
+pg	Papua New Guinea	8
+gw	Guinea-Bissau	8.1
+cg	Congo (Brazzaville)	8.4
+sl	Sierra Leone	8.6
+sn	Senegal	8.8
+sr	Suriname	8.8
+bj	Benin	9.4
+cm	Cameroon	10.7
+mg	Madagascar	12.7
+et	Ethiopia	14.1
+bd	Bangladesh	15.5
+ng	Nigeria	15.7
+ml	Mali	15.9
+so	Somalia	16.8
+gn	Guinea	17
+td	Chad	24.2

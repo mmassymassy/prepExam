@@ -1,0 +1,220 @@
+#ranking=Economy/GDP - composition, by sector of origin/industry
+#unit=% (
+gi	Gibraltar	0
+je	Jersey	2
+sd	Sudan	2.6
+bm	Bermuda	5.3
+tv	Tuvalu	5.6
+mo	Macau	6.3
+sl	Sierra Leone	6.5
+vg	British Virgin Islands	6.8
+ki	Kiribati	7
+so	Somalia	7.4
+ky	Cayman Islands	7.4
+hk	Hong Kong	7.6
+sb	Solomon Islands	7.6
+bs	The Bahamas	7.7
+ms	Montserrat	7.8
+tc	Turks and Caicos Islands	8.9
+bb	Barbados	9.8
+mh	Marshall Islands	9.9
+gg	Guernsey	10
+gl	Greenland	10.1
+mt	Malta	10.2
+ai	Anguilla	10.5
+km	Comoros	11.8
+vu	Vanuatu	11.8
+ye	Yemen	11.8
+as	American Samoa	12.4
+cy	Cyprus	12.5
+dm	Dominica	12.6
+ck	Cook Islands	12.7
+lu	Luxembourg	12.8
+pf	French Polynesia	13
+im	Isle of Man	13
+gw	Guinea-Bissau	13.1
+lb	Lebanon	13.1
+np	Nepal	13.5
+lr	Liberia	13.8
+sc	Seychelles	13.8
+mc	Monaco	14
+gm	The Gambia	14.2
+lc	Saint Lucia	14.2
+td	Chad	14.7
+st	Sao Tome and Principe	14.8
+pm	Saint Pierre and Miquelon	15
+gy	Guyana	15.3
+mw	Malawi	15.4
+cw	Curacao	15.5
+gd	Grenada	15.5
+pa	Panama	15.7
+me	Montenegro	15.9
+mv	Maldives	16
+bi	Burundi	16.4
+gr	Greece	16.9
+dj	Djibouti	17.3
+fj	Fiji	17.4
+vc	Saint Vincent and the Grenadines	17.4
+cv	Cabo Verde	17.5
+rw	Rwanda	17.6
+xk	Kosovo	17.7
+ke	Kenya	17.8
+nl	Netherlands	17.9
+ml	Mali	18.1
+sx	Sint Maarten	18.3
+pw	Palau	19
+pk	Pakistan	19.1
+us	United States	19.1
+mz	Mozambique	19.3
+fr	France	19.5
+mg	Madagascar	19.5
+ne	Niger	19.5
+sy	Syria	19.5
+is	Iceland	19.7
+vi	Virgin Islands	20
+ht	Haiti	20.3
+md	Moldova	20.3
+to	Tonga	20.3
+fk	Falkland Islands (Islas Malvinas)	20.6
+cr	Costa Rica	20.6
+br	Brazil	20.7
+ag	Antigua and Barbuda	20.8
+af	Afghanistan	21.1
+jm	Jamaica	21.1
+ps	Gaza Strip	21.1
+ug	Uganda	21.1
+nz	New Zealand	21.5
+bz	Belize	21.6
+et	Ethiopia	21.6
+mu	Mauritius	21.8
+tg	Togo	21.8
+be	Belgium	22.1
+pt	Portugal	22.1
+zw	Zimbabwe	22.2
+lv	Latvia	22.4
+ng	Nigeria	22.5
+cu	Cuba	22.7
+bj	Benin	22.8
+dk	Denmark	22.9
+in	India	23
+es	Spain	23.2
+gt	Guatemala	23.4
+ws	Samoa	23.6
+ge	Georgia	23.7
+bf	Burkina Faso	23.9
+it	Italy	23.9
+uy	Uruguay	24.1
+al	Albania	24.2
+sn	Senegal	24.3
+ni	Nicaragua	24.4
+gh	Ghana	24.5
+sg	Singapore	24.8
+au	Australia	25.3
+tj	Tajikistan	25.5
+ch	Switzerland	25.6
+hr	Croatia	26.2
+tn	Tunisia	26.2
+na	Namibia	26.3
+nc	New Caledonia	26.4
+cm	Cameroon	26.5
+il	Israel	26.5
+ci	Cote d'Ivoire	26.6
+mk	North Macedonia	26.6
+nu	Niue	26.9
+bw	Botswana	27.5
+py	Paraguay	27.7
+sv	El Salvador	27.7
+bg	Bulgaria	28
+ar	Argentina	28.1
+am	Armenia	28.2
+ca	Canada	28.2
+fi	Finland	28.2
+at	Austria	28.4
+tz	Tanzania	28.6
+ua	Ukraine	28.6
+hn	Honduras	28.8
+jo	Jordan	28.8
+ba	Bosnia and Herzegovina	28.9
+ee	Estonia	29.2
+bd	Bangladesh	29.3
+mr	Mauritania	29.3
+lt	Lithuania	29.4
+ma	Morocco	29.5
+er	Eritrea	29.6
+za	South Africa	29.7
+kn	Saint Kitts and Nevis	30
+jp	Japan	30.1
+lk	Sri Lanka	30.5
+ph	Philippines	30.6
+de	Germany	30.7
+co	Colombia	30.8
+sr	Suriname	31.1
+kg	Kyrgyzstan	31.2
+hu	Hungary	31.3
+mx	Mexico	31.9
+gn	Guinea	32.1
+si	Slovenia	32.2
+tr	Turkey	32.3
+ru	Russia	32.4
+pe	Peru	32.7
+cl	Chile	32.8
+kh	Cambodia	32.8
+ec	Ecuador	32.9
+nr	Nauru	33
+do	The Dominican	33
+se	Sweden	33
+la	Laos	33.2
+ro	Romania	33.2
+aw	Aruba	33.3
+vn	Vietnam	33.3
+ad	Andorra	33.6
+no	Norway	33.7
+uz	Uzbekistan	33.7
+kz	Kazakhstan	34.1
+eg	Egypt	34.3
+sk	Slovakia	35
+ir	Iran	35.3
+zm	Zambia	35.3
+mm	Burma	35.6
+tw	Taiwan	36
+th	Thailand	36.2
+cz	Czechia	36.9
+my	Malaysia	37.6
+bo	Bolivia	37.8
+mn	Mongolia	38.2
+ie	Ireland	38.6
+fo	Faroe Islands	39
+sm	San Marino	39.2
+ls	Lesotho	39.2
+bh	Bahrain	39.3
+dz	Algeria	39.3
+kr	South Korea	39.3
+pl	Poland	40.2
+ve	Venezuela	40.4
+cn	China	40.5
+by	Belarus	40.8
+li	Liechtenstein	41
+id	Indonesia	41
+rs	Serbia	41.1
+bt	Bhutan	41.8
+pg	Papua New Guinea	42.9
+cd	DRC	43.6
+sa	Saudi Arabia	44.2
+ga	Gabon	44.7
+tm	Turkmenistan	44.9
+sz	Eswatini	45
+om	Oman	46.4
+kp	North Korea	47.6
+tt	Trinidad and Tobago	47.8
+pr	Puerto Rico	50.1
+qa	Qatar	50.3
+cg	Congo (Brazzaville)	51
+iq	Iraq	51
+ly	Libya	52.3
+az	Azerbaijan	53.5
+gq	Equatorial Guinea	54.6
+bn	Brunei	56.6
+tl	Timor-Leste	56.7
+mp	Northern Mariana Islands	58.1
+kw	Kuwait	58.7
+ao	Angola	61.4

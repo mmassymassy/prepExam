@@ -1,0 +1,171 @@
+#ranking=Government/National heritage/total World Heritage Sites
+#unit=(
+ag	Antigua and Barbuda	1
+ao	Angola	1
+bb	Barbados	1
+cv	Cabo Verde	1
+do	The Dominican	1
+er	Eritrea	1
+fj	Fiji	1
+ht	Haiti	1
+kn	Saint Kitts and Nevis	1
+lu	Luxembourg	1
+md	Moldova	1
+mh	Marshall Islands	1
+mz	Mozambique	1
+pg	Papua New Guinea	1
+py	Paraguay	1
+qa	Qatar	1
+sg	Singapore	1
+sm	San Marino	1
+sv	El Salvador	1
+tg	Togo	1
+vu	Vanuatu	1
+xk	Kosovo	1
+pf	French Polynesia	1
+cw	Curacao	1
+bm	Bermuda	1
+pr	Puerto Rico	1
+jm	Jamaica	1
+ls	Lesotho	1
+pw	Palau	1
+bz	Belize	1
+cg	Congo (Brazzaville)	1
+dm	Dominica	1
+gn	Guinea	1
+ki	Kiribati	1
+lc	Saint Lucia	1
+sb	Solomon Islands	1
+zm	Zambia	1
+hm	Heard Island and McDonald Islands	1
+nc	New Caledonia	1
+bj	Benin	2
+bw	Botswana	2
+hn	Honduras	2
+mr	Mauritania	2
+mw	Malawi	2
+na	Namibia	2
+sr	Suriname	2
+tj	Tajikistan	2
+ga	Gabon	2
+td	Chad	2
+af	Afghanistan	2
+ee	Estonia	2
+gh	Ghana	2
+gm	The Gambia	2
+ie	Ireland	2
+kp	North Korea	2
+lv	Latvia	2
+mm	Burma	2
+mu	Mauritius	2
+ng	Nigeria	2
+ni	Nicaragua	2
+va	Holy See (Vatican City)	2
+cm	Cameroon	2
+mk	North Macedonia	2
+sc	Seychelles	2
+is	Iceland	3
+mg	Madagascar	3
+ne	Niger	3
+ug	Uganda	3
+gt	Guatemala	3
+bd	Bangladesh	3
+bf	Burkina Faso	3
+kg	Kyrgyzstan	3
+sd	Sudan	3
+ve	Venezuela	3
+gl	Greenland	3
+nz	New Zealand	3
+am	Armenia	3
+az	Azerbaijan	3
+bh	Bahrain	3
+cy	Cyprus	3
+kh	Cambodia	3
+la	Laos	3
+mt	Malta	3
+tm	Turkmenistan	3
+uy	Uruguay	3
+cr	Costa Rica	4
+al	Albania	4
+my	Malaysia	4
+np	Nepal	4
+ml	Mali	4
+ba	Bosnia and Herzegovina	4
+by	Belarus	4
+ge	Georgia	4
+me	Montenegro	4
+ye	Yemen	4
+lt	Lithuania	4
+rs	Serbia	4
+ci	Cote d'Ivoire	5
+pa	Panama	5
+ec	Ecuador	5
+kz	Kazakhstan	5
+mn	Mongolia	5
+si	Slovenia	5
+zw	Zimbabwe	5
+uz	Uzbekistan	5
+lb	Lebanon	5
+ly	Libya	5
+om	Oman	5
+cd	DRC	5
+ph	Philippines	6
+th	Thailand	6
+iq	Iraq	6
+jo	Jordan	6
+pk	Pakistan	6
+sa	Saudi Arabia	6
+sy	Syria	6
+tz	Tanzania	7
+ke	Kenya	7
+sn	Senegal	7
+dz	Algeria	7
+bo	Bolivia	7
+eg	Egypt	7
+fi	Finland	7
+ua	Ukraine	7
+cl	Chile	7
+vn	Vietnam	8
+lk	Sri Lanka	8
+sk	Slovakia	8
+hu	Hungary	8
+no	Norway	8
+tn	Tunisia	8
+id	Indonesia	9
+co	Colombia	9
+cu	Cuba	9
+ro	Romania	9
+et	Ethiopia	9
+il	Israel	9
+ma	Morocco	9
+za	South Africa	10
+bg	Bulgaria	10
+dk	Denmark	10
+hr	Croatia	10
+ar	Argentina	11
+at	Austria	12
+nl	Netherlands	12
+pe	Peru	13
+ch	Switzerland	13
+se	Sweden	15
+kr	South Korea	15
+be	Belgium	15
+cz	Czechia	16
+pl	Poland	17
+pt	Portugal	17
+gr	Greece	18
+tr	Turkey	19
+au	Australia	20
+ca	Canada	20
+br	Brazil	23
+us	United States	24
+jp	Japan	25
+ir	Iran	26
+ru	Russia	30
+mx	Mexico	35
+in	India	40
+es	Spain	49
+fr	France	49
+de	Germany	51
+cn	China	56
+it	Italy	58

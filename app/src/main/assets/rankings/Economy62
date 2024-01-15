@@ -1,0 +1,219 @@
+#ranking=Economy/Taxes and other revenues
+#unit=% (of GDP) (
+so	Somalia	0
+iq	Iraq	1.34
+ng	Nigeria	3.4
+sy	Syria	4.2
+et	Ethiopia	6.2
+mm	Burma	6.44
+bd	Bangladesh	7
+zw	Zimbabwe	7.21
+sd	Sudan	7.39
+lk	Sri Lanka	7.68
+gq	Equatorial Guinea	7.85
+cn	China	8.09
+id	Indonesia	8.31
+kz	Kazakhstan	8.32
+ss	South Sudan	8.5
+pa	Panama	8.51
+sa	Saudi Arabia	8.6
+pr	Puerto Rico	8.9
+lb	Lebanon	8.9
+cg	Congo (Brazzaville)	8.95
+ye	Yemen	9
+ch	Switzerland	9.37
+gw	Guinea-Bissau	9.46
+py	Paraguay	9.51
+mg	Madagascar	9.52
+us	United States	9.86
+af	Afghanistan	9.9
+gt	Guatemala	9.97
+ao	Angola	10.09
+de	Germany	10.55
+ru	Russia	10.83
+ar	Argentina	10.87
+cm	Cameroon	10.87
+my	Malaysia	10.89
+cd	DRC	11.2
+gh	Ghana	11.34
+ug	Uganda	11.39
+kp	North Korea	11.4
+ga	Gabon	11.48
+tz	Tanzania	11.7
+mw	Malawi	11.72
+pg	Papua New Guinea	11.88
+in	India	12.02
+by	Belarus	12.02
+ci	Cote d'Ivoire	12.11
+cr	Costa Rica	12.32
+do	The Dominican	12.39
+ec	Ecuador	12.54
+sg	Singapore	12.89
+br	Brazil	12.96
+bt	Bhutan	12.98
+tg	Togo	13.16
+pe	Peru	13.2
+bf	Burkina Faso	13.28
+ca	Canada	13.3
+td	Chad	13.5
+es	Spain	13.58
+ph	Philippines	13.95
+mn	Mongolia	14.15
+ml	Mali	14.16
+ro	Romania	14.18
+im	Isle of Man	14.2
+az	Azerbaijan	14.22
+co	Colombia	14.23
+vu	Vanuatu	14.24
+mx	Mexico	14.29
+ke	Kenya	14.3
+cz	Czechia	14.34
+th	Thailand	14.48
+hn	Honduras	14.77
+kr	South Korea	14.86
+uz	Uzbekistan	14.87
+mc	Monaco	14.9
+li	Liechtenstein	14.9
+tm	Turkmenistan	14.9
+kg	Kyrgyzstan	14.92
+kn	Saint Kitts and Nevis	15.03
+rw	Rwanda	15.06
+pk	Pakistan	15.4
+sl	Sierra Leone	15.6
+np	Nepal	15.77
+bi	Burundi	15.8
+jo	Jordan	15.81
+tw	Taiwan	16
+mk	North Macedonia	16.13
+sm	San Marino	16.14
+cl	Chile	16.24
+bm	Bermuda	16.3
+sn	Senegal	16.38
+sr	Suriname	16.4
+zm	Zambia	16.44
+ie	Ireland	16.51
+je	Jersey	16.6
+cw	Curacao	16.6
+bh	Bahrain	16.6
+gn	Guinea	16.6
+wf	Wallis and Futuna	16.7
+lr	Liberia	16.9
+si	Slovenia	16.92
+al	Albania	17.02
+bj	Benin	17.1
+mh	Marshall Islands	17.16
+ni	Nicaragua	17.2
+ir	Iran	17.3
+md	Moldova	17.41
+pl	Poland	17.48
+tr	Turkey	17.64
+kh	Cambodia	17.89
+eg	Egypt	17.9
+ht	Haiti	18.2
+lc	Saint Lucia	18.24
+la	Laos	18.3
+ls	Lesotho	18.47
+bn	Brunei	18.5
+sk	Slovakia	18.5
+uy	Uruguay	18.55
+pw	Palau	18.59
+sv	El Salvador	18.66
+ps	Gaza Strip	18.78
+ba	Bosnia and Herzegovina	19.01
+ua	Ukraine	19.15
+bs	The Bahamas	19.16
+fj	Fiji	19.26
+tt	Trinidad and Tobago	19.52
+ag	Antigua and Barbuda	19.6
+fi	Finland	19.85
+lt	Lithuania	19.88
+ma	Morocco	20.02
+cv	Cabo Verde	20.09
+bg	Bulgaria	20.27
+gm	The Gambia	20.3
+nc	New Caledonia	20.4
+gg	Guernsey	20.6
+hr	Croatia	20.6
+ee	Estonia	20.69
+mu	Mauritius	20.72
+sb	Solomon Islands	21.05
+no	Norway	21.09
+bz	Belize	21.16
+gu	Guam	21.4
+ne	Niger	21.4
+ge	Georgia	21.41
+mo	Macau	21.73
+lv	Latvia	21.77
+mz	Mozambique	21.84
+am	Armenia	21.86
+il	Israel	21.9
+be	Belgium	21.97
+pt	Portugal	22.04
+bw	Botswana	22.32
+is	Iceland	22.33
+cy	Cyprus	22.42
+au	Australia	22.61
+tl	Timor-Leste	22.86
+hu	Hungary	22.87
+hk	Hong Kong	23.2
+gi	Gibraltar	23.3
+za	South Africa	23.3
+rs	Serbia	23.49
+vc	Saint Vincent and the Grenadines	23.7
+mt	Malta	23.73
+at	Austria	24.19
+nl	Netherlands	24.38
+ws	Samoa	24.42
+fr	France	24.69
+tn	Tunisia	24.7
+gr	Greece	24.74
+it	Italy	24.77
+vn	Vietnam	24.8
+lu	Luxembourg	25.13
+aw	Aruba	25.2
+km	Comoros	25.3
+jm	Jamaica	25.71
+gd	Grenada	25.8
+st	Sao Tome and Principe	26.2
+ki	Kiribati	26.28
+mv	Maldives	26.4
+qa	Qatar	26.4
+se	Sweden	26.58
+pm	Saint Pierre and Miquelon	26.8
+mr	Mauritania	27.4
+bb	Barbados	27.48
+nz	New Zealand	27.5
+gy	Guyana	28.1
+sz	Eswatini	28.6
+vi	Virgin Islands	28.9
+ck	Cook Islands	29
+xk	Kosovo	29
+fo	Faroe Islands	30.2
+na	Namibia	31.17
+om	Oman	31.3
+mp	Northern Mariana Islands	31.4
+sc	Seychelles	31.52
+tj	Tajikistan	31.8
+dz	Algeria	32.3
+fk	Falkland Islands (Islas Malvinas)	32.5
+dk	Denmark	34.07
+er	Eritrea	34.9
+jp	Japan	35.2
+dj	Djibouti	35.3
+me	Montenegro	37.2
+as	American Samoa	37.8
+ky	Cayman Islands	38.9
+vg	British Virgin Islands	38.9
+pf	French Polynesia	39.4
+to	Tonga	39.8
+bo	Bolivia	39.9
+dm	Dominica	40.9
+kw	Kuwait	41.8
+ve	Venezuela	44.2
+ai	Anguilla	46.7
+nr	Nauru	48.24
+ly	Libya	51.6
+cu	Cuba	58.1
+ad	Andorra	69
+gl	Greenland	77.4
+tv	Tuvalu	106.7

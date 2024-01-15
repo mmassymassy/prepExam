@@ -1,0 +1,187 @@
+#ranking=Economy/Exchange rates/Exchange rates 2021
+#unit=(2021 est.)
+kw	Kuwait	0.302
+bh	Bahrain	0.376
+om	Oman	0.385
+jo	Jordan	0.71
+gi	Gibraltar	0.727
+im	Isle of Man	0.727
+ky	Cayman Islands	0.833
+ad	Andorra	0.845
+at	Austria	0.845
+be	Belgium	0.845
+cy	Cyprus	0.845
+de	Germany	0.845
+ee	Estonia	0.845
+es	Spain	0.845
+fi	Finland	0.845
+fr	France	0.845
+gr	Greece	0.845
+hr	Croatia	0.845
+ie	Ireland	0.845
+it	Italy	0.845
+lt	Lithuania	0.845
+lu	Luxembourg	0.845
+lv	Latvia	0.845
+me	Montenegro	0.845
+mt	Malta	0.845
+nl	Netherlands	0.845
+pt	Portugal	0.845
+si	Slovenia	0.845
+sk	Slovakia	0.845
+sm	San Marino	0.845
+xk	Kosovo	0.845
+ch	Switzerland	0.914
+bm	Bermuda	1
+bs	The Bahamas	1
+ec	Ecuador	1
+pa	Panama	1
+pw	Palau	1
+sv	El Salvador	1
+tl	Timor-Leste	1
+us	United States	1
+ca	Canada	1.254
+au	Australia	1.331
+ki	Kiribati	1.331
+nr	Nauru	1.331
+sg	Singapore	1.343
+bn	Brunei	1.344
+nz	New Zealand	1.414
+ba	Bosnia and Herzegovina	1.654
+bg	Bulgaria	1.654
+az	Azerbaijan	1.7
+aw	Aruba	1.79
+cw	Curacao	1.79
+sx	Sint Maarten	1.79
+bb	Barbados	2
+bz	Belize	2
+fj	Fiji	2.071
+to	Tonga	2.265
+by	Belarus	2.539
+ws	Samoa	2.556
+ag	Antigua and Barbuda	2.7
+dm	Dominica	2.7
+gd	Grenada	2.7
+kn	Saint Kitts and Nevis	2.7
+lc	Saint Lucia	2.7
+vc	Saint Vincent and the Grenadines	2.7
+tn	Tunisia	2.794
+ge	Georgia	3.222
+il	Israel	3.23
+pg	Papua New Guinea	3.509
+qa	Qatar	3.64
+sa	Saudi Arabia	3.75
+pl	Poland	3.862
+pe	Peru	3.881
+my	Malaysia	4.143
+ro	Romania	4.16
+ly	Libya	4.514
+br	Brazil	5.394
+gh	Ghana	5.806
+dk	Denmark	6.287
+fo	Faroe Islands	6.287
+gl	Greenland	6.287
+cn	China	6.449
+tt	Trinidad and Tobago	6.759
+bo	Bolivia	6.91
+gt	Guatemala	7.734
+hk	Hong Kong	7.773
+mo	Macau	8.006
+sb	Solomon Islands	8.03
+se	Sweden	8.577
+no	Norway	8.59
+tr	Turkey	8.85
+ma	Morocco	8.988
+bw	Botswana	11.087
+tj	Tajikistan	11.309
+ls	Lesotho	14.779
+na	Namibia	14.779
+za	South Africa	14.779
+sz	Eswatini	14.783
+er	Eritrea	15.075
+mv	Maldives	15.373
+eg	Egypt	15.645
+sc	Seychelles	16.921
+md	Moldova	17.68
+sr	Suriname	18.239
+zm	Zambia	20.018
+mx	Mexico	20.272
+cz	Czechia	21.678
+hn	Honduras	24.017
+ua	Ukraine	27.286
+th	Thailand	31.977
+ni	Nicaragua	35.171
+mr	Mauritania	36.063
+mu	Mauritius	41.692
+uy	Uruguay	43.555
+et	Ethiopia	43.734
+ph	Philippines	49.255
+gm	The Gambia	51.484
+mk	North Macedonia	52.102
+do	The Dominican	57.221
+mz	Mozambique	65.465
+ru	Russia	73.654
+in	India	73.918
+bt	Bhutan	73.939
+kg	Kyrgyzstan	84.641
+bd	Bangladesh	85.084
+zw	Zimbabwe	88.552
+ht	Haiti	89.227
+cv	Cabo Verde	93.218
+ar	Argentina	94.991
+rs	Serbia	99.396
+nc	New Caledonia	100.88
+pf	French Polynesia	100.88
+al	Albania	103.52
+vu	Vanuatu	109.453
+ke	Kenya	109.638
+jp	Japan	109.754
+np	Nepal	118.134
+is	Iceland	126.989
+dz	Algeria	135.064
+jm	Jamaica	150.79
+pk	Pakistan	162.906
+dj	Djibouti	177.721
+lk	Sri Lanka	198.764
+gy	Guyana	208.5
+hu	Hungary	303.141
+ss	South Sudan	306.355
+km	Comoros	415.956
+kz	Kazakhstan	425.908
+am	Armenia	503.77
+bf	Burkina Faso	554.531
+cg	Congo (Brazzaville)	554.531
+ci	Cote d'Ivoire	554.531
+cm	Cameroon	554.531
+ga	Gabon	554.531
+gq	Equatorial Guinea	554.531
+gw	Guinea-Bissau	554.531
+ml	Mali	554.531
+ne	Niger	554.531
+sn	Senegal	554.531
+td	Chad	554.531
+tg	Togo	554.531
+bj	Benin	554.608
+cr	Costa Rica	620.785
+ao	Angola	631.442
+cl	Chile	758.955
+rw	Rwanda	988.625
+ye	Yemen	1035.467
+kr	South Korea	1143.952
+iq	Iraq	1450
+lb	Lebanon	1507.5
+bi	Burundi	1975.951
+cd	DRC	1989.391
+tz	Tanzania	2297.764
+mn	Mongolia	2849.289
+ug	Uganda	3587.052
+co	Colombia	3743.59
+mg	Madagascar	3829.978
+kh	Cambodia	4098.723
+py	Paraguay	6774.163
+la	Laos	9697.916
+sl	Sierra Leone	10439.425
+uz	Uzbekistan	10609.464
+id	Indonesia	14308.144
+vn	Vietnam	23159.783
+ir	Iran	42000

@@ -1,0 +1,211 @@
+#ranking=Energy/Natural gas/consumption
+#unit=cubic meters 
+sr	Suriname	0
+tg	Togo	0
+ag	Antigua and Barbuda	0
+aq	Antarctica	0
+as	American Samoa	0
+aw	Aruba	0
+bf	Burkina Faso	0
+bi	Burundi	0
+bm	Bermuda	0
+bt	Bhutan	0
+bw	Botswana	0
+bz	Belize	0
+ck	Cook Islands	0
+cr	Costa Rica	0
+cv	Cabo Verde	0
+cy	Cyprus	0
+dj	Djibouti	0
+dm	Dominica	0
+er	Eritrea	0
+et	Ethiopia	0
+fj	Fiji	0
+fk	Falkland Islands (Islas Malvinas)	0
+fo	Faroe Islands	0
+gd	Grenada	0
+gl	Greenland	0
+gm	The Gambia	0
+gn	Guinea	0
+gt	Guatemala	0
+gu	Guam	0
+gw	Guinea-Bissau	0
+gy	Guyana	0
+hn	Honduras	0
+is	Iceland	0
+ke	Kenya	0
+kh	Cambodia	0
+ki	Kiribati	0
+km	Comoros	0
+kn	Saint Kitts and Nevis	0
+kp	North Korea	0
+ky	Cayman Islands	0
+la	Laos	0
+lb	Lebanon	0
+lc	Saint Lucia	0
+lk	Sri Lanka	0
+lr	Liberia	0
+ls	Lesotho	0
+me	Montenegro	0
+mg	Madagascar	0
+ml	Mali	0
+mn	Mongolia	0
+mp	Northern Mariana Islands	0
+mr	Mauritania	0
+ms	Montserrat	0
+mu	Mauritius	0
+mv	Maldives	0
+mw	Malawi	0
+na	Namibia	0
+nc	New Caledonia	0
+ne	Niger	0
+ni	Nicaragua	0
+np	Nepal	0
+nr	Nauru	0
+nu	Niue	0
+pf	French Polynesia	0
+pm	Saint Pierre and Miquelon	0
+ps	Gaza Strip	0
+py	Paraguay	0
+rw	Rwanda	0
+sb	Solomon Islands	0
+sc	Seychelles	0
+sd	Sudan	0
+sl	Sierra Leone	0
+so	Somalia	0
+ss	South Sudan	0
+st	Sao Tome and Principe	0
+sv	El Salvador	0
+sz	Eswatini	0
+tc	Turks and Caicos Islands	0
+td	Chad	0
+tl	Timor-Leste	0
+to	Tonga	0
+tv	Tuvalu	0
+ug	Uganda	0
+vc	Saint Vincent and the Grenadines	0
+vg	British Virgin Islands	0
+vi	Virgin Islands	0
+vu	Vanuatu	0
+ws	Samoa	0
+xk	Kosovo	0
+zm	Zambia	0
+zw	Zimbabwe	0
+cd	DRC	368000
+ht	Haiti	3341000.0
+bs	The Bahamas	4417000.0
+bj	Benin	19057000.0
+bb	Barbados	20954000.0
+al	Albania	42050000.0
+sn	Senegal	60003000.0
+gi	Gibraltar	74756000.0
+af	Afghanistan	80193000.0
+ye	Yemen	89906000.0
+uy	Uruguay	96872000.0
+mo	Macau	136714000.0
+tj	Tajikistan	157611000.0
+pg	Papua New Guinea	166984000.0
+kg	Kyrgyzstan	207845000.0
+ba	Bosnia and Herzegovina	218266000.0
+mk	North Macedonia	218917000.0
+ga	Gabon	319102000.0
+ec	Ecuador	342407000.0
+mt	Malta	415606000.0
+ee	Estonia	417106000.0
+pa	Panama	552744000.0
+jm	Jamaica	693422000.0
+lu	Luxembourg	776022000.0
+ao	Angola	860887000.0
+si	Slovenia	904439000.0
+cu	Cuba	976023000.0
+cm	Cameroon	986189000.0
+ma	Morocco	1051658000
+lv	Latvia	1068000000.0000001
+gq	Equatorial Guinea	1080003000
+se	Sweden	1275785000
+pr	Puerto Rico	1366512000
+tz	Tanzania	1378773000
+mz	Mozambique	1397604000
+cg	Congo (Brazzaville)	1400000000.0
+do	The Dominican	1602759000
+dk	Denmark	2188000000.0
+gh	Ghana	2224568000
+lt	Lithuania	2231000000.0
+fi	Finland	2393000000.0
+ci	Cote d'Ivoire	2425000000.0
+am	Armenia	2537497000
+ge	Georgia	2540000000.0
+rs	Serbia	2619191000
+md	Moldova	2802000000.0
+bo	Bolivia	2918839000
+bg	Bulgaria	2929401000
+hr	Croatia	3009113000
+sy	Syria	3531077000
+mm	Burma	3612431000
+ch	Switzerland	3616169000
+ph	Philippines	3632507000
+no	Norway	3980351000
+bn	Brunei	4166987000
+jo	Jordan	4651000000.0
+za	South Africa	4771551000
+hk	Hong Kong	4913021000
+sk	Slovakia	4928000000.0
+nz	New Zealand	4946237000
+tn	Tunisia	5279951000
+ie	Ireland	5492000000.0
+gr	Greece	5831987000
+pt	Portugal	5940000000.0
+cl	Chile	6558312000
+ly	Libya	7669690000
+pe	Peru	8278048000
+vn	Vietnam	8438095000
+de	Germany	8755000000.0
+cz	Czechia	8815133000
+at	Austria	9208000000.0
+il	Israel	9442000000.0
+hu	Hungary	10545000000.0
+ro	Romania	11087528000
+az	Azerbaijan	11468000000.0
+co	Colombia	11708232000
+sg	Singapore	13396282000
+kz	Kazakhstan	14557000000.0
+tt	Trinidad and Tobago	16247415000
+iq	Iraq	18014000000.0
+be	Belgium	18170000000.0
+bh	Bahrain	18251140000
+by	Belarus	18639590000
+ng	Nigeria	18787602000
+pl	Poland	21464000000.0
+tw	Taiwan	22002493000
+ve	Venezuela	22694584000
+om	Oman	24279419000
+kw	Kuwait	24322970000
+ua	Ukraine	26413486000
+bd	Bangladesh	31268968000
+es	Spain	32030000000.0
+br	Brazil	35253198000
+qa	Qatar	37701809000
+fr	France	38192000000.0
+id	Indonesia	38673953000
+my	Malaysia	39586915000
+au	Australia	41905381000
+uz	Uzbekistan	43882007000
+tr	Turkey	44605473000
+nl	Netherlands	44753000000.0
+tm	Turkmenistan	45399000000.0
+dz	Algeria	46945035000
+pk	Pakistan	48391627000
+ar	Argentina	49476585000
+kr	South Korea	53419105000
+th	Thailand	54802466000
+eg	Egypt	58176781000
+in	India	61646806000
+it	Italy	74313109000
+mx	Mexico	86101223000
+jp	Japan	102108738000
+sa	Saudi Arabia	113776648000
+ca	Canada	124502315000
+ir	Iran	220704282000
+cn	China	306576649000
+ru	Russia	460612000000.0
+us	United States	857542658000

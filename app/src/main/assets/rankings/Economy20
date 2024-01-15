@@ -1,0 +1,162 @@
+#ranking=Economy/Exports/Exports 2021
+#unit=(2021 est.)$
+tv	Tuvalu	2699000.0
+ki	Kiribati	10754000.0
+ms	Montserrat	11900000.0
+pw	Palau	12070000.0
+to	Tonga	58745000.0
+st	Sao Tome and Principe	75256000.0
+vu	Vanuatu	88805000.0
+ws	Samoa	97774000.0
+dm	Dominica	104959000.0
+vc	Saint Vincent and the Grenadines	125777000.0
+gm	The Gambia	135448000.0
+km	Comoros	139575000.0
+bb	Barbados	357000000
+gd	Grenada	393766000.0
+kn	Saint Kitts and Nevis	408471000.0
+sb	Solomon Islands	413657000.0
+cv	Cabo Verde	459923000.0
+bt	Bhutan	741602000.0
+ag	Antigua and Barbuda	749476000.0
+sx	Sint Maarten	787981000.0
+lc	Saint Lucia	890724000.0
+bz	Belize	1044000000.0
+ls	Lesotho	1080000000.0
+bm	Bermuda	1123000000.0
+fj	Fiji	1171000000.0
+ht	Haiti	1241000000.0
+cw	Curacao	1280000000.0
+mw	Malawi	1538000000.0
+sc	Seychelles	1751000000.0
+rw	Rwanda	2109999999.9999998
+sz	Eswatini	2132000000.0
+tj	Tajikistan	2161000000.0
+aw	Aruba	2201000000.0
+sr	Suriname	2299000000.0
+tl	Timor-Leste	2315000000.0
+me	Montenegro	2502000000.0
+np	Nepal	2520000000.0
+xk	Kosovo	3138000000.0
+mr	Mauritania	3180000000.0
+ps	Gaza Strip	3180000000.0
+mu	Mauritius	3198000000.0
+bs	The Bahamas	3202000000.0
+mg	Madagascar	3341000000.0
+kg	Kyrgyzstan	3350000000.0
+mv	Maldives	3950000000.0
+na	Namibia	3955000000.0
+md	Moldova	4197000000.0
+jm	Jamaica	4385000000.0
+gy	Guyana	4640000000.0
+ss	South Sudan	4652000000.0
+am	Armenia	5012000000.0
+dj	Djibouti	5160000000.0
+al	Albania	5612000000.0
+sd	Sudan	5916000000.0
+ug	Uganda	6177000000.0
+mz	Mozambique	6404000000.0
+ni	Nicaragua	6617000000.0
+cm	Cameroon	7449000000.0
+la	Laos	7820000000.0
+bw	Botswana	7931000000.0
+hn	Honduras	7941000000.0
+ge	Georgia	8086000000.0
+sv	El Salvador	8491000000.0
+mn	Mongolia	8950000000.0
+mk	North Macedonia	9157000000.0
+et	Ethiopia	9496000000.0
+is	Iceland	9775000000.0
+ba	Bosnia and Herzegovina	9948000000.0
+lb	Lebanon	10147000000.0
+gn	Guinea	10266000000.0
+bn	Brunei	11202000000.0
+bo	Bolivia	11439000000.0
+tt	Trinidad and Tobago	11467000000.0
+zm	Zambia	11716000000.0
+ke	Kenya	11825000000.0
+jo	Jordan	13864000000.0
+py	Paraguay	14154000000.0
+gt	Guatemala	15318000000.0
+uz	Uzbekistan	16399000000.0
+uy	Uruguay	18820000000.0
+tn	Tunisia	19743000000.0
+kh	Cambodia	20126000000.0
+do	The Dominican	20509000000.0
+mt	Malta	22110000000.0
+cd	DRC	22354000000.0
+cr	Costa Rica	23761000000.0
+gh	Ghana	23901000000.0
+cy	Cyprus	24551000000.0
+lv	Latvia	25248000000.0
+az	Azerbaijan	25488000000.0
+mo	Macau	26625000000.0
+pa	Panama	27237000000.0
+ee	Estonia	29056000000.0
+ec	Ecuador	29325000000.0
+ao	Angola	33674999999.999996
+rs	Serbia	33726000000.0
+hr	Croatia	35308000000.0
+pk	Pakistan	35566000000.0
+dz	Algeria	41776000000.0
+om	Oman	46324000000.0
+ma	Morocco	47078000000.0
+bd	Bangladesh	49386000000.0
+by	Belarus	49425000000.0
+co	Colombia	50793000000.0
+ng	Nigeria	50856000000.0
+bg	Bulgaria	51505000000.0
+si	Slovenia	51634000000.0
+lt	Lithuania	53397000000.0
+nz	New Zealand	54777000000.0
+eg	Egypt	58339000000.0
+pe	Peru	66098000000.0
+kz	Kazakhstan	66132000000.00001
+kw	Kuwait	77121000000.0
+iq	Iraq	78261000000.0
+ua	Ukraine	81504000000.0
+ar	Argentina	87415000000.0
+gr	Greece	87521000000.0
+ph	Philippines	87790000000.0
+cl	Chile	100634000000.0
+qa	Qatar	105549000000.0
+pt	Portugal	105648000000.0
+sk	Slovakia	107430000000.0
+ro	Romania	115879000000.0
+fi	Finland	116905000000.0
+za	South Africa	130884999999.99998
+il	Israel	143884000000.0
+hu	Hungary	148229000000.0
+lu	Luxembourg	177831000000.0
+no	Norway	199074000000.0
+cz	Czechia	204785000000.0
+dk	Denmark	234262000000.0
+id	Indonesia	246870000000.0
+my	Malaysia	256659000000.0
+at	Austria	268277000000.0
+tr	Turkey	282851000000.0
+sa	Saudi Arabia	286502000000.0
+se	Sweden	290793000000.0
+th	Thailand	296002000000.0
+br	Brazil	317175000000.0
+vn	Vietnam	339984000000.0
+au	Australia	389794000000.0
+pl	Poland	411621000000.0
+es	Spain	497868000000.0
+be	Belgium	515625000000.0
+mx	Mexico	522235000000.0
+ru	Russia	550035000000.0
+ch	Switzerland	571376000000.0
+ca	Canada	611146000000.0
+in	India	643080000000.0
+ie	Ireland	677028000000.0
+it	Italy	687948000000.0
+sg	Singapore	733782000000.0
+hk	Hong Kong	751260000000.0
+kr	South Korea	771202000000.0
+nl	Netherlands	839600000000.0
+jp	Japan	919158000000.0
+fr	France	920864000000.0
+de	Germany	2004000000000.0
+us	United States	2557000000000.0
+cn	China	3554000000000.0

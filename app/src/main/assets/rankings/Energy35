@@ -1,0 +1,209 @@
+#ranking=Energy/Petroleum/total petroleum production
+#unit=bbl/day (2021 est.)
+gu	Guam	0
+mp	Northern Mariana Islands	0
+ps	Gaza Strip	0
+af	Afghanistan	0
+ag	Antigua and Barbuda	0
+am	Armenia	0
+aq	Antarctica	0
+as	American Samoa	0
+aw	Aruba	0
+ba	Bosnia and Herzegovina	0
+bf	Burkina Faso	0
+bi	Burundi	0
+bj	Benin	0
+bm	Bermuda	0
+bs	The Bahamas	0
+bt	Bhutan	0
+bw	Botswana	0
+ck	Cook Islands	0
+cv	Cabo Verde	0
+cy	Cyprus	0
+dj	Djibouti	0
+dm	Dominica	0
+do	The Dominican	0
+er	Eritrea	0
+et	Ethiopia	0
+fj	Fiji	0
+fk	Falkland Islands (Islas Malvinas)	0
+fo	Faroe Islands	0
+gd	Grenada	0
+gi	Gibraltar	0
+gl	Greenland	0
+gm	The Gambia	0
+gn	Guinea	0
+gw	Guinea-Bissau	0
+hn	Honduras	0
+ht	Haiti	0
+il	Israel	0
+is	Iceland	0
+jo	Jordan	0
+ke	Kenya	0
+kh	Cambodia	0
+ki	Kiribati	0
+km	Comoros	0
+kn	Saint Kitts and Nevis	0
+kp	North Korea	0
+ky	Cayman Islands	0
+la	Laos	0
+lb	Lebanon	0
+lc	Saint Lucia	0
+lk	Sri Lanka	0
+lr	Liberia	0
+ls	Lesotho	0
+lu	Luxembourg	0
+ma	Morocco	0
+md	Moldova	0
+me	Montenegro	0
+mg	Madagascar	0
+mk	North Macedonia	0
+ml	Mali	0
+mo	Macau	0
+mr	Mauritania	0
+ms	Montserrat	0
+mt	Malta	0
+mu	Mauritius	0
+mv	Maldives	0
+mw	Malawi	0
+mz	Mozambique	0
+na	Namibia	0
+nc	New Caledonia	0
+np	Nepal	0
+nr	Nauru	0
+nu	Niue	0
+pa	Panama	0
+pf	French Polynesia	0
+pm	Saint Pierre and Miquelon	0
+pr	Puerto Rico	0
+rw	Rwanda	0
+sb	Solomon Islands	0
+sc	Seychelles	0
+sg	Singapore	0
+si	Slovenia	0
+sl	Sierra Leone	0
+sn	Senegal	0
+so	Somalia	0
+st	Sao Tome and Principe	0
+sv	El Salvador	0
+sz	Eswatini	0
+tc	Turks and Caicos Islands	0
+tg	Togo	0
+to	Tonga	0
+tz	Tanzania	0
+ug	Uganda	0
+vc	Saint Vincent and the Grenadines	0
+vg	British Virgin Islands	0
+vi	Virgin Islands	0
+vu	Vanuatu	0
+ws	Samoa	0
+zm	Zambia	0
+hk	Hong Kong	100
+ni	Nicaragua	200
+ch	Switzerland	300
+ge	Georgia	300
+tj	Tajikistan	300
+cr	Costa Rica	400
+uy	Uruguay	400
+ie	Ireland	600
+kg	Kyrgyzstan	700
+tw	Taiwan	800
+zw	Zimbabwe	800
+bb	Barbados	1000
+bz	Belize	1300
+lv	Latvia	1600
+py	Paraguay	2000
+jm	Jamaica	3000
+sk	Slovakia	3800
+lt	Lithuania	4000
+bg	Bulgaria	4500
+gr	Greece	4800
+uz	Uzbekistan	5200
+cz	Czechia	6300
+mm	Burma	7800
+ne	Niger	8000
+pt	Portugal	8000
+fi	Finland	8300
+jp	Japan	10200
+gt	Guatemala	10300
+ph	Philippines	10300
+se	Sweden	10600
+be	Belgium	11400
+cl	Chile	11900
+hr	Croatia	12200
+nz	New Zealand	13400
+bd	Bangladesh	13500
+tl	Timor-Leste	14000
+sr	Suriname	14800
+rs	Serbia	15200
+al	Albania	16100
+mn	Mongolia	16700
+at	Austria	20100
+ee	Estonia	21800
+cd	DRC	22000
+pl	Poland	28400
+ci	Cote d'Ivoire	33000
+by	Belarus	34300
+hu	Hungary	35200
+pg	Papua New Guinea	37200
+kr	South Korea	37400
+cu	Cuba	38400
+tn	Tunisia	42500
+es	Spain	47200
+ua	Ukraine	57700
+cm	Cameroon	63200
+bo	Bolivia	65400
+sd	Sudan	66900
+dk	Denmark	69000
+ye	Yemen	70100
+tr	Turkey	70300
+ro	Romania	74000
+nl	Netherlands	76100
+sy	Syria	80800
+tt	Trinidad and Tobago	81000
+fr	France	81500
+td	Chad	87900
+za	South Africa	97900
+pk	Pakistan	100700
+bn	Brunei	107300
+it	Italy	107700
+gy	Guyana	110200
+pe	Peru	122500
+de	Germany	135000
+gq	Equatorial Guinea	142600
+ss	South Sudan	157100
+ga	Gabon	175000
+bh	Bahrain	185300
+gh	Ghana	185700
+vn	Vietnam	197700
+tm	Turkmenistan	235300
+cg	Congo (Brazzaville)	270900
+th	Thailand	438200
+au	Australia	442500
+ec	Ecuador	478000
+my	Malaysia	593800
+ve	Venezuela	604800
+eg	Egypt	660800
+ar	Argentina	690200
+az	Azerbaijan	711700
+co	Colombia	756400
+in	India	771400
+id	Indonesia	842300
+om	Oman	978800
+ao	Angola	1197600
+ly	Libya	1252800
+dz	Algeria	1414800
+ng	Nigeria	1646900
+qa	Qatar	1815100
+kz	Kazakhstan	1864900
+mx	Mexico	1905500
+no	Norway	2025999.9999999998
+kw	Kuwait	2720500
+ir	Iran	3450300
+br	Brazil	3629100
+iq	Iraq	4162000.0
+cn	China	4712200
+ca	Canada	5468100
+ru	Russia	10749500
+sa	Saudi Arabia	10815700
+us	United States	17924200

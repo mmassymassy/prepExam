@@ -1,0 +1,209 @@
+#ranking=Energy/Electricity/exports
+#unit=kWh 
+ps	Gaza Strip	0
+af	Afghanistan	0
+ao	Angola	0
+bb	Barbados	0
+bd	Bangladesh	0
+bf	Burkina Faso	0
+bi	Burundi	0
+bn	Brunei	0
+bo	Bolivia	0
+bs	The Bahamas	0
+bw	Botswana	0
+bz	Belize	0
+cm	Cameroon	0
+cv	Cabo Verde	0
+cy	Cyprus	0
+dj	Djibouti	0
+dm	Dominica	0
+do	The Dominican	0
+er	Eritrea	0
+ga	Gabon	0
+gi	Gibraltar	0
+gm	The Gambia	0
+gn	Guinea	0
+gq	Equatorial Guinea	0
+gw	Guinea-Bissau	0
+gy	Guyana	0
+ht	Haiti	0
+iq	Iraq	0
+kh	Cambodia	0
+km	Comoros	0
+kw	Kuwait	0
+lb	Lebanon	0
+lr	Liberia	0
+ls	Lesotho	0
+ly	Libya	0
+mr	Mauritania	0
+mu	Mauritius	0
+mw	Malawi	0
+ne	Niger	0
+ng	Nigeria	0
+ni	Nicaragua	0
+om	Oman	0
+pe	Peru	0
+pf	French Polynesia	0
+pg	Papua New Guinea	0
+pk	Pakistan	0
+qa	Qatar	0
+sd	Sudan	0
+sg	Singapore	0
+sl	Sierra Leone	0
+sn	Senegal	0
+so	Somalia	0
+sr	Suriname	0
+ss	South Sudan	0
+sz	Eswatini	0
+td	Chad	0
+tl	Timor-Leste	0
+to	Tonga	0
+tt	Trinidad and Tobago	0
+tz	Tanzania	0
+ag	Antigua and Barbuda	0
+aq	Antarctica	0
+as	American Samoa	0
+au	Australia	0
+aw	Aruba	0
+bm	Bermuda	0
+ck	Cook Islands	0
+cl	Chile	0
+cu	Cuba	0
+fj	Fiji	0
+fk	Falkland Islands (Islas Malvinas)	0
+fo	Faroe Islands	0
+gd	Grenada	0
+gl	Greenland	0
+gu	Guam	0
+hk	Hong Kong	0
+id	Indonesia	0
+is	Iceland	0
+jm	Jamaica	0
+jp	Japan	0
+ki	Kiribati	0
+kn	Saint Kitts and Nevis	0
+kp	North Korea	0
+kr	South Korea	0
+ky	Cayman Islands	0
+lc	Saint Lucia	0
+lk	Sri Lanka	0
+md	Moldova	0
+mg	Madagascar	0
+mo	Macau	0
+ms	Montserrat	0
+mv	Maldives	0
+nc	New Caledonia	0
+nr	Nauru	0
+nu	Niue	0
+nz	New Zealand	0
+ph	Philippines	0
+pm	Saint Pierre and Miquelon	0
+pr	Puerto Rico	0
+sa	Saudi Arabia	0
+sb	Solomon Islands	0
+sc	Seychelles	0
+st	Sao Tome and Principe	0
+tc	Turks and Caicos Islands	0
+tw	Taiwan	0
+vc	Saint Vincent and the Grenadines	0
+vg	British Virgin Islands	0
+vi	Virgin Islands	0
+vu	Vanuatu	0
+ws	Samoa	0
+ye	Yemen	0
+bj	Benin	2000000
+mt	Malta	4000000
+rw	Rwanda	4500000.0
+ke	Kenya	16000000
+mn	Mongolia	24000000
+cg	Congo (Brazzaville)	44000000
+jo	Jordan	98000000
+np	Nepal	107000000
+tg	Togo	118000000
+na	Namibia	119000000
+sv	El Salvador	158000000
+cd	DRC	248000000
+co	Colombia	251000000
+ge	Georgia	256000000
+ar	Argentina	261000000
+kg	Kyrgyzstan	271000000
+ug	Uganda	299200000.0
+sy	Syria	347000000
+eg	Egypt	360000000
+br	Brazil	395000000
+pa	Panama	427000000
+bh	Bahrain	447000000
+zw	Zimbabwe	504000000
+hn	Honduras	540000000
+ml	Mali	550000000
+ma	Morocco	624000000
+tn	Tunisia	631000000
+mk	North Macedonia	639000000
+my	Malaysia	669000000
+dz	Algeria	673000000
+cr	Costa Rica	712000000
+ve	Venezuela	870000000
+me	Montenegro	943000000
+al	Albania	963000000
+gr	Greece	967000000
+zm	Zambia	976000000
+et	Ethiopia	1000000000
+mm	Burma	1002000000.0
+lu	Luxembourg	1079000000.0
+uy	Uruguay	1148000000.0
+ci	Cote d'Ivoire	1178000000.0
+am	Armenia	1251000000.0
+az	Azerbaijan	1491000000.0
+gh	Ghana	1801000000.0
+ec	Ecuador	1826000000.0
+ie	Ireland	1913000000.0
+uz	Uzbekistan	2067000000.0000002
+vn	Vietnam	2067000000.0000002
+gt	Guatemala	2190000000.0
+kz	Kazakhstan	2419000000.0
+tr	Turkey	2484000000.0
+lv	Latvia	2548000000.0
+th	Thailand	2617583000
+xk	Kosovo	2715000000.0
+tj	Tajikistan	3175000000.0
+tm	Turkmenistan	3200000000.0
+ee	Estonia	3722000000.0
+lt	Lithuania	4105000000.0000005
+bt	Bhutan	4600000000.0
+by	Belarus	4777000000.0
+ua	Ukraine	5139000000.0
+ro	Romania	5459000000.0
+hr	Croatia	5852000000.0
+rs	Serbia	5943000000.0
+mx	Mexico	5954000000.0
+pt	Portugal	6097000000.0
+il	Israel	6243000000.0
+ir	Iran	6365000000.0
+fi	Finland	6666000000.0
+bg	Bulgaria	7115000000.0
+ba	Bosnia and Herzegovina	7316000000.0
+pl	Poland	7357000000.0
+hu	Hungary	7498000000.0
+it	Italy	7587000000.0
+si	Slovenia	9123000000.0
+in	India	9491000000.0
+mz	Mozambique	10771000000.0
+ru	Russia	12116000000.0
+dk	Denmark	12694000000.0
+sk	Slovakia	12970000000.0
+be	Belgium	14053000000.0
+us	United States	14134679000
+za	South Africa	14482000000.0
+es	Spain	14649000000.0
+cn	China	21655000000.0
+nl	Netherlands	22433000000.0
+at	Austria	22918265000
+cz	Czechia	23521000000.0
+la	Laos	24114000000.0
+no	Norway	24968000000.0
+py	Paraguay	31748000000.0
+ch	Switzerland	32549000000.0
+se	Sweden	36824000000.0
+fr	France	64425000000.0
+de	Germany	66931000000.0
+ca	Canada	67200000000.0

@@ -1,0 +1,208 @@
+#ranking=Energy/Electricity generation sources/nuclear
+#unit=% of total installed capacity (2020 est.)
+ps	Gaza Strip	0
+af	Afghanistan	0
+ag	Antigua and Barbuda	0
+al	Albania	0
+ao	Angola	0
+as	American Samoa	0
+at	Austria	0
+au	Australia	0
+aw	Aruba	0
+az	Azerbaijan	0
+ba	Bosnia and Herzegovina	0
+bb	Barbados	0
+bd	Bangladesh	0
+bf	Burkina Faso	0
+bh	Bahrain	0
+bi	Burundi	0
+bj	Benin	0
+bm	Bermuda	0
+bn	Brunei	0
+bo	Bolivia	0
+bs	The Bahamas	0
+bt	Bhutan	0
+bw	Botswana	0
+bz	Belize	0
+cd	DRC	0
+cg	Congo (Brazzaville)	0
+ci	Cote d'Ivoire	0
+ck	Cook Islands	0
+cl	Chile	0
+cm	Cameroon	0
+co	Colombia	0
+cr	Costa Rica	0
+cu	Cuba	0
+cv	Cabo Verde	0
+cy	Cyprus	0
+dj	Djibouti	0
+dk	Denmark	0
+dm	Dominica	0
+do	The Dominican	0
+dz	Algeria	0
+ec	Ecuador	0
+ee	Estonia	0
+eg	Egypt	0
+er	Eritrea	0
+et	Ethiopia	0
+fj	Fiji	0
+fk	Falkland Islands (Islas Malvinas)	0
+fo	Faroe Islands	0
+ga	Gabon	0
+gd	Grenada	0
+ge	Georgia	0
+gh	Ghana	0
+gi	Gibraltar	0
+gl	Greenland	0
+gm	The Gambia	0
+gn	Guinea	0
+gq	Equatorial Guinea	0
+gr	Greece	0
+gt	Guatemala	0
+gu	Guam	0
+gw	Guinea-Bissau	0
+gy	Guyana	0
+hk	Hong Kong	0
+hn	Honduras	0
+hr	Croatia	0
+ht	Haiti	0
+id	Indonesia	0
+ie	Ireland	0
+il	Israel	0
+iq	Iraq	0
+is	Iceland	0
+it	Italy	0
+jm	Jamaica	0
+jo	Jordan	0
+ke	Kenya	0
+kg	Kyrgyzstan	0
+kh	Cambodia	0
+ki	Kiribati	0
+km	Comoros	0
+kn	Saint Kitts and Nevis	0
+kp	North Korea	0
+kw	Kuwait	0
+ky	Cayman Islands	0
+kz	Kazakhstan	0
+la	Laos	0
+lb	Lebanon	0
+lc	Saint Lucia	0
+lk	Sri Lanka	0
+lr	Liberia	0
+ls	Lesotho	0
+lt	Lithuania	0
+lu	Luxembourg	0
+lv	Latvia	0
+ly	Libya	0
+ma	Morocco	0
+md	Moldova	0
+me	Montenegro	0
+mg	Madagascar	0
+mk	North Macedonia	0
+ml	Mali	0
+mm	Burma	0
+mn	Mongolia	0
+mo	Macau	0
+mr	Mauritania	0
+ms	Montserrat	0
+mt	Malta	0
+mu	Mauritius	0
+mv	Maldives	0
+mw	Malawi	0
+my	Malaysia	0
+mz	Mozambique	0
+na	Namibia	0
+nc	New Caledonia	0
+ne	Niger	0
+ng	Nigeria	0
+ni	Nicaragua	0
+no	Norway	0
+np	Nepal	0
+nr	Nauru	0
+nu	Niue	0
+nz	New Zealand	0
+om	Oman	0
+pa	Panama	0
+pe	Peru	0
+pf	French Polynesia	0
+pg	Papua New Guinea	0
+ph	Philippines	0
+pl	Poland	0
+pm	Saint Pierre and Miquelon	0
+pr	Puerto Rico	0
+pt	Portugal	0
+py	Paraguay	0
+qa	Qatar	0
+rs	Serbia	0
+rw	Rwanda	0
+sa	Saudi Arabia	0
+sb	Solomon Islands	0
+sc	Seychelles	0
+sd	Sudan	0
+sg	Singapore	0
+sl	Sierra Leone	0
+sn	Senegal	0
+so	Somalia	0
+sr	Suriname	0
+ss	South Sudan	0
+st	Sao Tome and Principe	0
+sv	El Salvador	0
+sy	Syria	0
+sz	Eswatini	0
+tc	Turks and Caicos Islands	0
+td	Chad	0
+tg	Togo	0
+th	Thailand	0
+tj	Tajikistan	0
+tl	Timor-Leste	0
+tm	Turkmenistan	0
+tn	Tunisia	0
+to	Tonga	0
+tr	Turkey	0
+tt	Trinidad and Tobago	0
+tz	Tanzania	0
+ug	Uganda	0
+uy	Uruguay	0
+uz	Uzbekistan	0
+vc	Saint Vincent and the Grenadines	0
+ve	Venezuela	0
+vg	British Virgin Islands	0
+vi	Virgin Islands	0
+vn	Vietnam	0
+vu	Vanuatu	0
+ws	Samoa	0
+xk	Kosovo	0
+ye	Yemen	0
+zm	Zambia	0
+zw	Zimbabwe	0
+by	Belarus	0.9
+ir	Iran	1.9
+br	Brazil	2.3
+in	India	2.8
+nl	Netherlands	3.3
+mx	Mexico	3.6
+cn	China	4.8
+jp	Japan	4.8
+za	South Africa	5.2
+ar	Argentina	7.3
+pk	Pakistan	8.2
+de	Germany	11.1
+tw	Taiwan	11.2
+ca	Canada	14.7
+us	United States	19.5
+ro	Romania	20.4
+ru	Russia	21
+es	Spain	21.9
+kr	South Korea	27.7
+se	Sweden	29.5
+fi	Finland	33.4
+ch	Switzerland	34.2
+am	Armenia	34.8
+si	Slovenia	36.8
+cz	Czechia	37.6
+be	Belgium	38.1
+bg	Bulgaria	44.7
+hu	Hungary	46
+sk	Slovakia	55.4
+ua	Ukraine	55.9
+fr	France	68.4

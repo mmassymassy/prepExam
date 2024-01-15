@@ -1,0 +1,225 @@
+#ranking=Economy/Budget/expenditures
+#unit=($
+pn	Pitcairn Islands	1028000.0
+nf	Norfolk Island	4800000.0
+lr	Liberia	6000000
+tk	Tokelau	11666542
+nu	Niue	16329999.999999998
+zw	Zimbabwe	23000000
+wf	Wallis and Futuna	34180000.0
+ms	Montserrat	47040000.0
+pm	Saint Pierre and Miquelon	60000000
+fk	Falkland Islands (Islas Malvinas)	75300000.0
+ve	Venezuela	76000000
+ck	Cook Islands	77900000.0
+ai	Anguilla	80320000.0
+tv	Tuvalu	88000000
+st	Sao Tome and Principe	102000000
+pw	Palau	121000000
+so	Somalia	151100000.0
+mh	Marshall Islands	153000000
+nr	Nauru	158000000
+dm	Dominica	184000000
+to	Tonga	196000000
+ki	Kiribati	205000000
+tc	Turks and Caicos Islands	224300000.0
+km	Comoros	228000000
+as	American Samoa	262500000.0
+gd	Grenada	263000000
+ws	Samoa	263000000
+gw	Guinea-Bissau	278000000
+vc	Saint Vincent and the Grenadines	288000000
+kn	Saint Kitts and Nevis	324000000
+mp	Northern Mariana Islands	344000000
+va	Holy See (Vatican City)	348000000
+gm	The Gambia	353000000
+vu	Vanuatu	355000000
+ag	Antigua and Barbuda	357000000
+sm	San Marino	363000000
+vg	British Virgin Islands	400000000
+gi	Gibraltar	452300000.0
+lc	Saint Lucia	516000000
+gg	Guernsey	530900000.0
+sb	Solomon Islands	537000000
+er	Eritrea	549000000
+sc	Seychelles	586000000
+cv	Cabo Verde	619000000
+bz	Belize	656000000
+dj	Djibouti	754000000
+ky	Cayman Islands	766600000.0
+bt	Bhutan	777000000
+aw	Aruba	782000000
+je	Jersey	851000000
+sl	Sierra Leone	867000000
+fo	Faroe Islands	883800000.0
+li	Liechtenstein	890400000.0
+im	Isle of Man	943000000
+mc	Monaco	953600000.0
+bi	Burundi	1111000000.0
+tg	Togo	1158000000.0
+bm	Bermuda	1176000000.0
+ls	Lesotho	1210000000.0
+gu	Guam	1299000000.0
+tl	Timor-Leste	1396000000.0
+mr	Mauritania	1407000000.0
+sz	Eswatini	1454000000.0
+gy	Guyana	1467000000.0
+bb	Barbados	1483000000.0
+fj	Fiji	1515000000.0
+vi	Virgin Islands	1518000000.0
+ht	Haiti	1527000000.0
+gl	Greenland	1594000000.0
+sr	Suriname	1648000000.0
+mv	Maldives	1797000000.0
+pf	French Polynesia	1833000000.0
+ss	South Sudan	1938000000.0
+nc	New Caledonia	1993000000.0
+gn	Guinea	2013999999.9999998
+ad	Andorra	2060000000.0
+mg	Madagascar	2089999999.9999998
+bj	Benin	2101000000.0
+td	Chad	2120000000.0
+mw	Malawi	2129000000.0
+tj	Tajikistan	2393000000.0
+gq	Equatorial Guinea	2535000000.0
+xk	Kosovo	2547000000.0
+me	Montenegro	2568000000.0
+cg	Congo (Brazzaville)	2628000000.0
+ne	Niger	2785000000.0
+kg	Kyrgyzstan	2890000000.0
+bs	The Bahamas	2899000000.0
+rw	Rwanda	2919000000.0
+ga	Gabon	2937000000.0
+bn	Brunei	3189000000.0
+sy	Syria	3211000000.0
+kp	North Korea	3300000000.0
+am	Armenia	3392000000.0
+ml	Mali	3467000000.0
+ni	Nicaragua	3511000000.0
+ye	Yemen	3585000000.0
+mu	Mauritius	3675000000.0
+md	Moldova	3754000000.0
+bf	Burkina Faso	3757000000.0
+la	Laos	3839000000.0
+al	Albania	4489000000.0
+mk	North Macedonia	4500000000.0
+jm	Jamaica	4564000000.0
+mz	Mozambique	4591000000.0
+na	Namibia	4693000000.0
+mn	Mongolia	4979000000.0
+ps	Gaza Strip	5002000000.0
+ge	Georgia	5059000000.0
+pg	Papua New Guinea	5135000000.0
+af	Afghanistan	5293000000.0
+mt	Malta	5586000000.0
+sn	Senegal	5662000000.0
+bw	Botswana	6006000000.0
+tm	Turkmenistan	6134000000.0
+cd	DRC	6382000000.0
+kh	Cambodia	6452000000.0
+hn	Honduras	6454000000.0
+ug	Uganda	6896000000.0
+zm	Zambia	7044000000.0
+sv	El Salvador	7273000000.0
+cm	Cameroon	7405000000.0
+tt	Trinidad and Tobago	7528000000.0
+ba	Bosnia and Herzegovina	8154000000.0
+sd	Sudan	8276999999.999999
+py	Paraguay	8714000000.0
+np	Nepal	9008000000.0
+pr	Puerto Rico	9974000000.0
+cy	Cyprus	9996000000.0
+tz	Tanzania	10017000000.0
+ci	Cote d'Ivoire	10145000000.0
+mo	Macau	10165000000.0
+gt	Guatemala	10373000000.0
+is	Iceland	11536000000.0
+ee	Estonia	12269000000.0
+tn	Tunisia	12375000000.0
+bh	Bahrain	12630000000.0
+jo	Jordan	13489000000.0
+et	Ethiopia	13979000000.0
+cr	Costa Rica	14001000000.0
+gh	Ghana	14062000000.0
+lv	Latvia	14242000000.0
+do	The Dominican	14511000000.0
+bo	Bolivia	14750000000.0
+pa	Panama	15145000000.0
+az	Azerbaijan	16001000000.000002
+uz	Uzbekistan	16346000000.0
+lb	Lebanon	16574000000.000002
+ao	Angola	17244000000.0
+lk	Sri Lanka	17496000000.0
+uy	Uruguay	17571000000.0
+mm	Burma	18035000000.0
+lt	Lithuania	18491000000.0
+si	Slovenia	23456000000.0
+by	Belarus	24239000000.0
+ke	Kenya	24271000000.0
+rs	Serbia	25720000000.0
+bg	Bulgaria	26544000000.0
+lu	Luxembourg	30014000000.0
+ma	Morocco	35591000000.0
+om	Oman	35984000000.0
+ly	Libya	37475000000.0
+ec	Ecuador	39319000000.0
+kz	Kazakhstan	41994000000.0
+sk	Slovakia	44914000000.0
+bd	Bangladesh	46379000000.0
+pe	Peru	49134000000.0
+qa	Qatar	57258000000.0
+pk	Pakistan	59621000000.0
+ng	Nigeria	59868000000.0
+ua	Ukraine	63742000000.0
+cu	Cuba	64640000000.0
+dz	Algeria	64727999999.99999
+kw	Kuwait	72030000000.0
+cl	Chile	73176000000.0
+hu	Hungary	74127000000.0
+vn	Vietnam	75834000000.0
+ro	Romania	83590000000.0
+iq	Iraq	85546000000.0
+my	Malaysia	85851000000.0
+nz	New Zealand	88593000000.0
+ir	Iran	90238000000.0
+sg	Singapore	90264000000.0
+ph	Philippines	90953000000.0
+gr	Greece	97277000000.0
+ie	Ireland	97713000000.0
+eg	Egypt	100318000000.0
+pt	Portugal	101854000000.0
+co	Colombia	103098000000.0
+cz	Czechia	103167000000.0
+tw	Taiwan	105833000000.0
+hk	Hong Kong	105849000000.0
+za	South Africa	121204000000.0
+th	Thailand	128580999999.99998
+fi	Finland	153635000000.0
+il	Israel	154927000000.0
+ar	Argentina	170725000000.0
+dk	Denmark	172408000000.0
+id	Indonesia	192970000000.0
+no	Norway	210522000000.0
+hr	Croatia	211069000000.0
+at	Austria	215485000000.0
+ch	Switzerland	230383000000.0
+pl	Poland	248868000000.0
+tr	Turkey	249268000000.0
+se	Sweden	256454000000.0
+be	Belgium	277492000000.0
+sa	Saudi Arabia	282400000000.0
+mx	Mexico	313358000000.0
+kr	South Korea	372412000000.0
+nl	Netherlands	374166000000.0
+au	Australia	532578999999.99994
+ru	Russia	571465000000.0
+es	Spain	585979000000.0
+br	Brazil	617332000000.0
+in	India	818940000000.0
+ca	Canada	861955000000.0
+it	Italy	1080000000000.0001
+fr	France	1509000000000.0
+jp	Japan	1916000000000.0
+de	Germany	1945000000000.0
+cn	China	4893000000000.0
+us	United States	7647000000000.0

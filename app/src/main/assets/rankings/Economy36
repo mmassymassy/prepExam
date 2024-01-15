@@ -1,0 +1,205 @@
+#ranking=Economy/Industrial production growth rate
+#unit=% 
+tv	Tuvalu	-26.1
+mg	Madagascar	-21.56
+ms	Montserrat	-21
+mm	Burma	-20.65
+sy	Syria	-14.77
+af	Afghanistan	-14.19
+kw	Kuwait	-12.2
+sr	Suriname	-10.92
+ly	Libya	-10.57
+ws	Samoa	-9.65
+ao	Angola	-8.34
+fj	Fiji	-8.34
+cg	Congo (Brazzaville)	-7.91
+pg	Papua New Guinea	-7.5
+lb	Lebanon	-6.85
+cu	Cuba	-6.75
+mr	Mauritania	-6.61
+gq	Equatorial Guinea	-6.46
+ye	Yemen	-5.23
+im	Isle of Man	-5.1
+dj	Djibouti	-4.43
+jp	Japan	-4.33
+bn	Brunei	-4.17
+ad	Andorra	-3.9
+sb	Solomon Islands	-3.84
+mh	Marshall Islands	-3.66
+pw	Palau	-3.42
+ky	Cayman Islands	-3.36
+mt	Malta	-3.3
+ht	Haiti	-2.48
+mk	North Macedonia	-2.37
+mn	Mongolia	-2.22
+pr	Puerto Rico	-2.1
+nz	New Zealand	-2.09
+ve	Venezuela	-2
+ki	Kiribati	-1.57
+iq	Iraq	-1.14
+sm	San Marino	-1.1
+eg	Egypt	-1.09
+tt	Trinidad and Tobago	-0.99
+gh	Ghana	-0.8
+gw	Guinea-Bissau	-0.7
+sd	Sudan	-0.7
+md	Moldova	-0.67
+bb	Barbados	-0.6
+au	Australia	-0.55
+ng	Nigeria	-0.47
+mz	Mozambique	-0.42
+km	Comoros	-0.25
+bm	Bermuda	0.1
+td	Chad	0.3
+bh	Bahrain	0.4
+ec	Ecuador	0.49
+qa	Qatar	0.66
+ck	Cook Islands	1
+kp	North Korea	1
+tm	Turkmenistan	1
+ml	Mali	1.01
+om	Oman	1.05
+vg	British Virgin Islands	1.1
+to	Tonga	1.23
+be	Belgium	1.28
+me	Montenegro	1.39
+bi	Burundi	1.4
+na	Namibia	1.44
+st	Sao Tome and Principe	1.44
+kn	Saint Kitts and Nevis	1.55
+sa	Saudi Arabia	1.71
+bg	Bulgaria	1.72
+mw	Malawi	1.9
+lv	Latvia	1.93
+az	Azerbaijan	1.95
+bt	Bhutan	1.96
+hk	Hong Kong	2.08
+no	Norway	2.19
+jm	Jamaica	2.38
+ge	Georgia	2.4
+sk	Slovakia	2.46
+ua	Ukraine	2.57
+fi	Finland	2.77
+lu	Luxembourg	2.87
+jo	Jordan	3.02
+kg	Kyrgyzstan	3.1
+ga	Gabon	3.2
+ir	Iran	3.21
+cm	Cameroon	3.22
+us	United States	3.25
+cz	Czechia	3.3
+th	Thailand	3.34
+pl	Poland	3.36
+fo	Faroe Islands	3.4
+am	Armenia	3.4
+id	Indonesia	3.42
+ug	Uganda	3.47
+so	Somalia	3.5
+nc	New Caledonia	3.5
+vn	Vietnam	3.58
+de	Germany	3.61
+sc	Seychelles	3.63
+tw	Taiwan	3.9
+gn	Guinea	3.9
+ai	Anguilla	4
+es	Spain	4.03
+ro	Romania	4.07
+ne	Niger	4.09
+zm	Zambia	4.18
+br	Brazil	4.48
+mv	Maldives	4.51
+np	Nepal	4.51
+py	Paraguay	4.69
+ca	Canada	4.74
+ru	Russia	4.9
+vu	Vanuatu	4.92
+nl	Netherlands	4.93
+tc	Turks and Caicos Islands	5
+dm	Dominica	5.01
+cl	Chile	5.06
+kr	South Korea	5.09
+kz	Kazakhstan	5.1
+mo	Macau	5.17
+dk	Denmark	5.25
+tg	Togo	5.32
+er	Eritrea	5.4
+mx	Mexico	5.44
+lk	Sri Lanka	5.62
+pt	Portugal	5.63
+is	Iceland	5.65
+my	Malaysia	5.65
+tl	Timor-Leste	5.65
+vc	Saint Vincent and the Grenadines	5.7
+se	Sweden	5.72
+uy	Uruguay	5.87
+il	Israel	6.05
+za	South Africa	6.12
+ci	Cote d'Ivoire	6.2
+ps	Gaza Strip	6.22
+zw	Zimbabwe	6.37
+tz	Tanzania	6.5
+hu	Hungary	6.64
+by	Belarus	6.7
+at	Austria	6.77
+mc	Monaco	6.8
+ma	Morocco	6.84
+fr	France	6.98
+ee	Estonia	7.13
+ke	Kenya	7.17
+et	Ethiopia	7.26
+dz	Algeria	7.36
+la	Laos	7.61
+xk	Kosovo	7.76
+cd	DRC	7.78
+pk	Pakistan	7.81
+ch	Switzerland	7.91
+cy	Cyprus	8.1
+cn	China	8.22
+ag	Antigua and Barbuda	8.26
+uz	Uzbekistan	8.37
+gt	Guatemala	8.49
+ph	Philippines	8.49
+bs	The Bahamas	8.51
+ls	Lesotho	8.52
+gl	Greenland	8.56
+lt	Lithuania	8.58
+tn	Tunisia	8.6
+rs	Serbia	8.63
+bf	Burkina Faso	8.73
+ba	Bosnia and Herzegovina	8.87
+hr	Croatia	9.11
+bj	Benin	9.12
+kh	Cambodia	9.37
+si	Slovenia	9.43
+sv	El Salvador	9.47
+bo	Bolivia	9.56
+co	Colombia	9.65
+cr	Costa Rica	9.83
+in	India	10.27
+bd	Bangladesh	10.29
+gm	The Gambia	10.4
+gr	Greece	10.67
+lc	Saint Lucia	10.8
+sn	Senegal	10.91
+cv	Cabo Verde	11.76
+tr	Turkey	12.46
+sg	Singapore	13.32
+rw	Rwanda	13.4
+it	Italy	13.46
+bz	Belize	15.08
+ar	Argentina	15.26
+gd	Grenada	15.33
+sz	Eswatini	15.38
+do	The Dominican	15.89
+al	Albania	16
+lr	Liberia	16.25
+pe	Peru	16.44
+sl	Sierra Leone	17.41
+bw	Botswana	19.38
+hn	Honduras	20.05
+ie	Ireland	20.33
+mu	Mauritius	20.88
+ni	Nicaragua	21.28
+tj	Tajikistan	22.04
+gy	Guyana	33.52
+pa	Panama	37.5

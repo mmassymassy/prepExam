@@ -1,0 +1,194 @@
+#ranking=People and Society/Education expenditures
+#unit=% of GDP 
+so	Somalia	0.3
+ng	Nigeria	0.5
+mc	Monaco	1.2
+ve	Venezuela	1.3
+ht	Haiti	1.4
+pg	Papua New Guinea	1.4
+ss	South Sudan	1.5
+lb	Lebanon	1.7
+lk	Sri Lanka	1.9
+mr	Mauritania	1.9
+bm	Bermuda	1.9
+mm	Burma	2.1
+ky	Cayman Islands	2.1
+bd	Bangladesh	2.1
+bh	Bahrain	2.2
+gn	Guinea	2.2
+vu	Vanuatu	2.2
+la	Laos	2.3
+ao	Angola	2.4
+pk	Pakistan	2.4
+eg	Egypt	2.5
+kn	Saint Kitts and Nevis	2.5
+li	Liechtenstein	2.6
+km	Comoros	2.6
+vg	British Virgin Islands	2.6
+gw	Guinea-Bissau	2.7
+cd	DRC	2.7
+lr	Liberia	2.7
+ug	Uganda	2.7
+gm	The Gambia	2.8
+am	Armenia	2.8
+bs	The Bahamas	2.8
+sg	Singapore	2.8
+af	Afghanistan	2.9
+mw	Malawi	2.9
+ad	Andorra	2.9
+td	Chad	2.9
+bj	Benin	3
+tm	Turkmenistan	3.1
+al	Albania	3.1
+ie	Ireland	3.1
+kh	Cambodia	3.1
+mg	Madagascar	3.1
+gt	Guatemala	3.1
+cm	Cameroon	3.2
+ga	Gabon	3.2
+qa	Qatar	3.2
+th	Thailand	3.2
+jo	Jordan	3.2
+py	Paraguay	3.3
+tz	Tanzania	3.3
+ci	Cote d'Ivoire	3.4
+jp	Japan	3.4
+sm	San Marino	3.4
+tr	Turkey	3.4
+id	Indonesia	3.5
+dj	Djibouti	3.6
+gd	Grenada	3.6
+rs	Serbia	3.6
+cn	China	3.6
+ir	Iran	3.6
+lc	Saint Lucia	3.6
+ge	Georgia	3.6
+pr	Puerto Rico	3.6
+ph	Philippines	3.7
+ro	Romania	3.7
+ru	Russia	3.7
+zm	Zambia	3.7
+ec	Ecuador	3.7
+ag	Antigua and Barbuda	3.8
+ne	Niger	3.8
+rw	Rwanda	3.8
+gh	Ghana	3.9
+zw	Zimbabwe	3.9
+my	Malaysia	3.9
+pa	Panama	3.9
+lt	Lithuania	4
+ai	Anguilla	4
+bg	Bulgaria	4
+tg	Togo	4
+hk	Hong Kong	4
+pe	Peru	4
+sv	El Salvador	4.1
+tt	Trinidad and Tobago	4.1
+vn	Vietnam	4.1
+np	Nepal	4.2
+tl	Timor-Leste	4.2
+mx	Mexico	4.3
+az	Azerbaijan	4.3
+it	Italy	4.3
+bn	Brunei	4.4
+gr	Greece	4.4
+ml	Mali	4.4
+gy	Guyana	4.5
+et	Ethiopia	4.5
+cg	Congo (Brazzaville)	4.5
+in	India	4.5
+kz	Kazakhstan	4.5
+tc	Turks and Caicos Islands	4.5
+do	The Dominican	4.6
+es	Spain	4.6
+ni	Nicaragua	4.6
+sk	Slovakia	4.6
+uy	Uruguay	4.6
+ck	Cook Islands	4.6
+iq	Iraq	4.7
+kr	South Korea	4.7
+de	Germany	4.7
+mn	Mongolia	4.7
+by	Belarus	4.7
+hu	Hungary	4.8
+ws	Samoa	4.8
+ke	Kenya	4.8
+co	Colombia	4.9
+uz	Uzbekistan	4.9
+mu	Mauritius	4.9
+ar	Argentina	5
+bi	Burundi	5
+lu	Luxembourg	5
+pt	Portugal	5
+sr	Suriname	5
+st	Sao Tome and Principe	5
+sz	Eswatini	5
+at	Austria	5.1
+cz	Czechia	5.1
+ca	Canada	5.2
+ch	Switzerland	5.2
+pl	Poland	5.2
+sc	Seychelles	5.2
+ps	Gaza Strip	5.3
+nl	Netherlands	5.3
+om	Oman	5.4
+ms	Montserrat	5.4
+ua	Ukraine	5.4
+aw	Aruba	5.5
+bf	Burkina Faso	5.5
+fr	France	5.5
+hr	Croatia	5.5
+sn	Senegal	5.5
+dm	Dominica	5.5
+cl	Chile	5.6
+vc	Saint Vincent and the Grenadines	5.7
+fj	Fiji	5.7
+mv	Maldives	5.8
+si	Slovenia	5.8
+fi	Finland	5.9
+mt	Malta	5.9
+no	Norway	5.9
+tj	Tajikistan	5.9
+br	Brazil	6
+lv	Latvia	6
+nz	New Zealand	6
+jm	Jamaica	6
+au	Australia	6.1
+cy	Cyprus	6.1
+us	United States	6.1
+kg	Kyrgyzstan	6.2
+mo	Macau	6.3
+mz	Mozambique	6.3
+dk	Denmark	6.4
+hn	Honduras	6.4
+md	Moldova	6.4
+bb	Barbados	6.5
+ee	Estonia	6.6
+kw	Kuwait	6.6
+to	Tonga	6.6
+za	South Africa	6.6
+be	Belgium	6.7
+cr	Costa Rica	6.7
+pw	Palau	6.8
+ma	Morocco	6.8
+dz	Algeria	7
+bt	Bhutan	7
+il	Israel	7.1
+nr	Nauru	7.1
+se	Sweden	7.2
+tn	Tunisia	7.3
+cw	Curacao	7.4
+fo	Faroe Islands	7.6
+cv	Cabo Verde	7.6
+is	Iceland	7.7
+sa	Saudi Arabia	7.8
+bw	Botswana	8.7
+bz	Belize	8.7
+ls	Lesotho	8.7
+sl	Sierra Leone	9.1
+na	Namibia	9.6
+bo	Bolivia	9.8
+gl	Greenland	10.2
+ki	Kiribati	12.4
+sb	Solomon Islands	12.8
+mh	Marshall Islands	13.6

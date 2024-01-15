@@ -1,0 +1,224 @@
+#ranking=People and Society/Net migration rate
+#unit=migrant(s)/1,000 population 
+as	American Samoa	-27.36
+ck	Cook Islands	-26.2
+to	Tonga	-18.06
+mp	Northern Mariana Islands	-13.51
+mv	Maldives	-12.8
+jo	Jordan	-10.99
+gu	Guam	-10.94
+pr	Puerto Rico	-10.76
+nr	Nauru	-10.15
+er	Eritrea	-9.38
+md	Moldova	-8.8
+jm	Jamaica	-7.42
+vi	Virgin Islands	-7.3
+ws	Samoa	-7.19
+pm	Saint Pierre and Miquelon	-7.12
+sv	El Salvador	-7.01
+gy	Guyana	-6.99
+st	Sao Tome and Principe	-6.84
+tv	Tuvalu	-6.36
+vc	Saint Vincent and the Grenadines	-6.11
+sz	Eswatini	-6.07
+fj	Fiji	-5.65
+dm	Dominica	-5.3
+am	Armenia	-5.28
+lv	Latvia	-5.06
+me	Montenegro	-4.99
+gl	Greenland	-4.95
+kg	Kyrgyzstan	-4.83
+zw	Zimbabwe	-4.74
+ls	Lesotho	-4.52
+ps	Gaza Strip	-4.46
+lt	Lithuania	-4.34
+mh	Marshall Islands	-4.31
+np	Nepal	-4.29
+kw	Kuwait	-4.07
+ro	Romania	-3.86
+tk	Tokelau	-3.84
+wf	Wallis and Futuna	-3.83
+tl	Timor-Leste	-3.81
+gw	Guinea-Bissau	-3.54
+gi	Gibraltar	-3.24
+al	Albania	-3.22
+rw	Rwanda	-3.16
+ug	Uganda	-3.16
+ml	Mali	-2.99
+bd	Bangladesh	-2.88
+ki	Kiribati	-2.79
+ee	Estonia	-2.73
+kh	Cambodia	-2.67
+lr	Liberia	-2.67
+do	The Dominican	-2.66
+cu	Cuba	-2.53
+gd	Grenada	-2.34
+km	Comoros	-2.22
+ly	Libya	-2.05
+ni	Nicaragua	-2.04
+ht	Haiti	-1.86
+co	Colombia	-1.85
+tg	Togo	-1.77
+ma	Morocco	-1.73
+uz	Uzbekistan	-1.7
+tm	Turkmenistan	-1.69
+gt	Guatemala	-1.63
+sd	Sudan	-1.63
+mz	Mozambique	-1.54
+tr	Turkey	-1.53
+sb	Solomon Islands	-1.52
+so	Somalia	-1.42
+mm	Burma	-1.36
+tn	Tunisia	-1.33
+hn	Honduras	-1.32
+cw	Curacao	-1.31
+vu	Vanuatu	-1.28
+bl	Saint Barthelemy	-1.27
+lk	Sri Lanka	-1.21
+la	Laos	-1.09
+tj	Tajikistan	-1.02
+pk	Pakistan	-1.01
+bh	Bahrain	-0.99
+iq	Iraq	-0.98
+tt	Trinidad and Tobago	-0.97
+bo	Bolivia	-0.96
+bz	Belize	-0.95
+lb	Lebanon	-0.94
+pe	Peru	-0.89
+uy	Uruguay	-0.88
+lc	Saint Lucia	-0.82
+dz	Algeria	-0.81
+mn	Mongolia	-0.77
+mx	Mexico	-0.77
+id	Indonesia	-0.71
+mr	Mauritania	-0.71
+xk	Kosovo	-0.71
+sn	Senegal	-0.69
+cd	DRC	-0.63
+ne	Niger	-0.62
+pf	French Polynesia	-0.61
+bf	Burkina Faso	-0.59
+cv	Cabo Verde	-0.57
+om	Oman	-0.46
+tz	Tanzania	-0.39
+ba	Bosnia and Herzegovina	-0.38
+pl	Poland	-0.34
+cm	Cameroon	-0.3
+ir	Iran	-0.3
+bb	Barbados	-0.29
+bg	Bulgaria	-0.29
+eg	Egypt	-0.29
+ua	Ukraine	-0.27
+hr	Croatia	-0.26
+th	Thailand	-0.22
+ng	Nigeria	-0.21
+vn	Vietnam	-0.21
+ao	Angola	-0.19
+br	Brazil	-0.19
+et	Ethiopia	-0.19
+ke	Kenya	-0.19
+ye	Yemen	-0.19
+gh	Ghana	-0.16
+td	Chad	-0.12
+cn	China	-0.11
+af	Afghanistan	-0.1
+ar	Argentina	-0.08
+py	Paraguay	-0.07
+gm	The Gambia	-0.04
+kp	North Korea	-0.04
+ph	Philippines	-0.04
+ad	Andorra	0
+az	Azerbaijan	0
+bs	The Bahamas	0
+bt	Bhutan	0
+cg	Congo (Brazzaville)	0
+ec	Ecuador	0
+fo	Faroe Islands	0
+gn	Guinea	0
+mg	Madagascar	0
+ms	Montserrat	0
+mu	Mauritius	0
+mw	Malawi	0
+na	Namibia	0
+pg	Papua New Guinea	0
+rs	Serbia	0
+ge	Georgia	0.06
+za	South Africa	0.11
+in	India	0.12
+zm	Zambia	0.16
+sk	Slovakia	0.2
+bj	Benin	0.24
+cl	Chile	0.32
+mk	North Macedonia	0.38
+kz	Kazakhstan	0.39
+pw	Palau	0.64
+by	Belarus	0.72
+jp	Japan	0.74
+cr	Costa Rica	0.76
+qa	Qatar	0.78
+sc	Seychelles	0.81
+tw	Taiwan	0.96
+gr	Greece	1.03
+fr	France	1.06
+kn	Saint Kitts and Nevis	1.15
+ci	Cote d'Ivoire	1.16
+pt	Portugal	1.2
+hu	Hungary	1.21
+bm	Bermuda	1.43
+my	Malaysia	1.46
+je	Jersey	1.5
+si	Slovenia	1.54
+gg	Guernsey	1.64
+hk	Hong Kong	1.65
+ru	Russia	1.7
+sl	Sierra Leone	1.72
+de	Germany	1.78
+nl	Netherlands	1.89
+il	Israel	1.99
+ag	Antigua and Barbuda	2.01
+bn	Brunei	2.15
+fi	Finland	2.25
+cz	Czechia	2.32
+sr	Suriname	2.51
+kr	South Korea	2.61
+is	Iceland	2.69
+dk	Denmark	2.71
+bw	Botswana	2.77
+us	United States	3.01
+mo	Macau	3.13
+it	Italy	3.2
+pa	Panama	3.22
+at	Austria	3.54
+ga	Gabon	3.59
+nc	New Caledonia	3.62
+ie	Ireland	3.76
+se	Sweden	3.79
+no	Norway	3.89
+be	Belgium	4.18
+sg	Singapore	4.18
+es	Spain	4.23
+dj	Djibouti	4.37
+ch	Switzerland	4.5
+im	Isle of Man	4.52
+li	Liechtenstein	4.78
+nz	New Zealand	4.81
+eh	Western Sahara	4.9
+mt	Malta	4.96
+ca	Canada	5.37
+sx	Sint Maarten	5.76
+sm	San Marino	5.88
+sa	Saudi Arabia	6.07
+au	Australia	6.39
+cy	Cyprus	6.65
+bi	Burundi	6.84
+aw	Aruba	8.08
+tc	Turks and Caicos Islands	8.42
+ai	Anguilla	10.48
+mc	Monaco	10.89
+lu	Luxembourg	11.39
+ky	Cayman Islands	12.34
+gq	Equatorial Guinea	13.01
+vg	British Virgin Islands	13.21
+ve	Venezuela	13.55
+ss	South Sudan	19.98
+sy	Syria	45.78

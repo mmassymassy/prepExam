@@ -1,0 +1,208 @@
+#ranking=Economy/GDP - composition, by end use/exports of goods and services
+#unit=% 
+so	Somalia	0.3
+bi	Burundi	5.5
+kp	North Korea	5.9
+af	Afghanistan	6.7
+ve	Venezuela	7
+ye	Yemen	7.5
+st	Sao Tome and Principe	7.9
+et	Ethiopia	8.1
+pk	Pakistan	8.2
+sd	Sudan	9.7
+np	Nepal	9.8
+tj	Tajikistan	10.7
+er	Eritrea	10.9
+nr	Nauru	11.2
+ar	Argentina	11.2
+ng	Nigeria	11.9
+us	United States	12.1
+br	Brazil	12.6
+ke	Kenya	13.9
+co	Colombia	14.6
+cu	Cuba	14.6
+bd	Bangladesh	15
+sy	Syria	16.1
+eg	Egypt	16.3
+ne	Niger	16.4
+km	Comoros	17.2
+pf	French Polynesia	17.5
+cw	Curacao	17.5
+lr	Liberia	17.5
+jp	Japan	17.7
+tz	Tanzania	18.1
+gl	Greenland	18.2
+rw	Rwanda	18.2
+ps	Gaza Strip	18.6
+nc	New Caledonia	18.7
+gt	Guatemala	18.8
+ug	Uganda	18.8
+uz	Uzbekistan	19
+in	India	19.1
+gu	Guam	19.4
+ht	Haiti	20
+cn	China	20.4
+id	Indonesia	20.4
+ec	Ecuador	20.8
+gm	The Gambia	20.8
+mm	Burma	21.4
+au	Australia	21.5
+cm	Cameroon	21.6
+uy	Uruguay	21.6
+bo	Bolivia	21.7
+gn	Guinea	21.9
+lk	Sri Lanka	21.9
+ml	Mali	22.1
+to	Tonga	22.8
+dz	Algeria	23.6
+lb	Lebanon	23.6
+pe	Peru	24
+do	The Dominican	24.8
+tr	Turkey	24.9
+ao	Angola	25.4
+zw	Zimbabwe	25.6
+cd	DRC	25.7
+sb	Solomon Islands	25.8
+bt	Bhutan	26
+ir	Iran	26
+ru	Russia	26.2
+tm	Turkmenistan	26.2
+gw	Guinea-Bissau	26.4
+sl	Sierra Leone	26.8
+nz	New Zealand	27
+sn	Senegal	27
+xk	Kosovo	27
+ws	Samoa	27.2
+sv	El Salvador	27.6
+mw	Malawi	27.9
+bf	Burkina Faso	28.4
+cl	Chile	28.7
+il	Israel	28.9
+fj	Fiji	29
+ms	Montserrat	29.5
+za	South Africa	29.8
+jm	Jamaica	30.1
+ci	Cote d'Ivoire	30.8
+ca	Canada	30.9
+fr	France	30.9
+ph	Philippines	31
+it	Italy	31.4
+al	Albania	31.5
+mg	Madagascar	31.5
+bb	Barbados	31.6
+bj	Benin	31.6
+iq	Iraq	32.5
+cr	Costa Rica	33.3
+gr	Greece	33.4
+bs	The Bahamas	33.7
+es	Spain	34.1
+jo	Jordan	34.2
+la	Laos	34.6
+sa	Saudi Arabia	34.8
+td	Chad	35.1
+kz	Kazakhstan	35.4
+no	Norway	35.5
+na	Namibia	36.7
+ma	Morocco	37.1
+vc	Saint Vincent and the Grenadines	37.1
+mx	Mexico	37.8
+am	Armenia	38.1
+mz	Mozambique	38.3
+fi	Finland	38.5
+dj	Djibouti	38.6
+ba	Bosnia and Herzegovina	38.7
+ly	Libya	38.8
+mr	Mauritania	39
+kg	Kyrgyzstan	39.7
+bw	Botswana	39.8
+me	Montenegro	40.5
+ls	Lesotho	40.8
+ni	Nicaragua	41.2
+ro	Romania	41.4
+pa	Panama	41.9
+mu	Mauritius	42.1
+md	Moldova	42.5
+vu	Vanuatu	42.5
+gh	Ghana	43
+zm	Zambia	43
+kr	South Korea	43.1
+pt	Portugal	43.1
+tg	Togo	43.1
+tn	Tunisia	43.2
+hn	Honduras	43.6
+tv	Tuvalu	43.7
+se	Sweden	45.3
+tt	Trinidad and Tobago	45.4
+bn	Brunei	45.9
+py	Paraguay	46.6
+vi	Virgin Islands	46.7
+ga	Gabon	46.7
+is	Iceland	47
+de	Germany	47.3
+gy	Guyana	47.8
+sz	Eswatini	47.9
+ua	Ukraine	47.9
+ai	Anguilla	48.2
+cv	Cabo Verde	48.6
+az	Azerbaijan	48.7
+bz	Belize	49.1
+pg	Papua New Guinea	49.3
+kw	Kuwait	49.4
+bm	Bermuda	49.8
+ge	Georgia	50.4
+qa	Qatar	51
+hr	Croatia	51.1
+om	Oman	51.5
+rs	Serbia	52.5
+mh	Marshall Islands	52.9
+mk	North Macedonia	54
+pl	Poland	54
+at	Austria	54.2
+dm	Dominica	54.4
+dk	Denmark	54.5
+pw	Palau	55.2
+gq	Equatorial Guinea	56.9
+mn	Mongolia	59.5
+gd	Grenada	60
+lv	Latvia	60.6
+kn	Saint Kitts and Nevis	62.5
+lc	Saint Lucia	62.7
+cg	Congo (Brazzaville)	62.9
+cy	Cyprus	63.8
+ss	South Sudan	64.9
+as	American Samoa	65
+ch	Switzerland	65.1
+tw	Taiwan	65.2
+ky	Cayman Islands	65.4
+bg	Bulgaria	66.3
+by	Belarus	67
+th	Thailand	68.2
+kh	Cambodia	68.6
+sr	Suriname	68.9
+tc	Turks and Caicos Islands	69.5
+aw	Aruba	70.5
+my	Malaysia	71.4
+mp	Northern Mariana Islands	73.6
+ag	Antigua and Barbuda	73.9
+ee	Estonia	77.2
+tl	Timor-Leste	78.4
+mo	Macau	79.4
+sc	Seychelles	79.4
+cz	Czechia	79.9
+bh	Bahrain	80.2
+lt	Lithuania	81.6
+si	Slovenia	82.3
+nl	Netherlands	83
+be	Belgium	85.1
+hu	Hungary	90.2
+mv	Maldives	93.6
+vg	British Virgin Islands	94.7
+sk	Slovakia	96.3
+vn	Vietnam	100
+pr	Puerto Rico	117.8
+ie	Ireland	119.9
+mt	Malta	136.1
+sg	Singapore	173.3
+sm	San Marino	176.6
+hk	Hong Kong	188
+lu	Luxembourg	230

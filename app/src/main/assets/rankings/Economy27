@@ -1,0 +1,198 @@
+#ranking=Economy/GDP - composition, by end use/investment in inventories
+#unit=% 
+gl	Greenland	-13.9
+ls	Lesotho	-13.4
+tz	Tanzania	-8.7
+mr	Mauritania	-3.2
+km	Comoros	-3.1
+gm	The Gambia	-2.7
+bw	Botswana	-1.8
+ch	Switzerland	-1.4
+ht	Haiti	-1.4
+tg	Togo	-1.4
+lt	Lithuania	-1.3
+ao	Angola	-1.2
+gr	Greece	-1
+ke	Kenya	-1
+uy	Uruguay	-1
+cy	Cyprus	-0.7
+ml	Mali	-0.7
+ga	Gabon	-0.6
+de	Germany	-0.5
+mu	Mauritius	-0.4
+th	Thailand	-0.4
+cm	Cameroon	-0.3
+dk	Denmark	-0.2
+gt	Guatemala	-0.2
+it	Italy	-0.2
+pe	Peru	-0.2
+tw	Taiwan	-0.2
+vc	Saint Vincent and the Grenadines	-0.2
+br	Brazil	-0.1
+do	The Dominican	-0.1
+et	Ethiopia	-0.1
+gd	Grenada	-0.1
+ms	Montserrat	-0.1
+sz	Eswatini	-0.1
+tc	Turks and Caicos Islands	-0.1
+za	South Africa	-0.1
+aw	Aruba	0
+cw	Curacao	0
+iq	Iraq	0
+xk	Kosovo	0
+ai	Anguilla	0
+bi	Burundi	0
+bj	Benin	0
+bm	Bermuda	0
+bt	Bhutan	0
+cd	DRC	0
+cu	Cuba	0
+dm	Dominica	0
+fj	Fiji	0
+gy	Guyana	0
+hr	Croatia	0
+is	Iceland	0
+jp	Japan	0
+kn	Saint Kitts and Nevis	0
+kr	South Korea	0
+mw	Malawi	0
+nc	New Caledonia	0
+ne	Niger	0
+ps	Gaza Strip	0
+sc	Seychelles	0
+st	Sao Tome and Principe	0
+sv	El Salvador	0
+tl	Timor-Leste	0
+tm	Turkmenistan	0
+tn	Tunisia	0
+to	Tonga	0
+vu	Vanuatu	0
+ye	Yemen	0
+zw	Zimbabwe	0
+pf	French Polynesia	0.1
+ag	Antigua and Barbuda	0.1
+au	Australia	0.1
+cg	Congo (Brazzaville)	0.1
+er	Eritrea	0.1
+gq	Equatorial Guinea	0.1
+jm	Jamaica	0.1
+ky	Cayman Islands	0.1
+lc	Saint Lucia	0.1
+ph	Philippines	0.1
+pt	Portugal	0.1
+us	United States	0.1
+mh	Marshall Islands	0.2
+al	Albania	0.2
+bb	Barbados	0.2
+co	Colombia	0.2
+gw	Guinea-Bissau	0.2
+nl	Netherlands	0.2
+ci	Cote d'Ivoire	0.3
+dj	Djibouti	0.3
+id	Indonesia	0.3
+mt	Malta	0.3
+my	Malaysia	0.3
+nz	New Zealand	0.3
+py	Paraguay	0.3
+ug	Uganda	0.3
+bh	Bahrain	0.4
+fi	Finland	0.4
+hk	Hong Kong	0.4
+pg	Papua New Guinea	0.4
+sl	Sierra Leone	0.4
+az	Azerbaijan	0.5
+cl	Chile	0.5
+eg	Egypt	0.5
+lb	Lebanon	0.5
+pr	Puerto Rico	0.5
+rw	Rwanda	0.5
+es	Spain	0.6
+sd	Sudan	0.6
+tt	Trinidad and Tobago	0.6
+bs	The Bahamas	0.7
+ca	Canada	0.7
+hn	Honduras	0.7
+il	Israel	0.7
+jo	Jordan	0.7
+ng	Nigeria	0.7
+td	Chad	0.7
+so	Somalia	0.8
+mo	Macau	0.8
+mx	Mexico	0.8
+se	Sweden	0.8
+fr	France	0.9
+bd	Bangladesh	1
+bf	Burkina Faso	1
+cr	Costa Rica	1
+ec	Ecuador	1
+hu	Hungary	1
+cz	Czechia	1.1
+gh	Ghana	1.1
+lu	Luxembourg	1.1
+si	Slovenia	1.1
+tr	Turkey	1.1
+bz	Belize	1.2
+ie	Ireland	1.2
+kh	Cambodia	1.2
+sk	Slovakia	1.2
+zm	Zambia	1.2
+ly	Libya	1.3
+be	Belgium	1.3
+md	Moldova	1.4
+lv	Latvia	1.5
+mm	Burma	1.5
+qa	Qatar	1.5
+at	Austria	1.6
+na	Namibia	1.6
+pk	Pakistan	1.6
+bg	Bulgaria	1.7
+cn	China	1.7
+ni	Nicaragua	1.7
+ve	Venezuela	1.7
+kg	Kyrgyzstan	1.8
+pw	Palau	1.9
+cv	Cabo Verde	1.9
+ro	Romania	1.9
+pl	Poland	2
+rs	Serbia	2
+ee	Estonia	2.2
+ba	Bosnia and Herzegovina	2.3
+ru	Russia	2.3
+ge	Georgia	2.4
+tj	Tajikistan	2.5
+sg	Singapore	2.8
+vn	Vietnam	2.8
+me	Montenegro	2.9
+om	Oman	3
+pa	Panama	3
+uz	Uzbekistan	3
+la	Laos	3.1
+sn	Senegal	3.4
+kw	Kuwait	3.5
+ar	Argentina	3.7
+bo	Bolivia	3.8
+in	India	3.9
+am	Armenia	4.1
+ma	Morocco	4.2
+sa	Saudi Arabia	4.7
+ua	Ukraine	4.7
+kz	Kazakhstan	4.8
+no	Norway	4.8
+as	American Samoa	5.1
+by	Belarus	5.7
+lr	Liberia	6.7
+bn	Brunei	8.5
+np	Nepal	8.7
+mg	Madagascar	8.8
+lk	Sri Lanka	10.2
+dz	Algeria	11.2
+sy	Syria	12.3
+mn	Mongolia	12.4
+mz	Mozambique	13.9
+ir	Iran	14.5
+vi	Virgin Islands	15
+gn	Guinea	18.5
+mk	North Macedonia	20.2
+vg	British Virgin Islands	20.4
+sr	Suriname	26.5
+af	Afghanistan	30

@@ -1,0 +1,203 @@
+#ranking=Economy/Labor force - by occupation/agriculture
+#unit=%
+mc	Monaco	0
+sm	San Marino	0.2
+gu	Guam	0.3
+ad	Andorra	0.5
+vg	British Virgin Islands	0.6
+us	United States	0.7
+at	Austria	0.7
+sg	Singapore	0.7
+li	Liechtenstein	0.8
+bh	Bahrain	1
+vi	Virgin Islands	1
+il	Israel	1.1
+lu	Luxembourg	1.1
+sx	Sint Maarten	1.1
+cw	Curacao	1.2
+nl	Netherlands	1.2
+pw	Palau	1.2
+be	Belgium	1.3
+de	Germany	1.4
+ms	Montserrat	1.4
+mt	Malta	1.6
+hr	Croatia	1.9
+ky	Cayman Islands	1.9
+mp	Northern Mariana Islands	1.9
+bm	Bermuda	2
+ca	Canada	2
+jo	Jordan	2
+se	Sweden	2
+no	Norway	2.1
+pr	Puerto Rico	2.1
+dk	Denmark	2.4
+mo	Macau	2.5
+ee	Estonia	2.7
+nc	New Caledonia	2.7
+fr	France	2.8
+cz	Czechia	2.8
+jp	Japan	2.9
+bs	The Bahamas	3
+je	Jersey	3
+sc	Seychelles	3
+tt	Trinidad and Tobago	3.1
+ch	Switzerland	3.3
+au	Australia	3.6
+hk	Hong Kong	3.8
+cy	Cyprus	3.8
+it	Italy	3.9
+sk	Slovakia	3.9
+fi	Finland	4
+bn	Brunei	4.2
+es	Spain	4.2
+xk	Kosovo	4.4
+za	South Africa	4.6
+om	Oman	4.7
+is	Iceland	4.8
+kr	South Korea	4.8
+hu	Hungary	4.9
+tw	Taiwan	4.9
+ie	Ireland	5
+ps	Gaza Strip	5.2
+ar	Argentina	5.3
+si	Slovenia	5.5
+ua	Ukraine	5.8
+nf	Norfolk Island	6
+nz	New Zealand	6.6
+sa	Saudi Arabia	6.7
+bg	Bulgaria	6.8
+ag	Antigua and Barbuda	7
+ve	Venezuela	7.3
+lv	Latvia	7.7
+mv	Maldives	7.7
+me	Montenegro	7.9
+mu	Mauritius	8
+pt	Portugal	8.6
+lt	Lithuania	9.1
+cl	Chile	9.2
+br	Brazil	9.4
+ru	Russia	9.4
+by	Belarus	9.7
+bb	Barbados	10
+bz	Belize	10.2
+sz	Eswatini	10.7
+dz	Algeria	10.8
+gd	Grenada	11
+mh	Marshall Islands	11
+my	Malaysia	11
+sr	Suriname	11.2
+pl	Poland	11.5
+gr	Greece	12.6
+pf	French Polynesia	13
+uy	Uruguay	13
+mx	Mexico	13.4
+cr	Costa Rica	14
+do	The Dominican	14.4
+tn	Tunisia	14.8
+fo	Faroe Islands	15
+ki	Kiribati	15
+gl	Greenland	15.9
+jm	Jamaica	16.1
+mk	North Macedonia	16.2
+ir	Iran	16.3
+co	Colombia	17
+ly	Libya	17
+pa	Panama	17
+sy	Syria	17
+ba	Bosnia and Herzegovina	18
+cu	Cuba	18
+pm	Saint Pierre and Miquelon	18
+kz	Kazakhstan	18.1
+tr	Turkey	18.4
+rs	Serbia	19.4
+sv	El Salvador	21
+iq	Iraq	21.6
+lc	Saint Lucia	21.7
+ph	Philippines	25.4
+eg	Egypt	25.8
+pe	Peru	25.8
+uz	Uzbekistan	25.9
+vc	Saint Vincent and the Grenadines	26
+ec	Ecuador	26.1
+st	Sao Tome and Principe	26.1
+py	Paraguay	26.5
+lk	Sri Lanka	27
+cn	China	27.7
+ro	Romania	28.3
+ck	Cook Islands	29
+bo	Bolivia	29.4
+na	Namibia	31
+ni	Nicaragua	31
+mn	Mongolia	31.1
+gt	Guatemala	31.4
+th	Thailand	31.8
+id	Indonesia	32
+md	Moldova	32.3
+cg	Congo (Brazzaville)	35.4
+am	Armenia	36.3
+az	Azerbaijan	37
+kp	North Korea	37
+ht	Haiti	38.1
+lb	Lebanon	39
+ma	Morocco	39.1
+hn	Honduras	39.2
+dm	Dominica	40
+vn	Vietnam	40.3
+fk	Falkland Islands (Islas Malvinas)	41
+tl	Timor-Leste	41
+al	Albania	41.4
+pk	Pakistan	42.3
+bd	Bangladesh	42.7
+tj	Tajikistan	43
+fj	Fiji	44.2
+af	Afghanistan	44.3
+gh	Ghana	44.7
+in	India	47
+kg	Kyrgyzstan	48
+tm	Turkmenistan	48.2
+kh	Cambodia	48.7
+eh	Western Sahara	50
+mr	Mauritania	50
+zm	Zambia	54.8
+ge	Georgia	55.6
+bt	Bhutan	58
+ke	Kenya	61.1
+sl	Sierra Leone	61.1
+ga	Gabon	64
+tg	Togo	65
+vu	Vanuatu	65
+ws	Samoa	65
+tz	Tanzania	66.9
+zw	Zimbabwe	67.5
+ci	Cote d'Ivoire	68
+np	Nepal	69
+cm	Cameroon	70
+lr	Liberia	70
+mm	Burma	70
+ng	Nigeria	70
+so	Somalia	71
+ug	Uganda	71
+et	Ethiopia	72.7
+la	Laos	73.1
+wf	Wallis and Futuna	74
+ai	Anguilla	74.1
+mz	Mozambique	74.4
+gm	The Gambia	75
+sb	Solomon Islands	75
+rw	Rwanda	75.3
+gn	Guinea	76
+mw	Malawi	76.9
+sn	Senegal	77.5
+ne	Niger	79.2
+er	Eritrea	80
+km	Comoros	80
+ml	Mali	80
+sd	Sudan	80
+td	Chad	80
+gw	Guinea-Bissau	82
+ao	Angola	85
+pg	Papua New Guinea	85
+ls	Lesotho	86
+bf	Burkina Faso	90
+bi	Burundi	93.6
+to	Tonga	2006

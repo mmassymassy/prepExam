@@ -1,0 +1,216 @@
+#ranking=Energy/Electricity access/electrification - total population
+#unit=% 
+cd	DRC	9
+td	Chad	9
+bi	Burundi	11
+lr	Liberia	12
+mw	Malawi	13
+ne	Niger	14
+so	Somalia	18
+bf	Burkina Faso	22
+kp	North Korea	26
+sl	Sierra Leone	26
+gw	Guinea-Bissau	28
+ss	South Sudan	28.2
+ug	Uganda	29
+mr	Mauritania	32
+bj	Benin	33
+mz	Mozambique	35
+ls	Lesotho	36
+zm	Zambia	37
+ht	Haiti	39
+mg	Madagascar	39
+tz	Tanzania	40
+dj	Djibouti	42
+ao	Angola	43
+tg	Togo	43
+gn	Guinea	46
+er	Eritrea	47
+et	Ethiopia	47
+sd	Sudan	47
+ye	Yemen	47
+gm	The Gambia	49
+ml	Mali	50
+mm	Burma	51
+rw	Rwanda	53
+zw	Zimbabwe	53
+na	Namibia	57
+pg	Papua New Guinea	58.9
+bw	Botswana	59
+vu	Vanuatu	61.8
+ng	Nigeria	62
+sb	Solomon Islands	66.7
+gq	Equatorial Guinea	67
+cm	Cameroon	70
+km	Comoros	70
+sn	Senegal	71
+st	Sao Tome and Principe	71
+cg	Congo (Brazzaville)	72
+kh	Cambodia	75
+ci	Cote d'Ivoire	76
+pk	Pakistan	79
+hn	Honduras	81
+bd	Bangladesh	83
+gh	Ghana	85
+ke	Kenya	85
+tl	Timor-Leste	85.6
+sz	Eswatini	90
+mn	Mongolia	91
+gy	Guyana	91.8
+ga	Gabon	92
+gt	Guatemala	92
+pa	Panama	92
+sy	Syria	92
+bo	Bolivia	93
+np	Nepal	93
+za	South Africa	94
+la	Laos	95
+gd	Grenada	95.3
+cv	Cabo Verde	96
+ph	Philippines	96
+mh	Marshall Islands	96.3
+co	Colombia	97
+ec	Ecuador	97
+ni	Nicaragua	97
+pe	Peru	97
+sv	El Salvador	97
+sr	Suriname	97.4
+to	Tonga	98.9
+af	Afghanistan	99
+id	Indonesia	99
+in	India	99
+jm	Jamaica	99
+om	Oman	99
+ar	Argentina	99
+dz	Algeria	99.4
+bz	Belize	99.5
+lc	Saint Lucia	99.5
+fj	Fiji	99.6
+ve	Venezuela	99.6
+nr	Nauru	99.8
+ps	Gaza Strip	100
+pw	Palau	100
+lk	Sri Lanka	100
+ly	Libya	100
+vn	Vietnam	100
+ad	Andorra	100
+ag	Antigua and Barbuda	100
+al	Albania	100
+am	Armenia	100
+at	Austria	100
+au	Australia	100
+aw	Aruba	100
+az	Azerbaijan	100
+ba	Bosnia and Herzegovina	100
+bb	Barbados	100
+be	Belgium	100
+bg	Bulgaria	100
+bh	Bahrain	100
+bl	Saint Barthelemy	100
+bm	Bermuda	100
+bn	Brunei	100
+br	Brazil	100
+bs	The Bahamas	100
+bt	Bhutan	100
+by	Belarus	100
+ca	Canada	100
+ch	Switzerland	100
+cl	Chile	100
+cn	China	100
+cr	Costa Rica	100
+cu	Cuba	100
+cw	Curacao	100
+cy	Cyprus	100
+cz	Czechia	100
+de	Germany	100
+dk	Denmark	100
+dm	Dominica	100
+do	The Dominican	100
+ee	Estonia	100
+eg	Egypt	100
+es	Spain	100
+fi	Finland	100
+fo	Faroe Islands	100
+fr	France	100
+ge	Georgia	100
+gg	Guernsey	100
+gi	Gibraltar	100
+gl	Greenland	100
+gr	Greece	100
+gu	Guam	100
+hk	Hong Kong	100
+hr	Croatia	100
+hu	Hungary	100
+ie	Ireland	100
+il	Israel	100
+im	Isle of Man	100
+iq	Iraq	100
+ir	Iran	100
+is	Iceland	100
+it	Italy	100
+je	Jersey	100
+jo	Jordan	100
+jp	Japan	100
+kg	Kyrgyzstan	100
+ki	Kiribati	100
+kn	Saint Kitts and Nevis	100
+kr	South Korea	100
+kw	Kuwait	100
+ky	Cayman Islands	100
+kz	Kazakhstan	100
+lb	Lebanon	100
+li	Liechtenstein	100
+lt	Lithuania	100
+lu	Luxembourg	100
+lv	Latvia	100
+ma	Morocco	100
+mc	Monaco	100
+md	Moldova	100
+me	Montenegro	100
+mk	North Macedonia	100
+mo	Macau	100
+mp	Northern Mariana Islands	100
+mt	Malta	100
+mu	Mauritius	100
+mv	Maldives	100
+mx	Mexico	100
+my	Malaysia	100
+nc	New Caledonia	100
+nl	Netherlands	100
+no	Norway	100
+nz	New Zealand	100
+pf	French Polynesia	100
+pl	Poland	100
+pr	Puerto Rico	100
+pt	Portugal	100
+py	Paraguay	100
+qa	Qatar	100
+ro	Romania	100
+rs	Serbia	100
+ru	Russia	100
+sa	Saudi Arabia	100
+sc	Seychelles	100
+se	Sweden	100
+sg	Singapore	100
+si	Slovenia	100
+sk	Slovakia	100
+sm	San Marino	100
+sx	Sint Maarten	100
+tc	Turks and Caicos Islands	100
+th	Thailand	100
+tj	Tajikistan	100
+tm	Turkmenistan	100
+tn	Tunisia	100
+tr	Turkey	100
+tt	Trinidad and Tobago	100
+tv	Tuvalu	100
+ua	Ukraine	100
+us	United States	100
+uy	Uruguay	100
+uz	Uzbekistan	100
+va	Holy See (Vatican City)	100
+vc	Saint Vincent and the Grenadines	100
+vg	British Virgin Islands	100
+vi	Virgin Islands	100
+ws	Samoa	100
+xk	Kosovo	100

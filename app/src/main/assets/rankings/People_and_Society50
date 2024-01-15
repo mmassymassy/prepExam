@@ -1,0 +1,223 @@
+#ranking=People and Society/Sex ratio/65 years and over
+#unit=male(s)/female
+pw	Palau	0.33
+ru	Russia	0.49
+by	Belarus	0.5
+nr	Nauru	0.51
+lt	Lithuania	0.52
+lv	Latvia	0.52
+ua	Ukraine	0.52
+ee	Estonia	0.55
+kh	Cambodia	0.55
+kp	North Korea	0.56
+kz	Kazakhstan	0.56
+tv	Tuvalu	0.58
+ls	Lesotho	0.59
+sz	Eswatini	0.59
+cv	Cabo Verde	0.61
+kg	Kyrgyzstan	0.62
+hu	Hungary	0.63
+ki	Kiribati	0.63
+zw	Zimbabwe	0.63
+bs	The Bahamas	0.65
+ge	Georgia	0.65
+az	Azerbaijan	0.66
+er	Eritrea	0.66
+ph	Philippines	0.66
+pt	Portugal	0.66
+aw	Aruba	0.67
+bg	Bulgaria	0.67
+bw	Botswana	0.67
+md	Moldova	0.67
+mn	Mongolia	0.67
+rw	Rwanda	0.67
+sk	Slovakia	0.67
+cy	Cyprus	0.68
+pl	Poland	0.68
+uy	Uruguay	0.68
+vn	Vietnam	0.68
+ba	Bosnia and Herzegovina	0.69
+am	Armenia	0.7
+mu	Mauritius	0.7
+ro	Romania	0.7
+sr	Suriname	0.7
+cu	Cuba	0.71
+gw	Guinea-Bissau	0.71
+rs	Serbia	0.71
+tg	Togo	0.71
+tj	Tajikistan	0.71
+ao	Angola	0.72
+bb	Barbados	0.72
+lk	Sri Lanka	0.72
+ci	Cote d'Ivoire	0.73
+cl	Chile	0.73
+mr	Mauritania	0.73
+na	Namibia	0.73
+so	Somalia	0.73
+za	South Africa	0.73
+ar	Argentina	0.74
+bf	Burkina Faso	0.74
+bm	Bermuda	0.74
+tz	Tanzania	0.74
+ug	Uganda	0.74
+ag	Antigua and Barbuda	0.75
+br	Brazil	0.75
+je	Jersey	0.75
+kw	Kuwait	0.75
+lb	Lebanon	0.75
+pr	Puerto Rico	0.75
+sc	Seychelles	0.75
+st	Sao Tome and Principe	0.75
+sv	El Salvador	0.75
+td	Chad	0.75
+bi	Burundi	0.76
+es	Spain	0.76
+uz	Uzbekistan	0.76
+cd	DRC	0.77
+cz	Czechia	0.77
+mm	Burma	0.77
+pe	Peru	0.77
+sn	Senegal	0.77
+xk	Kosovo	0.77
+dj	Djibouti	0.78
+fr	France	0.78
+gy	Guyana	0.78
+ht	Haiti	0.78
+it	Italy	0.78
+km	Comoros	0.78
+kr	South Korea	0.78
+me	Montenegro	0.78
+mv	Maldives	0.78
+mx	Mexico	0.78
+nc	New Caledonia	0.78
+ni	Nicaragua	0.78
+si	Slovenia	0.78
+tm	Turkmenistan	0.78
+at	Austria	0.79
+be	Belgium	0.79
+co	Colombia	0.79
+eh	Western Sahara	0.79
+fi	Finland	0.79
+gm	The Gambia	0.79
+hn	Honduras	0.79
+jp	Japan	0.79
+mk	North Macedonia	0.79
+pm	Saint Pierre and Miquelon	0.79
+ye	Yemen	0.79
+gr	Greece	0.8
+iq	Iraq	0.8
+th	Thailand	0.8
+ws	Samoa	0.8
+de	Germany	0.81
+gh	Ghana	0.81
+gt	Guatemala	0.81
+mc	Monaco	0.81
+mw	Malawi	0.81
+us	United States	0.81
+vi	Virgin Islands	0.81
+ch	Switzerland	0.82
+gn	Guinea	0.82
+hr	Croatia	0.82
+ly	Libya	0.82
+to	Tonga	0.82
+tr	Turkey	0.82
+tw	Taiwan	0.82
+cw	Curacao	0.83
+il	Israel	0.83
+lc	Saint Lucia	0.83
+sm	San Marino	0.83
+zm	Zambia	0.83
+bj	Benin	0.84
+cg	Congo (Brazzaville)	0.84
+et	Ethiopia	0.84
+ke	Kenya	0.84
+ky	Cayman Islands	0.84
+lu	Luxembourg	0.84
+nl	Netherlands	0.84
+ve	Venezuela	0.84
+af	Afghanistan	0.85
+al	Albania	0.85
+au	Australia	0.85
+ca	Canada	0.85
+cr	Costa Rica	0.85
+in	India	0.85
+li	Liechtenstein	0.85
+bo	Bolivia	0.86
+cn	China	0.86
+dk	Denmark	0.86
+fj	Fiji	0.86
+hk	Hong Kong	0.86
+id	Indonesia	0.86
+la	Laos	0.86
+mg	Madagascar	0.86
+mt	Malta	0.86
+sg	Singapore	0.86
+sx	Sint Maarten	0.86
+bd	Bangladesh	0.87
+cm	Cameroon	0.87
+gg	Guernsey	0.87
+gu	Guam	0.87
+ie	Ireland	0.87
+ir	Iran	0.87
+pa	Panama	0.87
+pk	Pakistan	0.87
+tt	Trinidad and Tobago	0.87
+as	American Samoa	0.88
+ng	Nigeria	0.88
+no	Norway	0.88
+nz	New Zealand	0.88
+om	Oman	0.88
+se	Sweden	0.88
+sy	Syria	0.88
+do	The Dominican	0.89
+ec	Ecuador	0.89
+im	Isle of Man	0.89
+mo	Macau	0.89
+sb	Solomon Islands	0.89
+bz	Belize	0.9
+dm	Dominica	0.9
+gd	Grenada	0.9
+is	Iceland	0.9
+tn	Tunisia	0.9
+vg	British Virgin Islands	0.9
+dz	Algeria	0.91
+jm	Jamaica	0.91
+kn	Saint Kitts and Nevis	0.91
+py	Paraguay	0.91
+ne	Niger	0.92
+tl	Timor-Leste	0.93
+vc	Saint Vincent and the Grenadines	0.93
+fo	Faroe Islands	0.94
+lr	Liberia	0.94
+my	Malaysia	0.94
+tc	Turks and Caicos Islands	0.94
+bn	Brunei	0.95
+jo	Jordan	0.95
+ma	Morocco	0.95
+pf	French Polynesia	0.95
+sl	Sierra Leone	0.95
+ai	Anguilla	0.96
+ck	Cook Islands	0.96
+gi	Gibraltar	0.96
+mh	Marshall Islands	0.96
+mz	Mozambique	0.96
+np	Nepal	0.96
+ml	Mali	0.97
+vu	Vanuatu	0.97
+pg	Papua New Guinea	0.98
+bl	Saint Barthelemy	1.01
+ga	Gabon	1.02
+ad	Andorra	1.03
+eg	Egypt	1.03
+wf	Wallis and Futuna	1.04
+bh	Bahrain	1.06
+bt	Bhutan	1.07
+gq	Equatorial Guinea	1.08
+sd	Sudan	1.08
+mp	Northern Mariana Islands	1.12
+gl	Greenland	1.13
+sa	Saudi Arabia	1.13
+ms	Montserrat	1.14
+ps	Gaza Strip	1.15
+ss	South Sudan	1.25
+qa	Qatar	1.92

@@ -1,0 +1,211 @@
+#ranking=Energy/Natural gas/imports
+#unit=cubic meters 
+sy	Syria	0
+uz	Uzbekistan	0
+ve	Venezuela	0
+af	Afghanistan	0
+ag	Antigua and Barbuda	0
+al	Albania	0
+ao	Angola	0
+aq	Antarctica	0
+as	American Samoa	0
+aw	Aruba	0
+bf	Burkina Faso	0
+bh	Bahrain	0
+bi	Burundi	0
+bm	Bermuda	0
+bn	Brunei	0
+bo	Bolivia	0
+bt	Bhutan	0
+bw	Botswana	0
+bz	Belize	0
+cd	DRC	0
+cg	Congo (Brazzaville)	0
+ci	Cote d'Ivoire	0
+ck	Cook Islands	0
+cm	Cameroon	0
+cr	Costa Rica	0
+cu	Cuba	0
+cv	Cabo Verde	0
+cy	Cyprus	0
+dj	Djibouti	0
+dm	Dominica	0
+dz	Algeria	0
+ec	Ecuador	0
+er	Eritrea	0
+et	Ethiopia	0
+fj	Fiji	0
+fk	Falkland Islands (Islas Malvinas)	0
+fo	Faroe Islands	0
+ga	Gabon	0
+gd	Grenada	0
+gl	Greenland	0
+gm	The Gambia	0
+gn	Guinea	0
+gq	Equatorial Guinea	0
+gt	Guatemala	0
+gu	Guam	0
+gw	Guinea-Bissau	0
+gy	Guyana	0
+hn	Honduras	0
+id	Indonesia	0
+is	Iceland	0
+ke	Kenya	0
+kh	Cambodia	0
+ki	Kiribati	0
+km	Comoros	0
+kn	Saint Kitts and Nevis	0
+kp	North Korea	0
+ky	Cayman Islands	0
+la	Laos	0
+lb	Lebanon	0
+lc	Saint Lucia	0
+lk	Sri Lanka	0
+lr	Liberia	0
+ls	Lesotho	0
+ly	Libya	0
+me	Montenegro	0
+mg	Madagascar	0
+ml	Mali	0
+mn	Mongolia	0
+mp	Northern Mariana Islands	0
+mr	Mauritania	0
+ms	Montserrat	0
+mu	Mauritius	0
+mv	Maldives	0
+mw	Malawi	0
+mz	Mozambique	0
+na	Namibia	0
+nc	New Caledonia	0
+ne	Niger	0
+ng	Nigeria	0
+ni	Nicaragua	0
+np	Nepal	0
+nr	Nauru	0
+nu	Niue	0
+nz	New Zealand	0
+pe	Peru	0
+pf	French Polynesia	0
+pg	Papua New Guinea	0
+ph	Philippines	0
+pm	Saint Pierre and Miquelon	0
+ps	Gaza Strip	0
+py	Paraguay	0
+qa	Qatar	0
+rw	Rwanda	0
+sa	Saudi Arabia	0
+sb	Solomon Islands	0
+sc	Seychelles	0
+sd	Sudan	0
+sl	Sierra Leone	0
+sn	Senegal	0
+so	Somalia	0
+sr	Suriname	0
+ss	South Sudan	0
+st	Sao Tome and Principe	0
+sv	El Salvador	0
+sz	Eswatini	0
+tc	Turks and Caicos Islands	0
+td	Chad	0
+tl	Timor-Leste	0
+tm	Turkmenistan	0
+to	Tonga	0
+tt	Trinidad and Tobago	0
+tv	Tuvalu	0
+tz	Tanzania	0
+ug	Uganda	0
+vc	Saint Vincent and the Grenadines	0
+vg	British Virgin Islands	0
+vi	Virgin Islands	0
+vn	Vietnam	0
+vu	Vanuatu	0
+ws	Samoa	0
+xk	Kosovo	0
+ye	Yemen	0
+zm	Zambia	0
+zw	Zimbabwe	0
+ht	Haiti	3341000.0
+bs	The Bahamas	4417000.0
+bb	Barbados	6031000.0
+bj	Benin	19057000.0
+no	Norway	32195999.999999996
+tg	Togo	44797000.0
+gi	Gibraltar	56719000.0
+eg	Egypt	83563000.0
+uy	Uruguay	96872000.0
+mo	Macau	133711999.99999999
+tj	Tajikistan	139375000.0
+kg	Kyrgyzstan	191478000.0
+ba	Bosnia and Herzegovina	218266000.0
+mk	North Macedonia	218917000.0
+co	Colombia	403146000.0
+mt	Malta	415606000.0
+ee	Estonia	417276000.0
+mm	Burma	475156000.0
+pa	Panama	552744000.0
+gh	Ghana	625915000.0
+jm	Jamaica	667115000.0
+lu	Luxembourg	772624000.0
+il	Israel	820508000.0
+si	Slovenia	903108000.0
+ma	Morocco	950765000.0
+lv	Latvia	1068000000.0000001
+ir	Iran	1153457000
+az	Azerbaijan	1233000000.0
+se	Sweden	1310671000
+pr	Puerto Rico	1366512000
+do	The Dominican	1586449000
+om	Oman	1605959000
+rs	Serbia	1980647000
+hr	Croatia	2131802000
+am	Armenia	2514220000
+ge	Georgia	2535000000.0
+fi	Finland	2569000000.0
+bd	Bangladesh	2639041000
+dk	Denmark	2646000000.0
+ro	Romania	2800985000
+md	Moldova	2802000000.0
+lt	Lithuania	2819000000.0
+ie	Ireland	2847000000.0
+bg	Bulgaria	2950157000
+za	South Africa	3542007000
+ch	Switzerland	3577884000
+my	Malaysia	4008073000
+tn	Tunisia	4305994000
+sk	Slovakia	4361000000.0
+cl	Chile	4602471000
+kw	Kuwait	4805531000
+jo	Jordan	4911000000.0
+hk	Hong Kong	4913021000
+gr	Greece	5219409000
+pt	Portugal	6090000000.0
+au	Australia	6295646000
+ar	Argentina	6865323000
+iq	Iraq	7303000000.0
+cz	Czechia	7590318000
+kz	Kazakhstan	7714000000.0
+br	Brazil	9724017000
+ua	Ukraine	10740619000
+pk	Pakistan	10743167000
+hu	Hungary	11678000000.0
+at	Austria	14110000000.0
+sg	Singapore	14727709000
+th	Thailand	14944842000
+ru	Russia	16111999999.999998
+pl	Poland	16633000000.0
+by	Belarus	18673429000
+tw	Taiwan	22172507000
+be	Belgium	22610000000.0
+ca	Canada	28026440000
+es	Spain	32488999999.999996
+in	India	33911973000
+tr	Turkey	45091248000
+fr	France	46110000000.0
+kr	South Korea	55417677000
+nl	Netherlands	55767000000.0
+mx	Mexico	59119362000
+it	Italy	70908014000
+us	United States	79512470000
+de	Germany	83120000000.0
+jp	Japan	105255103000
+cn	China	131608161000

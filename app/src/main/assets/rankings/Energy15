@@ -1,0 +1,89 @@
+#ranking=Energy/Electricity access/electrification - rural areas
+#unit=% 
+cd	DRC	0.4
+dj	Djibouti	1
+td	Chad	1
+bf	Burkina Faso	2
+bi	Burundi	2
+ne	Niger	2
+mr	Mauritania	4
+so	Somalia	4
+mw	Malawi	5
+ao	Angola	6
+lr	Liberia	6
+sl	Sierra Leone	6
+zm	Zambia	6
+gw	Guinea-Bissau	7
+bj	Benin	9
+kp	North Korea	11
+ht	Haiti	12
+er	Eritrea	13
+gm	The Gambia	16
+ug	Uganda	17
+tg	Togo	19
+mz	Mozambique	22
+mg	Madagascar	23
+tz	Tanzania	23
+ss	South Sudan	23.6
+gn	Guinea	24
+st	Sao Tome and Principe	25
+ls	Lesotho	26
+ml	Mali	28
+bw	Botswana	29
+ng	Nigeria	30
+ye	Yemen	31
+cm	Cameroon	32
+et	Ethiopia	34
+sd	Sudan	35
+cg	Congo (Brazzaville)	36
+na	Namibia	36
+zw	Zimbabwe	36
+ga	Gabon	39
+mm	Burma	39
+gq	Equatorial Guinea	45
+rw	Rwanda	48
+sn	Senegal	50
+ci	Cote d'Ivoire	51
+vu	Vanuatu	51.1
+pg	Papua New Guinea	55.4
+km	Comoros	62
+sb	Solomon Islands	63.5
+kh	Cambodia	67
+hn	Honduras	68
+pk	Pakistan	72
+mn	Mongolia	73
+gh	Ghana	75
+bd	Bangladesh	77
+pa	Panama	77
+bo	Bolivia	79
+ke	Kenya	79
+tl	Timor-Leste	79.2
+sy	Syria	84
+gt	Guatemala	85
+ar	Argentina	85
+co	Colombia	86
+pe	Peru	86
+sz	Eswatini	87
+cv	Cabo Verde	89
+gy	Guyana	90
+ni	Nicaragua	92
+om	Oman	92
+za	South Africa	92
+ec	Ecuador	93
+la	Laos	93
+np	Nepal	93
+ph	Philippines	93
+sv	El Salvador	93
+sr	Suriname	94.3
+dz	Algeria	97
+jm	Jamaica	97
+af	Afghanistan	98
+mh	Marshall Islands	98.4
+nr	Nauru	98.7
+to	Tonga	98.9
+id	Indonesia	99
+in	India	99
+ve	Venezuela	99
+fj	Fiji	99.2
+lc	Saint Lucia	99.9
+bz	Belize	100

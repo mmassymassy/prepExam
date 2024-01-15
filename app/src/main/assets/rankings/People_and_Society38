@@ -1,0 +1,223 @@
+#ranking=People and Society/Median age/total
+#unit=years
+ne	Niger	14.8
+ug	Uganda	15.7
+ao	Angola	15.9
+ml	Mali	16
+td	Chad	16.1
+cd	DRC	16.7
+mw	Malawi	16.8
+zm	Zambia	16.9
+bj	Benin	17
+mz	Mozambique	17
+bi	Burundi	17.7
+bf	Burkina Faso	17.9
+gw	Guinea-Bissau	18
+lr	Liberia	18
+ps	Gaza Strip	18
+tz	Tanzania	18.2
+sd	Sudan	18.3
+cm	Cameroon	18.5
+so	Somalia	18.5
+ng	Nigeria	18.6
+ss	South Sudan	18.6
+gn	Guinea	19.1
+sl	Sierra Leone	19.1
+st	Sao Tome and Principe	19.3
+sn	Senegal	19.4
+af	Afghanistan	19.5
+cg	Congo (Brazzaville)	19.5
+tl	Timor-Leste	19.6
+rw	Rwanda	19.7
+ye	Yemen	19.8
+et	Ethiopia	19.8
+ke	Kenya	20
+tg	Togo	20
+ci	Cote d'Ivoire	20.3
+er	Eritrea	20.3
+gq	Equatorial Guinea	20.3
+mg	Madagascar	20.3
+zw	Zimbabwe	20.5
+km	Comoros	20.9
+ga	Gabon	21
+mr	Mauritania	21
+iq	Iraq	21.2
+gh	Ghana	21.4
+eh	Western Sahara	21.8
+gm	The Gambia	21.8
+na	Namibia	21.8
+pk	Pakistan	22
+vu	Vanuatu	23
+gt	Guatemala	23.2
+jo	Jordan	23.5
+sb	Solomon Islands	23.5
+sy	Syria	23.5
+sz	Eswatini	23.7
+mh	Marshall Islands	23.8
+bz	Belize	23.9
+la	Laos	24
+pg	Papua New Guinea	24
+eg	Egypt	24.1
+ht	Haiti	24.1
+ph	Philippines	24.1
+to	Tonga	24.1
+hn	Honduras	24.4
+ls	Lesotho	24.7
+dj	Djibouti	24.9
+bo	Bolivia	25.3
+np	Nepal	25.3
+tj	Tajikistan	25.3
+ws	Samoa	25.6
+bw	Botswana	25.7
+ki	Kiribati	25.7
+ly	Libya	25.8
+om	Oman	26.2
+kh	Cambodia	26.4
+tv	Tuvalu	26.6
+cv	Cabo Verde	26.8
+nr	Nauru	27
+as	American Samoa	27.2
+kg	Kyrgyzstan	27.3
+ni	Nicaragua	27.3
+gy	Guyana	27.5
+sv	El Salvador	27.7
+bd	Bangladesh	27.9
+do	The Dominican	27.9
+za	South Africa	28
+in	India	28.7
+ec	Ecuador	28.8
+dz	Algeria	28.9
+bt	Bhutan	29.1
+ma	Morocco	29.1
+pe	Peru	29.1
+mm	Burma	29.2
+my	Malaysia	29.2
+tm	Turkmenistan	29.2
+mx	Mexico	29.3
+gu	Guam	29.4
+jm	Jamaica	29.4
+mv	Maldives	29.5
+kw	Kuwait	29.7
+py	Paraguay	29.7
+mn	Mongolia	29.8
+fj	Fiji	29.9
+ve	Venezuela	30
+pa	Panama	30.1
+uz	Uzbekistan	30.1
+il	Israel	30.4
+xk	Kosovo	30.5
+sa	Saudi Arabia	30.8
+sr	Suriname	31
+bn	Brunei	31.1
+id	Indonesia	31.1
+co	Colombia	31.2
+kz	Kazakhstan	31.6
+ir	Iran	31.7
+vn	Vietnam	31.9
+tr	Turkey	32.2
+ar	Argentina	32.4
+az	Azerbaijan	32.6
+cr	Costa Rica	32.6
+ag	Antigua and Barbuda	32.7
+tn	Tunisia	32.7
+bs	The Bahamas	32.8
+mp	Northern Mariana Islands	32.8
+bh	Bahrain	32.9
+nc	New Caledonia	32.9
+br	Brazil	33.2
+gd	Grenada	33.3
+pf	French Polynesia	33.3
+lb	Lebanon	33.7
+lk	Sri Lanka	33.7
+qa	Qatar	33.7
+pw	Palau	33.9
+wf	Wallis and Futuna	34
+al	Albania	34.3
+gl	Greenland	34.3
+kp	North Korea	34.6
+tc	Turks and Caicos Islands	34.6
+ms	Montserrat	34.8
+dm	Dominica	34.9
+vc	Saint Vincent and the Grenadines	35.3
+cl	Chile	35.5
+gi	Gibraltar	35.5
+uy	Uruguay	35.5
+sg	Singapore	35.6
+ai	Anguilla	35.7
+mu	Mauritius	36.3
+kn	Saint Kitts and Nevis	36.5
+am	Armenia	36.6
+cw	Curacao	36.7
+sc	Seychelles	36.8
+lc	Saint Lucia	36.9
+is	Iceland	37.1
+fo	Faroe Islands	37.2
+nz	New Zealand	37.2
+vg	British Virgin Islands	37.2
+au	Australia	37.5
+je	Jersey	37.5
+md	Moldova	37.7
+ie	Ireland	37.8
+tt	Trinidad and Tobago	37.8
+cy	Cyprus	37.9
+ck	Cook Islands	38.3
+cn	China	38.4
+us	United States	38.5
+ge	Georgia	38.6
+mk	North Macedonia	39
+th	Thailand	39
+bb	Barbados	39.5
+lu	Luxembourg	39.5
+no	Norway	39.5
+me	Montenegro	39.6
+aw	Aruba	39.9
+ru	Russia	40.3
+ky	Cayman Islands	40.5
+mo	Macau	40.8
+by	Belarus	40.9
+se	Sweden	41.1
+sx	Sint Maarten	41.1
+ua	Ukraine	41.2
+be	Belgium	41.6
+fr	France	41.7
+ca	Canada	41.8
+sk	Slovakia	41.8
+vi	Virgin Islands	41.8
+pl	Poland	41.9
+dk	Denmark	42
+cu	Cuba	42.1
+mt	Malta	42.3
+tw	Taiwan	42.3
+ro	Romania	42.5
+ch	Switzerland	42.7
+fi	Finland	42.8
+nl	Netherlands	42.8
+kr	South Korea	43.2
+ba	Bosnia and Herzegovina	43.3
+cz	Czechia	43.3
+rs	Serbia	43.4
+bm	Bermuda	43.6
+hu	Hungary	43.6
+pr	Puerto Rico	43.6
+bg	Bulgaria	43.7
+ee	Estonia	43.7
+li	Liechtenstein	43.7
+es	Spain	43.9
+hr	Croatia	43.9
+gg	Guernsey	44.3
+lv	Latvia	44.4
+at	Austria	44.5
+lt	Lithuania	44.5
+im	Isle of Man	44.6
+pt	Portugal	44.6
+si	Slovenia	44.9
+sm	San Marino	45.2
+gr	Greece	45.3
+bl	Saint Barthelemy	45.6
+hk	Hong Kong	45.6
+ad	Andorra	46.2
+it	Italy	46.5
+de	Germany	47.8
+pm	Saint Pierre and Miquelon	48.5
+jp	Japan	48.6
+mc	Monaco	55.4

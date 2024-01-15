@@ -1,0 +1,226 @@
+#ranking=People and Society/Dependency ratios/potential support ratio
+#unit=
+mc	Monaco	1.4
+jp	Japan	2
+fi	Finland	2.7
+it	Italy	2.7
+bg	Bulgaria	2.8
+gr	Greece	2.8
+pt	Portugal	2.8
+de	Germany	2.9
+fr	France	2.9
+hr	Croatia	2.9
+lv	Latvia	2.9
+pr	Puerto Rico	2.9
+im	Isle of Man	2.9
+vi	Virgin Islands	3
+cz	Czechia	3.1
+dk	Denmark	3.1
+ee	Estonia	3.1
+lt	Lithuania	3.1
+rs	Serbia	3.1
+se	Sweden	3.1
+si	Slovenia	3.1
+gi	Gibraltar	3.1
+hu	Hungary	3.2
+nl	Netherlands	3.2
+be	Belgium	3.3
+es	Spain	3.3
+bm	Bermuda	3.3
+sm	San Marino	3.3
+at	Austria	3.4
+ro	Romania	3.4
+fo	Faroe Islands	3.4
+ch	Switzerland	3.5
+hk	Hong Kong	3.5
+pl	Poland	3.5
+li	Liechtenstein	3.5
+ca	Canada	3.6
+mt	Malta	3.6
+no	Norway	3.6
+ba	Bosnia and Herzegovina	3.7
+au	Australia	3.9
+by	Belarus	3.9
+sk	Slovakia	3.9
+ua	Ukraine	3.9
+us	United States	3.9
+nu	Niue	3.9
+pm	Saint Pierre and Miquelon	3.9
+me	Montenegro	4
+ms	Montserrat	4
+gg	Guernsey	4.1
+nz	New Zealand	4.1
+al	Albania	4.2
+uy	Uruguay	4.2
+bb	Barbados	4.3
+je	Jersey	4.3
+kr	South Korea	4.3
+ru	Russia	4.3
+aw	Aruba	4.4
+cu	Cuba	4.4
+ge	Georgia	4.4
+ie	Ireland	4.4
+is	Iceland	4.5
+tw	Taiwan	4.5
+cw	Curacao	4.7
+lu	Luxembourg	4.7
+mk	North Macedonia	4.7
+cy	Cyprus	4.8
+th	Thailand	4.8
+md	Moldova	4.9
+wf	Wallis and Futuna	4.9
+il	Israel	5
+ad	Andorra	5
+am	Armenia	5.2
+sg	Singapore	5.2
+cn	China	5.3
+cl	Chile	5.4
+gu	Guam	5.4
+ar	Argentina	5.5
+mu	Mauritius	5.8
+ck	Cook Islands	5.8
+lk	Sri Lanka	5.9
+mo	Macau	5.9
+kp	North Korea	6.1
+vc	Saint Vincent and the Grenadines	6.2
+nc	New Caledonia	6.3
+cr	Costa Rica	6.5
+lb	Lebanon	6.5
+gd	Grenada	6.7
+fk	Falkland Islands (Islas Malvinas)	6.7
+xk	Kosovo	6.9
+ag	Antigua and Barbuda	7
+mp	Northern Mariana Islands	7
+pf	French Polynesia	7.1
+ai	Anguilla	7.1
+tc	Turks and Caicos Islands	7.2
+br	Brazil	7.3
+kn	Saint Kitts and Nevis	7.3
+pw	Palau	7.3
+jm	Jamaica	7.4
+tt	Trinidad and Tobago	7.4
+gl	Greenland	7.4
+tn	Tunisia	7.5
+bl	Saint Barthelemy	7.5
+tk	Tokelau	7.5
+pa	Panama	7.6
+ve	Venezuela	7.6
+dm	Dominica	7.6
+vn	Vietnam	7.8
+kz	Kazakhstan	7.9
+pe	Peru	7.9
+co	Colombia	8
+lc	Saint Lucia	8
+vg	British Virgin Islands	8
+sv	El Salvador	8.1
+tr	Turkey	8.1
+sx	Sint Maarten	8.1
+mx	Mexico	8.2
+bo	Bolivia	8.3
+bs	The Bahamas	8.4
+do	The Dominican	8.6
+ec	Ecuador	8.7
+sc	Seychelles	8.7
+ma	Morocco	8.9
+sr	Suriname	9.1
+ir	Iran	9.3
+to	Tonga	9.5
+my	Malaysia	9.6
+as	American Samoa	9.6
+ky	Cayman Islands	9.6
+in	India	9.9
+id	Indonesia	10
+tv	Tuvalu	10
+dz	Algeria	10.2
+az	Azerbaijan	10.3
+mm	Burma	10.3
+py	Paraguay	10.4
+gy	Guyana	10.6
+np	Nepal	10.7
+za	South Africa	10.9
+bt	Bhutan	11.1
+ws	Samoa	11.2
+tl	Timor-Leste	11.2
+fj	Fiji	11.4
+bd	Bangladesh	11.6
+kh	Cambodia	11.8
+ph	Philippines	12
+bn	Brunei	12.4
+cv	Cabo Verde	12.5
+ni	Nicaragua	12.6
+gt	Guatemala	12.7
+eg	Egypt	13
+tm	Turkmenistan	13
+uz	Uzbekistan	13
+km	Comoros	13.3
+bz	Belize	13.5
+sy	Syria	13.5
+bw	Botswana	13.8
+ly	Libya	13.8
+kg	Kyrgyzstan	13.9
+pk	Pakistan	13.9
+er	Eritrea	14
+ht	Haiti	14.1
+mn	Mongolia	14.3
+dj	Djibouti	14.4
+ls	Lesotho	14.7
+mh	Marshall Islands	14.7
+la	Laos	14.8
+na	Namibia	14.8
+st	Sao Tome and Principe	14.9
+vu	Vanuatu	15.2
+ga	Gabon	15.3
+sz	Eswatini	15.3
+hn	Honduras	15.5
+ki	Kiribati	16.1
+mv	Maldives	16.2
+sd	Sudan	16.2
+gn	Guinea	16.3
+ps	Gaza Strip	16.5
+sb	Solomon Islands	16.5
+zw	Zimbabwe	16.6
+lr	Liberia	16.7
+mr	Mauritania	16.8
+gh	Ghana	17
+cd	DRC	17.1
+iq	Iraq	17.1
+jo	Jordan	17.1
+mg	Madagascar	17.4
+sn	Senegal	17.4
+bj	Benin	17.7
+ng	Nigeria	18
+et	Ethiopia	18.1
+tj	Tajikistan	18.1
+sl	Sierra Leone	18.3
+tg	Togo	18.3
+rw	Rwanda	18.4
+ss	South Sudan	18.4
+gq	Equatorial Guinea	18.5
+ci	Cote d'Ivoire	19.3
+so	Somalia	19.3
+ye	Yemen	19.9
+ao	Angola	20.1
+gw	Guinea-Bissau	20.1
+mw	Malawi	20.1
+ne	Niger	20.1
+pg	Papua New Guinea	20.1
+cm	Cameroon	20.3
+eh	Western Sahara	20.4
+tz	Tanzania	20.4
+ml	Mali	20.6
+bi	Burundi	20.7
+ke	Kenya	20.7
+mz	Mozambique	20.8
+bf	Burkina Faso	20.9
+cg	Congo (Brazzaville)	20.9
+bh	Bahrain	21.8
+gm	The Gambia	22.2
+af	Afghanistan	22.5
+kw	Kuwait	24.9
+td	Chad	24.9
+om	Oman	25.2
+nr	Nauru	25.8
+sa	Saudi Arabia	27.4
+zm	Zambia	31.6
+ug	Uganda	31.7
+qa	Qatar	50.1

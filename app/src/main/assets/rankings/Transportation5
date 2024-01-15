@@ -1,0 +1,185 @@
+#ranking=Transportation/Merchant marine/total
+#unit=
+at	Austria	1
+aw	Aruba	1
+hu	Hungary	1
+la	Laos	1
+mo	Macau	1
+tl	Timor-Leste	1
+wf	Wallis and Futuna	1
+ai	Anguilla	2
+fk	Falkland Islands (Islas Malvinas)	2
+ne	Niger	2
+tf	French Southern and Antarctic Lands	2
+zm	Zambia	2
+gn	Guinea	3
+gu	Guam	3
+nr	Nauru	3
+tc	Turks and Caicos Islands	3
+by	Belarus	4
+ht	Haiti	4
+so	Somalia	4
+sv	El Salvador	4
+ni	Nicaragua	5
+gd	Grenada	6
+gl	Greenland	6
+bj	Benin	7
+gw	Guinea-Bissau	8
+er	Eritrea	9
+gm	The Gambia	9
+gt	Guatemala	9
+si	Slovenia	9
+sr	Suriname	10
+cg	Congo (Brazzaville)	11
+cr	Costa Rica	11
+mr	Mauritania	11
+et	Ethiopia	12
+na	Namibia	15
+sd	Sudan	15
+ws	Samoa	15
+me	Montenegro	18
+ch	Switzerland	20
+li	Liechtenstein	20
+sy	Syria	22
+cd	DRC	23
+nc	New Caledonia	23
+ge	Georgia	24
+ci	Cote d'Ivoire	25
+ke	Kenya	25
+pf	French Polynesia	25
+st	Sao Tome and Principe	25
+sb	Solomon Islands	27
+mg	Madagascar	28
+mz	Mozambique	30
+vg	British Virgin Islands	30
+ye	Yemen	30
+mu	Mauritius	31
+sc	Seychelles	31
+to	Tonga	32
+jo	Jordan	35
+sn	Senegal	35
+jm	Jamaica	36
+do	The Dominican	38
+is	Iceland	40
+dj	Djibouti	42
+il	Israel	45
+bo	Bolivia	46
+gq	Equatorial Guinea	46
+cv	Cabo Verde	47
+lb	Lebanon	49
+gh	Ghana	52
+om	Oman	57
+ao	Angola	58
+pk	Pakistan	58
+cw	Curacao	59
+uy	Uruguay	60
+lt	Lithuania	62
+cu	Cuba	64
+al	Albania	69
+ee	Estonia	70
+tn	Tunisia	70
+ga	Gabon	71
+nu	Niue	71
+tm	Turkmenistan	72
+fj	Fiji	75
+iq	Iraq	75
+bg	Bulgaria	80
+lv	Latvia	80
+mv	Maldives	80
+dm	Dominica	84
+gy	Guyana	89
+ki	Kiribati	90
+fo	Faroe Islands	91
+lk	Sri Lanka	92
+ma	Morocco	93
+ly	Libya	94
+ie	Ireland	96
+bn	Brunei	98
+pe	Peru	101
+mm	Burma	102
+tt	Trinidad and Tobago	102
+py	Paraguay	105
+za	South Africa	107
+nz	New Zealand	116
+dz	Algeria	119
+kz	Kazakhstan	120
+cm	Cameroon	121
+qa	Qatar	123
+ro	Romania	125
+md	Moldova	126
+bm	Bermuda	135
+ky	Cayman Islands	139
+ec	Ecuador	147
+co	Colombia	148
+lu	Luxembourg	149
+pl	Poland	149
+gi	Gibraltar	155
+kw	Kuwait	166
+us	United States	178
+ck	Cook Islands	189
+bh	Bahrain	190
+bb	Barbados	195
+be	Belgium	199
+pg	Papua New Guinea	199
+ar	Argentina	203
+cl	Chile	239
+kh	Cambodia	242
+km	Comoros	248
+tv	Tuvalu	260
+kp	North Korea	270
+ve	Venezuela	272
+fi	Finland	278
+kn	Saint Kitts and Nevis	282
+pw	Palau	304
+az	Azerbaijan	309
+mn	Mongolia	314
+tz	Tanzania	322
+vu	Vanuatu	331
+se	Sweden	368
+hr	Croatia	376
+tg	Togo	403
+ua	Ukraine	410
+sa	Saudi Arabia	413
+eg	Egypt	436
+tw	Taiwan	450
+es	Spain	494
+hn	Honduras	505
+bd	Bangladesh	511
+fr	France	549
+au	Australia	587
+de	Germany	592
+sl	Sierra Leone	605
+ag	Antigua and Barbuda	638
+mx	Mexico	669
+ca	Canada	689
+dk	Denmark	731
+bz	Belize	817
+pt	Portugal	820
+th	Thailand	829
+ng	Nigeria	832
+vc	Saint Vincent and the Grenadines	832
+br	Brazil	877
+ir	Iran	942
+cy	Cyprus	1030
+nl	Netherlands	1175
+gr	Greece	1234
+tr	Turkey	1237
+it	Italy	1266
+bs	The Bahamas	1307
+no	Norway	1710
+my	Malaysia	1790
+in	India	1810
+ph	Philippines	1853
+vi	Virgin Islands	1868
+vn	Vietnam	1975
+mt	Malta	2047
+kr	South Korea	2063
+hk	Hong Kong	2661
+ru	Russia	2917
+sg	Singapore	3227
+mh	Marshall Islands	4042
+lr	Liberia	4311
+jp	Japan	5590
+cn	China	7362
+pa	Panama	8025
+id	Indonesia	11015

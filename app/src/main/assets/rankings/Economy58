@@ -1,0 +1,188 @@
+#ranking=Economy/Real GDP per capita/Real GDP per capita 2021
+#unit=(2021 est.)$
+bi	Burundi	700
+cd	DRC	1100
+so	Somalia	1100
+mz	Mozambique	1200
+ne	Niger	1200
+lr	Liberia	1400
+td	Chad	1400
+af	Afghanistan	1500
+mg	Madagascar	1500
+mw	Malawi	1500
+sl	Sierra Leone	1600
+gw	Guinea-Bissau	1800
+ki	Kiribati	1900
+gm	The Gambia	2100
+ml	Mali	2100
+tg	Togo	2100
+zw	Zimbabwe	2100
+bf	Burkina Faso	2200
+rw	Rwanda	2200
+ug	Uganda	2200
+et	Ethiopia	2300
+ls	Lesotho	2300
+sb	Solomon Islands	2400
+gn	Guinea	2600
+tz	Tanzania	2600
+vu	Vanuatu	2800
+ht	Haiti	2900
+cg	Congo (Brazzaville)	3200
+km	Comoros	3200
+zm	Zambia	3200
+bj	Benin	3300
+sn	Senegal	3500
+cm	Cameroon	3700
+pg	Papua New Guinea	3700
+sd	Sudan	3700
+np	Nepal	3800
+tj	Tajikistan	3900
+mm	Burma	4000
+st	Sao Tome and Principe	4100
+kh	Cambodia	4400
+ke	Kenya	4700
+kg	Kyrgyzstan	4800
+dj	Djibouti	4900
+ng	Nigeria	4900
+tv	Tuvalu	4900
+tl	Timor-Leste	5000
+pk	Pakistan	5200
+ci	Cote d'Ivoire	5300
+mr	Mauritania	5300
+gh	Ghana	5400
+ws	Samoa	5500
+hn	Honduras	5600
+ni	Nicaragua	5600
+ps	Gaza Strip	5600
+ao	Angola	5900
+bd	Bangladesh	5900
+mh	Marshall Islands	6000
+to	Tonga	6100
+cv	Cabo Verde	6100
+in	India	6600
+uz	Uzbekistan	7700
+la	Laos	7800
+bo	Bolivia	8100
+ma	Morocco	8100
+ph	Philippines	8100
+bz	Belize	8800
+gt	Guatemala	8900
+sz	Eswatini	8900
+iq	Iraq	9000
+na	Namibia	9100
+sv	El Salvador	9100
+jo	Jordan	9200
+jm	Jamaica	9600
+fj	Fiji	10400
+tn	Tunisia	10400
+vn	Vietnam	10600
+ec	Ecuador	10700
+bt	Bhutan	10900
+dm	Dominica	10900
+dz	Algeria	11000
+eg	Egypt	11600
+mn	Mongolia	11700
+nr	Nauru	11900
+id	Indonesia	11900
+xk	Kosovo	11900
+pe	Peru	12500
+ua	Ukraine	12900
+lb	Lebanon	13000
+lc	Saint Lucia	13000
+za	South Africa	13300
+lk	Sri Lanka	13400
+gd	Grenada	13700
+py	Paraguay	13700
+vc	Saint Vincent and the Grenadines	13700
+pw	Palau	13800
+bb	Barbados	13800
+ga	Gabon	13800
+md	Moldova	14000
+am	Armenia	14200
+az	Azerbaijan	14400
+al	Albania	14500
+br	Brazil	14600
+co	Colombia	14600
+gq	Equatorial Guinea	14600
+bw	Botswana	14800
+sr	Suriname	14800
+ir	Iran	15000
+ge	Georgia	15500
+ba	Bosnia and Herzegovina	15700
+mk	North Macedonia	16500
+th	Thailand	17100
+cn	China	17600
+tc	Turks and Caicos Islands	18500
+do	The Dominican	18600
+mv	Maldives	18800
+ag	Antigua and Barbuda	19100
+mx	Mexico	19100
+by	Belarus	19800
+rs	Serbia	19800
+me	Montenegro	20600
+cw	Curacao	20800
+mu	Mauritius	21000
+cr	Costa Rica	21200
+ar	Argentina	21500
+gy	Guyana	21900
+ly	Libya	22000
+uy	Uruguay	22800
+tt	Trinidad and Tobago	23000
+bg	Bulgaria	24400
+cl	Chile	25400
+kz	Kazakhstan	26100
+my	Malaysia	26300
+kn	Saint Kitts and Nevis	26500
+ru	Russia	28000
+sc	Seychelles	28800
+pa	Panama	29000
+gr	Greece	29500
+bs	The Bahamas	30200
+ro	Romania	30800
+tr	Turkey	31500
+hr	Croatia	31600
+sk	Slovakia	31900
+lv	Latvia	32100
+pr	Puerto Rico	32600
+hu	Hungary	33600
+pt	Portugal	33700
+om	Oman	34300
+pl	Poland	34900
+es	Spain	37900
+ee	Estonia	38700
+aw	Aruba	38900
+lt	Lithuania	39300
+si	Slovenia	40000
+cz	Czechia	40700
+jp	Japan	40800
+cy	Cyprus	41700
+it	Italy	41900
+il	Israel	42100
+nz	New Zealand	42900
+kr	South Korea	44200
+sa	Saudi Arabia	44300
+mt	Malta	44700
+fr	France	45000
+ca	Canada	47900
+fi	Finland	48800
+bh	Bahrain	49400
+au	Australia	49800
+be	Belgium	51700
+de	Germany	53200
+is	Iceland	53600
+se	Sweden	53600
+at	Austria	54100
+nl	Netherlands	56600
+dk	Denmark	58000
+hk	Hong Kong	60000
+bn	Brunei	60100
+us	United States	63700
+mo	Macau	64800
+no	Norway	65700
+ky	Cayman Islands	67500
+ch	Switzerland	71000
+bm	Bermuda	80300
+qa	Qatar	92900
+ie	Ireland	102500
+sg	Singapore	106000
+lu	Luxembourg	115700

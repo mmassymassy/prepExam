@@ -1,0 +1,224 @@
+#ranking=People and Society/Age structure/65 years and over
+#unit=% (
+qa	Qatar	1.41
+ao	Angola	2.33
+ug	Uganda	2.39
+bj	Benin	2.45
+cd	DRC	2.49
+td	Chad	2.49
+sl	Sierra Leone	2.58
+ss	South Sudan	2.59
+so	Somalia	2.69
+ne	Niger	2.7
+zm	Zambia	2.74
+lr	Liberia	2.82
+af	Afghanistan	2.85
+mz	Mozambique	2.9
+ps	Gaza Strip	2.91
+rw	Rwanda	2.95
+ci	Cote d'Ivoire	2.95
+ml	Mali	3.07
+gw	Guinea-Bissau	3.11
+st	Sao Tome and Principe	3.15
+bf	Burkina Faso	3.19
+cm	Cameroon	3.19
+sd	Sudan	3.19
+ke	Kenya	3.28
+bi	Burundi	3.3
+sn	Senegal	3.34
+ye	Yemen	3.34
+tz	Tanzania	3.35
+ng	Nigeria	3.36
+kw	Kuwait	3.4
+cg	Congo (Brazzaville)	3.41
+et	Ethiopia	3.54
+gm	The Gambia	3.57
+iq	Iraq	3.59
+mg	Madagascar	3.81
+mw	Malawi	3.82
+pg	Papua New Guinea	3.9
+na	Namibia	3.94
+om	Oman	3.95
+sz	Eswatini	3.97
+er	Eritrea	4
+gn	Guinea	4
+bh	Bahrain	4.03
+jo	Jordan	4.05
+eh	Western Sahara	4.1
+dj	Djibouti	4.15
+sy	Syria	4.15
+tj	Tajikistan	4.18
+sa	Saudi Arabia	4.19
+ga	Gabon	4.2
+nr	Nauru	4.22
+tg	Togo	4.26
+mr	Mauritania	4.31
+tl	Timor-Leste	4.34
+gh	Ghana	4.36
+ly	Libya	4.39
+zw	Zimbabwe	4.52
+km	Comoros	4.55
+ht	Haiti	4.56
+la	Laos	4.65
+pk	Pakistan	4.77
+vu	Vanuatu	4.86
+bz	Belize	4.92
+gq	Equatorial Guinea	4.94
+sb	Solomon Islands	5.12
+kh	Cambodia	5.14
+ki	Kiribati	5.17
+gt	Guatemala	5.24
+eg	Egypt	5.36
+ls	Lesotho	5.39
+cx	Christmas Island	5.44
+ph	Philippines	5.45
+mh	Marshall Islands	5.52
+mn	Mongolia	5.6
+mv	Maldives	5.78
+hn	Honduras	5.91
+bw	Botswana	5.95
+tc	Turks and Caicos Islands	6.06
+cv	Cabo Verde	6.14
+np	Nepal	6.16
+ni	Nicaragua	6.48
+za	South Africa	6.54
+bt	Bhutan	6.54
+tm	Turkmenistan	6.55
+kg	Kyrgyzstan	6.6
+ir	Iran	6.67
+mm	Burma	6.8
+in	India	6.8
+bo	Bolivia	6.84
+uz	Uzbekistan	6.88
+dz	Algeria	6.93
+ws	Samoa	6.94
+do	The Dominican	6.99
+bn	Brunei	7.1
+sr	Suriname	7.27
+to	Tonga	7.29
+tv	Tuvalu	7.43
+ms	Montserrat	7.48
+bd	Bangladesh	7.53
+id	Indonesia	7.68
+gy	Guyana	7.86
+vn	Vietnam	7.87
+pe	Peru	8.02
+mx	Mexico	8.02
+ma	Morocco	8.06
+my	Malaysia	8.12
+xk	Kosovo	8.15
+as	American Samoa	8.2
+sv	El Salvador	8.21
+fj	Fiji	8.52
+az	Azerbaijan	8.58
+ve	Venezuela	8.9
+py	Paraguay	9.06
+ec	Ecuador	9.07
+lb	Lebanon	9.1
+tr	Turkey	9.31
+mp	Northern Mariana Islands	9.43
+kz	Kazakhstan	9.44
+sc	Seychelles	9.47
+bs	The Bahamas	9.83
+cr	Costa Rica	9.92
+pa	Panama	9.94
+tn	Tunisia	9.98
+jm	Jamaica	10.08
+ag	Antigua and Barbuda	10.09
+gu	Guam	10.51
+br	Brazil	10.51
+nc	New Caledonia	10.59
+pf	French Polynesia	10.59
+kp	North Korea	10.6
+pw	Palau	10.69
+co	Colombia	10.89
+ai	Anguilla	11.12
+vg	British Virgin Islands	11.58
+lk	Sri Lanka	11.83
+gl	Greenland	11.89
+kn	Saint Kitts and Nevis	12.05
+wf	Wallis and Futuna	12.15
+gd	Grenada	12.26
+il	Israel	12.38
+vc	Saint Vincent and the Grenadines	12.4
+ar	Argentina	12.66
+cl	Chile	13.09
+dm	Dominica	13.36
+mu	Mauritius	13.36
+tt	Trinidad and Tobago	13.56
+sg	Singapore	13.7
+cy	Cyprus	14.01
+cn	China	14.11
+sx	Sint Maarten	14.29
+th	Thailand	14.47
+am	Armenia	14.49
+al	Albania	14.57
+ie	Ireland	14.57
+lc	Saint Lucia	14.8
+mo	Macau	14.86
+mk	North Macedonia	15.25
+ck	Cook Islands	15.34
+uy	Uruguay	15.43
+md	Moldova	15.62
+bb	Barbados	15.66
+lu	Luxembourg	15.88
+ky	Cayman Islands	16.04
+nz	New Zealand	16.49
+aw	Aruba	16.58
+is	Iceland	16.63
+au	Australia	16.69
+cu	Cuba	16.8
+ru	Russia	17.15
+by	Belarus	17.36
+gi	Gibraltar	17.39
+me	Montenegro	17.42
+ba	Bosnia and Herzegovina	17.86
+je	Jersey	17.91
+ge	Georgia	17.95
+cw	Curacao	18
+tw	Taiwan	18.07
+us	United States	18.12
+ua	Ukraine	18.15
+fo	Faroe Islands	18.16
+no	Norway	18.18
+kr	South Korea	18.38
+sk	Slovakia	18.64
+ch	Switzerland	19.38
+ad	Andorra	19.52
+rs	Serbia	19.74
+be	Belgium	19.91
+li	Liechtenstein	20.35
+ca	Canada	20.5
+es	Spain	20.5
+pl	Poland	20.6
+dk	Denmark	20.63
+se	Sweden	20.69
+bg	Bulgaria	20.81
+at	Austria	20.81
+nl	Netherlands	20.86
+vi	Virgin Islands	20.89
+hk	Hong Kong	20.94
+sm	San Marino	21.08
+cz	Czechia	21.13
+gg	Guernsey	21.14
+fr	France	21.42
+lt	Lithuania	21.59
+lv	Latvia	21.71
+im	Isle of Man	21.77
+hu	Hungary	21.79
+bm	Bermuda	21.89
+pt	Portugal	21.96
+bl	Saint Barthelemy	22.11
+ee	Estonia	22.17
+ro	Romania	22.24
+hr	Croatia	22.63
+mt	Malta	22.65
+si	Slovenia	22.72
+fi	Finland	23.25
+de	Germany	23.28
+gr	Greece	23.31
+it	Italy	23.31
+pr	Puerto Rico	24.18
+pm	Saint Pierre and Miquelon	24.6
+jp	Japan	29.22
+mc	Monaco	36.18

@@ -1,0 +1,156 @@
+#ranking=Military and Security/Military expenditures/Military Expenditures 2020
+#unit=% of GDP 
+mu	Mauritius	0.3
+sl	Sierra Leone	0.3
+ie	Ireland	0.3
+gh	Ghana	0.4
+gt	Guatemala	0.4
+md	Moldova	0.4
+pg	Papua New Guinea	0.4
+bj	Benin	0.5
+cv	Cabo Verde	0.5
+et	Ethiopia	0.5
+lr	Liberia	0.5
+ng	Nigeria	0.6
+ni	Nicaragua	0.6
+lu	Luxembourg	0.6
+mt	Malta	0.6
+mx	Mexico	0.6
+cd	DRC	0.7
+cr	Costa Rica	0.7
+mg	Madagascar	0.7
+at	Austria	0.7
+do	The Dominican	0.8
+gm	The Gambia	0.8
+mn	Mongolia	0.8
+ar	Argentina	0.8
+ch	Switzerland	0.8
+id	Indonesia	0.8
+bb	Barbados	0.9
+mw	Malawi	0.9
+ba	Bosnia and Herzegovina	0.9
+bs	The Bahamas	0.9
+cm	Cameroon	1
+py	Paraguay	1
+sd	Sudan	1
+tj	Tajikistan	1
+tt	Trinidad and Tobago	1
+be	Belgium	1
+es	Spain	1
+jp	Japan	1
+si	Slovenia	1
+ci	Cote d'Ivoire	1.1
+kz	Kazakhstan	1.1
+mz	Mozambique	1.1
+xk	Kosovo	1.1
+my	Malaysia	1.1
+ph	Philippines	1.1
+za	South Africa	1.1
+gy	Guyana	1.2
+ke	Kenya	1.2
+pe	Peru	1.2
+sv	El Salvador	1.2
+tz	Tanzania	1.2
+se	Sweden	1.2
+eg	Egypt	1.3
+np	Nepal	1.3
+rw	Rwanda	1.3
+zm	Zambia	1.3
+al	Albania	1.3
+bd	Bangladesh	1.3
+cz	Czechia	1.3
+mk	North Macedonia	1.3
+bo	Bolivia	1.4
+br	Brazil	1.4
+fj	Fiji	1.4
+gn	Guinea	1.4
+pa	Panama	1.4
+ca	Canada	1.4
+dk	Denmark	1.4
+nl	Netherlands	1.4
+pt	Portugal	1.4
+th	Thailand	1.4
+by	Belarus	1.5
+bz	Belize	1.5
+gq	Equatorial Guinea	1.5
+sn	Senegal	1.5
+de	Germany	1.5
+fi	Finland	1.5
+nz	New Zealand	1.5
+hn	Honduras	1.6
+ls	Lesotho	1.6
+sc	Seychelles	1.6
+bg	Bulgaria	1.6
+it	Italy	1.6
+ao	Angola	1.7
+cn	China	1.7
+gw	Guinea-Bissau	1.7
+jm	Jamaica	1.7
+hr	Croatia	1.7
+me	Montenegro	1.7
+ga	Gabon	1.8
+ge	Georgia	1.8
+kg	Kyrgyzstan	1.8
+sz	Eswatini	1.8
+tl	Timor-Leste	1.8
+cy	Cyprus	1.8
+hu	Hungary	1.8
+tr	Turkey	1.9
+cl	Chile	2
+lk	Sri Lanka	2
+ne	Niger	2
+rs	Serbia	2
+ss	South Sudan	2
+tg	Togo	2
+uy	Uruguay	2
+fr	France	2
+no	Norway	2
+ro	Romania	2
+sk	Slovakia	2
+bi	Burundi	2.1
+ir	Iran	2.1
+to	Tonga	2.1
+au	Australia	2.1
+lt	Lithuania	2.1
+tw	Taiwan	2.1
+lv	Latvia	2.2
+pl	Poland	2.2
+ec	Ecuador	2.3
+bf	Burkina Faso	2.4
+vn	Vietnam	2.4
+ee	Estonia	2.4
+in	India	2.5
+kh	Cambodia	2.5
+mr	Mauritania	2.5
+ug	Uganda	2.5
+kr	South Korea	2.6
+td	Chad	2.9
+gr	Greece	2.9
+bw	Botswana	3
+co	Colombia	3
+lb	Lebanon	3
+mm	Burma	3
+tn	Tunisia	3
+sg	Singapore	3
+cg	Congo (Brazzaville)	3.2
+ml	Mali	3.4
+na	Namibia	3.4
+bn	Brunei	3.7
+us	United States	3.7
+pk	Pakistan	4
+qa	Qatar	4
+ru	Russia	4
+ua	Ukraine	4
+iq	Iraq	4.1
+bh	Bahrain	4.2
+cu	Cuba	4.2
+ma	Morocco	4.5
+am	Armenia	5
+az	Azerbaijan	5
+il	Israel	5
+jo	Jordan	5
+so	Somalia	6
+kw	Kuwait	6.3
+dz	Algeria	6.7
+sa	Saudi Arabia	8
+om	Oman	11

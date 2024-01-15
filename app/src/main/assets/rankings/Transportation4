@@ -1,0 +1,111 @@
+#ranking=Transportation/Heliports
+#unit=
+af	Afghanistan	1
+ao	Angola	1
+at	Austria	1
+au	Australia	1
+az	Azerbaijan	1
+be	Belgium	1
+bg	Bulgaria	1
+bh	Bahrain	1
+bi	Burundi	1
+bs	The Bahamas	1
+by	Belarus	1
+cd	DRC	1
+ci	Cote d'Ivoire	1
+cl	Chile	1
+cz	Czechia	1
+do	The Dominican	1
+ee	Estonia	1
+er	Eritrea	1
+fr	France	1
+gt	Guatemala	1
+hr	Croatia	1
+jo	Jordan	1
+kh	Cambodia	1
+lb	Lebanon	1
+lk	Sri Lanka	1
+lu	Luxembourg	1
+lv	Latvia	1
+ma	Morocco	1
+mc	Monaco	1
+me	Montenegro	1
+mn	Mongolia	1
+mp	Northern Mariana Islands	1
+mx	Mexico	1
+ne	Niger	1
+nl	Netherlands	1
+no	Norway	1
+pf	French Polynesia	1
+ps	Gaza Strip	1
+qa	Qatar	1
+sc	Seychelles	1
+sk	Slovakia	1
+tm	Turkmenistan	1
+vn	Vietnam	1
+ar	Argentina	2
+ch	Switzerland	2
+ec	Ecuador	2
+ge	Georgia	2
+ly	Libya	2
+ml	Mali	2
+mo	Macau	2
+mt	Malta	2
+pg	Papua New Guinea	2
+ph	Philippines	2
+ro	Romania	2
+rs	Serbia	2
+se	Sweden	2
+sl	Sierra Leone	2
+sv	El Salvador	2
+xk	Kosovo	2
+bd	Bangladesh	3
+bn	Brunei	3
+co	Colombia	3
+hu	Hungary	3
+il	Israel	3
+kz	Kazakhstan	3
+om	Oman	3
+pa	Panama	3
+sb	Solomon Islands	3
+ss	South Sudan	3
+ve	Venezuela	3
+tf	French Southern and Antarctic Lands	3
+kw	Kuwait	4
+my	Malaysia	4
+dz	Algeria	4
+it	Italy	5
+ng	Nigeria	5
+pe	Peru	5
+ba	Bosnia and Herzegovina	6
+pl	Poland	6
+sy	Syria	6
+eg	Egypt	7
+sd	Sudan	7
+th	Thailand	7
+nc	New Caledonia	8
+tl	Timor-Leste	8
+cy	Cyprus	9
+gr	Greece	9
+hk	Hong Kong	9
+ua	Ukraine	9
+sa	Saudi Arabia	10
+mm	Burma	11
+br	Brazil	13
+es	Spain	13
+iq	Iraq	16
+jp	Japan	16
+tr	Turkey	20
+de	Germany	23
+kp	North Korea	23
+pk	Pakistan	23
+ca	Canada	26
+ir	Iran	26
+tw	Taiwan	31
+cn	China	39
+in	India	45
+ru	Russia	49
+aq	Antarctica	53
+id	Indonesia	76
+kr	South Korea	466
+us	United States	6092

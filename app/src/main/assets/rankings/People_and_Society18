@@ -1,0 +1,226 @@
+#ranking=People and Society/Dependency ratios/elderly dependency ratio
+#unit=
+qa	Qatar	2
+ug	Uganda	3.2
+zm	Zambia	3.2
+sa	Saudi Arabia	3.7
+nr	Nauru	3.9
+om	Oman	4
+td	Chad	4
+ci	Cote d'Ivoire	4.3
+gm	The Gambia	4.5
+bh	Bahrain	4.6
+ye	Yemen	4.7
+af	Afghanistan	4.8
+bf	Burkina Faso	4.8
+bi	Burundi	4.8
+cg	Congo (Brazzaville)	4.8
+ke	Kenya	4.8
+mz	Mozambique	4.8
+cm	Cameroon	4.9
+eh	Western Sahara	4.9
+ml	Mali	4.9
+ao	Angola	5
+gw	Guinea-Bissau	5
+mw	Malawi	5
+ne	Niger	5
+pg	Papua New Guinea	5
+so	Somalia	5.2
+gq	Equatorial Guinea	5.4
+rw	Rwanda	5.4
+et	Ethiopia	5.5
+ng	Nigeria	5.5
+sl	Sierra Leone	5.5
+tg	Togo	5.5
+tj	Tajikistan	5.5
+bj	Benin	5.7
+bw	Botswana	5.7
+sn	Senegal	5.7
+iq	Iraq	5.8
+jo	Jordan	5.8
+mg	Madagascar	5.8
+cd	DRC	5.9
+gh	Ghana	5.9
+tz	Tanzania	5.9
+kw	Kuwait	6
+lr	Liberia	6
+mr	Mauritania	6
+sb	Solomon Islands	6
+zw	Zimbabwe	6
+gn	Guinea	6.1
+ps	Gaza Strip	6.1
+ss	South Sudan	6.1
+ki	Kiribati	6.2
+mv	Maldives	6.2
+sd	Sudan	6.2
+hn	Honduras	6.4
+ga	Gabon	6.5
+sz	Eswatini	6.5
+la	Laos	6.7
+na	Namibia	6.7
+st	Sao Tome and Principe	6.7
+ls	Lesotho	6.8
+mh	Marshall Islands	6.8
+dj	Djibouti	6.9
+mn	Mongolia	7
+er	Eritrea	7.1
+ht	Haiti	7.1
+kg	Kyrgyzstan	7.2
+pk	Pakistan	7.2
+uz	Uzbekistan	7.2
+ly	Libya	7.3
+bz	Belize	7.4
+sy	Syria	7.4
+km	Comoros	7.5
+eg	Egypt	7.7
+tm	Turkmenistan	7.7
+gt	Guatemala	7.9
+cv	Cabo Verde	8
+ni	Nicaragua	8
+bn	Brunei	8.1
+ph	Philippines	8.3
+za	South Africa	8.4
+kh	Cambodia	8.5
+bd	Bangladesh	8.6
+bt	Bhutan	8.6
+fj	Fiji	8.7
+tl	Timor-Leste	8.9
+ws	Samoa	8.9
+np	Nepal	9.4
+gy	Guyana	9.5
+py	Paraguay	9.6
+az	Azerbaijan	9.7
+mm	Burma	9.7
+dz	Algeria	9.8
+id	Indonesia	10
+tv	Tuvalu	10
+in	India	10.1
+as	American Samoa	10.4
+ky	Cayman Islands	10.4
+my	Malaysia	10.4
+to	Tonga	10.5
+ir	Iran	10.7
+sr	Suriname	11
+ma	Morocco	11.3
+sc	Seychelles	11.4
+ec	Ecuador	11.5
+do	The Dominican	11.6
+bs	The Bahamas	11.9
+bo	Bolivia	12
+mx	Mexico	12.2
+sv	El Salvador	12.3
+sx	Sint Maarten	12.3
+tr	Turkey	12.3
+vu	Vanuatu	12.3
+co	Colombia	12.5
+lc	Saint Lucia	12.5
+vg	British Virgin Islands	12.6
+kz	Kazakhstan	12.7
+vn	Vietnam	12.7
+pe	Peru	13.1
+ve	Venezuela	13.1
+dm	Dominica	13.2
+pa	Panama	13.2
+bl	Saint Barthelemy	13.3
+tn	Tunisia	13.3
+jm	Jamaica	13.4
+tk	Tokelau	13.4
+gl	Greenland	13.6
+br	Brazil	13.7
+kn	Saint Kitts and Nevis	13.7
+pw	Palau	13.7
+tc	Turks and Caicos Islands	13.9
+pf	French Polynesia	14
+ai	Anguilla	14.1
+mp	Northern Mariana Islands	14.3
+ag	Antigua and Barbuda	14.4
+xk	Kosovo	14.6
+fk	Falkland Islands (Islas Malvinas)	14.9
+gd	Grenada	14.9
+cr	Costa Rica	15.3
+lb	Lebanon	15.3
+nc	New Caledonia	16
+vc	Saint Vincent and the Grenadines	16.1
+kp	North Korea	16.3
+tt	Trinidad and Tobago	16.8
+mo	Macau	16.9
+lk	Sri Lanka	17
+mu	Mauritius	17.3
+ck	Cook Islands	17.4
+ar	Argentina	18.2
+cl	Chile	18.4
+gu	Guam	18.4
+th	Thailand	18.4
+cn	China	19
+am	Armenia	19.1
+sg	Singapore	19.1
+il	Israel	19.9
+ad	Andorra	20.1
+md	Moldova	20.4
+wf	Wallis and Futuna	20.4
+cy	Cyprus	20.8
+lu	Luxembourg	21.3
+cw	Curacao	21.4
+mk	North Macedonia	21.4
+tw	Taiwan	22.4
+is	Iceland	22.5
+ge	Georgia	22.6
+ie	Ireland	22.7
+cu	Cuba	22.9
+aw	Aruba	23
+je	Jersey	23.2
+kr	South Korea	23.3
+bb	Barbados	23.4
+ru	Russia	23.4
+uy	Uruguay	23.7
+al	Albania	24.1
+nz	New Zealand	24.4
+gg	Guernsey	24.6
+ms	Montserrat	24.7
+me	Montenegro	24.8
+by	Belarus	25.4
+nu	Niue	25.4
+au	Australia	25.5
+us	United States	25.6
+sk	Slovakia	25.8
+ua	Ukraine	25.8
+pm	Saint Pierre and Miquelon	25.9
+ba	Bosnia and Herzegovina	27.1
+mt	Malta	27.7
+no	Norway	27.9
+ca	Canada	28.2
+li	Liechtenstein	28.3
+pl	Poland	28.6
+ch	Switzerland	28.7
+hk	Hong Kong	28.7
+fo	Faroe Islands	29.1
+ro	Romania	29.1
+at	Austria	29.4
+sm	San Marino	30
+bm	Bermuda	30.1
+es	Spain	30.2
+be	Belgium	30.4
+nl	Netherlands	30.9
+hu	Hungary	31.4
+dk	Denmark	31.9
+rs	Serbia	31.9
+si	Slovenia	31.9
+lt	Lithuania	32.1
+cz	Czechia	32.2
+ee	Estonia	32.3
+se	Sweden	32.3
+gi	Gibraltar	32.7
+vi	Virgin Islands	34
+hr	Croatia	34.4
+lv	Latvia	34.4
+de	Germany	34.7
+fr	France	34.8
+im	Isle of Man	34.9
+pr	Puerto Rico	34.9
+pt	Portugal	35.2
+bg	Bulgaria	35.3
+gr	Greece	35.5
+fi	Finland	37.1
+it	Italy	37.2
+jp	Japan	51
+mc	Monaco	70.2

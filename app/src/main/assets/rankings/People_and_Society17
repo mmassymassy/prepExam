@@ -1,0 +1,225 @@
+#ranking=People and Society/Death rate
+#unit=deaths/1,000 population 
+qa	Qatar	1.42
+kw	Kuwait	2.27
+bh	Bahrain	2.83
+ps	Gaza Strip	2.88
+om	Oman	3.21
+ly	Libya	3.45
+sa	Saudi Arabia	3.45
+jo	Jordan	3.47
+tc	Turks and Caicos Islands	3.52
+bn	Brunei	3.85
+iq	Iraq	3.88
+bz	Belize	3.89
+sb	Solomon Islands	3.95
+vu	Vanuatu	3.99
+sy	Syria	4.07
+sg	Singapore	4.15
+mv	Maldives	4.2
+mh	Marshall Islands	4.3
+eg	Egypt	4.32
+dz	Algeria	4.33
+mw	Malawi	4.51
+hn	Honduras	4.69
+ai	Anguilla	4.72
+mo	Macau	4.81
+ug	Uganda	4.87
+gt	Guatemala	4.89
+fk	Falkland Islands (Islas Malvinas)	4.9
+py	Paraguay	4.9
+ke	Kenya	4.95
+to	Tonga	4.95
+cr	Costa Rica	4.97
+sn	Senegal	5
+tz	Tanzania	5.02
+il	Israel	5.05
+tg	Togo	5.16
+ec	Ecuador	5.18
+ni	Nicaragua	5.19
+ir	Iran	5.2
+ws	Samoa	5.38
+uz	Uzbekistan	5.43
+vg	British Virgin Islands	5.44
+pg	Papua New Guinea	5.48
+bd	Bangladesh	5.5
+ye	Yemen	5.54
+tl	Timor-Leste	5.55
+lb	Lebanon	5.57
+mp	Northern Mariana Islands	5.58
+ga	Gabon	5.59
+np	Nepal	5.59
+et	Ethiopia	5.6
+pf	French Polynesia	5.67
+tj	Tajikistan	5.67
+ag	Antigua and Barbuda	5.69
+kh	Cambodia	5.7
+gm	The Gambia	5.71
+my	Malaysia	5.72
+cv	Cabo Verde	5.77
+rw	Rwanda	5.77
+vn	Vietnam	5.77
+bi	Burundi	5.85
+pa	Panama	5.88
+wf	Wallis and Futuna	5.9
+mg	Madagascar	5.92
+nc	New Caledonia	5.92
+sv	El Salvador	5.92
+pk	Pakistan	5.94
+tm	Turkmenistan	5.96
+gh	Ghana	5.99
+zm	Zambia	6.02
+bt	Bhutan	6.05
+ky	Cayman Islands	6.06
+kg	Kyrgyzstan	6.07
+ms	Montserrat	6.07
+st	Sao Tome and Principe	6.07
+gu	Guam	6.08
+tr	Turkey	6.09
+as	American Samoa	6.19
+sd	Sudan	6.19
+sx	Sint Maarten	6.24
+la	Laos	6.26
+do	The Dominican	6.31
+ph	Philippines	6.32
+mn	Mongolia	6.33
+tn	Tunisia	6.38
+nr	Nauru	6.39
+fj	Fiji	6.44
+lr	Liberia	6.46
+bs	The Bahamas	6.47
+km	Comoros	6.49
+bo	Bolivia	6.54
+lk	Sri Lanka	6.54
+ve	Venezuela	6.55
+is	Iceland	6.57
+cl	Chile	6.58
+er	Eritrea	6.6
+ma	Morocco	6.61
+sr	Suriname	6.63
+na	Namibia	6.64
+ie	Ireland	6.74
+au	Australia	6.76
+id	Indonesia	6.77
+nz	New Zealand	6.89
+br	Brazil	6.9
+sc	Seychelles	6.9
+ki	Kiribati	6.91
+az	Azerbaijan	6.92
+gy	Guyana	6.95
+cy	Cyprus	6.99
+mx	Mexico	7.07
+dj	Djibouti	7.08
+mm	Burma	7.14
+ht	Haiti	7.17
+lu	Luxembourg	7.17
+ar	Argentina	7.28
+kr	South Korea	7.28
+gw	Guinea-Bissau	7.32
+kn	Saint Kitts and Nevis	7.32
+mr	Mauritania	7.33
+al	Albania	7.36
+jm	Jamaica	7.44
+ci	Cote d'Ivoire	7.45
+bf	Burkina Faso	7.5
+cm	Cameroon	7.54
+vc	Saint Vincent and the Grenadines	7.58
+xk	Kosovo	7.65
+eh	Western Sahara	7.7
+cd	DRC	7.74
+je	Jersey	7.75
+ao	Angola	7.8
+bj	Benin	7.82
+cn	China	7.82
+co	Colombia	7.84
+th	Thailand	7.86
+tv	Tuvalu	7.9
+no	Norway	7.93
+gn	Guinea	7.97
+ad	Andorra	7.98
+tw	Taiwan	7.98
+bb	Barbados	8.03
+hk	Hong Kong	8.03
+kz	Kazakhstan	8.05
+li	Liechtenstein	8.05
+dm	Dominica	8.12
+ca	Canada	8.17
+lc	Saint Lucia	8.17
+cg	Congo (Brazzaville)	8.23
+ml	Mali	8.3
+pw	Palau	8.31
+gd	Grenada	8.34
+ch	Switzerland	8.37
+us	United States	8.42
+tt	Trinidad and Tobago	8.48
+zw	Zimbabwe	8.51
+ng	Nigeria	8.52
+fo	Faroe Islands	8.61
+mt	Malta	8.61
+aw	Aruba	8.69
+gi	Gibraltar	8.74
+cw	Curacao	8.78
+sm	San Marino	8.83
+cc	Cocos (Keeling) Islands	8.89
+gq	Equatorial Guinea	8.9
+mu	Mauritius	8.95
+bw	Botswana	8.98
+vi	Virgin Islands	8.99
+gl	Greenland	9.07
+uy	Uruguay	9.12
+sl	Sierra Leone	9.14
+bl	Saint Barthelemy	9.16
+gg	Guernsey	9.17
+bm	Bermuda	9.2
+ck	Cook Islands	9.2
+td	Chad	9.21
+ss	South Sudan	9.22
+za	South Africa	9.25
+nl	Netherlands	9.27
+cu	Cuba	9.37
+se	Sweden	9.5
+fr	France	9.51
+sz	Eswatini	9.53
+am	Armenia	9.54
+dk	Denmark	9.55
+be	Belgium	9.57
+mk	North Macedonia	9.61
+in	India	9.65
+kp	North Korea	9.66
+ne	Niger	9.66
+at	Austria	9.86
+mz	Mozambique	9.93
+pr	Puerto Rico	10
+es	Spain	10.11
+im	Isle of Man	10.17
+sk	Slovakia	10.18
+ba	Bosnia and Herzegovina	10.26
+me	Montenegro	10.3
+fi	Finland	10.37
+si	Slovenia	10.46
+pl	Poland	10.75
+ge	Georgia	10.76
+cz	Czechia	10.77
+ls	Lesotho	10.9
+pt	Portugal	10.9
+mc	Monaco	10.92
+pe	Peru	11.04
+it	Italy	11.27
+pm	Saint Pierre and Miquelon	11.36
+so	Somalia	11.43
+jp	Japan	11.74
+de	Germany	11.97
+gr	Greece	12.02
+af	Afghanistan	12.08
+md	Moldova	12.51
+by	Belarus	12.81
+hu	Hungary	12.89
+hr	Croatia	12.98
+ee	Estonia	13.13
+ru	Russia	13.27
+ua	Ukraine	13.7
+bg	Bulgaria	14.31
+lv	Latvia	14.69
+ro	Romania	14.92
+rs	Serbia	15.12
+lt	Lithuania	15.17

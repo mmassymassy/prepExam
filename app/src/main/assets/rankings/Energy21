@@ -1,0 +1,208 @@
+#ranking=Energy/Electricity generation sources/hydroelectricity
+#unit=% of total installed capacity (2020 est.)
+ps	Gaza Strip	0
+ag	Antigua and Barbuda	0
+as	American Samoa	0
+aw	Aruba	0
+bb	Barbados	0
+bh	Bahrain	0
+bj	Benin	0
+bm	Bermuda	0
+bn	Brunei	0
+bs	The Bahamas	0
+bw	Botswana	0
+ck	Cook Islands	0
+cv	Cabo Verde	0
+cy	Cyprus	0
+dj	Djibouti	0
+er	Eritrea	0
+fk	Falkland Islands (Islas Malvinas)	0
+gd	Grenada	0
+gi	Gibraltar	0
+gm	The Gambia	0
+gu	Guam	0
+gw	Guinea-Bissau	0
+gy	Guyana	0
+hk	Hong Kong	0
+il	Israel	0
+ki	Kiribati	0
+km	Comoros	0
+kn	Saint Kitts and Nevis	0
+kw	Kuwait	0
+ky	Cayman Islands	0
+lc	Saint Lucia	0
+ly	Libya	0
+mo	Macau	0
+ms	Montserrat	0
+mt	Malta	0
+mv	Maldives	0
+ne	Niger	0
+nl	Netherlands	0
+nr	Nauru	0
+nu	Niue	0
+om	Oman	0
+pm	Saint Pierre and Miquelon	0
+qa	Qatar	0
+sa	Saudi Arabia	0
+sb	Solomon Islands	0
+sc	Seychelles	0
+sg	Singapore	0
+so	Somalia	0
+ss	South Sudan	0
+tc	Turks and Caicos Islands	0
+td	Chad	0
+tl	Timor-Leste	0
+tm	Turkmenistan	0
+to	Tonga	0
+tt	Trinidad and Tobago	0
+vg	British Virgin Islands	0
+vi	Virgin Islands	0
+vu	Vanuatu	0
+ye	Yemen	0
+dk	Denmark	0.1
+dz	Algeria	0.1
+jo	Jordan	0.2
+be	Belgium	0.3
+cu	Cuba	0.3
+pr	Puerto Rico	0.3
+tn	Tunisia	0.3
+do	The Dominican	0.7
+ee	Estonia	0.7
+hu	Hungary	0.7
+bd	Bangladesh	0.8
+by	Belarus	1.1
+kr	South Korea	1.3
+mn	Mongolia	1.3
+pl	Poland	2
+iq	Iraq	2.1
+tw	Taiwan	2.2
+za	South Africa	2.5
+th	Thailand	2.6
+xk	Kosovo	3.2
+ua	Ukraine	3.6
+ie	Ireland	3.7
+mu	Mauritius	3.7
+jm	Jamaica	4
+az	Azerbaijan	4.4
+ma	Morocco	4.4
+cz	Czechia	4.5
+de	Germany	4.5
+md	Moldova	4.5
+sy	Syria	4.8
+lb	Lebanon	5
+au	Australia	6.2
+sn	Senegal	6.3
+id	Indonesia	6.8
+bf	Burkina Faso	6.9
+lt	Lithuania	6.9
+us	United States	7
+nc	New Caledonia	7.4
+lu	Luxembourg	7.5
+mx	Mexico	7.6
+eg	Egypt	7.7
+ph	Philippines	8
+gr	Greece	8.5
+bg	Bulgaria	9.1
+ir	Iran	9.1
+jp	Japan	10
+kz	Kazakhstan	10.1
+st	Sao Tome and Principe	10.5
+gq	Equatorial Guinea	10.6
+in	India	10.7
+my	Malaysia	10.9
+fr	France	11.7
+mr	Mauritania	11.9
+uz	Uzbekistan	11.9
+ni	Nicaragua	12.2
+es	Spain	13.1
+bz	Belize	13.4
+ht	Haiti	13.9
+sk	Slovakia	16.8
+tg	Togo	17.2
+it	Italy	17.5
+ar	Argentina	17.6
+cn	China	17.8
+pg	Papua New Guinea	18.9
+ru	Russia	19.1
+ng	Nigeria	21.7
+fi	Finland	23.2
+ci	Cote d'Ivoire	24.2
+am	Armenia	24.3
+dm	Dominica	24.5
+hn	Honduras	24.7
+mk	North Macedonia	24.7
+sz	Eswatini	24.8
+vn	Vietnam	25.2
+vc	Saint Vincent and the Grenadines	25.8
+cl	Chile	26
+fo	Faroe Islands	26
+tr	Turkey	26.3
+pt	Portugal	26.5
+ws	Samoa	27.2
+rs	Serbia	27.3
+pf	French Polynesia	27.4
+ml	Mali	29.7
+cg	Congo (Brazzaville)	29.9
+ro	Romania	29.9
+sv	El Salvador	30
+bo	Bolivia	30.5
+uy	Uruguay	30.6
+hr	Croatia	31.8
+pk	Pakistan	31.9
+si	Slovenia	32
+lk	Sri Lanka	32.2
+ke	Kenya	32.6
+tz	Tanzania	32.8
+ba	Bosnia and Herzegovina	35.4
+gh	Ghana	35.9
+gt	Guatemala	38
+mg	Madagascar	38.2
+se	Sweden	44.7
+kh	Cambodia	45.6
+me	Montenegro	47.2
+mm	Burma	47.3
+lv	Latvia	47.5
+fj	Fiji	50.2
+rw	Rwanda	53.9
+nz	New Zealand	54.8
+pe	Peru	55.4
+sd	Sudan	55.5
+ch	Switzerland	56.3
+sr	Suriname	58.8
+ga	Gabon	59
+lr	Liberia	59.1
+ca	Canada	60.8
+bi	Burundi	62.8
+at	Austria	62.9
+la	Laos	64.1
+zw	Zimbabwe	65.3
+co	Colombia	65.7
+br	Brazil	65.8
+pa	Panama	66.2
+cm	Cameroon	67.3
+is	Iceland	67.6
+ve	Venezuela	69.4
+ao	Angola	70.1
+cr	Costa Rica	71.1
+ge	Georgia	73.9
+gn	Guinea	77.1
+ec	Ecuador	77.2
+af	Afghanistan	79.1
+mz	Mozambique	79.6
+mw	Malawi	81.9
+kp	North Korea	84.1
+gl	Greenland	84.2
+zm	Zambia	85.5
+ug	Uganda	86.4
+sl	Sierra Leone	87
+na	Namibia	88.8
+tj	Tajikistan	91.3
+kg	Kyrgyzstan	91.5
+no	Norway	92.1
+et	Ethiopia	95.8
+np	Nepal	97.2
+al	Albania	99.4
+cd	DRC	99.6
+ls	Lesotho	99.8
+bt	Bhutan	100
+py	Paraguay	100

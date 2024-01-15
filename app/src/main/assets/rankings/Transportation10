@@ -1,0 +1,129 @@
+#ranking=Transportation/Pipelines
+#unit=km 
+th	Thailand	2
+lr	Liberia	4
+ke	Kenya	4
+kp	North Korea	6
+ir	Iran	7
+lk	Sri Lanka	7
+bh	Bahrain	20
+tw	Taiwan	25
+do	The Dominican	27
+bn	Brunei	33
+bb	Barbados	33
+de	Germany	37
+cu	Cuba	41
+gq	Equatorial Guinea	42
+sn	Senegal	43
+sr	Suriname	50
+cm	Cameroon	53
+ni	Nicaragua	54
+cd	DRC	62
+tg	Togo	62
+tn	Tunisia	68
+vn	Vietnam	72
+lb	Lebanon	88
+az	Azerbaijan	89
+za	South Africa	94
+ci	Cote d'Ivoire	101
+om	Oman	106
+ng	Nigeria	124
+pa	Panama	128
+bj	Benin	134
+lu	Luxembourg	142
+ba	Bosnia and Herzegovina	147
+sd	Sudan	156
+sa	Saudi Arabia	209
+cg	Congo (Brazzaville)	232
+tt	Trinidad and Tobago	257
+uy	Uruguay	257
+kw	Kuwait	261
+mk	North Macedonia	262
+pg	Papua New Guinea	264
+zw	Zimbabwe	270
+qa	Qatar	288
+tz	Tanzania	311
+nz	New Zealand	331
+ao	Angola	352
+my	Malaysia	354
+li	Liechtenstein	434.5
+ne	Niger	464
+af	Afghanistan	466
+jo	Jordan	473
+gt	Guatemala	480
+ec	Ecuador	485
+eg	Egypt	486
+al	Albania	498
+ph	Philippines	530
+la	Laos	540
+tj	Tajikistan	549
+td	Chad	582
+au	Australia	637
+ye	Yemen	641
+kz	Kazakhstan	658
+cr	Costa Rica	662
+gh	Ghana	681.3
+il	Israel	763
+zm	Zambia	771
+pe	Peru	786
+ga	Gabon	807
+ly	Libya	882
+ma	Morocco	944
+mz	Mozambique	972
+ve	Venezuela	981
+id	Indonesia	1064
+si	Slovenia	1155
+lv	Latvia	1213
+fi	Finland	1288
+pt	Portugal	1344
+gr	Greece	1466
+dk	Denmark	1536
+ge	Georgia	1596
+se	Sweden	1626
+ch	Switzerland	1800
+at	Austria	1888
+lt	Lithuania	1921
+rs	Serbia	1936
+md	Moldova	2026
+sk	Slovakia	2270
+ee	Estonia	2360
+hr	Croatia	2410
+ie	Ireland	2427
+iq	Iraq	2455
+dz	Algeria	2600
+bg	Bulgaria	2765
+bd	Bangladesh	2950
+be	Belgium	3139
+cl	Chile	3160
+sy	Syria	3170
+sg	Singapore	3220
+ro	Romania	3726
+mm	Burma	3739
+kr	South Korea	3790
+am	Armenia	3838
+kg	Kyrgyzstan	4195
+jp	Japan	4456
+co	Colombia	4991
+by	Belarus	5386
+bo	Bolivia	5457
+hu	Hungary	5874
+br	Brazil	5959
+cz	Czechia	7160
+tm	Turkmenistan	7500
+no	Norway	8520
+es	Spain	10481
+pk	Pakistan	13452
+uz	Uzbekistan	13700
+nl	Netherlands	14000
+pl	Poland	14198
+tr	Turkey	14666
+fr	France	15322
+mx	Mexico	17210
+in	India	17389
+it	Italy	20223
+ar	Argentina	29930
+ua	Ukraine	36720
+cn	China	76000
+ru	Russia	177700
+ca	Canada	840000
+us	United States	1984321

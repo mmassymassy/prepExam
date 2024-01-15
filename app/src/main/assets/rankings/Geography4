@@ -1,0 +1,232 @@
+#ranking=Geography/Coastline
+#unit=km
+li	Liechtenstein	0
+uz	Uzbekistan	0
+ad	Andorra	0
+af	Afghanistan	0
+am	Armenia	0
+at	Austria	0
+bf	Burkina Faso	0
+bi	Burundi	0
+bo	Bolivia	0
+bt	Bhutan	0
+bw	Botswana	0
+by	Belarus	0
+ch	Switzerland	0
+cz	Czechia	0
+et	Ethiopia	0
+hu	Hungary	0
+kg	Kyrgyzstan	0
+la	Laos	0
+ls	Lesotho	0
+lu	Luxembourg	0
+md	Moldova	0
+mk	North Macedonia	0
+ml	Mali	0
+mn	Mongolia	0
+mw	Malawi	0
+ne	Niger	0
+np	Nepal	0
+py	Paraguay	0
+rs	Serbia	0
+rw	Rwanda	0
+sk	Slovakia	0
+sm	San Marino	0
+ss	South Sudan	0
+sz	Eswatini	0
+td	Chad	0
+tj	Tajikistan	0
+ug	Uganda	0
+va	Holy See (Vatican City)	0
+xk	Kosovo	0
+zm	Zambia	0
+zw	Zimbabwe	0
+az	Azerbaijan	0
+kz	Kazakhstan	0
+tm	Turkmenistan	0
+mc	Monaco	4.1
+gi	Gibraltar	12
+ba	Bosnia and Herzegovina	20
+tv	Tuvalu	24
+cc	Cocos (Keeling) Islands	26
+jo	Jordan	26
+nr	Nauru	30
+nf	Norfolk Island	32
+cd	DRC	37
+ms	Montserrat	40
+ps	Gaza Strip	40
+mo	Macau	41
+si	Slovenia	46.6
+gg	Guernsey	50
+pn	Pitcairn Islands	51
+tg	Togo	56
+iq	Iraq	58
+sx	Sint Maarten	58.9
+ai	Anguilla	61
+nu	Niue	64
+be	Belgium	66.5
+aw	Aruba	68.5
+je	Jersey	70
+gm	The Gambia	80
+vg	British Virgin Islands	80
+vc	Saint Vincent and the Grenadines	84
+lt	Lithuania	90
+bb	Barbados	97
+tk	Tokelau	101
+hm	Heard Island and McDonald Islands	101.9
+bm	Bermuda	103
+as	American Samoa	116
+ck	Cook Islands	120
+pm	Saint Pierre and Miquelon	120
+bj	Benin	121
+gd	Grenada	121
+gu	Guam	125.5
+wf	Wallis and Futuna	129
+kn	Saint Kitts and Nevis	135
+cx	Christmas Island	138.9
+dm	Dominica	148
+ag	Antigua and Barbuda	153
+lc	Saint Lucia	158
+im	Isle of Man	160
+ky	Cayman Islands	160
+bh	Bahrain	161
+bn	Brunei	161
+cg	Congo (Brazzaville)	169
+mu	Mauritius	177
+vi	Virgin Islands	188
+sg	Singapore	193
+sy	Syria	193
+mt	Malta	196.8
+st	Sao Tome and Principe	209
+lb	Lebanon	225
+ro	Romania	225
+il	Israel	273
+me	Montenegro	293.5
+gq	Equatorial Guinea	296
+sv	El Salvador	307
+ge	Georgia	310
+dj	Djibouti	314
+gn	Guinea	320
+km	Comoros	340
+gw	Guinea-Bissau	350
+bg	Bulgaria	354
+al	Albania	362
+tt	Trinidad and Tobago	362
+cw	Curacao	364
+mh	Marshall Islands	370.4
+bz	Belize	386
+sr	Suriname	386
+tc	Turks and Caicos Islands	389
+gt	Guatemala	400
+cm	Cameroon	402
+sl	Sierra Leone	402
+ws	Samoa	403
+to	Tonga	419
+pl	Poland	440
+kh	Cambodia	443
+nl	Netherlands	451
+gy	Guyana	459
+sc	Seychelles	491
+lv	Latvia	498
+kw	Kuwait	499
+pr	Puerto Rico	501
+ci	Cote d'Ivoire	515
+sn	Senegal	531
+ke	Kenya	536
+gh	Ghana	539
+qa	Qatar	563
+lr	Liberia	579
+bd	Bangladesh	580
+mv	Maldives	644
+cy	Cyprus	648
+uy	Uruguay	660
+tl	Timor-Leste	706
+hk	Hong Kong	733
+mr	Mauritania	754
+hn	Honduras	823
+ng	Nigeria	853
+sd	Sudan	853
+ga	Gabon	885
+ni	Nicaragua	910
+cv	Cabo Verde	965
+dz	Algeria	998
+jm	Jamaica	1022
+pk	Pakistan	1046
+eh	Western Sahara	1110
+fo	Faroe Islands	1117
+fj	Fiji	1129
+ki	Kiribati	1143
+tn	Tunisia	1148
+fi	Finland	1250
+do	The Dominican	1288
+fk	Falkland Islands (Islas Malvinas)	1288
+cr	Costa Rica	1290
+lk	Sri Lanka	1340
+tz	Tanzania	1424
+ie	Ireland	1448
+mp	Northern Mariana Islands	1482
+pw	Palau	1519
+tw	Taiwan	1566.3
+na	Namibia	1572
+ao	Angola	1600
+ly	Libya	1770
+ht	Haiti	1771
+pt	Portugal	1793
+ye	Yemen	1906
+mm	Burma	1930
+om	Oman	2092
+er	Eritrea	2234
+ec	Ecuador	2237
+nc	New Caledonia	2254
+de	Germany	2389
+kr	South Korea	2413
+pe	Peru	2414
+ir	Iran	2440
+eg	Egypt	2450
+mz	Mozambique	2470
+pa	Panama	2490
+kp	North Korea	2495
+pf	French Polynesia	2525
+vu	Vanuatu	2528
+sa	Saudi Arabia	2640
+ua	Ukraine	2782
+za	South Africa	2798
+ve	Venezuela	2800
+ma	Morocco	2945
+so	Somalia	3025
+co	Colombia	3208
+se	Sweden	3218
+th	Thailand	3219
+vn	Vietnam	3444
+bs	The Bahamas	3542
+cu	Cuba	3735
+ee	Estonia	3794
+my	Malaysia	4675
+mg	Madagascar	4828
+fr	France	4853
+es	Spain	4964
+is	Iceland	4970
+ar	Argentina	4989
+pg	Papua New Guinea	5152
+sb	Solomon Islands	5313
+hr	Croatia	5835
+cl	Chile	6435
+in	India	7000
+tr	Turkey	7200
+dk	Denmark	7314
+br	Brazil	7491
+it	Italy	7600
+mx	Mexico	9330
+gr	Greece	13676
+cn	China	14500
+nz	New Zealand	15134
+aq	Antarctica	17968
+us	United States	19924
+no	Norway	25148
+au	Australia	25760
+jp	Japan	29751
+ph	Philippines	36289
+ru	Russia	37653
+gl	Greenland	44087
+id	Indonesia	54716
+ca	Canada	202080

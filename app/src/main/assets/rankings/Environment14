@@ -1,0 +1,224 @@
+#ranking=Environment/Urbanization/urban population
+#unit=% of total population 
+tk	Tokelau	0
+wf	Wallis and Futuna	0
+ms	Montserrat	9.3
+pg	Papua New Guinea	13.7
+li	Liechtenstein	14.6
+bi	Burundi	14.8
+ne	Niger	17.1
+ws	Samoa	17.5
+rw	Rwanda	17.9
+mw	Malawi	18.3
+lc	Saint Lucia	19.2
+lk	Sri Lanka	19.2
+ss	South Sudan	21.2
+np	Nepal	21.9
+et	Ethiopia	23.2
+to	Tonga	23.2
+ag	Antigua and Barbuda	24.3
+td	Chad	24.4
+sz	Eswatini	24.8
+kh	Cambodia	25.6
+sb	Solomon Islands	26
+vu	Vanuatu	26
+ug	Uganda	26.8
+af	Afghanistan	26.9
+gy	Guyana	27.2
+tj	Tajikistan	28.2
+ke	Kenya	29.5
+km	Comoros	30.1
+ls	Lesotho	30.4
+kn	Saint Kitts and Nevis	31.1
+gg	Guernsey	31.2
+je	Jersey	31.2
+bb	Barbados	31.4
+mm	Burma	32.1
+bf	Burkina Faso	32.5
+tl	Timor-Leste	32.5
+zw	Zimbabwe	32.5
+sd	Sudan	36.3
+in	India	36.4
+gd	Grenada	37.1
+tz	Tanzania	37.4
+kg	Kyrgyzstan	37.8
+pk	Pakistan	38
+gn	Guinea	38.1
+la	Laos	38.2
+mz	Mozambique	38.8
+vn	Vietnam	39.5
+ye	Yemen	39.8
+bd	Bangladesh	40.5
+mg	Madagascar	40.6
+mu	Mauritius	40.9
+mv	Maldives	42
+fo	Faroe Islands	43
+eg	Egypt	43.1
+er	Eritrea	43.3
+md	Moldova	43.4
+aw	Aruba	44.3
+sl	Sierra Leone	44.3
+bt	Bhutan	44.4
+tg	Togo	44.5
+gw	Guinea-Bissau	45.5
+ml	Mali	46.2
+zm	Zambia	46.3
+bz	Belize	46.6
+cd	DRC	47.4
+so	Somalia	47.9
+nu	Niue	48.2
+ph	Philippines	48.3
+sn	Senegal	49.6
+vg	British Virgin Islands	49.7
+bj	Benin	50.1
+ba	Bosnia and Herzegovina	50.3
+uz	Uzbekistan	50.5
+ci	Cote d'Ivoire	53.1
+gt	Guatemala	53.1
+tt	Trinidad and Tobago	53.4
+im	Isle of Man	53.5
+lr	Liberia	53.6
+th	Thailand	53.6
+sk	Slovakia	54
+tm	Turkmenistan	54
+ng	Nigeria	54.3
+vc	Saint Vincent and the Grenadines	54.3
+ro	Romania	54.7
+na	Namibia	54.9
+si	Slovenia	56.1
+rs	Serbia	57.1
+jm	Jamaica	57.4
+sy	Syria	57.4
+az	Azerbaijan	57.6
+mr	Mauritania	57.7
+ki	Kiribati	57.8
+kz	Kazakhstan	58.2
+hr	Croatia	58.6
+id	Indonesia	58.6
+fj	Fiji	58.7
+sc	Seychelles	58.8
+gh	Ghana	59.2
+cm	Cameroon	59.3
+at	Austria	59.5
+mk	North Macedonia	59.5
+ht	Haiti	59.7
+ni	Nicaragua	59.8
+hn	Honduras	60.2
+pl	Poland	60.2
+ge	Georgia	60.7
+pf	French Polynesia	62.3
+py	Paraguay	63.1
+kp	North Korea	63.2
+am	Armenia	63.7
+gm	The Gambia	64.5
+ie	Ireland	64.5
+al	Albania	64.6
+cn	China	64.6
+ec	Ecuador	64.8
+ma	Morocco	65.1
+tv	Tuvalu	66.2
+sr	Suriname	66.4
+cy	Cyprus	67
+pt	Portugal	67.9
+cv	Cabo Verde	68
+me	Montenegro	68.5
+ao	Angola	68.7
+lt	Lithuania	68.7
+lv	Latvia	68.7
+za	South Africa	68.8
+mn	Mongolia	69.1
+cg	Congo (Brazzaville)	69.2
+pa	Panama	69.5
+ee	Estonia	69.8
+ua	Ukraine	70.1
+tn	Tunisia	70.5
+bo	Bolivia	71.2
+iq	Iraq	71.6
+dm	Dominica	72
+it	Italy	72
+nc	New Caledonia	72.7
+bw	Botswana	72.9
+hu	Hungary	72.9
+ch	Switzerland	74.2
+gq	Equatorial Guinea	74.4
+cz	Czechia	74.6
+dz	Algeria	75.3
+ru	Russia	75.3
+sv	El Salvador	75.4
+ck	Cook Islands	76.2
+st	Sao Tome and Principe	76.4
+bg	Bulgaria	76.7
+ir	Iran	77.3
+cu	Cuba	77.5
+tr	Turkey	77.5
+ps	Gaza Strip	77.6
+de	Germany	77.8
+dj	Djibouti	78.6
+my	Malaysia	78.7
+mh	Marshall Islands	78.9
+pe	Peru	78.9
+bn	Brunei	79.1
+fk	Falkland Islands (Islas Malvinas)	79.7
+tw	Taiwan	80.1
+by	Belarus	80.7
+gr	Greece	80.7
+kr	South Korea	81.5
+es	Spain	81.6
+ly	Libya	81.6
+mx	Mexico	81.6
+fr	France	81.8
+ca	Canada	81.9
+co	Colombia	82.4
+pw	Palau	82.4
+cr	Costa Rica	82.6
+us	United States	83.3
+bs	The Bahamas	83.6
+no	Norway	84
+do	The Dominican	84.4
+sa	Saudi Arabia	85
+fi	Finland	85.8
+au	Australia	86.6
+nz	New Zealand	87
+as	American Samoa	87.2
+ad	Andorra	87.8
+br	Brazil	87.8
+gl	Greenland	87.9
+cl	Chile	88
+om	Oman	88.4
+ve	Venezuela	88.4
+dk	Denmark	88.5
+se	Sweden	88.7
+cw	Curacao	89
+lb	Lebanon	89.4
+bh	Bahrain	89.9
+pm	Saint Pierre and Miquelon	90.1
+ga	Gabon	91
+jo	Jordan	92
+jp	Japan	92
+lu	Luxembourg	92.1
+mp	Northern Mariana Islands	92.1
+ar	Argentina	92.5
+il	Israel	92.9
+nl	Netherlands	93.2
+pr	Puerto Rico	93.6
+is	Iceland	94
+tc	Turks and Caicos Islands	94.2
+mt	Malta	94.9
+gu	Guam	95.2
+uy	Uruguay	95.8
+vi	Virgin Islands	96.2
+sm	San Marino	97.8
+be	Belgium	98.2
+qa	Qatar	99.4
+ai	Anguilla	100
+bm	Bermuda	100
+gi	Gibraltar	100
+hk	Hong Kong	100
+kw	Kuwait	100
+ky	Cayman Islands	100
+mc	Monaco	100
+mo	Macau	100
+nr	Nauru	100
+sg	Singapore	100
+sx	Sint Maarten	100
+va	Holy See (Vatican City)	100

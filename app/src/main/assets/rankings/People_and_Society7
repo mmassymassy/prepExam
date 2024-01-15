@@ -1,0 +1,187 @@
+#ranking=People and Society/Alcohol consumption per capita/total
+#unit=liters of pure alcohol (2019 est.)
+bd	Bangladesh	0
+kw	Kuwait	0
+mr	Mauritania	0
+sa	Saudi Arabia	0
+so	Somalia	0
+af	Afghanistan	0.01
+ly	Libya	0.01
+ir	Iran	0.02
+ye	Yemen	0.02
+pk	Pakistan	0.04
+bt	Bhutan	0.07
+id	Indonesia	0.08
+ne	Niger	0.11
+sy	Syria	0.13
+eg	Egypt	0.14
+iq	Iraq	0.16
+km	Comoros	0.18
+dj	Djibouti	0.21
+jo	Jordan	0.25
+sn	Senegal	0.25
+to	Tonga	0.31
+gn	Guinea	0.33
+np	Nepal	0.36
+tl	Timor-Leste	0.41
+ki	Kiribati	0.43
+om	Oman	0.47
+ma	Morocco	0.51
+td	Chad	0.55
+cd	DRC	0.56
+dz	Algeria	0.59
+ml	Mali	0.6
+my	Malaysia	0.64
+bn	Brunei	0.69
+tj	Tajikistan	0.85
+mg	Madagascar	0.89
+er	Eritrea	0.93
+tv	Tuvalu	0.93
+qa	Qatar	0.96
+lb	Lebanon	1.14
+et	Ethiopia	1.16
+bh	Bahrain	1.18
+tr	Turkey	1.18
+sb	Solomon Islands	1.19
+bj	Benin	1.25
+pg	Papua New Guinea	1.26
+az	Azerbaijan	1.38
+mv	Maldives	1.38
+tg	Togo	1.4
+mz	Mozambique	1.46
+tn	Tunisia	1.51
+gh	Ghana	1.59
+vu	Vanuatu	1.6
+gt	Guatemala	1.63
+ke	Kenya	1.68
+ci	Cote d'Ivoire	1.7
+sg	Singapore	1.81
+sd	Sudan	1.93
+mw	Malawi	2.04
+mm	Burma	2.06
+ws	Samoa	2.18
+na	Namibia	2.38
+nr	Nauru	2.44
+uz	Uzbekistan	2.45
+ve	Venezuela	2.51
+lk	Sri Lanka	2.58
+gm	The Gambia	2.67
+fj	Fiji	2.71
+hn	Honduras	2.73
+ht	Haiti	2.85
+tm	Turkmenistan	2.88
+sv	El Salvador	2.94
+bo	Bolivia	2.98
+ec	Ecuador	3.05
+cr	Costa Rica	3.07
+il	Israel	3.07
+in	India	3.09
+zw	Zimbabwe	3.11
+lr	Liberia	3.12
+gw	Guinea-Bissau	3.21
+sl	Sierra Leone	3.22
+mu	Mauritius	3.39
+vn	Vietnam	3.41
+jm	Jamaica	3.46
+ls	Lesotho	3.56
+kp	North Korea	3.61
+ni	Nicaragua	3.69
+kz	Kazakhstan	3.73
+am	Armenia	3.77
+zm	Zambia	3.82
+mk	North Macedonia	3.9
+kg	Kyrgyzstan	4.02
+bi	Burundi	4.07
+cm	Cameroon	4.09
+co	Colombia	4.09
+st	Sao Tome and Principe	4.23
+mx	Mexico	4.25
+al	Albania	4.4
+cn	China	4.48
+ng	Nigeria	4.49
+kh	Cambodia	4.56
+cu	Cuba	4.7
+cv	Cabo Verde	4.7
+ph	Philippines	4.85
+gy	Guyana	5.11
+uy	Uruguay	5.42
+ba	Bosnia and Herzegovina	5.46
+mn	Mongolia	5.46
+py	Paraguay	5.47
+do	The Dominican	5.56
+ua	Ukraine	5.69
+cg	Congo (Brazzaville)	5.74
+pe	Peru	5.74
+tt	Trinidad and Tobago	5.81
+ao	Angola	5.84
+bz	Belize	5.93
+bw	Botswana	5.98
+no	Norway	6.05
+gq	Equatorial Guinea	6.11
+br	Brazil	6.12
+dm	Dominica	6.32
+gr	Greece	6.33
+rw	Rwanda	6.35
+ga	Gabon	6.47
+pa	Panama	6.54
+sr	Suriname	6.6
+ug	Uganda	6.82
+th	Thailand	6.86
+se	Sweden	7.1
+za	South Africa	7.21
+bf	Burkina Faso	7.28
+ru	Russia	7.29
+ge	Georgia	7.45
+md	Moldova	7.45
+rs	Serbia	7.45
+vc	Saint Vincent and the Grenadines	7.48
+it	Italy	7.65
+sz	Eswatini	7.68
+is	Iceland	7.72
+kr	South Korea	7.74
+cl	Chile	7.8
+tz	Tanzania	7.81
+ar	Argentina	7.95
+ca	Canada	8
+mt	Malta	8.07
+la	Laos	8.15
+fi	Finland	8.23
+nl	Netherlands	8.23
+jp	Japan	8.36
+nu	Niue	8.5
+gd	Grenada	8.62
+kn	Saint Kitts and Nevis	8.84
+us	United States	8.93
+be	Belgium	9.15
+dk	Denmark	9.16
+nz	New Zealand	9.17
+lc	Saint Lucia	9.3
+ch	Switzerland	9.41
+bs	The Bahamas	9.48
+sc	Seychelles	9.48
+au	Australia	9.51
+cy	Cyprus	9.59
+hr	Croatia	9.64
+me	Montenegro	9.91
+bb	Barbados	9.94
+sk	Slovakia	10.3
+pt	Portugal	10.37
+de	Germany	10.56
+by	Belarus	10.57
+es	Spain	10.72
+hu	Hungary	10.79
+ie	Ireland	10.91
+pl	Poland	10.96
+ro	Romania	10.96
+ad	Andorra	10.99
+lu	Luxembourg	11
+si	Slovenia	11.05
+bg	Bulgaria	11.18
+fr	France	11.44
+ee	Estonia	11.65
+ag	Antigua and Barbuda	11.88
+at	Austria	11.9
+lt	Lithuania	11.93
+cz	Czechia	12.73
+lv	Latvia	12.9
+ck	Cook Islands	12.97

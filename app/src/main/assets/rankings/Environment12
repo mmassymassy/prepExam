@@ -1,0 +1,182 @@
+#ranking=Environment/Total water withdrawal/municipal
+#unit=cubic meters 
+cv	Cabo Verde	1600000.0
+km	Comoros	4800000.0
+ag	Antigua and Barbuda	10000000
+bz	Belize	10000000
+gd	Grenada	10000000
+lc	Saint Lucia	10000000
+li	Liechtenstein	10000000
+mc	Monaco	10000000
+mv	Maldives	10000000
+sc	Seychelles	10000000
+st	Sao Tome and Principe	10000000
+vc	Saint Vincent and the Grenadines	10000000
+bb	Barbados	20000000
+bt	Bhutan	20000000
+dj	Djibouti	20000000
+dm	Dominica	20000000
+gq	Equatorial Guinea	20000000
+kn	Saint Kitts and Nevis	20000000
+ls	Lesotho	20000000
+so	Somalia	20000000
+bs	The Bahamas	30000000
+er	Eritrea	30000000
+fj	Fiji	30000000
+gw	Guinea-Bissau	30000000
+bi	Burundi	40000000
+gm	The Gambia	40000000
+mt	Malta	40000000
+sz	Eswatini	40000000
+lu	Luxembourg	50000000
+mn	Mongolia	50000000
+sr	Suriname	50000000
+cg	Congo (Brazzaville)	60000000
+ee	Estonia	60000000
+gy	Guyana	60000000
+na	Namibia	70000000
+ga	Gabon	80000000
+is	Iceland	80000000
+lr	Liberia	80000000
+lv	Latvia	90000000
+cy	Cyprus	100000000
+kh	Cambodia	100000000
+me	Montenegro	100000000
+mr	Mauritania	100000000
+td	Chad	100000000
+tl	Timor-Leste	100000000
+bw	Botswana	110000000
+ml	Mali	110000000
+sl	Sierra Leone	110000000
+la	Laos	130000000
+om	Oman	130000000
+bo	Bolivia	140000000
+jm	Jamaica	140000000
+lt	Lithuania	140000000
+mw	Malawi	140000000
+tg	Togo	140000000
+bj	Benin	150000000
+bn	Brunei	150000000
+np	Nepal	150000000
+md	Moldova	160000000
+si	Slovenia	170000000
+ps	Gaza Strip	181200000.0
+ht	Haiti	190000000
+ne	Niger	190000000
+ss	South Sudan	190000000
+af	Afghanistan	200000000
+kg	Kyrgyzstan	220000000
+pg	Papua New Guinea	220000000
+al	Albania	230000000
+gn	Guinea	230000000
+rw	Rwanda	230000000
+lb	Lebanon	240000000
+tt	Trinidad and Tobago	240000000
+cm	Cameroon	250000000
+sn	Senegal	260000000
+ye	Yemen	270000000
+bh	Bahrain	280000000
+ni	Nicaragua	286000000
+mu	Mauritius	290000000
+sk	Slovakia	290000000
+zm	Zambia	290000000
+gh	Ghana	300000000
+sg	Singapore	300000000
+ba	Bosnia and Herzegovina	310000000
+mk	North Macedonia	310000000
+ao	Angola	320000000
+ci	Cote d'Ivoire	320000000
+hn	Honduras	320000000
+ug	Uganda	330000000
+py	Paraguay	360000000
+mz	Mozambique	370000000
+bf	Burkina Faso	380000000
+az	Azerbaijan	400000000
+dk	Denmark	400000000
+mg	Madagascar	400000000
+uy	Uruguay	410000000
+kw	Kuwait	450000000
+tm	Turkmenistan	450000000
+cd	DRC	460000000
+hr	Croatia	460000000
+sv	El Salvador	470000000
+jo	Jordan	500000000
+ke	Kenya	500000000
+nz	New Zealand	500000000
+qa	Qatar	530000000
+tz	Tanzania	530000000
+by	Belarus	550000000
+ge	Georgia	610000000
+cz	Czechia	630000000
+am	Armenia	650000000
+zw	Zimbabwe	650000000
+hu	Hungary	660000000
+rs	Serbia	680000000
+ly	Libya	700000000
+se	Sweden	700000000
+at	Austria	720000000
+be	Belgium	740000000
+pa	Panama	760000000
+no	Norway	780000000
+pr	Puerto Rico	800000000
+et	Ethiopia	810000000
+lk	Sri Lanka	810000000
+tn	Tunisia	820000000
+cr	Costa Rica	830000000
+bg	Bulgaria	840000000
+gt	Guatemala	840000000
+do	The Dominican	860000000
+pt	Portugal	880000000
+kp	North Korea	900000000
+tj	Tajikistan	910000000
+sd	Sudan	950000000
+ch	Switzerland	970000000
+ie	Ireland	990000000
+fi	Finland	1000000000
+il	Israel	1000000000
+ma	Morocco	1060000000.0
+ro	Romania	1090000000.0
+vn	Vietnam	1210000000.0
+cl	Chile	1290000000.0
+ec	Ecuador	1290000000.0
+my	Malaysia	1340000000.0
+sy	Syria	1480000000.0
+gr	Greece	1690000000.0
+cu	Cuba	1700000000.0
+pl	Poland	1960000000.0
+nl	Netherlands	2049999999.9999998
+pe	Peru	2240000000.0
+au	Australia	2290000000.0
+uz	Uzbekistan	2410000000.0
+th	Thailand	2740000000.0
+ua	Ukraine	2770000000.0
+za	South Africa	3110000000.0
+mm	Burma	3320000000.0
+sa	Saudi Arabia	3390000000.0
+bd	Bangladesh	3600000000.0
+dz	Algeria	3600000000.0
+co	Colombia	3720000000.0
+es	Spain	4560000000.0
+kz	Kazakhstan	4620000000.0
+ca	Canada	4870000000.0
+ng	Nigeria	5000000000
+ve	Venezuela	5120000000.0
+fr	France	5310000000.0
+ar	Argentina	5850000000.0
+ir	Iran	6200000000.0
+kr	South Korea	6672000000.0
+iq	Iraq	6900000000.0
+tr	Turkey	6910000000.0
+ph	Philippines	8160000000.0
+it	Italy	9190000000.0
+pk	Pakistan	9650000000.0
+de	Germany	10400000000.0
+eg	Egypt	10750000000.0
+mx	Mexico	13170000000.0
+jp	Japan	14800000000.0
+br	Brazil	16129999999.999998
+ru	Russia	17149999999.999998
+id	Indonesia	23800000000.0
+in	India	56000000000
+us	United States	58390000000.0
+cn	China	117010000000.0

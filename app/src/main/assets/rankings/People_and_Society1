@@ -1,0 +1,224 @@
+#ranking=People and Society/Age structure/0-14 years
+#unit=% (male 
+mc	Monaco	9.4
+kr	South Korea	11.53
+it	Italy	12.08
+tw	Taiwan	12.22
+jp	Japan	12.29
+ad	Andorra	12.31
+cx	Christmas Island	12.79
+pr	Puerto Rico	12.84
+pt	Portugal	12.85
+hk	Hong Kong	13.04
+qa	Qatar	13.08
+ba	Bosnia and Herzegovina	13.14
+es	Spain	13.37
+pm	Saint Pierre and Miquelon	13.42
+de	Germany	13.75
+hr	Croatia	13.98
+gr	Greece	14.02
+bg	Bulgaria	14.03
+at	Austria	14.08
+bl	Saint Barthelemy	14.1
+hu	Hungary	14.24
+sm	San Marino	14.34
+gg	Guernsey	14.38
+mo	Macau	14.42
+rs	Serbia	14.45
+pl	Poland	14.53
+mt	Malta	14.53
+si	Slovenia	14.55
+cz	Czechia	14.68
+sg	Singapore	14.82
+sk	Slovakia	14.87
+lv	Latvia	14.92
+li	Liechtenstein	15.27
+mu	Mauritius	15.3
+lt	Lithuania	15.3
+ch	Switzerland	15.49
+ee	Estonia	15.56
+ro	Romania	15.63
+cy	Cyprus	15.63
+ca	Canada	15.65
+by	Belarus	15.83
+ua	Ukraine	15.9
+ms	Montserrat	15.92
+th	Thailand	16
+nl	Netherlands	16.06
+mk	North Macedonia	16.06
+im	Isle of Man	16.15
+dk	Denmark	16.24
+fi	Finland	16.25
+cu	Cuba	16.39
+bm	Bermuda	16.45
+cn	China	16.48
+vg	British Virgin Islands	16.56
+lu	Luxembourg	16.73
+bb	Barbados	16.78
+ru	Russia	16.86
+je	Jersey	16.89
+be	Belgium	17.03
+se	Sweden	17.26
+aw	Aruba	17.32
+ky	Cayman Islands	17.48
+pw	Palau	17.49
+no	Norway	17.83
+al	Albania	17.9
+me	Montenegro	17.93
+sc	Seychelles	17.95
+am	Armenia	17.98
+md	Moldova	18.01
+fr	France	18.04
+bh	Bahrain	18.14
+us	United States	18.15
+lc	Saint Lucia	18.23
+ge	Georgia	18.41
+au	Australia	18.43
+ck	Cook Islands	18.43
+sx	Sint Maarten	18.52
+uy	Uruguay	19.02
+tt	Trinidad and Tobago	19.04
+vc	Saint Vincent and the Grenadines	19.05
+vi	Virgin Islands	19.07
+nz	New Zealand	19.15
+lb	Lebanon	19.21
+cw	Curacao	19.3
+cl	Chile	19.34
+kn	Saint Kitts and Nevis	19.4
+br	Brazil	19.77
+fo	Faroe Islands	19.9
+wf	Wallis and Futuna	19.98
+is	Iceland	19.98
+gi	Gibraltar	19.99
+kp	North Korea	20.24
+ie	Ireland	20.39
+gl	Greenland	20.46
+pf	French Polynesia	20.62
+tc	Turks and Caicos Islands	20.7
+dm	Dominica	20.82
+nc	New Caledonia	20.96
+ai	Anguilla	21
+bs	The Bahamas	21.37
+cr	Costa Rica	21.49
+az	Azerbaijan	21.78
+bn	Brunei	21.83
+lk	Sri Lanka	21.95
+ag	Antigua and Barbuda	21.97
+tr	Turkey	22.12
+gd	Grenada	22.23
+mv	Maldives	22.25
+py	Paraguay	22.4
+co	Colombia	22.45
+my	Malaysia	22.46
+uz	Uzbekistan	22.48
+mp	Northern Mariana Islands	22.61
+sr	Suriname	22.77
+xk	Kosovo	23.1
+kw	Kuwait	23.32
+vn	Vietnam	23.44
+sa	Saudi Arabia	23.45
+bt	Bhutan	23.49
+ir	Iran	23.51
+ar	Argentina	23.51
+gy	Guyana	23.65
+mx	Mexico	23.76
+jm	Jamaica	24.11
+ni	Nicaragua	24.16
+id	Indonesia	24.22
+ec	Ecuador	24.49
+tm	Turkmenistan	24.63
+tn	Tunisia	24.77
+in	India	24.77
+mm	Burma	24.89
+ve	Venezuela	25.13
+fj	Fiji	25.17
+pa	Panama	25.19
+kz	Kazakhstan	25.26
+bd	Bangladesh	25.38
+sv	El Salvador	25.4
+as	American Samoa	25.91
+do	The Dominican	25.92
+il	Israel	25.96
+ma	Morocco	26.01
+pe	Peru	26.04
+mn	Mongolia	26.16
+np	Nepal	26.32
+gu	Guam	26.64
+cv	Cabo Verde	26.68
+ki	Kiribati	27.06
+za	South Africa	27.29
+ws	Samoa	27.33
+hn	Honduras	27.92
+dj	Djibouti	28.65
+dz	Algeria	28.78
+bo	Bolivia	29.14
+bw	Botswana	29.17
+tv	Tuvalu	29.27
+kh	Cambodia	29.47
+kg	Kyrgyzstan	29.54
+ht	Haiti	29.68
+om	Oman	29.88
+to	Tonga	29.92
+tj	Tajikistan	29.98
+nr	Nauru	30.13
+ph	Philippines	30.49
+la	Laos	30.63
+mh	Marshall Islands	30.65
+bz	Belize	30.93
+sb	Solomon Islands	31.06
+jo	Jordan	31.42
+vu	Vanuatu	31.73
+gt	Guatemala	31.98
+sz	Eswatini	32.16
+ls	Lesotho	32.4
+ly	Libya	32.81
+sy	Syria	33.27
+km	Comoros	33.45
+eg	Egypt	34.37
+na	Namibia	34.38
+pk	Pakistan	34.81
+ga	Gabon	35.04
+ye	Yemen	35.14
+iq	Iraq	35.24
+gq	Equatorial Guinea	36.05
+mr	Mauritania	36.11
+er	Eritrea	36.27
+eh	Western Sahara	36.29
+ke	Kenya	36.45
+ci	Cote d'Ivoire	36.65
+st	Sao Tome and Principe	37.21
+pg	Papua New Guinea	37.34
+mg	Madagascar	37.47
+gh	Ghana	37.72
+rw	Rwanda	37.95
+zw	Zimbabwe	38.16
+mw	Malawi	38.54
+gm	The Gambia	38.86
+et	Ethiopia	38.91
+tg	Togo	38.98
+tl	Timor-Leste	39.05
+ps	Gaza Strip	39.75
+af	Afghanistan	39.8
+cg	Congo (Brazzaville)	40.44
+sd	Sudan	40.47
+sl	Sierra Leone	40.54
+ng	Nigeria	40.69
+gn	Guinea	40.96
+sn	Senegal	41.19
+tz	Tanzania	41.5
+so	Somalia	41.54
+cm	Cameroon	41.69
+ss	South Sudan	41.93
+bf	Burkina Faso	42.19
+zm	Zambia	42.49
+gw	Guinea-Bissau	42.51
+bi	Burundi	42.67
+lr	Liberia	42.69
+mz	Mozambique	45
+bj	Benin	45.37
+cd	DRC	45.99
+td	Chad	46.24
+ml	Mali	47.05
+ao	Angola	47.18
+ug	Uganda	47.3
+ne	Niger	49.7

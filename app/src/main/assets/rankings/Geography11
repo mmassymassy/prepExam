@@ -1,0 +1,227 @@
+#ranking=Geography/Land use/other
+#unit=% 
+as	American Samoa	0
+ga	Gabon	0
+gm	The Gambia	0
+gw	Guinea-Bissau	0
+mh	Marshall Islands	0
+mz	Mozambique	0
+sd	Sudan	0
+sz	Eswatini	0
+bt	Bhutan	0.9
+pw	Palau	1.6
+zm	Zambia	2
+py	Paraguay	2.4
+ci	Cote d'Ivoire	2.5
+uy	Uruguay	2.6
+cg	Congo (Brazzaville)	3.3
+sr	Suriname	4.9
+sc	Seychelles	5
+br	Brazil	5.2
+xk	Kosovo	5.5
+lc	Saint Lucia	5.6
+vc	Saint Vincent and the Grenadines	5.7
+dm	Dominica	6.1
+gr	Greece	6.1
+sl	Sierra Leone	6.3
+tv	Tuvalu	6.7
+mw	Malawi	6.8
+mg	Madagascar	7.4
+rw	Rwanda	7.5
+fk	Falkland Islands (Islas Malvinas)	7.6
+do	The Dominican	7.7
+co	Colombia	8.1
+es	Spain	9.1
+sn	Senegal	9.4
+gh	Ghana	9.7
+nu	Niue	9.7
+er	Eritrea	9.8
+rs	Serbia	10.5
+ro	Romania	10.6
+cz	Czechia	10.8
+cr	Costa Rica	11.4
+kh	Cambodia	11.4
+sv	El Salvador	11.7
+mx	Mexico	11.8
+ua	Ukraine	12
+cu	Cuba	12.4
+ng	Nigeria	12.5
+za	South Africa	13
+bo	Bolivia	13.2
+md	Moldova	13.2
+by	Belarus	13.6
+gy	Guyana	14.2
+km	Comoros	14.2
+ug	Uganda	14.3
+at	Austria	14.4
+my	Malaysia	14.8
+pr	Puerto Rico	14.8
+si	Slovenia	14.9
+ba	Bosnia and Herzegovina	15
+wf	Wallis and Futuna	15.3
+gn	Guinea	15.4
+lu	Luxembourg	15.8
+mk	North Macedonia	15.9
+bg	Bulgaria	16.4
+in	India	16.4
+lv	Latvia	16.7
+id	Indonesia	17.1
+sb	Solomon Islands	17.2
+gd	Grenada	17.7
+kr	South Korea	18
+zw	Zimbabwe	18
+fr	France	18.1
+hu	Hungary	18.6
+gu	Guam	18.7
+bd	Bangladesh	18.8
+sa	Saudi Arabia	18.8
+jp	Japan	19
+tz	Tanzania	19
+so	Somalia	19.1
+im	Isle of Man	19.2
+tm	Turkmenistan	19.2
+li	Liechtenstein	19.3
+fi	Finland	19.6
+sk	Slovakia	19.7
+mn	Mongolia	20
+bi	Burundi	20.1
+de	Germany	20.2
+vn	Vietnam	20.2
+lt	Lithuania	20.6
+cd	DRC	20.7
+fj	Fiji	21
+ma	Morocco	21
+pl	Poland	21.2
+st	Sao Tome and Principe	21.2
+kz	Kazakhstan	21.4
+me	Montenegro	21.4
+it	Italy	21.5
+la	Laos	21.5
+sy	Syria	21.5
+th	Thailand	21.6
+us	United States	22.2
+ls	Lesotho	22.4
+pt	Portugal	22.5
+cn	China	23
+ie	Ireland	23
+lb	Lebanon	23.3
+ve	Venezuela	23.4
+dk	Denmark	23.7
+se	Sweden	23.8
+ge	Georgia	25.1
+gt	Guatemala	25.2
+nz	New Zealand	25.4
+pn	Pitcairn Islands	25.5
+bn	Brunei	25.7
+ee	Estonia	25.7
+tl	Timor-Leste	25.8
+hn	Honduras	25.9
+pa	Panama	25.9
+ad	Andorra	26
+dj	Djibouti	26.4
+ck	Cook Islands	27
+lk	Sri Lanka	27.1
+ws	Samoa	27.2
+lr	Liberia	27.3
+jm	Jamaica	27.5
+tg	Togo	27.7
+mp	Northern Mariana Islands	27.9
+al	Albania	28.2
+pe	Peru	28.2
+tn	Tunisia	28.6
+bj	Benin	28.7
+vg	British Virgin Islands	29
+uz	Uzbekistan	29.7
+ch	Switzerland	29.8
+ht	Haiti	30
+az	Azerbaijan	31.1
+vi	Virgin Islands	31.1
+am	Armenia	31.2
+ec	Ecuador	31.4
+kp	North Korea	32.2
+gq	Equatorial Guinea	32.4
+bz	Belize	32.5
+ni	Nicaragua	32.5
+mm	Burma	32.6
+ph	Philippines	33.1
+au	Australia	33.42
+be	Belgium	33.5
+je	Jersey	34
+nl	Netherlands	34.1
+pg	Papua New Guinea	34.3
+bw	Botswana	34.4
+kn	Saint Kitts and Nevis	34.6
+ar	Argentina	35.4
+tr	Turkey	35.4
+ky	Cayman Islands	35.9
+bf	Burkina Faso	36.5
+ru	Russia	37.5
+cm	Cameroon	37.7
+ai	Anguilla	38.9
+mu	Mauritius	38.9
+kg	Kyrgyzstan	39.5
+tk	Tokelau	40
+af	Afghanistan	40.1
+hr	Croatia	41.9
+ki	Kiribati	43
+ss	South Sudan	43.5
+nc	New Caledonia	43.7
+pf	French Polynesia	43.8
+na	Namibia	44
+to	Tonga	44.4
+ms	Montserrat	45
+tt	Trinidad and Tobago	45.4
+ke	Kenya	45.8
+np	Nepal	45.8
+bs	The Bahamas	47.2
+bb	Barbados	48
+vu	Vanuatu	48.6
+td	Chad	51.3
+et	Ethiopia	51.5
+ye	Yemen	54.5
+ml	Mali	55.7
+cl	Chile	57
+ca	Canada	59.1
+cv	Cabo Verde	60.4
+ag	Antigua and Barbuda	60.8
+mr	Mauritania	61.3
+tj	Tajikistan	62.4
+pk	Pakistan	62.7
+tc	Turks and Caicos Islands	62.7
+ir	Iran	63.1
+nf	Norfolk Island	63.5
+ne	Niger	63.9
+bm	Bermuda	65.2
+mt	Malta	66.8
+cy	Cyprus	67.8
+il	Israel	69.1
+no	Norway	69.5
+mv	Maldives	73.7
+tw	Taiwan	77.3
+eh	Western Sahara	78.5
+pm	Saint Pierre and Miquelon	78.8
+iq	Iraq	80
+nr	Nauru	80
+is	Iceland	81
+dz	Algeria	81.8
+sm	San Marino	83.3
+aw	Aruba	86.6
+jo	Jordan	87.5
+bh	Bahrain	88
+cw	Curacao	90
+kw	Kuwait	91.1
+ly	Libya	91.1
+qa	Qatar	94.4
+hk	Hong Kong	95
+om	Oman	95.3
+sg	Singapore	95.7
+eg	Egypt	96.3
+fo	Faroe Islands	97.8
+mc	Monaco	99
+gl	Greenland	99.4
+cc	Cocos (Keeling) Islands	100
+cx	Christmas Island	100
+gi	Gibraltar	100
+hm	Heard Island and McDonald Islands	100
+mo	Macau	100
+va	Holy See (Vatican City)	100

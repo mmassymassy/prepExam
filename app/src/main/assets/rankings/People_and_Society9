@@ -1,0 +1,224 @@
+#ranking=People and Society/Birth rate
+#unit=births/1,000 population 
+pm	Saint Pierre and Miquelon	6.54
+mc	Monaco	6.61
+ad	Andorra	6.87
+jp	Japan	6.9
+kr	South Korea	6.95
+it	Italy	7
+es	Spain	7.12
+tw	Taiwan	7.33
+gr	Greece	7.52
+pr	Puerto Rico	7.84
+hk	Hong Kong	7.85
+bg	Bulgaria	7.97
+pt	Portugal	7.99
+si	Slovenia	8.12
+ba	Bosnia and Herzegovina	8.31
+pl	Poland	8.31
+cz	Czechia	8.43
+ee	Estonia	8.48
+lv	Latvia	8.5
+hu	Hungary	8.58
+hr	Croatia	8.6
+ro	Romania	8.63
+sk	Slovakia	8.78
+ua	Ukraine	8.79
+mo	Macau	8.82
+by	Belarus	8.87
+rs	Serbia	8.87
+sm	San Marino	8.88
+sg	Singapore	8.94
+de	Germany	9.02
+lt	Lithuania	9.09
+ru	Russia	9.22
+qa	Qatar	9.27
+bl	Saint Barthelemy	9.3
+at	Austria	9.39
+mt	Malta	9.59
+cn	China	9.69
+gg	Guernsey	9.73
+mu	Mauritius	9.82
+md	Moldova	9.94
+cu	Cuba	9.99
+th	Thailand	10.04
+ca	Canada	10.11
+ch	Switzerland	10.3
+li	Liechtenstein	10.3
+fi	Finland	10.33
+mk	North Macedonia	10.33
+cy	Cyprus	10.37
+im	Isle of Man	10.49
+tt	Trinidad and Tobago	10.62
+ms	Montserrat	10.66
+bb	Barbados	10.73
+se	Sweden	10.76
+ge	Georgia	10.79
+am	Armenia	10.8
+be	Belgium	10.86
+fk	Falkland Islands (Islas Malvinas)	10.9
+vg	British Virgin Islands	10.9
+bm	Bermuda	10.97
+nl	Netherlands	10.98
+me	Montenegro	11.04
+dk	Denmark	11.25
+vi	Virgin Islands	11.35
+fr	France	11.56
+pw	Palau	11.57
+lu	Luxembourg	11.59
+ky	Cayman Islands	11.62
+aw	Aruba	11.69
+lc	Saint Lucia	11.73
+no	Norway	11.89
+ai	Anguilla	11.9
+wf	Wallis and Futuna	12.05
+kn	Saint Kitts and Nevis	12.06
+ie	Ireland	12.08
+vc	Saint Vincent and the Grenadines	12.09
+sc	Seychelles	12.1
+us	United States	12.21
+au	Australia	12.23
+bh	Bahrain	12.3
+je	Jersey	12.31
+ck	Cook Islands	12.34
+sx	Sint Maarten	12.41
+al	Albania	12.48
+cl	Chile	12.57
+uy	Uruguay	12.65
+nz	New Zealand	12.69
+is	Iceland	12.8
+lb	Lebanon	12.86
+cw	Curacao	13.07
+az	Azerbaijan	13.2
+pf	French Polynesia	13.22
+tc	Turks and Caicos Islands	13.24
+br	Brazil	13.44
+gd	Grenada	13.61
+lk	Sri Lanka	13.61
+dm	Dominica	13.64
+gl	Greenland	13.66
+gi	Gibraltar	13.84
+sa	Saudi Arabia	13.9
+mx	Mexico	13.95
+nc	New Caledonia	13.96
+cr	Costa Rica	14.03
+tr	Turkey	14.04
+tn	Tunisia	14.05
+kp	North Korea	14.06
+my	Malaysia	14.39
+bs	The Bahamas	14.49
+xk	Kosovo	14.57
+ir	Iran	14.79
+kz	Kazakhstan	14.92
+fo	Faroe Islands	14.94
+ag	Antigua and Barbuda	15.01
+id	Indonesia	15.05
+co	Colombia	15.06
+sr	Suriname	15.17
+uz	Uzbekistan	15.18
+vn	Vietnam	15.29
+mv	Maldives	15.33
+mn	Mongolia	15.37
+ar	Argentina	15.38
+mp	Northern Mariana Islands	15.6
+bt	Bhutan	15.61
+jm	Jamaica	15.77
+bn	Brunei	15.98
+mm	Burma	16.04
+py	Paraguay	16.15
+as	American Samoa	16.18
+ec	Ecuador	16.19
+fj	Fiji	16.25
+ni	Nicaragua	16.3
+in	India	16.53
+gy	Guyana	16.74
+pe	Peru	16.96
+ve	Venezuela	16.99
+ma	Morocco	17.1
+tm	Turkmenistan	17.16
+np	Nepal	17.26
+il	Israel	17.3
+sv	El Salvador	17.49
+bd	Bangladesh	17.5
+hn	Honduras	17.64
+kw	Kuwait	17.65
+pa	Panama	17.71
+do	The Dominican	17.8
+dz	Algeria	17.84
+bo	Bolivia	18.08
+cv	Cabo Verde	18.19
+za	South Africa	18.24
+gu	Guam	18.33
+kh	Cambodia	18.75
+ws	Samoa	19.03
+kg	Kyrgyzstan	19.08
+ki	Kiribati	19.92
+bw	Botswana	19.95
+to	Tonga	20.02
+tj	Tajikistan	20.28
+la	Laos	20.35
+eg	Egypt	20.48
+nr	Nauru	20.71
+ht	Haiti	20.81
+ly	Libya	20.88
+bz	Belize	20.93
+vu	Vanuatu	21.19
+mh	Marshall Islands	21.61
+om	Oman	21.62
+gt	Guatemala	21.88
+dj	Djibouti	22.03
+km	Comoros	22.06
+ph	Philippines	22.17
+sy	Syria	22.19
+sb	Solomon Islands	22.34
+tv	Tuvalu	22.34
+jo	Jordan	22.37
+sz	Eswatini	22.83
+ls	Lesotho	23.01
+ye	Yemen	24.05
+iq	Iraq	24.22
+na	Namibia	24.68
+rw	Rwanda	25.7
+ga	Gabon	25.89
+ke	Kenya	26.01
+pk	Pakistan	26.01
+er	Eritrea	26.72
+ps	Gaza Strip	27.2
+mw	Malawi	27.29
+st	Sao Tome and Principe	27.43
+mr	Mauritania	27.61
+ci	Cote d'Ivoire	27.92
+eh	Western Sahara	28
+gm	The Gambia	28.03
+gh	Ghana	28.04
+mg	Madagascar	28.14
+pg	Papua New Guinea	28.54
+gq	Equatorial Guinea	29.46
+et	Ethiopia	29.97
+tl	Timor-Leste	30.36
+sn	Senegal	30.84
+tg	Togo	31.39
+sl	Sierra Leone	31.49
+cg	Congo (Brazzaville)	31.55
+bf	Burkina Faso	32.71
+zw	Zimbabwe	32.77
+tz	Tanzania	32.9
+sd	Sudan	33.32
+ng	Nigeria	34
+zm	Zambia	34.48
+af	Afghanistan	34.79
+bi	Burundi	34.87
+cm	Cameroon	35.13
+gn	Guinea	35.47
+gw	Guinea-Bissau	36.25
+lr	Liberia	36.26
+mz	Mozambique	36.94
+ss	South Sudan	37.07
+so	Somalia	37.71
+cd	DRC	39.64
+td	Chad	39.85
+ug	Uganda	40.27
+ml	Mali	40.54
+bj	Benin	40.72
+ao	Angola	41.42
+ne	Niger	46.86

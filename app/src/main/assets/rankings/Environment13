@@ -1,0 +1,224 @@
+#ranking=Environment/Urbanization/rate of urbanization
+#unit=% annual rate of change 
+lb	Lebanon	-1.23
+lv	Latvia	-0.68
+bg	Bulgaria	-0.28
+ua	Ukraine	-0.27
+jp	Japan	-0.25
+bm	Bermuda	-0.2
+pl	Poland	-0.16
+ro	Romania	-0.15
+lt	Lithuania	-0.12
+pr	Puerto Rico	-0.12
+vi	Virgin Islands	-0.11
+ee	Estonia	-0.03
+ws	Samoa	-0.03
+tk	Tokelau	0
+va	Holy See (Vatican City)	0
+wf	Wallis and Futuna	0
+rs	Serbia	0.04
+hr	Croatia	0.05
+hu	Hungary	0.05
+md	Moldova	0.09
+ad	Andorra	0.11
+gr	Greece	0.11
+ru	Russia	0.11
+de	Germany	0.13
+sk	Slovakia	0.17
+nr	Nauru	0.18
+cu	Cuba	0.19
+cz	Czechia	0.2
+am	Armenia	0.23
+tt	Trinidad and Tobago	0.23
+es	Spain	0.24
+as	American Samoa	0.26
+it	Italy	0.27
+by	Belarus	0.28
+mt	Malta	0.28
+mu	Mauritius	0.28
+kr	South Korea	0.31
+ge	Georgia	0.35
+mp	Northern Mariana Islands	0.36
+be	Belgium	0.38
+uy	Uruguay	0.4
+gl	Greenland	0.41
+sm	San Marino	0.41
+fi	Finland	0.42
+pt	Portugal	0.44
+gi	Gibraltar	0.45
+me	Montenegro	0.45
+bb	Barbados	0.46
+ai	Anguilla	0.47
+mc	Monaco	0.5
+ck	Cook Islands	0.52
+fk	Falkland Islands (Islas Malvinas)	0.53
+dk	Denmark	0.54
+si	Slovenia	0.54
+cw	Curacao	0.57
+hk	Hong Kong	0.58
+nl	Netherlands	0.59
+ba	Bosnia and Herzegovina	0.61
+mh	Marshall Islands	0.61
+mk	North Macedonia	0.61
+pf	French Polynesia	0.65
+tw	Taiwan	0.65
+fr	France	0.67
+at	Austria	0.68
+gg	Guernsey	0.68
+je	Jersey	0.68
+is	Iceland	0.74
+sg	Singapore	0.74
+pm	Saint Pierre and Miquelon	0.75
+cy	Cyprus	0.76
+aw	Aruba	0.77
+cl	Chile	0.78
+ch	Switzerland	0.79
+jm	Jamaica	0.79
+dm	Dominica	0.84
+gu	Guam	0.84
+kp	North Korea	0.85
+gd	Grenada	0.86
+ag	Antigua and Barbuda	0.87
+br	Brazil	0.87
+sr	Suriname	0.88
+fo	Faroe Islands	0.89
+se	Sweden	0.89
+nz	New Zealand	0.92
+ms	Montserrat	0.94
+vc	Saint Vincent and the Grenadines	0.94
+ca	Canada	0.95
+us	United States	0.96
+ar	Argentina	0.97
+im	Isle of Man	0.97
+jo	Jordan	0.98
+lc	Saint Lucia	0.98
+sc	Seychelles	0.99
+to	Tonga	0.99
+co	Colombia	1.01
+gy	Guyana	1.01
+bs	The Bahamas	1.02
+kn	Saint Kitts and Nevis	1.06
+tr	Turkey	1.11
+ky	Cayman Islands	1.13
+ie	Ireland	1.15
+li	Liechtenstein	1.15
+sx	Sint Maarten	1.16
+ve	Venezuela	1.16
+kz	Kazakhstan	1.19
+lk	Sri Lanka	1.22
+uz	Uzbekistan	1.25
+au	Australia	1.27
+al	Albania	1.29
+ir	Iran	1.32
+no	Norway	1.32
+pe	Peru	1.33
+sv	El Salvador	1.33
+tn	Tunisia	1.34
+kw	Kuwait	1.35
+fj	Fiji	1.37
+az	Azerbaijan	1.38
+mn	Mongolia	1.4
+mx	Mexico	1.4
+lu	Luxembourg	1.43
+nu	Niue	1.43
+th	Thailand	1.43
+bn	Brunei	1.44
+ly	Libya	1.45
+ni	Nicaragua	1.45
+mo	Macau	1.46
+tc	Turks and Caicos Islands	1.46
+cr	Costa Rica	1.5
+il	Israel	1.51
+dj	Djibouti	1.56
+pw	Palau	1.59
+ec	Ecuador	1.62
+do	The Dominican	1.64
+py	Paraguay	1.64
+qa	Qatar	1.66
+sa	Saudi Arabia	1.69
+nc	New Caledonia	1.72
+za	South Africa	1.72
+vg	British Virgin Islands	1.73
+cn	China	1.78
+cv	Cabo Verde	1.83
+mm	Burma	1.85
+bo	Bolivia	1.87
+my	Malaysia	1.87
+ma	Morocco	1.88
+eg	Egypt	1.9
+pa	Panama	1.92
+bh	Bahrain	1.99
+dz	Algeria	1.99
+id	Indonesia	1.99
+ph	Philippines	2.04
+kg	Kyrgyzstan	2.05
+tv	Tuvalu	2.08
+pk	Pakistan	2.1
+tm	Turkmenistan	2.23
+ga	Gabon	2.27
+bz	Belize	2.3
+om	Oman	2.32
+in	India	2.33
+mv	Maldives	2.34
+zw	Zimbabwe	2.41
+sz	Eswatini	2.42
+bw	Botswana	2.47
+ht	Haiti	2.47
+hn	Honduras	2.48
+bt	Bhutan	2.52
+vu	Vanuatu	2.55
+gt	Guatemala	2.59
+vn	Vietnam	2.7
+tj	Tajikistan	2.73
+ki	Kiribati	2.77
+ls	Lesotho	2.77
+ps	Gaza Strip	2.85
+bd	Bangladesh	2.88
+iq	Iraq	2.91
+pg	Papua New Guinea	2.91
+st	Sao Tome and Principe	2.96
+km	Comoros	2.97
+la	Laos	2.99
+sl	Sierra Leone	3.02
+gh	Ghana	3.06
+kh	Cambodia	3.06
+rw	Rwanda	3.07
+np	Nepal	3.09
+cg	Congo (Brazzaville)	3.19
+gw	Guinea-Bissau	3.22
+tl	Timor-Leste	3.31
+af	Afghanistan	3.34
+ci	Cote d'Ivoire	3.38
+lr	Liberia	3.41
+cm	Cameroon	3.43
+sd	Sudan	3.43
+sb	Solomon Islands	3.57
+sn	Senegal	3.59
+tg	Togo	3.6
+gq	Equatorial Guinea	3.62
+gn	Guinea	3.64
+na	Namibia	3.64
+er	Eritrea	3.67
+ye	Yemen	3.71
+bj	Benin	3.74
+gm	The Gambia	3.75
+mr	Mauritania	3.84
+ng	Nigeria	3.92
+ao	Angola	4.04
+ke	Kenya	4.09
+td	Chad	4.1
+ss	South Sudan	4.12
+zm	Zambia	4.15
+so	Somalia	4.2
+mz	Mozambique	4.24
+mg	Madagascar	4.26
+cd	DRC	4.33
+et	Ethiopia	4.4
+mw	Malawi	4.41
+ml	Mali	4.57
+ne	Niger	4.72
+bf	Burkina Faso	4.75
+tz	Tanzania	4.89
+sy	Syria	5.38
+ug	Uganda	5.41
+bi	Burundi	5.43

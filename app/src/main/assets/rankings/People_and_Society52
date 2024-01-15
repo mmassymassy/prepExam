@@ -1,0 +1,224 @@
+#ranking=People and Society/Sex ratio/total population
+#unit=male(s)/female 
+dj	Djibouti	0.83
+hk	Hong Kong	0.86
+lt	Lithuania	0.86
+ru	Russia	0.86
+by	Belarus	0.87
+lv	Latvia	0.87
+ua	Ukraine	0.87
+ag	Antigua and Barbuda	0.89
+ai	Anguilla	0.89
+ee	Estonia	0.89
+pr	Puerto Rico	0.89
+aw	Aruba	0.9
+kz	Kazakhstan	0.9
+mo	Macau	0.9
+pt	Portugal	0.9
+sz	Eswatini	0.9
+vi	Virgin Islands	0.9
+hu	Hungary	0.91
+vg	British Virgin Islands	0.91
+bw	Botswana	0.92
+ge	Georgia	0.92
+sv	El Salvador	0.92
+bb	Barbados	0.93
+cu	Cuba	0.93
+cy	Cyprus	0.93
+it	Italy	0.93
+mr	Mauritania	0.93
+ro	Romania	0.93
+sm	San Marino	0.93
+kh	Cambodia	0.94
+ki	Kiribati	0.94
+km	Comoros	0.94
+lc	Saint Lucia	0.94
+mc	Monaco	0.94
+pl	Poland	0.94
+pm	Saint Pierre and Miquelon	0.94
+sk	Slovakia	0.94
+uy	Uruguay	0.94
+ba	Bosnia and Herzegovina	0.95
+bg	Bulgaria	0.95
+bm	Bermuda	0.95
+bn	Brunei	0.95
+bs	The Bahamas	0.95
+co	Colombia	0.95
+cv	Cabo Verde	0.95
+es	Spain	0.95
+gh	Ghana	0.95
+hn	Honduras	0.95
+jp	Japan	0.95
+kp	North Korea	0.95
+ky	Cayman Islands	0.95
+lk	Sri Lanka	0.95
+ml	Mali	0.95
+mn	Mongolia	0.95
+mu	Mauritius	0.95
+ni	Nicaragua	0.95
+rs	Serbia	0.95
+th	Thailand	0.95
+ug	Uganda	0.95
+am	Armenia	0.96
+ao	Angola	0.96
+at	Austria	0.96
+bd	Bangladesh	0.96
+bf	Burkina Faso	0.96
+fr	France	0.96
+gr	Greece	0.96
+gw	Guinea-Bissau	0.96
+kg	Kyrgyzstan	0.96
+md	Moldova	0.96
+mw	Malawi	0.96
+mx	Mexico	0.96
+na	Namibia	0.96
+np	Nepal	0.96
+nr	Nauru	0.96
+pe	Peru	0.96
+rw	Rwanda	0.96
+al	Albania	0.97
+be	Belgium	0.97
+bj	Benin	0.97
+br	Brazil	0.97
+ci	Cote d'Ivoire	0.97
+cl	Chile	0.97
+er	Eritrea	0.97
+fi	Finland	0.97
+ht	Haiti	0.97
+je	Jersey	0.97
+me	Montenegro	0.97
+mm	Burma	0.97
+mz	Mozambique	0.97
+sn	Senegal	0.97
+tg	Togo	0.97
+tw	Taiwan	0.97
+us	United States	0.97
+zw	Zimbabwe	0.97
+ar	Argentina	0.98
+az	Azerbaijan	0.98
+ca	Canada	0.98
+ch	Switzerland	0.98
+de	Germany	0.98
+ec	Ecuador	0.98
+gm	The Gambia	0.98
+gt	Guatemala	0.98
+jm	Jamaica	0.98
+ls	Lesotho	0.98
+ne	Niger	0.98
+nl	Netherlands	0.98
+sl	Sierra Leone	0.98
+sr	Suriname	0.98
+sx	Sint Maarten	0.98
+td	Chad	0.98
+tm	Turkmenistan	0.98
+tn	Tunisia	0.98
+tv	Tuvalu	0.98
+za	South Africa	0.98
+eh	Western Sahara	0.99
+as	American Samoa	0.99
+au	Australia	0.99
+bi	Burundi	0.99
+cm	Cameroon	0.99
+cw	Curacao	0.99
+dk	Denmark	0.99
+et	Ethiopia	0.99
+gg	Guernsey	0.99
+la	Laos	0.99
+li	Liechtenstein	0.99
+mk	North Macedonia	0.99
+nc	New Caledonia	0.99
+tj	Tajikistan	0.99
+tl	Timor-Leste	0.99
+uz	Uzbekistan	0.99
+ve	Venezuela	0.99
+vu	Vanuatu	0.99
+bz	Belize	1
+cd	DRC	1
+cg	Congo (Brazzaville)	1
+cr	Costa Rica	1
+gn	Guinea	1
+id	Indonesia	1
+ie	Ireland	1
+is	Iceland	1
+ke	Kenya	1
+kn	Saint Kitts and Nevis	1
+lb	Lebanon	1
+lr	Liberia	1
+ma	Morocco	1
+mg	Madagascar	1
+ms	Montserrat	1
+nz	New Zealand	1
+ph	Philippines	1
+py	Paraguay	1
+sg	Singapore	1
+si	Slovenia	1
+st	Sao Tome and Principe	1
+tz	Tanzania	1
+zm	Zambia	1
+bo	Bolivia	1.01
+gi	Gibraltar	1.01
+hr	Croatia	1.01
+il	Israel	1.01
+im	Isle of Man	1.01
+iq	Iraq	1.01
+kr	South Korea	1.01
+pa	Panama	1.01
+sd	Sudan	1.01
+se	Sweden	1.01
+so	Somalia	1.01
+sy	Syria	1.01
+tc	Turks and Caicos Islands	1.01
+to	Tonga	1.01
+tr	Turkey	1.01
+tt	Trinidad and Tobago	1.01
+vn	Vietnam	1.01
+af	Afghanistan	1.02
+dm	Dominica	1.02
+do	The Dominican	1.02
+lu	Luxembourg	1.02
+mt	Malta	1.02
+ng	Nigeria	1.02
+no	Norway	1.02
+ps	Gaza Strip	1.02
+ye	Yemen	1.02
+dz	Algeria	1.03
+fj	Fiji	1.03
+gd	Grenada	1.03
+ir	Iran	1.03
+mh	Marshall Islands	1.03
+pg	Papua New Guinea	1.03
+ws	Samoa	1.03
+cn	China	1.04
+gy	Guyana	1.04
+ly	Libya	1.04
+pk	Pakistan	1.04
+sb	Solomon Islands	1.04
+vc	Saint Vincent and the Grenadines	1.04
+ad	Andorra	1.05
+ck	Cook Islands	1.05
+cz	Czechia	1.05
+my	Malaysia	1.05
+pf	French Polynesia	1.05
+ss	South Sudan	1.05
+eg	Egypt	1.06
+gu	Guam	1.06
+in	India	1.06
+mv	Maldives	1.06
+pw	Palau	1.06
+wf	Wallis and Futuna	1.06
+xk	Kosovo	1.06
+bt	Bhutan	1.07
+fo	Faroe Islands	1.07
+ga	Gabon	1.07
+gl	Greenland	1.07
+sc	Seychelles	1.08
+jo	Jordan	1.1
+fk	Falkland Islands (Islas Malvinas)	1.12
+bl	Saint Barthelemy	1.12
+mp	Northern Mariana Islands	1.13
+gq	Equatorial Guinea	1.15
+om	Oman	1.16
+sa	Saudi Arabia	1.31
+kw	Kuwait	1.37
+bh	Bahrain	1.51
+qa	Qatar	3.34

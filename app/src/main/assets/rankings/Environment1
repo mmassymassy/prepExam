@@ -1,0 +1,202 @@
+#ranking=Environment/Air pollutants/carbon dioxide emissions
+#unit=megatons (2016 est.)
+tv	Tuvalu	0.01
+li	Liechtenstein	0.05
+nr	Nauru	0.05
+ki	Kiribati	0.07
+st	Sao Tome and Principe	0.12
+to	Tonga	0.13
+mh	Marshall Islands	0.14
+vu	Vanuatu	0.15
+sb	Solomon Islands	0.17
+dm	Dominica	0.18
+km	Comoros	0.2
+vg	British Virgin Islands	0.21
+pw	Palau	0.22
+tc	Turks and Caicos Islands	0.22
+vc	Saint Vincent and the Grenadines	0.22
+kn	Saint Kitts and Nevis	0.24
+ws	Samoa	0.25
+gd	Grenada	0.27
+gw	Guinea-Bissau	0.29
+lc	Saint Lucia	0.41
+ad	Andorra	0.47
+bi	Burundi	0.5
+tl	Timor-Leste	0.5
+gl	Greenland	0.51
+gm	The Gambia	0.53
+cv	Cabo Verde	0.54
+ky	Cayman Islands	0.55
+ag	Antigua and Barbuda	0.56
+bz	Belize	0.57
+bm	Bermuda	0.61
+sc	Seychelles	0.61
+dj	Djibouti	0.62
+fo	Faroe Islands	0.63
+gi	Gibraltar	0.63
+so	Somalia	0.65
+er	Eritrea	0.71
+pf	French Polynesia	0.77
+aw	Aruba	0.88
+td	Chad	1.02
+sl	Sierra Leone	1.09
+rw	Rwanda	1.11
+sz	Eswatini	1.16
+bt	Bhutan	1.26
+bb	Barbados	1.28
+mw	Malawi	1.3
+mt	Malta	1.34
+lr	Liberia	1.39
+mv	Maldives	1.44
+ss	South Sudan	1.73
+sr	Suriname	1.74
+bs	The Bahamas	1.79
+cd	DRC	2.02
+me	Montenegro	2.02
+ne	Niger	2.02
+fj	Fiji	2.05
+is	Iceland	2.06
+mo	Macau	2.07
+gy	Guyana	2.38
+ls	Lesotho	2.51
+mr	Mauritania	2.74
+ht	Haiti	2.98
+gn	Guinea	3
+tg	Togo	3
+ml	Mali	3.18
+ps	Gaza Strip	3.23
+cg	Congo (Brazzaville)	3.28
+bf	Burkina Faso	3.42
+mg	Madagascar	3.91
+na	Namibia	4.23
+mu	Mauritius	4.35
+al	Albania	4.54
+md	Moldova	5.12
+zm	Zambia	5.14
+am	Armenia	5.16
+tj	Tajikistan	5.31
+ga	Gabon	5.32
+nc	New Caledonia	5.33
+cw	Curacao	5.39
+ni	Nicaragua	5.59
+gq	Equatorial Guinea	5.65
+ug	Uganda	5.68
+bw	Botswana	6.34
+bj	Benin	6.48
+cy	Cyprus	6.63
+uy	Uruguay	6.77
+lv	Latvia	7
+mk	North Macedonia	7.05
+sv	El Salvador	7.17
+py	Paraguay	7.41
+pg	Papua New Guinea	7.54
+bn	Brunei	7.66
+mz	Mozambique	7.94
+cr	Costa Rica	8.02
+jm	Jamaica	8.23
+cm	Cameroon	8.29
+af	Afghanistan	8.67
+xk	Kosovo	8.94
+lu	Luxembourg	8.99
+np	Nepal	9.11
+ci	Cote d'Ivoire	9.67
+kg	Kyrgyzstan	9.79
+hn	Honduras	9.81
+kh	Cambodia	9.92
+ge	Georgia	10.13
+ye	Yemen	10.61
+pa	Panama	10.71
+sn	Senegal	10.9
+zw	Zimbabwe	10.98
+tz	Tanzania	11.97
+si	Slovenia	12.63
+lt	Lithuania	12.96
+et	Ethiopia	14.87
+ee	Estonia	16.59
+gh	Ghana	16.67
+gt	Guatemala	16.78
+hr	Croatia	17.49
+la	Laos	17.76
+ke	Kenya	17.91
+sd	Sudan	20
+bo	Bolivia	21.61
+ba	Bosnia and Herzegovina	21.85
+lk	Sri Lanka	23.36
+lb	Lebanon	24.8
+jo	Jordan	25.11
+do	The Dominican	25.26
+mm	Burma	25.28
+mn	Mongolia	25.37
+cu	Cuba	28.28
+kp	North Korea	28.28
+sy	Syria	28.83
+tn	Tunisia	29.94
+bh	Bahrain	31.69
+dk	Denmark	31.79
+sk	Slovakia	32.42
+nz	New Zealand	34.38
+ch	Switzerland	34.48
+ao	Angola	34.69
+sg	Singapore	37.54
+az	Azerbaijan	37.62
+ie	Ireland	37.71
+no	Norway	41.02
+ec	Ecuador	41.15
+bg	Bulgaria	41.71
+se	Sweden	43.25
+hk	Hong Kong	43.64
+tt	Trinidad and Tobago	43.87
+rs	Serbia	45.22
+hu	Hungary	45.54
+fi	Finland	45.87
+pt	Portugal	48.74
+ly	Libya	50.56
+pe	Peru	57.41
+by	Belarus	58.28
+ma	Morocco	61.28
+at	Austria	61.45
+gr	Greece	62.43
+om	Oman	63.46
+il	Israel	65.17
+ro	Romania	69.26
+tm	Turkmenistan	70.63
+bd	Bangladesh	84.25
+cl	Chile	85.82
+uz	Uzbekistan	91.81
+be	Belgium	96.89
+co	Colombia	97.81
+kw	Kuwait	98.73
+cz	Czechia	102.22
+qa	Qatar	103.26
+ng	Nigeria	120.37
+ph	Philippines	122.29
+dz	Algeria	150.01
+ve	Venezuela	164.18
+nl	Netherlands	170.78
+iq	Iraq	190.06
+vn	Vietnam	192.67
+pk	Pakistan	201.15
+ar	Argentina	201.35
+ua	Ukraine	202.25
+eg	Egypt	238.56
+es	Spain	244
+kz	Kazakhstan	247.21
+my	Malaysia	248.29
+th	Thailand	283.76
+pl	Poland	299.04
+tr	Turkey	372.72
+au	Australia	375.91
+br	Brazil	462.3
+za	South Africa	476.64
+mx	Mexico	486.41
+ca	Canada	544.89
+id	Indonesia	563.32
+sa	Saudi Arabia	563.45
+kr	South Korea	620.3
+ir	Iran	661.71
+de	Germany	727.97
+jp	Japan	1135.89
+ru	Russia	1732.03
+in	India	2407.67
+us	United States	5006.3
+cn	China	9893.04

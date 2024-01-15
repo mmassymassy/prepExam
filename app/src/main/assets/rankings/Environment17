@@ -1,0 +1,125 @@
+#ranking=Environment/Waste and recycling/percent of municipal solid waste recycled
+#unit=% 
+ba	Bosnia and Herzegovina	0
+mk	North Macedonia	0.2
+cl	Chile	0.4
+cm	Cameroon	0.4
+gy	Guyana	0.5
+ps	Gaza Strip	0.5
+rs	Serbia	0.8
+bt	Bhutan	0.9
+bw	Botswana	1
+mz	Mozambique	1
+cr	Costa Rica	1.3
+br	Brazil	1.4
+bm	Bermuda	2
+tg	Togo	2
+cw	Curacao	2
+pg	Papua New Guinea	2
+sy	Syria	2.5
+kz	Kazakhstan	2.9
+ci	Cote d'Ivoire	3
+qa	Qatar	3
+ua	Ukraine	3.2
+ne	Niger	4
+pe	Peru	4
+tn	Tunisia	4
+na	Namibia	4.5
+ru	Russia	4.5
+cd	DRC	4.9
+jp	Japan	4.9
+gn	Guinea	5
+in	India	5
+mx	Mexico	5
+ir	Iran	5
+mc	Monaco	5.4
+me	Montenegro	5.4
+fj	Fiji	5.5
+ro	Romania	5.7
+ar	Argentina	6
+ug	Uganda	6
+mt	Malta	6.7
+jo	Jordan	7
+id	Indonesia	7
+sk	Slovakia	7.6
+ke	Kenya	8
+mr	Mauritania	8
+uy	Uruguay	8
+bh	Bahrain	8
+dz	Algeria	8
+lb	Lebanon	8
+ma	Morocco	8
+ye	Yemen	8
+pk	Pakistan	8
+do	The Dominican	8.2
+bb	Barbados	9
+cu	Cuba	9.5
+la	Laos	10
+aw	Aruba	11
+bf	Burkina Faso	12
+bo	Bolivia	12.1
+eg	Egypt	12.5
+lk	Sri Lanka	12.8
+ec	Ecuador	12.9
+cy	Cyprus	13.3
+pr	Puerto Rico	14
+tv	Tuvalu	15
+sa	Saudi Arabia	15
+md	Moldova	15.3
+zw	Zimbabwe	16
+by	Belarus	16
+pt	Portugal	16.2
+hr	Croatia	16.3
+es	Spain	16.8
+co	Colombia	17.2
+my	Malaysia	17.5
+gu	Guam	17.9
+gr	Greece	19
+bg	Bulgaria	19
+th	Thailand	19.1
+mo	Macau	20
+ca	Canada	20.6
+ky	Cayman Islands	21
+lv	Latvia	21.2
+fr	France	22.3
+lt	Lithuania	22.9
+vn	Vietnam	23
+nl	Netherlands	24.6
+ee	Estonia	24.7
+bj	Benin	25
+il	Israel	25
+cz	Czechia	25.5
+at	Austria	25.7
+hu	Hungary	25.9
+it	Italy	25.9
+cg	Congo (Brazzaville)	26.2
+no	Norway	26.2
+pl	Poland	26.4
+dk	Denmark	27.3
+za	South Africa	28
+ph	Philippines	28
+fi	Finland	28.1
+lu	Luxembourg	28.4
+gg	Guernsey	28.4
+je	Jersey	28.4
+mh	Marshall Islands	30.8
+ch	Switzerland	32
+se	Sweden	32.4
+ie	Ireland	33
+hk	Hong Kong	34
+be	Belgium	34.3
+us	United States	34.6
+ws	Samoa	36
+mp	Northern Mariana Islands	36
+vu	Vanuatu	37
+pf	French Polynesia	39
+au	Australia	42.1
+sm	San Marino	45.1
+si	Slovenia	46.4
+de	Germany	47.8
+im	Isle of Man	50
+is	Iceland	55.8
+kr	South Korea	58
+sg	Singapore	61
+li	Liechtenstein	64.6
+fo	Faroe Islands	67

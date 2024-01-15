@@ -1,0 +1,210 @@
+#ranking=Communications/Broadband - fixed subscriptions/total
+#unit=
+tl	Timor-Leste	75
+ki	Kiribati	185
+ss	South Sudan	200
+tv	Tuvalu	450
+nr	Nauru	950
+cg	Congo (Brazzaville)	1000
+fk	Falkland Islands (Islas Malvinas)	1000
+gn	Guinea	1000
+gq	Equatorial Guinea	1000
+mh	Marshall Islands	1000
+sb	Solomon Islands	1000
+km	Comoros	1066
+pw	Palau	1224
+ws	Samoa	1692
+gw	Guinea-Bissau	2383
+st	Sao Tome and Principe	2512
+ck	Cook Islands	2700
+ms	Montserrat	2700
+vu	Vanuatu	2785
+gu	Guam	3000
+bt	Bhutan	3189
+ky	Cayman Islands	3200
+bi	Burundi	4230
+ai	Anguilla	5000
+er	Eritrea	5000
+gm	The Gambia	5000
+to	Tonga	5000
+ls	Lesotho	5060
+tj	Tajikistan	6000
+vg	British Virgin Islands	6738
+ag	Antigua and Barbuda	8000
+tm	Turkmenistan	10000
+sm	San Marino	11000
+ne	Niger	12000
+sz	Eswatini	12000
+mw	Malawi	12255
+lr	Liberia	13000
+bf	Burkina Faso	13979
+gl	Greenland	15649
+dm	Dominica	16000
+rw	Rwanda	17685
+li	Liechtenstein	18050
+fo	Faroe Islands	18443
+mr	Mauritania	18457
+aw	Aruba	19000
+mc	Monaco	20877
+pg	Papua New Guinea	21000
+gi	Gibraltar	21009
+bm	Bermuda	23000
+fj	Fiji	23062
+vc	Saint Vincent and the Grenadines	24733
+cv	Cabo Verde	24839
+dj	Djibouti	25053
+gg	Guernsey	25336
+af	Afghanistan	26570
+sd	Sudan	28782
+bj	Benin	29981
+kn	Saint Kitts and Nevis	30000
+cd	DRC	31000
+ht	Haiti	31000
+gd	Grenada	32000
+mg	Madagascar	32000
+lc	Saint Lucia	33000
+sc	Seychelles	34966
+bz	Belize	36000
+ad	Andorra	37000
+je	Jersey	39699
+ga	Gabon	44607
+tg	Togo	52706
+cw	Curacao	55000
+nc	New Caledonia	55000
+ug	Uganda	58594
+mv	Maldives	63685
+pf	French Polynesia	64000
+ng	Nigeria	65313
+mz	Mozambique	70000
+na	Namibia	71063
+bn	Brunei	71078
+kw	Kuwait	73948
+gh	Ghana	78371
+zm	Zambia	82317
+bs	The Bahamas	83000
+sr	Suriname	92270
+gy	Guyana	95000
+so	Somalia	119000
+bb	Barbados	128000
+la	Laos	128000
+is	Iceland	141816
+bh	Bahrain	148928
+sn	Senegal	153813
+me	Montenegro	184176
+zw	Zimbabwe	203461
+mo	Macau	208000
+et	Ethiopia	212000
+mt	Malta	213419
+ao	Angola	230610
+cu	Cuba	231654
+kh	Cambodia	233732
+lu	Luxembourg	235155
+ml	Mali	243806
+bw	Botswana	259525
+ci	Cote d'Ivoire	260097
+kg	Kyrgyzstan	289000
+ni	Nicaragua	290351
+qa	Qatar	296126
+mn	Mongolia	307166
+mu	Mauritius	323200
+ly	Libya	332000
+cy	Cyprus	332080
+tt	Trinidad and Tobago	376771
+ps	Gaza Strip	376911
+jm	Jamaica	385603
+ye	Yemen	391000
+hn	Honduras	396916
+ee	Estonia	415610
+am	Armenia	430407
+lb	Lebanon	432070
+mk	North Macedonia	475569
+lv	Latvia	490569
+al	Albania	508937
+om	Oman	508949
+py	Paraguay	562369
+pa	Panama	562413
+sv	El Salvador	586000
+gt	Guatemala	612000
+jo	Jordan	630545
+si	Slovenia	651604
+pr	Puerto Rico	671284
+ke	Kenya	674191
+mm	Burma	688185
+md	Moldova	719001
+cm	Cameroon	722579
+ba	Bosnia and Herzegovina	770424
+lt	Lithuania	796814
+bo	Bolivia	931918
+ge	Georgia	986809
+cr	Costa Rica	992725
+hr	Croatia	1030973
+do	The Dominican	1031858
+uy	Uruguay	1063701
+tz	Tanzania	1135608
+np	Nepal	1270000.0
+za	South Africa	1303057
+tn	Tunisia	1334059
+sg	Singapore	1509700
+ie	Ireland	1516473
+sy	Syria	1549356
+sk	Slovakia	1701561
+rs	Serbia	1730496
+nz	New Zealand	1764984
+lk	Sri Lanka	1781530
+fi	Finland	1846000.0
+az	Azerbaijan	1995474
+ma	Morocco	2102434
+bg	Bulgaria	2115053
+ec	Ecuador	2371297
+no	Norway	2387661
+pk	Pakistan	2523027
+ve	Venezuela	2561556
+dk	Denmark	2590282
+il	Israel	2602079
+at	Austria	2606000.0
+kz	Kazakhstan	2620400
+hk	Hong Kong	2885586
+pe	Peru	3044000.0
+by	Belarus	3255552
+my	Malaysia	3358800
+hu	Hungary	3382136
+cl	Chile	3763826
+dz	Algeria	3790459
+cz	Czechia	3845426
+ch	Switzerland	4028238
+pt	Portugal	4160795
+se	Sweden	4179574
+gr	Greece	4257026
+be	Belgium	4734210
+uz	Uzbekistan	4820009
+ro	Romania	5684782
+tw	Taiwan	5831470
+iq	Iraq	6254099
+nl	Netherlands	7525016
+co	Colombia	7764772
+ua	Ukraine	7769401
+sa	Saudi Arabia	7890261
+ph	Philippines	7936574
+pl	Poland	8369218
+au	Australia	9099619
+eg	Egypt	9349469
+ir	Iran	9564195
+ar	Argentina	9571562
+bd	Bangladesh	10052819
+th	Thailand	11478265
+id	Indonesia	11722218
+ca	Canada	15825813
+es	Spain	16188502
+vn	Vietnam	16699249
+tr	Turkey	16734853
+it	Italy	18128787
+mx	Mexico	21936131
+kr	South Korea	22327182
+in	India	22950000.0
+fr	France	30627000.0
+ru	Russia	33893305
+de	Germany	36215303
+br	Brazil	36344670
+jp	Japan	44000791
+us	United States	121176000.0
+cn	China	483549500

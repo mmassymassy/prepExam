@@ -1,0 +1,209 @@
+#ranking=Communications/Broadband - fixed subscriptions/subscriptions per 100 inhabitants
+#unit=
+gn	Guinea	0.01
+tl	Timor-Leste	0.01
+cg	Congo (Brazzaville)	0.02
+cd	DRC	0.03
+ng  Nigeria	0.03
+bi	Burundi	0.04
+af	Afghanistan	0.1
+bf	Burkina Faso	0.1
+er	Eritrea	0.1
+gq	Equatorial Guinea	0.1
+gw	Guinea-Bissau	0.1
+km	Comoros	0.1
+mg	Madagascar	0.1
+mw	Malawi	0.1
+ne	Niger	0.1
+rw	Rwanda	0.1
+sd	Sudan	0.1
+tj	Tajikistan	0.1
+ug	Uganda	0.1
+et	Ethiopia	0.2
+gm	The Gambia	0.2
+ki	Kiribati	0.2
+ls	Lesotho	0.2
+mz	Mozambique	0.2
+pg	Papua New Guinea	0.2
+sb	Solomon Islands	0.2
+tm	Turkmenistan	0.2
+bj	Benin	0.3
+gh	Ghana	0.3
+ht	Haiti	0.3
+lr	Liberia	0.3
+bt	Bhutan	0.4
+mr	Mauritania	0.4
+zm	Zambia	0.5
+tg	Togo	0.6
+ao	Angola	0.7
+ci	Cote d'Ivoire	1
+ke	Kenya	1
+kh	Cambodia	1
+ml	Mali	1
+mm	Burma	1
+pk	Pakistan	1
+sn	Senegal	1
+so	Somalia	1
+st	Sao Tome and Principe	1
+sz	Eswatini	1
+vu	Vanuatu	1
+ws	Samoa	1
+ye	Yemen	1
+zw	Zimbabwe	1
+cu	Cuba	2
+ga	Gabon	2
+gu	Guam	2
+in	India	2
+kw	Kuwait	2
+la	Laos	2
+mh	Marshall Islands	2
+tz	Tanzania	2
+za	South Africa	2
+cm	Cameroon	3
+dj	Djibouti	3
+fj	Fiji	3
+gt	Guatemala	3
+na	Namibia	3
+tv	Tuvalu	4
+hn	Honduras	4
+id	Indonesia	4
+kg	Kyrgyzstan	4
+ni	Nicaragua	4
+np	Nepal	4
+cv	Cabo Verde	5
+ly	Libya	5
+to	Tonga	5
+bd	Bangladesh	6
+jo	Jordan	6
+lb	Lebanon	6
+ma	Morocco	6
+pw	Palau	7
+ph	Philippines	7
+ps	Gaza Strip	7
+ag	Antigua and Barbuda	8
+bo	Bolivia	8
+lk	Sri Lanka	8
+py	Paraguay	8
+bh	Bahrain	9
+bz	Belize	9
+dz	Algeria	9
+eg	Egypt	9
+mn	Mongolia	9
+pe	Peru	9
+sv	El Salvador	9
+sy	Syria	9
+ve	Venezuela	9
+nr	Nauru	10
+do	The Dominican	10
+my	Malaysia	10
+qa	Qatar	10
+bw	Botswana	11
+ir	Iran	11
+om	Oman	11
+tn	Tunisia	11
+gy	Guyana	12
+mv	Maldives	12
+ec	Ecuador	13
+jm	Jamaica	13
+pa	Panama	13
+kz	Kazakhstan	14
+uz	Uzbekistan	14
+ck	Cook Islands	15
+am	Armenia	15
+co	Colombia	15
+bn	Brunei	16
+iq	Iraq	16
+sr	Suriname	16
+th	Thailand	16
+br	Brazil	17
+mx	Mexico	17
+vn	Vietnam	17
+al	Albania	18
+aw	Aruba	18
+lc	Saint Lucia	18
+md	Moldova	18
+nc	New Caledonia	19
+ua	Ukraine	19
+az	Azerbaijan	20
+cl	Chile	20
+cr	Costa Rica	20
+tr	Turkey	20
+ar	Argentina	21
+bs	The Bahamas	21
+dm	Dominica	22
+pl	Poland	22
+vc	Saint Vincent and the Grenadines	22
+vg	British Virgin Islands	22
+mk	North Macedonia	23
+pf	French Polynesia	23
+ru	Russia	23
+sa	Saudi Arabia	23
+ba	Bosnia and Herzegovina	24
+pr	Puerto Rico	24
+tw	Taiwan	25
+hr	Croatia	25
+mu	Mauritius	25
+rs	Serbia	25
+ge	Georgia	25
+lv	Latvia	26
+sg	Singapore	26
+tt	Trinidad and Tobago	27
+gd	Grenada	28
+gl	Greenland	28
+at	Austria	29
+lt	Lithuania	29
+me	Montenegro	29
+bg	Bulgaria	30
+il	Israel	30
+it	Italy	30
+ro	Romania	30
+ee	Estonia	31
+ie	Ireland	31
+si	Slovenia	31
+sk	Slovakia	31
+uy	Uruguay	31
+mo	Macau	32
+sm	San Marino	32
+fi	Finland	33
+fk	Falkland Islands (Islas Malvinas)	33
+cn	China	34
+cw	Curacao	34
+hu	Hungary	34.83
+ai	Anguilla	35
+by	Belarus	35
+es	Spain	35
+jp	Japan	35
+au	Australia	36
+cz	Czechia	36
+sc	Seychelles	36
+bm	Bermuda	37
+cy	Cyprus	37
+je	Jersey	37
+nz	New Zealand	37
+us	United States	37
+fo	Faroe Islands	38
+lu	Luxembourg	38
+hk	Hong Kong	39
+gg	Guernsey	40
+be	Belgium	41
+gr	Greece	41
+pt	Portugal	41
+se	Sweden	41
+ca	Canada	42
+is	Iceland	42
+de	Germany	43
+kr	South Korea	44
+nl	Netherlands	44
+no	Norway	44
+bb	Barbados	45
+dk	Denmark	45
+ch	Switzerland	47
+fr	France	47
+li	Liechtenstein	47
+ad	Andorra	48
+mt	Malta	48
+ky	Cayman Islands	49
+mc	Monaco	53
+ms	Montserrat	55
+kn	Saint Kitts and Nevis	56
+gi	Gibraltar	62

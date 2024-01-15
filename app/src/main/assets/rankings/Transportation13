@@ -1,0 +1,168 @@
+#ranking=Transportation/Roadways/paved
+#unit=km
+tv	Tuvalu	8
+cc	Cocos (Keeling) Islands	10
+nr	Nauru	24
+tc	Turks and Caicos Islands	24
+gi	Gibraltar	29
+cx	Christmas Island	32
+sb	Solomon Islands	34
+fk	Falkland Islands (Islas Malvinas)	50
+nf	Norfolk Island	53
+mh	Marshall Islands	75
+pm	Saint Pierre and Miquelon	80
+ai	Anguilla	82
+pw	Palau	89
+mv	Maldives	93
+kn	Saint Kitts and Nevis	163
+to	Tonga	184
+vg	British Virgin Islands	200
+ck	Cook Islands	207
+nu	Niue	210
+st	Sao Tome and Principe	230
+vu	Vanuatu	256
+sm	San Marino	292
+ss	South Sudan	300
+ag	Antigua and Barbuda	386
+mo	Macau	428
+bm	Bermuda	447
+gw	Guinea-Bissau	453
+fo	Faroe Islands	500
+sc	Seychelles	514
+gm	The Gambia	518
+ht	Haiti	600
+bz	Belize	601
+lr	Liberia	657
+km	Comoros	673
+kp	North Korea	724
+dm	Dominica	762
+ky	Cayman Islands	785
+gy	Guyana	799
+lc	Saint Lucia	847
+ga	Gabon	900
+gd	Grenada	902
+cv	Cabo Verde	932
+sl	Sierra Leone	1051
+ls	Lesotho	1069
+im	Isle of Man	1107
+sr	Suriname	1119
+rw	Rwanda	1207
+bj	Benin	1400
+bi	Burundi	1500
+er	Eritrea	1600
+bs	The Bahamas	1620
+fj	Fiji	1686
+bb	Barbados	1700
+pf	French Polynesia	1735
+tg	Togo	1794
+xk	Kosovo	1921
+hk	Hong Kong	2193
+mu	Mauritius	2379
+bn	Brunei	2559
+tl	Timor-Leste	2600
+mt	Malta	2704
+pg	Papua New Guinea	3000
+cd	DRC	3047
+cg	Congo (Brazzaville)	3111
+ni	Nicaragua	3346
+gn	Guinea	3346
+hn	Honduras	3367
+bh	Bahrain	3392
+sg	Singapore	3500
+bf	Burkina Faso	3642
+ne	Niger	3912
+mr	Mauritania	3988
+mw	Malawi	4074
+ug	Uganda	4257
+kw	Kuwait	4887
+cm	Cameroon	5133
+sv	El Salvador	5341
+la	Laos	5415
+sn	Senegal	6126
+ye	Yemen	6200
+ci	Cote d'Ivoire	6502
+me	Montenegro	7141
+jo	Jordan	7203
+mz	Mozambique	7365
+gt	Guatemala	7458
+uy	Uruguay	7743
+na	Namibia	7893
+sd	Sudan	8000
+py	Paraguay	8573
+cy	Cyprus	8631
+md	Moldova	8835
+ec	Ecuador	8895
+mk	North Macedonia	9633
+bo	Bolivia	9792
+bw	Botswana	9810
+do	The Dominican	9872
+ee	Estonia	10427
+mn	Mongolia	10600
+tz	Tanzania	11201
+np	Nepal	11890
+kh	Cambodia	12239
+ao	Angola	13600
+ke	Kenya	14420
+zm	Zambia	14888
+gh	Ghana	14948
+lv	Latvia	15158
+jm	Jamaica	16148
+lk	Sri Lanka	16977
+af	Afghanistan	17903
+zw	Zimbabwe	18481
+pe	Peru	18699
+bg	Bulgaria	19235
+ba	Bosnia and Herzegovina	19426
+il	Israel	19555
+cu	Cuba	20000
+tn	Tunisia	20000
+tr	Turkey	24082
+rs	Serbia	28000
+om	Oman	29685
+ly	Libya	34000
+mm	Burma	34700
+si	Slovenia	38985
+tw	Taiwan	42793
+sa	Saudi Arabia	47529
+tm	Turkmenistan	47577
+eg	Egypt	48000
+ro	Romania	49873
+cz	Czechia	55744
+iq	Iraq	59623
+ng	Nigeria	60000
+ph	Philippines	61093
+nz	New Zealand	61600
+sy	Syria	63060
+pt	Portugal	71294
+ch	Switzerland	71557
+dz	Algeria	71656
+lt	Lithuania	72297
+dk	Denmark	74558
+uz	Uzbekistan	75511
+hu	Hungary	77087
+kz	Kazakhstan	83813
+kr	South Korea	92795
+ie	Ireland	99830
+bd	Bangladesh	110311
+my	Malaysia	116169
+ar	Argentina	117616
+be	Belgium	118414
+at	Austria	137039
+se	Sweden	140100
+vn	Vietnam	148338
+za	South Africa	158124
+ua	Ukraine	166095
+mx	Mexico	175526
+pk	Pakistan	185463
+ir	Iran	195485
+br	Brazil	246000
+id	Indonesia	283102
+pl	Poland	291000
+ca	Canada	415600
+it	Italy	487700
+de	Germany	625000
+es	Spain	683175
+ru	Russia	927721
+jp	Japan	992835
+us	United States	4304715
+cn	China	4578000.0

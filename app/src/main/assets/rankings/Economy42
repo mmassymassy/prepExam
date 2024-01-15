@@ -1,0 +1,198 @@
+#ranking=Economy/Labor force - by occupation/industry
+#unit=%
+gi	Gibraltar	1.8
+mr	Mauritania	1.9
+hk	Hong Kong	2
+bi	Burundi	2.3
+ai	Anguilla	3
+wf	Wallis and Futuna	3
+ne	Niger	3.3
+mz	Mozambique	3.9
+mw	Malawi	4.1
+ad	Andorra	4.4
+sb	Solomon Islands	5
+tg	Togo	5
+vu	Vanuatu	5
+sl	Sierra Leone	5.5
+ws	Samoa	6
+la	Laos	6.1
+tz	Tanzania	6.4
+ke	Kenya	6.7
+rw	Rwanda	6.7
+mm	Burma	7
+sd	Sudan	7
+ug	Uganda	7
+zw	Zimbabwe	7.3
+et	Ethiopia	7.4
+lr	Liberia	8
+ge	Georgia	8.9
+mo	Macau	9.8
+zm	Zambia	9.9
+cu	Cuba	10
+ki	Kiribati	10
+mp	Northern Mariana Islands	10
+ng	Nigeria	10
+ps	Gaza Strip	10
+gl	Greenland	10.1
+tj	Tajikistan	10.6
+ag	Antigua and Barbuda	11
+bs	The Bahamas	11
+ie	Ireland	11
+ht	Haiti	11.5
+tt	Trinidad and Tobago	11.5
+ga	Gabon	12
+je	Jersey	12
+md	Moldova	12
+np	Nepal	12
+se	Sweden	12
+pw	Palau	12.4
+kg	Kyrgyzstan	12.5
+ms	Montserrat	12.7
+gt	Guatemala	12.8
+bm	Bermuda	13
+ca	Canada	13
+cm	Cameroon	13
+tl	Timor-Leste	13
+uz	Uzbekistan	13.2
+na	Namibia	14
+nf	Norfolk Island	14
+tm	Turkmenistan	14
+uy	Uruguay	14
+az	Azerbaijan	14.3
+fj	Fiji	14.3
+gh	Ghana	14.4
+ao	Angola	15
+bb	Barbados	15
+ck	Cook Islands	15
+fo	Faroe Islands	15
+gr	Greece	15
+cy	Cyprus	15.2
+sx	Sint Maarten	15.2
+as	American Samoa	15.5
+jm	Jamaica	16
+sy	Syria	16
+mc	Monaco	16.1
+mh	Marshall Islands	16.3
+th	Thailand	16.7
+cw	Curacao	16.9
+am	Armenia	17
+vc	Saint Vincent and the Grenadines	17
+me	Montenegro	17.1
+nl	Netherlands	17.2
+il	Israel	17.3
+pe	Peru	17.4
+xk	Kosovo	17.4
+ni	Nicaragua	18
+af	Afghanistan	18.1
+bz	Belize	18.1
+al	Albania	18.3
+dk	Denmark	18.3
+ph	Philippines	18.3
+ec	Ecuador	18.4
+mn	Mongolia	18.5
+py	Paraguay	18.5
+be	Belgium	18.6
+pa	Panama	18.6
+iq	Iraq	18.7
+gm	The Gambia	19
+pf	French Polynesia	19
+pr	Puerto Rico	19
+vi	Virgin Islands	19
+ky	Cayman Islands	19.1
+no	Norway	19.3
+sr	Suriname	19.5
+ch	Switzerland	19.8
+kh	Cambodia	19.9
+km	Comoros	20
+er	Eritrea	20
+td	Chad	20
+fr	France	20
+bt	Bhutan	20
+gd	Grenada	20
+jo	Jordan	20
+lu	Luxembourg	20
+sv	El Salvador	20
+us	United States	20.3
+ma	Morocco	20.3
+kz	Kazakhstan	20.4
+bd	Bangladesh	20.5
+ee	Estonia	20.5
+cg	Congo (Brazzaville)	20.6
+fi	Finland	20.7
+mt	Malta	20.7
+nz	New Zealand	20.7
+do	The Dominican	20.8
+hn	Honduras	20.9
+co	Colombia	21
+id	Indonesia	21
+au	Australia	21.1
+sa	Saudi Arabia	21.4
+st	Sao Tome and Principe	21.4
+gu	Guam	21.6
+ve	Venezuela	21.8
+bo	Bolivia	22
+cr	Costa Rica	22
+in	India	22
+is	Iceland	22.2
+nc	New Caledonia	22.4
+sn	Senegal	22.5
+pk	Pakistan	22.6
+sk	Slovakia	22.7
+mv	Maldives	22.8
+ly	Libya	23
+sc	Seychelles	23
+by	Belarus	23.4
+za	South Africa	23.5
+cl	Chile	23.7
+pt	Portugal	23.9
+gn	Guinea	24
+es	Spain	24
+lv	Latvia	24.1
+mx	Mexico	24.1
+de	Germany	24.2
+fk	Falkland Islands (Islas Malvinas)	24.5
+rs	Serbia	24.5
+kr	South Korea	24.6
+lc	Saint Lucia	24.7
+eg	Egypt	25.1
+at	Austria	25.2
+lt	Lithuania	25.2
+sg	Singapore	25.6
+vn	Vietnam	25.7
+lk	Sri Lanka	26
+jp	Japan	26.2
+ua	Ukraine	26.5
+bg	Bulgaria	26.6
+tr	Turkey	26.6
+hr	Croatia	27.3
+to	Tonga	27.5
+ru	Russia	27.6
+it	Italy	28.3
+ar	Argentina	28.6
+cn	China	28.8
+ro	Romania	28.9
+so	Somalia	29
+mk	North Macedonia	29.2
+mu	Mauritius	29.8
+hu	Hungary	30.3
+ba	Bosnia and Herzegovina	30.4
+pl	Poland	30.4
+sz	Eswatini	30.4
+dz	Algeria	30.9
+si	Slovenia	31.2
+bh	Bahrain	32
+dm	Dominica	32
+br	Brazil	32.1
+tn	Tunisia	33.2
+sm	San Marino	33.5
+ir	Iran	35.1
+tw	Taiwan	35.9
+my	Malaysia	36
+li	Liechtenstein	36.9
+cz	Czechia	38
+vg	British Virgin Islands	40
+pm	Saint Pierre and Miquelon	41
+om	Oman	49.6
+eh	Western Sahara	50
+bn	Brunei	62.8
+kp	North Korea	63

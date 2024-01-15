@@ -1,0 +1,210 @@
+#ranking=Geography/Irrigated land
+#unit=sq km 
+eh	Western Sahara	0
+li	Liechtenstein	0
+lu	Luxembourg	0
+mo	Macau	0
+mv	Maldives	0
+ai	Anguilla	0
+ad	Andorra	0
+as	American Samoa	0
+ie	Ireland	0
+im	Isle of Man	0
+ki	Kiribati	0
+mc	Monaco	0
+mh	Marshall Islands	0
+ms	Montserrat	0
+nf	Norfolk Island	0
+nr	Nauru	0
+nu	Niue	0
+pg	Papua New Guinea	0
+pm	Saint Pierre and Miquelon	0
+pn	Pitcairn Islands	0
+pw	Palau	0
+sb	Solomon Islands	0
+sg	Singapore	0
+sm	San Marino	0
+tc	Turks and Caicos Islands	0
+tk	Tokelau	0
+to	Tonga	0
+tv	Tuvalu	0
+vu	Vanuatu	0
+ws	Samoa	0
+is	Iceland	0.5
+wf	Wallis and Futuna	0.6
+mp	Northern Mariana Islands	1
+vi	Virgin Islands	1
+ag	Antigua and Barbuda	1.3
+km	Comoros	1.3
+gu	Guam	2
+sc	Seychelles	3
+lv	Latvia	6
+kn	Saint Kitts and Nevis	8
+bn	Brunei	10
+bs	The Bahamas	10
+dj	Djibouti	10
+hk	Hong Kong	10
+pf	French Polynesia	10
+vc	Saint Vincent and the Grenadines	10
+ls	Lesotho	12
+lt	Lithuania	16
+cg	Congo (Brazzaville)	20
+gd	Grenada	20
+ee	Estonia	20
+me	Montenegro	24
+bw	Botswana	25
+ba	Bosnia and Herzegovina	30
+lc	Saint Lucia	30
+lr	Liberia	30
+bz	Belize	35
+cv	Cabo Verde	35
+mt	Malta	35
+si	Slovenia	39
+bh	Bahrain	40
+fj	Fiji	40
+ga	Gabon	40
+bb	Barbados	50
+gm	The Gambia	50
+be	Belgium	57
+tg	Togo	70
+tt	Trinidad and Tobago	70
+na	Namibia	80
+fi	Finland	80
+rw	Rwanda	96
+nc	New Caledonia	100
+st	Sao Tome and Principe	100
+kw	Kuwait	100
+ug	Uganda	105
+cd	DRC	110
+qa	Qatar	130
+mu	Mauritius	158
+hr	Croatia	171
+bj	Benin	172
+er	Eritrea	210
+sk	Slovakia	211
+pr	Puerto Rico	220
+cz	Czechia	220
+bi	Burundi	230
+gw	Guinea-Bissau	250
+jm	Jamaica	250
+cy	Cyprus	268
+sv	El Salvador	274
+cm	Cameroon	290
+sl	Sierra Leone	300
+td	Chad	300
+by	Belarus	303
+bt	Bhutan	320
+ch	Switzerland	327
+no	Norway	337
+tl	Timor-Leste	350
+gh	Ghana	360
+at	Austria	382
+pa	Panama	407
+mr	Mauritania	450
+sz	Eswatini	500
+se	Sweden	519
+rs	Serbia	520
+bf	Burkina Faso	550
+sr	Suriname	600
+mn	Mongolia	602
+ci	Cote d'Ivoire	730
+mw	Malawi	740
+pl	Poland	760
+ht	Haiti	800
+jo	Jordan	833
+mk	North Macedonia	844
+ao	Angola	860
+hn	Honduras	900
+gn	Guinea	950
+bg	Bulgaria	987
+ss	South Sudan	1000
+hu	Hungary	1010
+cr	Costa Rica	1015
+ke	Kenya	1030
+lb	Lebanon	1040
+om	Oman	1079
+mz	Mozambique	1180
+sn	Senegal	1200
+py	Paraguay	1362
+gy	Guyana	1430
+am	Armenia	1554
+zm	Zambia	1560
+zw	Zimbabwe	1740
+et	Ethiopia	1813
+al	Albania	1820
+tz	Tanzania	1840
+ni	Nicaragua	1990
+so	Somalia	2000
+md	Moldova	2155
+il	Israel	2159
+dk	Denmark	2360
+uy	Uruguay	2380
+ne	Niger	2666
+ng	Nigeria	2930
+nl	Netherlands	2969
+bo	Bolivia	2972
+do	The Dominican	2980
+gt	Guatemala	3375
+kh	Cambodia	3540
+ml	Mali	3780
+tw	Taiwan	3820
+tn	Tunisia	3920
+ge	Georgia	4330
+ua	Ukraine	4350
+la	Laos	4409
+my	Malaysia	4420
+ly	Libya	4700
+ro	Romania	4730
+de	Germany	5056
+pt	Portugal	5662
+tj	Tajikistan	5690
+lk	Sri Lanka	5700
+ye	Yemen	6800
+nz	New Zealand	7000
+kr	South Korea	7780
+cu	Cuba	8700
+ca	Canada	9045
+ec	Ecuador	10000
+kg	Kyrgyzstan	10043
+ve	Venezuela	10550
+mg	Madagascar	10860
+co	Colombia	10900
+cl	Chile	11100
+gr	Greece	11853
+sa	Saudi Arabia	11910
+dz	Algeria	12605
+sy	Syria	13100
+np	Nepal	13320
+fr	France	14236
+kp	North Korea	14600
+az	Azerbaijan	14649
+au	Australia	15210
+sd	Sudan	15666
+jp	Japan	15730
+ph	Philippines	16270
+za	South Africa	16700
+mm	Burma	17140
+ma	Morocco	17645
+kz	Kazakhstan	18099
+tm	Turkmenistan	19950
+ar	Argentina	23600
+af	Afghanistan	24930
+pe	Peru	25800
+it	Italy	26010
+iq	Iraq	35250
+eg	Egypt	36500
+uz	Uzbekistan	37320
+es	Spain	37593
+ru	Russia	43000
+vn	Vietnam	46000
+tr	Turkey	52150
+mx	Mexico	60620
+th	Thailand	64150
+id	Indonesia	67220
+br	Brazil	69029
+ir	Iran	79721
+bd	Bangladesh	81270
+pk	Pakistan	193400
+us	United States	234782
+cn	China	690070
+in	India	715539

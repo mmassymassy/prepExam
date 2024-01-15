@@ -1,0 +1,211 @@
+#ranking=Energy/Refined petroleum products - imports
+#unit=bbl/day 
+kw	Kuwait	0
+tm	Turkmenistan	0
+tt	Trinidad and Tobago	0
+uz	Uzbekistan	0
+nu	Niue	54
+fk	Falkland Islands (Islas Malvinas)	286
+ms	Montserrat	406
+ki	Kiribati	420
+nr	Nauru	449
+ck	Cook Islands	611
+pm	Saint Pierre and Miquelon	650
+to	Tonga	910
+st	Sao Tome and Principe	1027
+vu	Vanuatu	1073
+vg	British Virgin Islands	1227
+dm	Dominica	1237
+km	Comoros	1241
+tc	Turks and Caicos Islands	1369
+bi	Burundi	1374
+sb	Solomon Islands	1577
+vc	Saint Vincent and the Grenadines	1621
+eh	Western Sahara	1702
+kn	Saint Kitts and Nevis	1743
+gd	Grenada	1886
+mh	Marshall Islands	2060
+td	Chad	2285
+as	American Samoa	2346
+ws	Samoa	2363
+gw	Guinea-Bissau	2625
+lc	Saint Lucia	3113
+bt	Bhutan	3120
+tl	Timor-Leste	3481
+gm	The Gambia	3738
+ne	Niger	3799
+er	Eritrea	3897
+bm	Bermuda	3939
+gl	Greenland	3973
+bz	Belize	4161
+ky	Cayman Islands	4285
+fo	Faroe Islands	4555
+mw	Malawi	4769
+ag	Antigua and Barbuda	5065
+gq	Equatorial Guinea	5094
+ls	Lesotho	5118
+sz	Eswatini	5279
+az	Azerbaijan	5576
+so	Somalia	5590
+cv	Cabo Verde	5607
+om	Oman	6041
+sl	Sierra Leone	6439
+me	Montenegro	6448
+rw	Rwanda	6628
+dj	Djibouti	6692
+pf	French Polynesia	6785
+bn	Brunei	6948
+am	Armenia	7145
+ss	South Sudan	7160
+cg	Congo (Brazzaville)	7162
+sc	Seychelles	7225
+ci	Cote d'Ivoire	7405
+aw	Aruba	7891
+lr	Liberia	8181
+kp	North Korea	8260
+uy	Uruguay	9591
+zm	Zambia	10150
+sx	Sint Maarten	10440
+bb	Barbados	10630
+ga	Gabon	10680
+sr	Suriname	10700
+mv	Maldives	10840
+qa	Qatar	12300
+tg	Togo	13100
+gu	Guam	13500
+gy	Guyana	13720
+xk	Kosovo	14040
+cm	Cameroon	14090
+mo	Macau	14180
+bh	Bahrain	14530
+by	Belarus	14630
+pg	Papua New Guinea	17110
+mr	Mauritania	17290
+fj	Fiji	17460
+la	Laos	17460
+md	Moldova	18160
+ba	Bosnia and Herzegovina	18280
+gn	Guinea	18460
+rs	Serbia	18720
+mg	Madagascar	18880
+nc	New Caledonia	19100
+bs	The Bahamas	19150
+ht	Haiti	20030
+ni	Nicaragua	20120
+is	Iceland	20220
+ml	Mali	20610
+bo	Bolivia	20620
+ve	Venezuela	20640
+bw	Botswana	21090
+cd	DRC	21140
+tj	Tajikistan	22460
+vi	Virgin Islands	23480
+mk	North Macedonia	23560
+bf	Burkina Faso	23580
+mn	Mongolia	24190
+sd	Sudan	24340
+mz	Mozambique	25130
+np	Nepal	26120
+na	Namibia	26270
+zw	Zimbabwe	26400
+al	Albania	26660
+mu	Mauritius	26960
+ge	Georgia	28490
+jm	Jamaica	30580
+ug	Uganda	31490
+sn	Senegal	32050
+af	Afghanistan	34210
+kg	Kyrgyzstan	34280
+ee	Estonia	35520
+hr	Croatia	35530
+bj	Benin	38040
+sy	Syria	38080
+sk	Slovakia	38340
+kz	Kazakhstan	39120
+py	Paraguay	40760
+ru	Russia	41920
+lt	Lithuania	42490
+kh	Cambodia	43030
+cw	Curacao	45800
+cy	Cyprus	49240
+bg	Bulgaria	49260
+sv	El Salvador	49280
+ro	Romania	49420
+cr	Costa Rica	51320
+mt	Malta	52290
+cu	Cuba	52750
+lv	Latvia	54370
+nz	New Zealand	56000
+hn	Honduras	56120
+co	Colombia	57170
+lu	Luxembourg	59020
+ir	Iran	64160
+pe	Peru	65400
+lk	Sri Lanka	66280
+tz	Tanzania	67830
+jo	Jordan	68460
+et	Ethiopia	69970
+gi	Gibraltar	74200
+ye	Yemen	75940
+pt	Portugal	78700
+bd	Bangladesh	81570
+hu	Hungary	82110
+dz	Algeria	82930
+cz	Czechia	83860
+gh	Ghana	85110
+tn	Tunisia	85340
+ke	Kenya	90620
+si	Slovenia	93060
+gt	Guatemala	97900
+il	Israel	98860
+mm	Burma	102600
+do	The Dominican	108500
+dk	Denmark	109700
+ao	Angola	111600
+ar	Argentina	121400
+fi	Finland	122200
+ie	Ireland	126600
+pr	Puerto Rico	127100
+pa	Panama	129200
+th	Thailand	134200
+no	Norway	135300
+at	Austria	135500
+lb	Lebanon	151100
+ec	Ecuador	153900
+ch	Switzerland	165100
+cl	Chile	166400
+ua	Ukraine	167000
+ly	Libya	168200
+gr	Greece	192200
+za	South Africa	195200
+ph	Philippines	211400
+pl	Poland	222300
+ng	Nigeria	223400
+ma	Morocco	229300
+se	Sweden	229600
+iq	Iraq	255100
+pk	Pakistan	264500
+eg	Egypt	280200
+vn	Vietnam	282800
+my	Malaysia	304600
+hk	Hong Kong	402100
+ca	Canada	405700
+tw	Taiwan	418300
+it	Italy	422500
+es	Spain	464800
+br	Brazil	490400
+tr	Turkey	560000
+id	Indonesia	591500
+be	Belgium	601400
+sa	Saudi Arabia	609600
+au	Australia	619600
+in	India	653300
+mx	Mexico	867500
+de	Germany	883800
+fr	France	886800
+kr	South Korea	908800
+jp	Japan	1100000.0
+cn	China	1160000.0
+nl	Netherlands	2148000.0
+us	United States	2175000.0
+sg	Singapore	2335000.0

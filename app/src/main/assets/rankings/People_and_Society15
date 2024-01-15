@@ -1,0 +1,188 @@
+#ranking=People and Society/Current health expenditure
+#unit=% of GDP 
+mc	Monaco	1.7
+dj	Djibouti	2
+bn	Brunei	2.4
+pg	Papua New Guinea	2.5
+bd	Bangladesh	2.6
+bj	Benin	2.6
+gm	The Gambia	2.6
+la	Laos	2.7
+pk	Pakistan	2.8
+ao	Angola	2.9
+in	India	3
+sd	Sudan	3
+ck	Cook Islands	3.2
+ci	Cote d'Ivoire	3.3
+ht	Haiti	3.3
+ga	Gabon	3.4
+id	Indonesia	3.4
+mr	Mauritania	3.4
+ng	Nigeria	3.4
+zw	Zimbabwe	3.4
+et	Ethiopia	3.5
+mm	Burma	3.7
+cm	Cameroon	3.8
+fj	Fiji	3.8
+gq	Equatorial Guinea	3.8
+kz	Kazakhstan	3.8
+tz	Tanzania	3.8
+ve	Venezuela	3.8
+mg	Madagascar	3.9
+gh	Ghana	4
+gn	Guinea	4
+ug	Uganda	4
+vu	Vanuatu	4
+cd	DRC	4.1
+er	Eritrea	4.1
+lk	Sri Lanka	4.1
+my	Malaysia	4.1
+bh	Bahrain	4.2
+qa	Qatar	4.2
+ye	Yemen	4.3
+ke	Kenya	4.3
+ml	Mali	4.3
+bt	Bhutan	4.4
+eg	Egypt	4.4
+sb	Solomon Islands	4.4
+th	Thailand	4.4
+cg	Congo (Brazzaville)	4.5
+az	Azerbaijan	4.6
+tr	Turkey	4.6
+vn	Vietnam	4.7
+vc	Saint Vincent and the Grenadines	4.8
+do	The Dominican	4.9
+mn	Mongolia	4.9
+st	Sao Tome and Principe	4.9
+iq	Iraq	5.1
+ph	Philippines	5.1
+np	Nepal	5.2
+sn	Senegal	5.2
+ir	Iran	5.3
+kg	Kyrgyzstan	5.3
+om	Oman	5.3
+ss	South Sudan	5.3
+to	Tonga	5.3
+ws	Samoa	5.3
+km	Comoros	5.4
+kn	Saint Kitts and Nevis	5.4
+mw	Malawi	5.4
+td	Chad	5.4
+sa	Saudi Arabia	5.5
+gy	Guyana	5.5
+ag	Antigua and Barbuda	5.6
+cn	China	5.6
+zm	Zambia	5.6
+dm	Dominica	5.7
+tm	Turkmenistan	5.7
+gd	Grenada	5.8
+lu	Luxembourg	5.8
+cv	Cabo Verde	6
+tg	Togo	6
+ma	Morocco	6
+sg	Singapore	6.1
+bw	Botswana	6.2
+mx	Mexico	6.2
+ne	Niger	6.2
+dz	Algeria	6.3
+kw	Kuwait	6.3
+pe	Peru	6.3
+ro	Romania	6.3
+tn	Tunisia	6.3
+by	Belarus	6.4
+sc	Seychelles	6.4
+bi	Burundi	6.5
+gt	Guatemala	6.5
+pl	Poland	6.5
+sz	Eswatini	6.5
+jm	Jamaica	6.6
+al	Albania	6.7
+bf	Burkina Faso	6.7
+lc	Saint Lucia	6.7
+mu	Mauritius	6.7
+md	Moldova	6.8
+sr	Suriname	6.8
+uz	Uzbekistan	6.8
+bz	Belize	6.9
+ie	Ireland	7.1
+bb	Barbados	7.2
+sk	Slovakia	7.2
+hu	Hungary	7.3
+rw	Rwanda	7.3
+tt	Trinidad and Tobago	7.3
+jo	Jordan	7.5
+kh	Cambodia	7.5
+lt	Lithuania	7.5
+lv	Latvia	7.5
+bs	The Bahamas	7.6
+ge	Georgia	7.6
+mz	Mozambique	7.6
+py	Paraguay	7.6
+ru	Russia	7.6
+ua	Ukraine	7.6
+ee	Estonia	7.8
+hr	Croatia	7.8
+nu	Niue	7.8
+bo	Bolivia	7.9
+cr	Costa Rica	7.9
+mk	North Macedonia	7.9
+lb	Lebanon	8
+cy	Cyprus	8.1
+tj	Tajikistan	8.2
+il	Israel	8.3
+gw	Guinea-Bissau	8.4
+kr	South Korea	8.4
+bg	Bulgaria	8.5
+ec	Ecuador	8.5
+ni	Nicaragua	8.6
+za	South Africa	8.6
+rs	Serbia	8.7
+sm	San Marino	8.7
+sl	Sierra Leone	8.8
+na	Namibia	8.9
+co	Colombia	9
+hn	Honduras	9
+ad	Andorra	9.1
+cz	Czechia	9.2
+uy	Uruguay	9.2
+gr	Greece	9.5
+lr	Liberia	9.5
+si	Slovenia	9.5
+fi	Finland	9.6
+is	Iceland	9.6
+it	Italy	9.6
+pa	Panama	9.7
+ba	Bosnia and Herzegovina	9.8
+cl	Chile	9.8
+sv	El Salvador	9.9
+tl	Timor-Leste	9.9
+ar	Argentina	10
+nz	New Zealand	10
+br	Brazil	10.3
+dk	Denmark	10.5
+pt	Portugal	10.6
+au	Australia	10.7
+es	Spain	10.7
+mt	Malta	10.8
+jp	Japan	10.9
+be	Belgium	11.1
+nl	Netherlands	11.1
+me	Montenegro	11.4
+mv	Maldives	11.4
+no	Norway	11.4
+se	Sweden	11.4
+at	Austria	11.5
+ki	Kiribati	11.6
+ch	Switzerland	11.8
+ls	Lesotho	11.8
+nr	Nauru	12
+am	Armenia	12.2
+fr	France	12.2
+cu	Cuba	12.5
+de	Germany	12.8
+ca	Canada	12.9
+mh	Marshall Islands	13
+af	Afghanistan	15.5
+pw	Palau	18.4
+us	United States	18.8
+tv	Tuvalu	21.5

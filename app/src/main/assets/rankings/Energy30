@@ -1,0 +1,211 @@
+#ranking=Energy/Natural gas/proven reserves
+#unit=cubic meters 
+ag	Antigua and Barbuda	0
+am	Armenia	0
+aq	Antarctica	0
+as	American Samoa	0
+aw	Aruba	0
+ba	Bosnia and Herzegovina	0
+be	Belgium	0
+bf	Burkina Faso	0
+bi	Burundi	0
+bm	Bermuda	0
+bs	The Bahamas	0
+bt	Bhutan	0
+bw	Botswana	0
+bz	Belize	0
+ch	Switzerland	0
+ck	Cook Islands	0
+cr	Costa Rica	0
+cv	Cabo Verde	0
+cy	Cyprus	0
+dj	Djibouti	0
+dm	Dominica	0
+do	The Dominican	0
+ee	Estonia	0
+er	Eritrea	0
+fi	Finland	0
+fj	Fiji	0
+fk	Falkland Islands (Islas Malvinas)	0
+fo	Faroe Islands	0
+gd	Grenada	0
+gi	Gibraltar	0
+gl	Greenland	0
+gm	The Gambia	0
+gn	Guinea	0
+gt	Guatemala	0
+gu	Guam	0
+gw	Guinea-Bissau	0
+gy	Guyana	0
+hk	Hong Kong	0
+hn	Honduras	0
+ht	Haiti	0
+is	Iceland	0
+jm	Jamaica	0
+ke	Kenya	0
+kh	Cambodia	0
+ki	Kiribati	0
+km	Comoros	0
+kn	Saint Kitts and Nevis	0
+kp	North Korea	0
+ky	Cayman Islands	0
+la	Laos	0
+lb	Lebanon	0
+lc	Saint Lucia	0
+lk	Sri Lanka	0
+lr	Liberia	0
+ls	Lesotho	0
+lt	Lithuania	0
+lu	Luxembourg	0
+lv	Latvia	0
+md	Moldova	0
+me	Montenegro	0
+mg	Madagascar	0
+mk	North Macedonia	0
+ml	Mali	0
+mn	Mongolia	0
+mo	Macau	0
+mp	Northern Mariana Islands	0
+ms	Montserrat	0
+mt	Malta	0
+mu	Mauritius	0
+mv	Maldives	0
+mw	Malawi	0
+nc	New Caledonia	0
+ne	Niger	0
+ni	Nicaragua	0
+np	Nepal	0
+nr	Nauru	0
+nu	Niue	0
+pa	Panama	0
+pf	French Polynesia	0
+pm	Saint Pierre and Miquelon	0
+pr	Puerto Rico	0
+ps	Gaza Strip	0
+pt	Portugal	0
+py	Paraguay	0
+sb	Solomon Islands	0
+sc	Seychelles	0
+se	Sweden	0
+sg	Singapore	0
+si	Slovenia	0
+sl	Sierra Leone	0
+sn	Senegal	0
+sr	Suriname	0
+ss	South Sudan	0
+st	Sao Tome and Principe	0
+sv	El Salvador	0
+sz	Eswatini	0
+tc	Turks and Caicos Islands	0
+td	Chad	0
+tg	Togo	0
+tl	Timor-Leste	0
+to	Tonga	0
+tv	Tuvalu	0
+uy	Uruguay	0
+vc	Saint Vincent and the Grenadines	0
+vg	British Virgin Islands	0
+vi	Virgin Islands	0
+vu	Vanuatu	0
+ws	Samoa	0
+xk	Kosovo	0
+za	South Africa	0
+zm	Zambia	0
+zw	Zimbabwe	0
+bb	Barbados	113000000
+cd	DRC	991000000
+gr	Greece	991000000
+bj	Benin	1133000000.0
+ma	Morocco	1444000000.0
+es	Spain	2549000000.0
+by	Belarus	2832000000.0
+hu	Hungary	3738000000.0
+tr	Turkey	3794000000.0
+cz	Czechia	3964000000.0
+at	Austria	5040000000.0
+bg	Bulgaria	5663000000.0
+kg	Kyrgyzstan	5663000000.0
+so	Somalia	5663000000.0
+tj	Tajikistan	5663000000.0
+al	Albania	5692000000.0
+jo	Jordan	6031000000.0
+tw	Taiwan	6230000000.0
+tz	Tanzania	6513000000.0
+kr	South Korea	7079000000.0
+fr	France	7787000000.0
+ge	Georgia	8494999999.999999
+ie	Ireland	9911000000.0
+ec	Ecuador	10902000000.0
+sk	Slovakia	14158000000.0
+ug	Uganda	14158000000.0
+jp	Japan	20898000000.0
+gh	Ghana	22653000000.0
+de	Germany	23390000000.0
+et	Ethiopia	24919000000.0
+hr	Croatia	24919000000.0
+ga	Gabon	25995000000.0
+ci	Cote d'Ivoire	28317000000.0
+mr	Mauritania	28317000000.0
+dk	Denmark	29534000000.0
+nz	New Zealand	31148000000.0
+it	Italy	45760000000.0
+rs	Serbia	48139000000.0
+af	Afghanistan	49554000000.0
+rw	Rwanda	56634000000.0
+na	Namibia	62297000000.0
+tn	Tunisia	65129000000.00001
+cu	Cuba	70792000000.0
+bh	Bahrain	81382000000.0
+sd	Sudan	84950000000.0
+co	Colombia	87782000000.0
+pl	Poland	91492000000.0
+cl	Chile	97976000000.0
+ph	Philippines	98542000000.0
+ro	Romania	105480000000.0
+bd	Bangladesh	126293000000.0
+nl	Netherlands	132608000000.0
+cm	Cameroon	135071000000.0
+th	Thailand	138243000000.0
+gq	Equatorial Guinea	139007000000.0
+il	Israel	176017000000.0
+mx	Mexico	180321000000.0
+pg	Papua New Guinea	183125000000.0
+sy	Syria	240693000000.0
+bn	Brunei	260515000000.0
+cg	Congo (Brazzaville)	283989000000.0
+tt	Trinidad and Tobago	298063000000.0
+pe	Peru	300158000000.0
+bo	Bolivia	302990000000.0
+ao	Angola	343001000000.0
+br	Brazil	363984000000.0
+ar	Argentina	396464000000.0
+ye	Yemen	478554000000.0
+pk	Pakistan	592218000000.0
+mm	Burma	637128000000.0
+om	Oman	651286000000.0
+vn	Vietnam	699425000000.0
+ua	Ukraine	1104355000000
+my	Malaysia	1189306000000
+in	India	1380614000000
+id	Indonesia	1408478000000
+ly	Libya	1504868000000
+no	Norway	1544455000000
+az	Azerbaijan	1699000000000.0
+eg	Egypt	1783958000000
+kw	Kuwait	1783958000000
+uz	Uzbekistan	1840592000000
+ca	Canada	2067126000000
+kz	Kazakhstan	2407000000000.0
+mz	Mozambique	2831680000000
+au	Australia	3228115000000
+iq	Iraq	3729000000000.0
+dz	Algeria	4503900000000
+ve	Venezuela	5673894000000
+ng	Nigeria	5760883000000
+cn	China	6654250000000
+sa	Saudi Arabia	9422812000000
+tm	Turkmenistan	11327000000000.0
+us	United States	13178780000000
+qa	Qatar	23860500000000
+ir	Iran	33987296000000
+ru	Russia	47805000000000.0

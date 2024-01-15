@@ -1,0 +1,215 @@
+#ranking=People and Society/Currently married women (ages 15-49)
+#unit=% 
+nc	New Caledonia	22.5
+pf	French Polynesia	27.2
+vi	Virgin Islands	27.4
+ag	Antigua and Barbuda	31.5
+jm	Jamaica	32.7
+na	Namibia	33.3
+fo	Faroe Islands	34.8
+ms	Montserrat	35.8
+za	South Africa	36.9
+gu	Guam	37
+sz	Eswatini	37.1
+pr	Puerto Rico	37.4
+bs	The Bahamas	38.9
+gl	Greenland	39.4
+dm	Dominica	40.3
+gi	Gibraltar	40.7
+gd	Grenada	41.3
+aw	Aruba	42.1
+ck	Cook Islands	42.6
+be	Belgium	43.2
+bh	Bahrain	43.8
+fk	Falkland Islands (Islas Malvinas)	44.8
+bw	Botswana	45
+sc	Seychelles	45
+is	Iceland	45.1
+pw	Palau	45.6
+ai	Anguilla	46.1
+cl	Chile	46.3
+si	Slovenia	46.4
+vg	British Virgin Islands	46.6
+jp	Japan	46.8
+cv	Cabo Verde	46.9
+bm	Bermuda	47.6
+hk	Hong Kong	47.7
+sm	San Marino	47.7
+sk	Slovakia	47.9
+cr	Costa Rica	48.4
+cz	Czechia	48.4
+tt	Trinidad and Tobago	48.6
+lr	Liberia	48.7
+ar	Argentina	48.9
+lv	Latvia	49.1
+cw	Curacao	49.7
+ga	Gabon	49.7
+es	Spain	50.1
+no	Norway	50.2
+rw	Rwanda	50.4
+dj	Djibouti	50.6
+hr	Croatia	50.8
+tw	Taiwan	51
+pe	Peru	51.2
+ht	Haiti	51.4
+hu	Hungary	51.4
+ky	Cayman Islands	51.4
+lb	Lebanon	51.4
+lu	Luxembourg	51.4
+ve	Venezuela	51.5
+il	Israel	51.7
+cg	Congo (Brazzaville)	51.8
+st	Sao Tome and Principe	51.9
+us	United States	51.9
+tk	Tokelau	52
+do	The Dominican	52.1
+ie	Ireland	52.1
+sr	Suriname	52.1
+ca	Canada	52.2
+ee	Estonia	52.3
+er	Eritrea	52.3
+it	Italy	52.5
+pt	Portugal	52.6
+sy	Syria	52.6
+kr	South Korea	52.9
+ru	Russia	53.1
+vc	Saint Vincent and the Grenadines	53.3
+zm	Zambia	53.3
+lt	Lithuania	53.4
+se	Sweden	53.4
+as	American Samoa	53.5
+hn	Honduras	53.5
+mo	Macau	53.5
+lc	Saint Lucia	53.6
+ls	Lesotho	53.7
+nl	Netherlands	53.7
+tn	Tunisia	53.9
+bi	Burundi	54.1
+gr	Greece	54.1
+cm	Cameroon	54.2
+bn	Brunei	54.3
+gh	Ghana	54.3
+sg	Singapore	54.3
+de	Germany	54.4
+cy	Cyprus	54.5
+fr	France	54.8
+ro	Romania	54.8
+to	Tonga	54.9
+sv	El Salvador	55
+ec	Ecuador	55.1
+cd	DRC	55.3
+co	Colombia	55.3
+uy	Uruguay	55.4
+jo	Jordan	55.6
+ao	Angola	55.7
+au	Australia	55.9
+br	Brazil	55.9
+tl	Timor-Leste	55.9
+dz	Algeria	56
+ni	Nicaragua	56
+wf	Wallis and Futuna	56
+om	Oman	56.4
+mx	Mexico	56.6
+pl	Poland	56.6
+gw	Guinea-Bissau	56.7
+ke	Kenya	56.8
+bb	Barbados	57.1
+bo	Bolivia	57.1
+me	Montenegro	57.1
+fi	Finland	57.2
+gt	Guatemala	57.2
+kn	Saint Kitts and Nevis	57.2
+bg	Bulgaria	57.3
+ch	Switzerland	57.5
+mm	Burma	57.5
+nz	New Zealand	57.6
+cu	Cuba	58
+ug	Uganda	58.3
+pa	Panama	58.6
+at	Austria	58.7
+fj	Fiji	58.8
+ma	Morocco	58.8
+mn	Mongolia	58.9
+sl	Sierra Leone	58.9
+tc	Turks and Caicos Islands	59.1
+ly	Libya	59.2
+my	Malaysia	59.3
+ph	Philippines	59.3
+py	Paraguay	59.4
+tz	Tanzania	59.5
+dk	Denmark	59.6
+kw	Kuwait	59.6
+nr	Nauru	59.6
+la	Laos	60.1
+mg	Madagascar	60.1
+gq	Equatorial Guinea	60.2
+ci	Cote d'Ivoire	60.3
+ye	Yemen	60.4
+mw	Malawi	60.7
+rs	Serbia	60.8
+th	Thailand	60.8
+gm	The Gambia	60.9
+km	Comoros	61.2
+sd	Sudan	61.4
+ua	Ukraine	61.6
+zw	Zimbabwe	61.6
+ws	Samoa	61.7
+kz	Kazakhstan	61.8
+mu	Mauritius	62
+tg	Togo	62
+ps	Gaza Strip	62.4
+gy	Guyana	62.6
+bt	Bhutan	62.8
+az	Azerbaijan	62.9
+so	Somalia	62.9
+mt	Malta	63.2
+sa	Saudi Arabia	63.2
+pk	Pakistan	63.5
+mz	Mozambique	63.7
+ba	Bosnia and Herzegovina	63.8
+pm	Saint Pierre and Miquelon	64.1
+sb	Solomon Islands	64.1
+bz	Belize	64.3
+tm	Turkmenistan	64.3
+am	Armenia	64.8
+lk	Sri Lanka	65.1
+li	Liechtenstein	65.2
+sn	Senegal	65.3
+tr	Turkey	65.4
+iq	Iraq	65.5
+pg	Papua New Guinea	65.5
+qa	Qatar	65.8
+mr	Mauritania	66
+tv	Tuvalu	66.1
+kg	Kyrgyzstan	66.2
+ng	Nigeria	66.2
+kh	Cambodia	66.4
+mk	North Macedonia	66.5
+by	Belarus	66.6
+md	Moldova	67
+ge	Georgia	67.1
+al	Albania	67.2
+et	Ethiopia	67.5
+ki	Kiribati	67.6
+mh	Marshall Islands	68.3
+bj	Benin	68.3
+uz	Uzbekistan	68.6
+gn	Guinea	68.7
+vu	Vanuatu	69.2
+kp	North Korea	69.7
+id	Indonesia	70
+af	Afghanistan	70.3
+ir	Iran	70.3
+td	Chad	70.6
+eg	Egypt	71.1
+mv	Maldives	71.9
+ss	South Sudan	72
+tj	Tajikistan	72
+in	India	72.6
+vn	Vietnam	72.6
+bf	Burkina Faso	73.5
+np	Nepal	74.6
+cn	China	75.9
+ml	Mali	77.9
+bd	Bangladesh	80.1
+ne	Niger	80.3

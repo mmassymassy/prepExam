@@ -1,0 +1,229 @@
+#ranking=Geography/Land use/agricultural land
+#unit=% 
+gi	Gibraltar	0
+hm	Heard Island and McDonald Islands	0
+pn	Pitcairn Islands	0
+ai	Anguilla	0
+aq	Antarctica	0
+cc	Cocos (Keeling) Islands	0
+cx	Christmas Island	0
+mo	Macau	0
+va	Holy See (Vatican City)	0
+sr	Suriname	0.5
+gl	Greenland	0.6
+mc	Monaco	1
+sg	Singapore	1
+tc	Turks and Caicos Islands	1.1
+bs	The Bahamas	1.4
+fo	Faroe Islands	2.1
+bn	Brunei	2.5
+pg	Papua New Guinea	2.6
+no	Norway	2.7
+eg	Egypt	3.6
+sb	Solomon Islands	3.9
+om	Oman	4.7
+hk	Hong Kong	5
+qa	Qatar	5.6
+sc	Seychelles	6.5
+mp	Northern Mariana Islands	6.6
+ca	Canada	6.8
+bz	Belize	6.9
+fi	Finland	7.5
+se	Sweden	7.5
+ck	Cook Islands	8.4
+gy	Guyana	8.4
+kw	Kuwait	8.5
+pm	Saint Pierre and Miquelon	8.7
+ly	Libya	8.8
+cw	Curacao	10
+gq	Equatorial Guinea	10.1
+nc	New Caledonia	10.4
+la	Laos	10.6
+tt	Trinidad and Tobago	10.6
+pw	Palau	10.8
+aw	Aruba	11.1
+ky	Cayman Islands	11.2
+bh	Bahrain	11.3
+cd	DRC	11.4
+jo	Jordan	11.4
+vi	Virgin Islands	11.5
+ws	Samoa	12.4
+jp	Japan	12.5
+pf	French Polynesia	12.5
+ru	Russia	13.1
+cy	Cyprus	13.4
+bt	Bhutan	13.6
+bm	Bermuda	14.8
+vu	Vanuatu	15.3
+sm	San Marino	16.7
+dz	Algeria	17.4
+lc	Saint Lucia	17.4
+iq	Iraq	18.1
+kr	South Korea	18.1
+cv	Cabo Verde	18.6
+is	Iceland	18.7
+eh	Western Sahara	18.8
+pe	Peru	18.8
+ga	Gabon	19
+nu	Niue	19.1
+mm	Burma	19.2
+nr	Nauru	20
+ag	Antigua and Barbuda	20.5
+cm	Cameroon	20.6
+cl	Chile	21.1
+kp	North Korea	21.8
+pr	Puerto Rico	22
+ee	Estonia	22.2
+tw	Taiwan	22.7
+si	Slovenia	22.8
+kn	Saint Kitts and Nevis	23.1
+my	Malaysia	23.2
+fj	Fiji	23.3
+mv	Maldives	23.3
+hr	Croatia	23.7
+il	Israel	23.8
+as	American Samoa	24.5
+ve	Venezuela	24.5
+nf	Norfolk Island	25
+tl	Timor-Leste	25.1
+vc	Saint Vincent and the Grenadines	25.6
+lr	Liberia	28.1
+hn	Honduras	28.8
+np	Nepal	28.8
+lv	Latvia	29.2
+ec	Ecuador	29.7
+ms	Montserrat	30
+ir	Iran	30.1
+pa	Panama	30.5
+cg	Congo (Brazzaville)	31.1
+id	Indonesia	31.2
+bj	Benin	31.3
+zm	Zambia	31.7
+kh	Cambodia	32.1
+gd	Grenada	32.3
+mt	Malta	32.3
+bb	Barbados	32.6
+br	Brazil	32.9
+gu	Guam	33.4
+ml	Mali	34.1
+bo	Bolivia	34.3
+dm	Dominica	34.7
+tj	Tajikistan	34.7
+vn	Vietnam	34.8
+ne	Niger	35.1
+pk	Pakistan	35.2
+ge	Georgia	35.5
+et	Ethiopia	36.3
+cr	Costa Rica	37.1
+co	Colombia	37.5
+li	Liechtenstein	37.6
+me	Montenegro	38.2
+at	Austria	38.4
+mr	Mauritania	38.5
+ch	Switzerland	38.7
+td	Chad	39.6
+pt	Portugal	39.7
+ad	Andorra	40
+sk	Slovakia	40.1
+ph	Philippines	41
+gt	Guatemala	41.2
+th	Thailand	41.2
+jm	Jamaica	41.4
+ki	Kiribati	42
+ba	Bosnia and Herzegovina	42.2
+ni	Nicaragua	42.2
+zw	Zimbabwe	42.5
+al	Albania	42.8
+wf	Wallis and Futuna	42.8
+to	Tonga	43.1
+nz	New Zealand	43.2
+lk	Sri Lanka	43.5
+by	Belarus	43.7
+tz	Tanzania	43.7
+mu	Mauritius	43.8
+be	Belgium	44.1
+bf	Burkina Faso	44.2
+mk	North Macedonia	44.3
+us	United States	44.5
+ye	Yemen	44.5
+gw	Guinea-Bissau	44.8
+lt	Lithuania	44.8
+ss	South Sudan	45
+ao	Angola	45.7
+bw	Botswana	45.8
+au	Australia	46.65
+vg	British Virgin Islands	46.7
+sn	Senegal	46.8
+bg	Bulgaria	46.9
+it	Italy	47.1
+na	Namibia	47.2
+de	Germany	48
+ke	Kenya	48.1
+pl	Poland	48.2
+tr	Turkey	49.7
+lu	Luxembourg	50.7
+mh	Marshall Islands	50.7
+st	Sao Tome and Principe	50.7
+do	The Dominican	51.5
+fr	France	52.7
+xk	Kosovo	52.8
+py	Paraguay	53.8
+ar	Argentina	53.9
+es	Spain	54.1
+cn	China	54.7
+cz	Czechia	54.8
+mx	Mexico	54.9
+nl	Netherlands	55.1
+kg	Kyrgyzstan	55.4
+gm	The Gambia	56.1
+sl	Sierra Leone	56.2
+mz	Mozambique	56.3
+az	Azerbaijan	57.6
+rs	Serbia	57.9
+af	Afghanistan	58.1
+gn	Guinea	58.1
+hu	Hungary	58.9
+mw	Malawi	59.2
+am	Armenia	59.7
+tk	Tokelau	60
+tv	Tuvalu	60
+cu	Cuba	60.3
+in	India	60.5
+ro	Romania	60.7
+uz	Uzbekistan	62.6
+lb	Lebanon	63.3
+dk	Denmark	63.4
+gr	Greece	63.4
+ci	Cote d'Ivoire	64.8
+tn	Tunisia	64.8
+je	Jersey	66
+ie	Ireland	66.1
+ht	Haiti	66.4
+tg	Togo	67.4
+ma	Morocco	67.5
+sz	Eswatini	68.3
+gh	Ghana	69.1
+bd	Bangladesh	70.1
+so	Somalia	70.3
+mg	Madagascar	71.1
+ua	Ukraine	71.2
+ug	Uganda	71.2
+tm	Turkmenistan	72
+mn	Mongolia	73
+bi	Burundi	73.3
+dj	Djibouti	73.4
+rw	Rwanda	74.5
+im	Isle of Man	74.7
+sv	El Salvador	74.7
+md	Moldova	74.9
+er	Eritrea	75.1
+sy	Syria	75.8
+ls	Lesotho	76.1
+kz	Kazakhstan	77.4
+ng	Nigeria	78
+za	South Africa	79.4
+sa	Saudi Arabia	80.7
+km	Comoros	84.4
+uy	Uruguay	87.2
+fk	Falkland Islands (Islas Malvinas)	92.4
+sd	Sudan	100

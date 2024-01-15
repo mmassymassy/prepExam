@@ -1,0 +1,226 @@
+#ranking=People and Society/Dependency ratios/total dependency ratio
+#unit=
+qa	Qatar	20.7
+sx	Sint Maarten	27.2
+bl	Saint Barthelemy	30.8
+bh	Bahrain	31.3
+ky	Cayman Islands	32.6
+vg	British Virgin Islands	32.8
+kw	Kuwait	34.4
+sg	Singapore	35.4
+mv	Maldives	35.6
+tc	Turks and Caicos Islands	36.8
+mo	Macau	36.9
+lc	Saint Lucia	37.7
+jm	Jamaica	38
+ad	Andorra	38.1
+ai	Anguilla	38.6
+bn	Brunei	39.2
+bs	The Bahamas	39.3
+md	Moldova	39.6
+fk	Falkland Islands (Islas Malvinas)	39.8
+kr	South Korea	39.9
+tw	Taiwan	40.2
+sa	Saudi Arabia	40.4
+bt	Bhutan	40.7
+mu	Mauritius	40.7
+ag	Antigua and Barbuda	40.9
+dm	Dominica	41.2
+kn	Saint Kitts and Nevis	41.7
+om	Oman	42
+br	Brazil	43.1
+my	Malaysia	43.3
+co	Colombia	43.5
+kp	North Korea	43.5
+th	Thailand	43.5
+gl	Greenland	43.6
+tt	Trinidad and Tobago	43.7
+cy	Cyprus	43.8
+pw	Palau	43.8
+ms	Montserrat	43.9
+eh	Western Sahara	44.1
+az	Azerbaijan	44.2
+lu	Luxembourg	44.2
+cn	China	44.5
+je	Jersey	44.5
+mk	North Macedonia	44.6
+sc	Seychelles	45
+cr	Costa Rica	45.1
+cl	Chile	45.2
+ir	Iran	45.3
+pf	French Polynesia	45.6
+vn	Vietnam	45.6
+cu	Cuba	45.9
+mm	Burma	46
+mp	Northern Mariana Islands	46
+hk	Hong Kong	46.6
+xk	Kosovo	46.9
+cw	Curacao	47
+mt	Malta	47.1
+cv	Cabo Verde	47.2
+id	Indonesia	47.6
+bd	Bangladesh	47.7
+aw	Aruba	47.8
+ba	Bosnia and Herzegovina	48
+in	India	48.1
+al	Albania	48.2
+ua	Ukraine	48.4
+gg	Guernsey	48.6
+bb	Barbados	49
+vc	Saint Vincent and the Grenadines	49
+tr	Turkey	49.1
+mx	Mexico	49.4
+sk	Slovakia	49.5
+am	Armenia	49.6
+nc	New Caledonia	49.6
+sm	San Marino	49.6
+bz	Belize	49.7
+ru	Russia	50
+li	Liechtenstein	50.2
+is	Iceland	50.5
+dj	Djibouti	50.6
+by	Belarus	50.8
+ly	Libya	50.8
+ec	Ecuador	50.9
+sr	Suriname	50.9
+tn	Tunisia	50.9
+at	Austria	51.1
+gd	Grenada	51.3
+sv	El Salvador	51.3
+pl	Poland	51.4
+ch	Switzerland	51.6
+pm	Saint Pierre and Miquelon	52
+ca	Canada	52.1
+ma	Morocco	52.2
+za	South Africa	52.2
+as	American Samoa	52.3
+es	Spain	52.4
+me	Montenegro	52.5
+bm	Bermuda	52.9
+fj	Fiji	53
+pe	Peru	53
+ie	Ireland	53.2
+hn	Honduras	53.3
+kh	Cambodia	53.4
+nz	New Zealand	53.4
+gy	Guyana	53.6
+uy	Uruguay	53.6
+au	Australia	53.7
+lk	Sri Lanka	53.7
+ro	Romania	53.7
+us	United States	53.7
+ck	Cook Islands	53.8
+do	The Dominican	53.8
+hu	Hungary	53.8
+pa	Panama	53.8
+rs	Serbia	53.8
+no	Norway	54
+uz	Uzbekistan	54
+ar	Argentina	54.3
+ni	Nicaragua	54.4
+py	Paraguay	54.4
+la	Laos	54.7
+nl	Netherlands	54.9
+np	Nepal	54.9
+ge	Georgia	55.4
+sy	Syria	55.4
+si	Slovenia	55.5
+lt	Lithuania	55.7
+pt	Portugal	56
+ph	Philippines	56.2
+bo	Bolivia	56.3
+pr	Puerto Rico	56.3
+de	Germany	56.4
+be	Belgium	56.5
+hr	Croatia	56.5
+tm	Turkmenistan	56.6
+wf	Wallis and Futuna	57
+it	Italy	57.1
+jo	Jordan	57.1
+bg	Bulgaria	57.3
+dk	Denmark	57.3
+cz	Czechia	57.4
+bw	Botswana	57.5
+ve	Venezuela	57.5
+gr	Greece	57.7
+ee	Estonia	58.3
+ht	Haiti	58.3
+mn	Mongolia	58.4
+dz	Algeria	58.5
+im	Isle of Man	58.6
+lb	Lebanon	59.3
+lv	Latvia	59.3
+mh	Marshall Islands	59.9
+kz	Kazakhstan	60
+gi	Gibraltar	60.1
+tk	Tokelau	60.4
+pg	Papua New Guinea	60.5
+gu	Guam	60.7
+eg	Egypt	60.8
+se	Sweden	60.8
+gt	Guatemala	60.9
+tv	Tuvalu	60.9
+fi	Finland	62.1
+ls	Lesotho	62.1
+fo	Faroe Islands	62.8
+fr	France	63.1
+kg	Kyrgyzstan	63.5
+sz	Eswatini	64
+vi	Virgin Islands	64.6
+tj	Tajikistan	65.9
+ki	Kiribati	66.4
+il	Israel	66.9
+na	Namibia	67.3
+ga	Gabon	67.6
+to	Tonga	68.6
+gh	Ghana	68.7
+nr	Nauru	69.9
+pk	Pakistan	70
+ke	Kenya	70.2
+nu	Niue	70.4
+iq	Iraq	71
+jp	Japan	71.1
+ye	Yemen	71.7
+gq	Equatorial Guinea	72.2
+rw	Rwanda	72.5
+sl	Sierra Leone	74
+km	Comoros	74.1
+ps	Gaza Strip	74.3
+mg	Madagascar	74.5
+sb	Solomon Islands	74.8
+ws	Samoa	74.9
+et	Ethiopia	75.7
+tg	Togo	76.5
+vu	Vanuatu	76.5
+gw	Guinea-Bissau	76.6
+sd	Sudan	76.9
+er	Eritrea	77.9
+st	Sao Tome and Principe	77.9
+cg	Congo (Brazzaville)	78.8
+ci	Cote d'Ivoire	79.2
+zw	Zimbabwe	79.4
+lr	Liberia	79.7
+ss	South Sudan	80.8
+sn	Senegal	81.5
+zm	Zambia	81.8
+cm	Cameroon	82.3
+gn	Guinea	82.4
+mr	Mauritania	82.7
+bj	Benin	84
+af	Afghanistan	84.6
+mw	Malawi	84.7
+gm	The Gambia	85
+ng	Nigeria	86
+mz	Mozambique	86.1
+bf	Burkina Faso	87.4
+tz	Tanzania	87.7
+ug	Uganda	88.2
+tl	Timor-Leste	90.3
+ao	Angola	91.5
+bi	Burundi	95.2
+mc	Monaco	95.2
+cd	DRC	98
+td	Chad	98.7
+ml	Mali	99.3
+so	Somalia	99.4
+ne	Niger	105.4

@@ -1,0 +1,196 @@
+#ranking=Environment/Total renewable water resources
+#unit=cubic meters 
+ck	Cook Islands	0
+fo	Faroe Islands	0
+ki	Kiribati	0
+li	Liechtenstein	0
+mh	Marshall Islands	0
+nu	Niue	0
+pw	Palau	0
+sc	Seychelles	0
+tk	Tokelau	0
+to	Tonga	0
+tv	Tuvalu	0
+va	Holy See (Vatican City)	0
+ws	Samoa	0
+tw	Taiwan	67
+nr	Nauru	10000000
+kn	Saint Kitts and Nevis	20000000
+kw	Kuwait	20000000
+mv	Maldives	30000000
+ag	Antigua and Barbuda	50000000
+mt	Malta	50000000
+qa	Qatar	60000000
+bb	Barbados	80000000
+vc	Saint Vincent and the Grenadines	100000000
+bh	Bahrain	120000000
+dm	Dominica	200000000
+gd	Grenada	200000000
+cv	Cabo Verde	300000000
+dj	Djibouti	300000000
+lc	Saint Lucia	300000000
+ad	Andorra	320000000
+sg	Singapore	600000000
+bs	The Bahamas	700000000
+ly	Libya	700000000
+cy	Cyprus	780000000
+ps	Gaza Strip	840000000
+jo	Jordan	940000000
+km	Comoros	1200000000.0
+om	Oman	1400000000.0
+il	Israel	1780000000.0
+ye	Yemen	2100000000.0
+st	Sao Tome and Principe	2180000000.0
+sa	Saudi Arabia	2400000000.0
+mu	Mauritius	2750000000.0
+ls	Lesotho	3020000000.0
+lu	Luxembourg	3500000000.0
+tt	Trinidad and Tobago	3840000000.0
+lb	Lebanon	4500000000.0
+sz	Eswatini	4510000000.0
+tn	Tunisia	4620000000.0
+dk	Denmark	6000000000
+mk	North Macedonia	6400000000.0
+pr	Puerto Rico	7100000000.0
+er	Eritrea	7320000000.0
+am	Armenia	7770000000.0
+gm	The Gambia	8000000000
+tl	Timor-Leste	8220000000.000001
+bn	Brunei	8500000000.0
+vu	Vanuatu	10000000000
+jm	Jamaica	10820000000.0
+mr	Mauritania	11400000000.0
+dz	Algeria	11670000000.0
+bw	Botswana	12240000000.0
+md	Moldova	12270000000.0
+bi	Burundi	12540000000.0
+ee	Estonia	12810000000.0
+rw	Rwanda	13300000000.0
+bf	Burkina Faso	13500000000.0
+cz	Czechia	13500000000.0
+ht	Haiti	14020000000.0
+so	Somalia	14700000000.0
+tg	Togo	14700000000.0
+sy	Syria	16800000000.0
+mw	Malawi	17280000000.0
+be	Belgium	18300000000.0
+zw	Zimbabwe	20000000000
+bg	Bulgaria	21300000000.0
+bz	Belize	21730000000.0
+tj	Tajikistan	21910000000.0
+do	The Dominican	23500000000.0
+kg	Kyrgyzstan	23620000000.0
+lt	Lithuania	24500000000.0
+tm	Turkmenistan	24770000000.0
+gq	Equatorial Guinea	26000000000
+sv	El Salvador	26270000000.0
+bj	Benin	26390000000.0
+fj	Fiji	28550000000.0
+ma	Morocco	29000000000
+al	Albania	30200000000.0
+ke	Kenya	30700000000.0
+gw	Guinea-Bissau	31400000000.0
+si	Slovenia	31870000000.0
+ne	Niger	34049999999.999996
+az	Azerbaijan	34680000000.0
+mn	Mongolia	34800000000.0
+lv	Latvia	34940000000.0
+ba	Bosnia and Herzegovina	37500000000.0
+sd	Sudan	37800000000.0
+cu	Cuba	38120000000.0
+sn	Senegal	38970000000.0
+na	Namibia	39910000000.0
+sb	Solomon Islands	44700000000.0
+td	Chad	45700000000.0
+uz	Uzbekistan	48870000000.0
+ss	South Sudan	49500000000.0
+sk	Slovakia	50100000000.0
+za	South Africa	51350000000.0
+ie	Ireland	52000000000
+lk	Sri Lanka	52800000000.0
+ch	Switzerland	53500000000.0
+gh	Ghana	56200000000.0
+eg	Egypt	57500000000.0
+by	Belarus	57900000000.0
+ug	Uganda	60100000000.0
+pl	Poland	60500000000.0
+ge	Georgia	63330000000.0
+af	Afghanistan	65330000000.0
+gr	Greece	68400000000.00001
+kr	South Korea	69700000000.0
+kp	North Korea	77150000000.0
+pt	Portugal	77400000000.0
+at	Austria	77700000000.0
+bt	Bhutan	78000000000
+ci	Cote d'Ivoire	84140000000.0
+iq	Iraq	89860000000.0
+nl	Netherlands	91000000000
+hn	Honduras	92160000000.0
+tz	Tanzania	96300000000.0
+sr	Suriname	99000000000
+hu	Hungary	104000000000
+zm	Zambia	104800000000.0
+hr	Croatia	105500000000.0
+kz	Kazakhstan	108410000000.0
+fi	Finland	110000000000
+es	Spain	111500000000.0
+cr	Costa Rica	113000000000
+ml	Mali	120000000000
+et	Ethiopia	122000000000
+gt	Guatemala	127910000000.0
+ir	Iran	137050000000.00002
+pa	Panama	139300000000.0
+ao	Angola	148400000000.0
+de	Germany	154000000000
+sl	Sierra Leone	160000000000
+rs	Serbia	162200000000.0
+ni	Nicaragua	164520000000.0
+ga	Gabon	166000000000
+is	Iceland	170000000000
+uy	Uruguay	172200000000.0
+se	Sweden	174000000000
+ua	Ukraine	175280000000.0
+it	Italy	191300000000.0
+np	Nepal	210200000000.0
+fr	France	211000000000
+tr	Turkey	211600000000.0
+ro	Romania	212000000000
+mz	Mozambique	217100000000.0
+gn	Guinea	226000000000
+lr	Liberia	232000000000
+pk	Pakistan	246800000000.0
+gy	Guyana	271000000000
+cm	Cameroon	283150000000.0
+ng	Nigeria	286200000000.0
+nz	New Zealand	327000000000
+la	Laos	333500000000.0
+mg	Madagascar	337000000000
+py	Paraguay	387770000000.0
+no	Norway	393000000000
+jp	Japan	430000000000
+th	Thailand	438610000000.0
+ec	Ecuador	442400000000.0
+mx	Mexico	461890000000.0
+kh	Cambodia	476100000000.0
+ph	Philippines	479000000000
+au	Australia	492000000000
+bo	Bolivia	574000000000
+my	Malaysia	580000000000
+pg	Papua New Guinea	801000000000
+cg	Congo (Brazzaville)	832000000000
+ar	Argentina	876240000000.0
+vn	Vietnam	884120000000.0
+cl	Chile	923100000000.0
+mm	Burma	1200000000000.0
+bd	Bangladesh	1230000000000.0
+cd	DRC	1290000000000.0
+ve	Venezuela	1330000000000.0
+pe	Peru	1880000000000.0
+in	India	1910000000000.0
+id	Indonesia	2020000000000.0
+co	Colombia	2360000000000.0
+cn	China	2840000000000.0
+ca	Canada	2900000000000.0
+us	United States	3070000000000.0
+ru	Russia	4530000000000.0
+br	Brazil	8650000000000.0

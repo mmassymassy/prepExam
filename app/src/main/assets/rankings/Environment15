@@ -1,0 +1,213 @@
+#ranking=Environment/Waste and recycling/municipal solid waste generated annually
+#unit=tons (
+tv	Tuvalu	3989
+nr	Nauru	6192
+mh	Marshall Islands	8614
+pw	Palau	9427
+dm	Dominica	13176
+gi	Gibraltar	16954
+sm	San Marino	17175
+to	Tonga	17238
+as	American Samoa	18989
+vg	British Virgin Islands	21099
+cw	Curacao	24704
+st	Sao Tome and Principe	25587
+ws	Samoa	27399
+gd	Grenada	29536
+ag	Antigua and Barbuda	30585
+vc	Saint Vincent and the Grenadines	31561
+li	Liechtenstein	32382
+mp	Northern Mariana Islands	32761
+kn	Saint Kitts and Nevis	32892
+ki	Kiribati	35724
+ad	Andorra	43000
+mc	Monaco	46000
+sc	Seychelles	48000
+gl	Greenland	50000
+im	Isle of Man	50551
+ky	Cayman Islands	60000
+fo	Faroe Islands	61000
+tl	Timor-Leste	63875
+vu	Vanuatu	70225
+ls	Lesotho	73457
+lc	Saint Lucia	77616
+sr	Suriname	78620
+bm	Bermuda	82000
+aw	Aruba	88132
+km	Comoros	91013
+bz	Belize	101379
+nc	New Caledonia	108157
+bt	Bhutan	111314
+dj	Djibouti	114997
+cv	Cabo Verde	132555
+gu	Guam	141500
+vi	Virgin Islands	146500
+pf	French Polynesia	147000
+bb	Barbados	174815
+gg	Guernsey	178933
+je	Jersey	178933
+gy	Guyana	179252
+sb	Solomon Islands	179972
+fj	Fiji	189390
+gm	The Gambia	193441
+gq	Equatorial Guinea	198443
+bw	Botswana	210854
+mv	Maldives	211506
+bn	Brunei	216253
+sz	Eswatini	218199
+ga	Gabon	238102
+na	Namibia	256729
+bs	The Bahamas	264000
+mt	Malta	269000
+gw	Guinea-Bissau	289514
+xk	Kosovo	319000
+me	Montenegro	332000
+la	Laos	351900
+lu	Luxembourg	356000
+mo	Macau	377942
+mu	Mauritius	438000
+cg	Congo (Brazzaville)	451200
+mr	Mauritania	454000
+ee	Estonia	473000
+am	Armenia	492800
+tm	Turkmenistan	500000
+is	Iceland	525000
+cy	Cyprus	541000
+lr	Liberia	564467
+gn	Guinea	596911
+sl	Sierra Leone	610222
+bj	Benin	685936
+er	Eritrea	726957
+tt	Trinidad and Tobago	727874
+mk	North Macedonia	796585
+ge	Georgia	800000
+lv	Latvia	857000
+si	Slovenia	926000
+bh	Bahrain	951943
+pg	Papua New Guinea	1000000
+qa	Qatar	1000990
+jm	Jamaica	1051695
+kh	Cambodia	1089000.0
+tg	Togo	1109030
+kg	Kyrgyzstan	1113300
+al	Albania	1142964
+ba	Bosnia and Herzegovina	1248718
+uy	Uruguay	1260140
+mw	Malawi	1297844
+lt	Lithuania	1300000.0
+td	Chad	1358851
+ps	Gaza Strip	1387000.0
+zw	Zimbabwe	1449752
+cr	Costa Rica	1460000.0
+pa	Panama	1472262
+ni	Nicaragua	1528816
+sv	El Salvador	1648996
+hr	Croatia	1654000.0
+om	Oman	1734885
+kw	Kuwait	1750000.0
+np	Nepal	1768977
+sk	Slovakia	1784000.0
+tj	Tajikistan	1787400
+py	Paraguay	1818501
+rs	Serbia	1840000.0
+ne	Niger	1865646
+bi	Burundi	1872016
+ml	Mali	1937354
+lb	Lebanon	2040000.0
+ly	Libya	2147596
+hn	Honduras	2162028
+no	Norway	2187000.0
+bo	Bolivia	2219052
+ht	Haiti	2309852
+so	Somalia	2326099
+sn	Senegal	2454059
+mz	Mozambique	2500000.0
+jo	Jordan	2529997
+bf	Burkina Faso	2575251
+zm	Zambia	2608268
+lk	Sri Lanka	2631650
+ss	South Sudan	2680681
+ie	Ireland	2692537
+cu	Cuba	2692692
+tn	Tunisia	2700000.0
+fi	Finland	2738000.0
+gt	Guatemala	2756741
+sd	Sudan	2831291
+mn	Mongolia	2900000.0
+az	Azerbaijan	2930349
+bg	Bulgaria	3011000.0
+cm	Cameroon	3270617
+cz	Czechia	3337000.0
+nz	New Zealand	3405000.0
+gh	Ghana	3538275
+hu	Hungary	3712000.0
+mg	Madagascar	3768759
+md	Moldova	3981200
+uz	Uzbekistan	4000000
+do	The Dominican	4063910
+pr	Puerto Rico	4170953
+ao	Angola	4213644
+by	Belarus	4280000.0
+se	Sweden	4377000.0
+rw	Rwanda	4384969
+ci	Cote d'Ivoire	4440814
+dk	Denmark	4485000.0
+sy	Syria	4500000.0
+kz	Kazakhstan	4659740
+mm	Burma	4677307
+be	Belgium	4708000.0
+pt	Portugal	4710000.0
+at	Austria	4836000.0
+ye	Yemen	4836820
+ro	Romania	4895000.0
+ec	Ecuador	5297211
+il	Israel	5400000.0
+gr	Greece	5477424
+ke	Kenya	5595099
+af	Afghanistan	5628525
+hk	Hong Kong	5679816
+ch	Switzerland	6056000.0
+cl	Chile	6517000.0
+et	Ethiopia	6532787
+ma	Morocco	6852000.0
+ug	Uganda	7045050
+tw	Taiwan	7336000.0
+sg	Singapore	7704300
+pe	Peru	8356711
+nl	Netherlands	8855000.0
+tz	Tanzania	9276995
+vn	Vietnam	9570300
+ve	Venezuela	9779093
+pl	Poland	10863000.0
+co	Colombia	12150120
+dz	Algeria	12378740
+my	Malaysia	12982685
+iq	Iraq	13140000.0
+au	Australia	13345000.0
+cd	DRC	14385226
+ph	Philippines	14631923
+bd	Bangladesh	14778497
+ua	Ukraine	15242025
+sa	Saudi Arabia	16125701
+ir	Iran	17885000.0
+ar	Argentina	17910550
+kr	South Korea	18218975
+za	South Africa	18457232
+es	Spain	20151000.0
+eg	Egypt	21000000
+ca	Canada	25103034
+th	Thailand	26853366
+ng	Nigeria	27614830
+it	Italy	29524000.0
+pk	Pakistan	30760000.0
+tr	Turkey	31283000.0
+fr	France	33399000.0
+jp	Japan	43981000.0
+de	Germany	51046000.0
+mx	Mexico	53100000.0
+ru	Russia	60000000
+id	Indonesia	65200000.0
+br	Brazil	79889010
+in	India	168403240
+cn	China	210000000
+us	United States	258000000

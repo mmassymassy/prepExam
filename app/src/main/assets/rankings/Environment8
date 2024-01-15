@@ -1,0 +1,201 @@
+#ranking=Environment/Revenue from forest resources
+#unit=% of GDP 
+aw	Aruba	0
+fo	Faroe Islands	0
+im	Isle of Man	0
+li	Liechtenstein	0
+vi	Virgin Islands	0
+ad	Andorra	0
+ag	Antigua and Barbuda	0
+as	American Samoa	0
+bh	Bahrain	0
+cw	Curacao	0
+cy	Cyprus	0
+gd	Grenada	0
+gl	Greenland	0
+gu	Guam	0
+hk	Hong Kong	0
+il	Israel	0
+iq	Iraq	0
+is	Iceland	0
+kn	Saint Kitts and Nevis	0
+kw	Kuwait	0
+ky	Cayman Islands	0
+kz	Kazakhstan	0
+lb	Lebanon	0
+mc	Monaco	0
+mh	Marshall Islands	0
+mo	Macau	0
+mp	Northern Mariana Islands	0
+mt	Malta	0
+mu	Mauritius	0
+mv	Maldives	0
+nr	Nauru	0
+om	Oman	0
+pr	Puerto Rico	0
+ps	Gaza Strip	0
+pw	Palau	0
+qa	Qatar	0
+sa	Saudi Arabia	0
+sg	Singapore	0
+sm	San Marino	0
+tc	Turks and Caicos Islands	0
+tm	Turkmenistan	0
+tv	Tuvalu	0
+uz	Uzbekistan	0
+xk	Kosovo	0
+ir	Iran	0.01
+bb	Barbados	0.01
+bs	The Bahamas	0.01
+ch	Switzerland	0.01
+gr	Greece	0.01
+ie	Ireland	0.01
+it	Italy	0.01
+kg	Kyrgyzstan	0.01
+kr	South Korea	0.01
+lc	Saint Lucia	0.01
+lu	Luxembourg	0.01
+nl	Netherlands	0.01
+az	Azerbaijan	0.02
+be	Belgium	0.02
+dk	Denmark	0.02
+es	Spain	0.02
+jo	Jordan	0.02
+jp	Japan	0.02
+vc	Saint Vincent and the Grenadines	0.02
+de	Germany	0.03
+dm	Dominica	0.03
+do	The Dominican	0.03
+fr	France	0.03
+to	Tonga	0.03
+ki	Kiribati	0.04
+us	United States	0.04
+ye	Yemen	0.04
+bn	Brunei	0.05
+no	Norway	0.05
+tt	Trinidad and Tobago	0.05
+cu	Cuba	0.06
+lk	Sri Lanka	0.06
+ly	Libya	0.06
+at	Austria	0.07
+ge	Georgia	0.07
+bd	Bangladesh	0.08
+ca	Canada	0.08
+cn	China	0.08
+pa	Panama	0.08
+tr	Turkey	0.08
+ar	Argentina	0.09
+sc	Seychelles	0.09
+co	Colombia	0.1
+dz	Algeria	0.1
+hu	Hungary	0.1
+mx	Mexico	0.1
+pk	Pakistan	0.1
+pe	Peru	0.12
+au	Australia	0.13
+ma	Morocco	0.13
+pt	Portugal	0.13
+tl	Timor-Leste	0.13
+in	India	0.14
+mn	Mongolia	0.14
+eg	Egypt	0.15
+jm	Jamaica	0.15
+mk	North Macedonia	0.15
+ro	Romania	0.16
+cz	Czechia	0.17
+pl	Poland	0.17
+al	Albania	0.18
+ph	Philippines	0.18
+af	Afghanistan	0.2
+si	Slovenia	0.2
+se	Sweden	0.21
+tn	Tunisia	0.21
+bg	Bulgaria	0.22
+sk	Slovakia	0.22
+bw	Botswana	0.23
+dj	Djibouti	0.26
+hr	Croatia	0.26
+md	Moldova	0.26
+ec	Ecuador	0.27
+ws	Samoa	0.27
+am	Armenia	0.28
+ru	Russia	0.29
+bz	Belize	0.31
+lt	Lithuania	0.31
+bo	Bolivia	0.33
+th	Thailand	0.34
+ua	Ukraine	0.34
+ao	Angola	0.36
+fi	Finland	0.36
+cv	Cabo Verde	0.38
+rs	Serbia	0.38
+id	Indonesia	0.39
+me	Montenegro	0.43
+np	Nepal	0.45
+na	Namibia	0.47
+ba	Bosnia and Herzegovina	0.49
+cl	Chile	0.49
+nz	New Zealand	0.5
+vu	Vanuatu	0.54
+fj	Fiji	0.59
+sv	El Salvador	0.6
+br	Brazil	0.62
+ht	Haiti	0.68
+gt	Guatemala	0.78
+cr	Costa Rica	0.82
+kh	Cambodia	0.84
+ee	Estonia	0.85
+lv	Latvia	0.85
+hn	Honduras	0.91
+by	Belarus	1.02
+ng	Nigeria	1.02
+tj	Tajikistan	1.12
+py	Paraguay	1.21
+ni	Nicaragua	1.26
+ke	Kenya	1.3
+mr	Mauritania	1.3
+km	Comoros	1.39
+sn	Senegal	1.46
+la	Laos	1.48
+vn	Vietnam	1.49
+gq	Equatorial Guinea	1.52
+uy	Uruguay	1.56
+my	Malaysia	1.57
+zw	Zimbabwe	1.61
+mm	Burma	1.69
+bt	Bhutan	1.89
+st	Sao Tome and Principe	1.9
+ml	Mali	2.02
+ci	Cote d'Ivoire	2.04
+pg	Papua New Guinea	2.08
+tz	Tanzania	2.19
+bj	Benin	2.24
+sz	Eswatini	2.25
+sr	Suriname	2.36
+gm	The Gambia	2.47
+cm	Cameroon	2.5
+ga	Gabon	2.6
+ss	South Sudan	2.65
+sd	Sudan	3.01
+cg	Congo (Brazzaville)	3.17
+ls	Lesotho	3.34
+gh	Ghana	3.51
+rw	Rwanda	3.75
+td	Chad	3.81
+tg	Togo	3.96
+mg	Madagascar	4.34
+ne	Niger	4.41
+zm	Zambia	4.45
+bf	Burkina Faso	4.54
+gy	Guyana	4.56
+gn	Guinea	4.81
+et	Ethiopia	5.81
+mw	Malawi	6.19
+mz	Mozambique	6.46
+sl	Sierra Leone	6.92
+ug	Uganda	7.32
+cd	DRC	8.72
+gw	Guinea-Bissau	9.24
+bi	Burundi	10.31
+lr	Liberia	13.27
+sb	Solomon Islands	20.27
